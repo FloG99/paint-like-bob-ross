@@ -1,0 +1,501 @@
+{
+ "ep": "S05E09",
+ "base": "oil medium of linseed oil, paint thinner and urethane varnish",
+ "format": "unknown",
+ "light": "from behind the wave",
+ "guest": true,
+ "palette": [
+  "titanium white",
+  "phthalo blue",
+  "alizarin crimson",
+  "phthalo green",
+  "cadmium yellow"
+ ],
+ "steps": [
+  {
+   "t": "02:12",
+   "subject": "sky",
+   "action": "dark blue sky at top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "dip brush in medium then pick up blue and white",
+   "motion": "X strokes across the top",
+   "pressure": "firm",
+   "where": "top of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:43",
+   "subject": "water line",
+   "action": "soft pink band on horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white then a little crimson in medium",
+   "motion": "stroke across on the tape",
+   "pressure": "light",
+   "where": "horizon tape line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "sky",
+   "action": "darker blue at top of sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "more blue and white in medium",
+   "motion": "add color at the top",
+   "pressure": "light",
+   "where": "top of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:16",
+   "subject": "sky",
+   "action": "blend blue sky into pink",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "sweep colors together",
+   "pressure": "light",
+   "where": "sky from blue into pink",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "water line",
+   "action": "lavender horizon line",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix lavender and groom the brush edge",
+   "motion": "vertical strokes across the horizon",
+   "pressure": "light",
+   "where": "across the horizon line",
+   "rule": "vertical strokes off a groomed edge keep the horizon straight",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "ocean/wave",
+   "action": "lavender underpainting for wave",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "load more medium and lavender",
+   "motion": "underpaint the wave area",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:28",
+   "subject": "ocean/wave",
+   "action": "black baseline at an angle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "pick up the black mix",
+   "motion": "straight line dipping at an angle",
+   "pressure": "light",
+   "where": "where the wave baseline starts",
+   "rule": "a slight angle adds interest",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "ocean/wave",
+   "action": "breaker strokes in lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "load lavender",
+   "motion": "over and straight strokes along the breaker",
+   "pressure": "light",
+   "where": "breaker of the wave",
+   "rule": "C or S strokes look wrong so use straight over strokes",
+   "new": ""
+  },
+  {
+   "t": "11:15",
+   "subject": "ocean/wave",
+   "action": "lavender underpainting for crashing foam",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "pick up more lavender",
+   "motion": "lay underpainting where crash breaks the horizon",
+   "pressure": "light",
+   "where": "top of the wave where it breaks the horizon",
+   "rule": "underpainting goes dark to light not white first",
+   "new": ""
+  },
+  {
+   "t": "12:34",
+   "subject": "water",
+   "action": "blue stripe over the black line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "pick up straight blue",
+   "motion": "lay blue over black to the edge",
+   "pressure": "light",
+   "where": "black line to canvas edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:29",
+   "subject": "water",
+   "action": "yellow stripe that turns green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "phthalo blue"
+   ],
+   "load": "pick up straight yellow on the dirty brush",
+   "motion": "drag over the blue stripe",
+   "pressure": "light",
+   "where": "beside the blue stripe",
+   "rule": "dirty brush over blue turns green",
+   "new": ""
+  },
+  {
+   "t": "13:59",
+   "subject": "ocean/wave",
+   "action": "sunshine on top half of wave",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "mix white with yellow for sunshine",
+   "motion": "paint top half with even color",
+   "pressure": "medium",
+   "where": "top half of the wave",
+   "rule": "",
+   "new": "sunshine is a named mix of white and yellow"
+  },
+  {
+   "t": "14:54",
+   "subject": "ocean/wave",
+   "action": "blend stripes together",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "wipe brush and blend the edge",
+   "motion": "back and forth from bottom up",
+   "pressure": "medium",
+   "where": "wave edge with stripes",
+   "rule": "enough paint is needed or it will not blend",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "ocean/wave",
+   "action": "blend transparent egg shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush with carried paint",
+   "motion": "stroke up along the egg shape",
+   "pressure": "medium",
+   "where": "transparent egg shape in the wave",
+   "rule": "",
+   "new": "the eye or transparency area"
+  },
+  {
+   "t": "17:13",
+   "subject": "ocean/wave",
+   "action": "X blend of transparent area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "larger brush",
+   "motion": "blend faster with X strokes",
+   "pressure": "light",
+   "where": "transparent area",
+   "rule": "pull paint off to blend faster",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "ocean/wave",
+   "action": "add sunshine to transparent part",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "add sunshine on the brush",
+   "motion": "blend sunshine into transparent part",
+   "pressure": "light",
+   "where": "transparent part of the wave",
+   "rule": "adds more light to the transparent part",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "ocean/wave",
+   "action": "dark stripe over top of wave",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green",
+    "phthalo blue",
+    "cadmium yellow"
+   ],
+   "load": "pick up dark then blue then yellow",
+   "motion": "straight stroke over the top",
+   "pressure": "medium",
+   "where": "top of the major wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "ocean/wave",
+   "action": "yellow smile over the top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "phthalo blue"
+   ],
+   "load": "make a smile with yellow then add blue",
+   "motion": "pull paint over the top",
+   "pressure": "medium",
+   "where": "top of the wave",
+   "rule": "the smile shows when paint is pulled over the top",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "ocean/wave",
+   "action": "back swell behind major wave",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "cadmium yellow"
+   ],
+   "load": "mix blue and yellow on the brush",
+   "motion": "lay a swell behind the major wave",
+   "pressure": "medium",
+   "where": "behind the major wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "ocean/wave",
+   "action": "lighter swell further back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mix blue into lavender to lighten",
+   "motion": "lay another swell",
+   "pressure": "light",
+   "where": "further back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:44",
+   "subject": "water line",
+   "action": "soften horizon with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush",
+   "motion": "soften horizon quickly",
+   "pressure": "light",
+   "where": "horizon line",
+   "rule": "softening the horizon gives a sense of distance",
+   "new": ""
+  },
+  {
+   "t": "21:08",
+   "subject": "water",
+   "action": "fill lower canvas with blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "cover rest of canvas below the wave",
+   "motion": "sweep blue across the lower canvas",
+   "pressure": "medium",
+   "where": "rest of canvas below the wave",
+   "rule": "the blue under the wave is darker because of shadow",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "ocean/wave",
+   "action": "pull dark up onto the wave",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "take some of the dark mix",
+   "motion": "pull up onto the wave",
+   "pressure": "light",
+   "where": "dark edge of the wave",
+   "rule": "the dark is what makes the wave curl over",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "ocean/wave",
+   "action": "thin sunshine highlight on foam",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "pick up sunshine",
+   "motion": "light touches on the foam",
+   "pressure": "light",
+   "where": "foam area",
+   "rule": "foam is little bubbles of water so keep it thin",
+   "new": ""
+  },
+  {
+   "t": "23:43",
+   "subject": "ocean/wave",
+   "action": "build sunshine on foam edge",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "load more sunshine on the edge",
+   "motion": "build up the edge where light hits",
+   "pressure": "medium",
+   "where": "edge of the foam",
+   "rule": "thin paint underneath lets paint build up later",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "ocean/wave",
+   "action": "foam stroke over the crest",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "pick up more sunshine",
+   "motion": "repeat the same stroke over the crest",
+   "pressure": "light",
+   "where": "over the crest of the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:56",
+   "subject": "water",
+   "action": "cradle strokes of sunshine in back swells",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "sunshine on the brush",
+   "motion": "cradle stroke that flattens farther back",
+   "pressure": "light",
+   "where": "back swells and front water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:55",
+   "subject": "other: seagull",
+   "action": "a couple of seagull strokes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "pick up black mix on the liner",
+   "motion": "quick seagull strokes",
+   "pressure": "light",
+   "where": "over the water",
+   "rule": "a mahl stick helps brace the hand",
+   "new": "wrong brush tried first then liner"
+  },
+  {
+   "t": "26:44",
+   "subject": "other: signature",
+   "action": "sign the painting with name",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried liner paint",
+   "motion": "write the name in the corner",
+   "pressure": "light",
+   "where": "signature area",
+   "rule": "a half hour lesson painting is a good time to sign",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[11:40] underpainting goes dark to light, not white first",
+  "[16:20] keep the eye strokes parallel to the baseline"
+ ]
+}

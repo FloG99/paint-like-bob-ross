@@ -1,0 +1,590 @@
+{
+ "ep": "S06E04",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "alizarin crimson",
+  "van dyke brown",
+  "burnt umber",
+  "prussian blue",
+  "permanent red",
+  "yellow ochre",
+  "cadmium yellow",
+  "titanium white",
+  "magic white",
+  "firm white",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:28",
+   "subject": "sky",
+   "action": "crisscross sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little bit of phthalo blue, pull a little out",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "other: background shapes",
+   "action": "brush-mixed background shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed together on the brush in layers",
+   "motion": "push, push out, dabbing",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:45",
+   "subject": "leaf tree",
+   "action": "dab in trees and shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just let these things flow",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "water",
+   "action": "dark prussian blue stream",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a little prussian blue, very strong, very dark",
+   "motion": "pull down, then go across",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:20",
+   "subject": "land",
+   "action": "more brown in the background",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little more of this brown color",
+   "motion": "dabbing",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:42",
+   "subject": "trunk/limbs",
+   "action": "basic little tree trunk shapes way back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown on one side, white on the other, paint thinner",
+   "motion": "drop in basic little tree shapes",
+   "pressure": "unknown",
+   "where": "way back here",
+   "rule": "Any unwanted area can be painted over.",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "leaf tree",
+   "action": "picking out leaves with the one inch brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "sap green, a little brown to dull it down, paint thinner",
+   "motion": "touch, push, make little leaves",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:40",
+   "subject": "leaf tree",
+   "action": "brighten the leaves with yellow ochre",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little yellow ochre",
+   "motion": "add it back and forth",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:03",
+   "subject": "leaf tree",
+   "action": "red in the leaf color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little permanent red added to the same color",
+   "motion": "picking out individuals, dabbing",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "leaf tree",
+   "action": "leaves on the big tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brush sideways and pushing upward",
+   "pressure": "hard",
+   "where": "high in this large tree",
+   "rule": "This is why the brush is loaded two or three times.",
+   "new": ""
+  },
+  {
+   "t": "09:06",
+   "subject": "land",
+   "action": "land patches with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown on the knife",
+   "motion": "scrape it in here and there",
+   "pressure": "unknown",
+   "where": "right back in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:32",
+   "subject": "water",
+   "action": "dark water pulled down and across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull a tiny bit down and go across",
+   "pressure": "unknown",
+   "where": "back there in the shadow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:19",
+   "subject": "land",
+   "action": "gray highlight on the land",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "prussian blue, white and brown",
+   "motion": "allow the paint to break",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:43",
+   "subject": "land",
+   "action": "umber and red highlights",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "permanent red"
+   ],
+   "load": "burnt umber, a tiny bit of permanent red",
+   "motion": "a little here and there",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "This adds sparkle.",
+   "new": ""
+  },
+  {
+   "t": "11:12",
+   "subject": "water line",
+   "action": "water lines back here",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "magic white with a little brown",
+   "motion": "cut across, just here and there",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:34",
+   "subject": "grass",
+   "action": "grass in the background",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "sap green"
+   ],
+   "load": "magic white, yellow, some green",
+   "motion": "drop in some grass",
+   "pressure": "unknown",
+   "where": "back in the background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:23",
+   "subject": "rock",
+   "action": "stone with a projection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown",
+   "motion": "a stone comes down and a projection right out over that",
+   "pressure": "unknown",
+   "where": "on the other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "rock",
+   "action": "stone top and dark underneath",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "permanent red"
+   ],
+   "load": "umber, permanent red and the gray mixed",
+   "motion": "bring the paint across so it's flat on top",
+   "pressure": "unknown",
+   "where": "top of the stone",
+   "rule": "Otherwise the top surface will be uneven.",
+   "new": ""
+  },
+  {
+   "t": "14:02",
+   "subject": "grass",
+   "action": "grass down that side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let it go",
+   "pressure": "unknown",
+   "where": "down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "rock",
+   "action": "small stone in the water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown",
+   "motion": "touch and put a stone right here",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:38",
+   "subject": "reflection",
+   "action": "reflection under the stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "some of that, drag down and across",
+   "pressure": "unknown",
+   "where": "under the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "rock",
+   "action": "highlight on the stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "a little burnt umber on the fan brush",
+   "motion": "lay in a little highlight here and there",
+   "pressure": "unknown",
+   "where": "on some of these stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "water line",
+   "action": "straight water lines for the stream",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "magic white and firm white",
+   "motion": "basically straight lines, knife ripples",
+   "pressure": "unknown",
+   "where": "in the stream",
+   "rule": "Otherwise the water will not settle into the stream.",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "reflection",
+   "action": "dark reflection in the water",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little of the van dyke",
+   "motion": "bring the dark color down into the water",
+   "pressure": "unknown",
+   "where": "right here in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "land",
+   "action": "land areas with highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "scraping, a little highlight on them",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:04",
+   "subject": "grass",
+   "action": "grass pushing and bending upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push and bend it, like that",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "grass",
+   "action": "multi-colored grass dabs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "permanent red",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "yellow ochre, indian yellow, permanent red, cad yellow, sap green all on the brush",
+   "motion": "let the brush work, dabbing",
+   "pressure": "unknown",
+   "where": "follow the lay of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "trunk/limbs",
+   "action": "big trees with arms",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "heavy paint load, pure Van Dyke brown",
+   "motion": "give him an arm",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "trunk/limbs",
+   "action": "limb on the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "perhaps a limb sits there",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "trunk/limbs",
+   "action": "dull gray highlight on the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "white with a little gray",
+   "motion": "just touching the canvas",
+   "pressure": "light",
+   "where": "here",
+   "rule": "",
+   "new": "to tone it down slightly"
+  },
+  {
+   "t": "23:46",
+   "subject": "other: highlights",
+   "action": "touch light highlights on the canvas",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just touching",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:01",
+   "subject": "trunk/limbs",
+   "action": "old hollow spot in the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "white around the edge",
+   "motion": "give the look of an old recessed spot",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "The rabbit needs a spot to climb up and hide.",
+   "new": ""
+  },
+  {
+   "t": "25:26",
+   "subject": "grass",
+   "action": "grass around the trunk feet",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "a few small details scattered about",
+   "pressure": "unknown",
+   "where": "around the trees' foots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:55",
+   "subject": "trunk/limbs",
+   "action": "little sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the liner with thin oil",
+   "motion": "drop in a stick or two",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:22",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "more thin oil + permanent red",
+   "motion": "sign this one",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

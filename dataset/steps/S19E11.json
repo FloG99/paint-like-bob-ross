@@ -1,0 +1,597 @@
+{
+ "ep": "S19E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "top",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "midnight black",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "dark sienna",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "add a very small amount of cad yellow to the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "very small amount",
+   "motion": "place near the light area",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:48",
+   "subject": "sky",
+   "action": "blend yellow ochre out around the edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "blend out from the edges",
+   "pressure": "light",
+   "where": "edges of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:13",
+   "subject": "sky",
+   "action": "add a little bright red near the yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "blend along the edges",
+   "pressure": "light",
+   "where": "sky edges",
+   "rule": "Warm colors keep a winter scene warm and inviting.",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "sky",
+   "action": "darken the edges with black and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "very dark",
+   "motion": "float along the edges",
+   "pressure": "light",
+   "where": "edges around the light spot",
+   "rule": "Dark edges make the light spot look lighter.",
+   "new": ""
+  },
+  {
+   "t": "03:41",
+   "subject": "sun/glow",
+   "action": "place a bright white spot in the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "place and blend outward",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "sky",
+   "action": "blend outward from the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "Blending outward keeps dirty color from greening the sky.",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "sky",
+   "action": "add a little alizarin crimson to make a lavender area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least little touch",
+   "motion": "blend in",
+   "pressure": "light",
+   "where": "sky center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "far trees",
+   "action": "tap very little black for distant tree shapes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "very little",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:05",
+   "subject": "far trees",
+   "action": "build tree shapes upward from the base",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "none",
+   "motion": "tap upward from the base",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Starting at the base keeps the shadows toward the bottom.",
+   "new": ""
+  },
+  {
+   "t": "06:52",
+   "subject": "far trees",
+   "action": "tap very light shapes near the light source",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "none",
+   "motion": "tap very lightly",
+   "pressure": "whisper",
+   "where": "near the light area",
+   "rule": "Trees near the light can look almost transparent.",
+   "new": ""
+  },
+  {
+   "t": "07:18",
+   "subject": "far trees",
+   "action": "darken the trees farther from the light",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "bush",
+   "action": "add small bushes in the foreground",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "tiny amount",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "trunk/limbs",
+   "action": "add thin sticks and twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned to ink",
+   "motion": "draw thin lines",
+   "pressure": "whisper",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:44",
+   "subject": "snow",
+   "action": "lay snow with the 2in brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "quite a bit",
+   "motion": "touch push and pull",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "Leaving some color on the canvas creates shadows automatically.",
+   "new": ""
+  },
+  {
+   "t": "12:21",
+   "subject": "land",
+   "action": "lay a gray bank with the small knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "lay color then scrape excess",
+   "pressure": "light",
+   "where": "bank area",
+   "rule": "Color stays in the canvas even after scraping off.",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "reflection",
+   "action": "pull a reflection down under the bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "pull straight down then lightly across",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "snow",
+   "action": "pull white over the bank edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "pull across and let it come over",
+   "pressure": "light",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "land",
+   "action": "pull gray color straight down for the next bank",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "snow",
+   "action": "drop white over the top of the bank",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "drop it over",
+   "pressure": "light",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "snow",
+   "action": "add a touch of blue for snow shadows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "least little touch",
+   "motion": "smooth out",
+   "pressure": "whisper",
+   "where": "snow area",
+   "rule": "Creates the illusion of shadows in the snow.",
+   "new": ""
+  },
+  {
+   "t": "17:03",
+   "subject": "reflection",
+   "action": "pull a little blue down into reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny amount",
+   "motion": "pull down lightly",
+   "pressure": "whisper",
+   "where": "reflection area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:28",
+   "subject": "leaf tree",
+   "action": "pull a tree shape down with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "a lot",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "right tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "leaf tree",
+   "action": "add a friend tree beside the first",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "beside the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "leaf tree",
+   "action": "mix white and dark sienna on the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "marbled",
+   "motion": "mix on knife",
+   "pressure": "light",
+   "where": "knife",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "leaf tree",
+   "action": "add a highlight along the top edge of the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "a little",
+   "motion": "touch the canvas",
+   "pressure": "whisper",
+   "where": "top edge of the tree",
+   "rule": "Light from above means highlight along the top edge.",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "leaf tree",
+   "action": "add dark color on the other side of the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "a little",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "other side of the tree",
+   "rule": "Thick paint dries with a bark-like texture.",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs with brown on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:02",
+   "subject": "snow",
+   "action": "add snow at the bottom of the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bottom of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "rock",
+   "action": "place stones with the filbert",
+   "tool": "other: filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "gray mix",
+   "motion": "drop in stones",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "water line",
+   "action": "scrape a water line around the stones",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "around the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "leaf tree",
+   "action": "block in a big tree on the right",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark",
+   "motion": "drop in dark shapes",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:30",
+   "subject": "trunk/limbs",
+   "action": "highlight the big tree with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:51",
+   "subject": "trunk/limbs",
+   "action": "add dark on the side away from the light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "a little",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "tree sides",
+   "rule": "Highlight the side the light hits and darken the other.",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "snow",
+   "action": "pull white at the tree base for a shadow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "pull out to a shadow",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "A shadow falls behind the trees.",
+   "new": ""
+  },
+  {
+   "t": "26:12",
+   "subject": "leaf tree",
+   "action": "tap gray frosty leaves",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:35",
+   "subject": "leaf tree",
+   "action": "tap snow highlights on the frosty leaves",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

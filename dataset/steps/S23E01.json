@@ -1,0 +1,624 @@
+{
+ "ep": "S23E01",
+ "base": "liquid clear; liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "cadmium yellow",
+  "alizarin crimson",
+  "sap green",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:23",
+   "subject": "sky",
+   "action": "lay in phthalo blue sky shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap bristles into paint",
+   "motion": "tap and pull across",
+   "pressure": "light",
+   "where": "upper sky off center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:24",
+   "subject": "sky",
+   "action": "darken sky edges with prussian blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "sky edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "sky",
+   "action": "darken outer sky with blue and black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "mixed on brush",
+   "motion": "fill sky",
+   "pressure": "light",
+   "where": "outer sky",
+   "rule": "black makes that part darker",
+   "new": ""
+  },
+  {
+   "t": "05:48",
+   "subject": "sky",
+   "action": "lay light center with titanium white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on brush",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "light center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:38",
+   "subject": "sky",
+   "action": "add a touch of cadmium yellow to the light",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "least little touch",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of light area",
+   "rule": "too much yellow against blue turns green",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "bush",
+   "action": "tap blue-gray shapes in the back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:08",
+   "subject": "far trees",
+   "action": "lift tiny short strokes upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "short upward lifts",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "mist",
+   "action": "tap a tiny bit of white for a misty area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny bit",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "right in here",
+   "rule": "a misty area separates the layers",
+   "new": ""
+  },
+  {
+   "t": "10:01",
+   "subject": "far trees",
+   "action": "tap dark tree shapes closer to you",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "loaded on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "things closer should be darker",
+   "new": ""
+  },
+  {
+   "t": "10:30",
+   "subject": "far trees",
+   "action": "mix dark blue-black on fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "mix",
+   "pressure": "light",
+   "where": "up on the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "far trees",
+   "action": "tap and pull downward for trees on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "tap and pull downward",
+   "pressure": "light",
+   "where": "up on this hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:15",
+   "subject": "far trees",
+   "action": "bring the 2in brush down to soften",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down soft",
+   "pressure": "light",
+   "where": "hill trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "snow",
+   "action": "pull white snow with a touch of yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "least touch of yellow",
+   "motion": "pull downward slightly",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "angle makes the snow look inclined",
+   "new": ""
+  },
+  {
+   "t": "13:29",
+   "subject": "snow",
+   "action": "pull gray shadow in the snow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "mixed gray",
+   "motion": "pull back",
+   "pressure": "light",
+   "where": "a little shadow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "snow",
+   "action": "pull white at a new angle for another plane",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "pull at new angle",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "different planes add depth",
+   "new": ""
+  },
+  {
+   "t": "14:43",
+   "subject": "mountain",
+   "action": "mix dark blue-black hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "mix and drop",
+   "pressure": "light",
+   "where": "up on the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "evergreen",
+   "action": "push a tree downward with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "push downward",
+   "pressure": "firm",
+   "where": "on the little hill",
+   "rule": "pushing harder makes lower limbs bigger",
+   "new": ""
+  },
+  {
+   "t": "16:22",
+   "subject": "snow",
+   "action": "pull a white shadow under the tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "grabbed on purpose",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "bottom of tree",
+   "rule": "shadow gives the tree a place to sit",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "grass",
+   "action": "push grass upward at the base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "bottom grassy area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:14",
+   "subject": "far trees",
+   "action": "scratch trunk indications with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "too far away for detail",
+   "new": ""
+  },
+  {
+   "t": "17:39",
+   "subject": "structure",
+   "action": "scrape out the basic cabin shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "center",
+   "rule": "scraping removes paint for the next layer",
+   "new": ""
+  },
+  {
+   "t": "18:08",
+   "subject": "structure",
+   "action": "pull brown down for a cabin side",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "loaded flat on knife",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "structure",
+   "action": "lightly touch to lighten the side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed on knife",
+   "motion": "lightly touch",
+   "pressure": "whisper",
+   "where": "other side of cabin",
+   "rule": "this side is lighter than the back",
+   "new": ""
+  },
+  {
+   "t": "19:27",
+   "subject": "structure",
+   "action": "touch in board lines with brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on knife edge",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "structure",
+   "action": "scrape a small window shape",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "structure",
+   "action": "add dark door and window",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dark on small knife",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "structure",
+   "action": "lay in roof edges with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pulled flat",
+   "motion": "lay edges first",
+   "pressure": "light",
+   "where": "top of cabin",
+   "rule": "edges first makes the pull easier",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "structure",
+   "action": "touch shadow color along the cabin",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "mixed on knife",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "cabin shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "evergreen",
+   "action": "load fan brush with crimson and green brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "both sides loaded",
+   "motion": "touch and push",
+   "pressure": "light",
+   "where": "left of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:01",
+   "subject": "evergreen",
+   "action": "paint big tree with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "loaded both sides",
+   "motion": "tap down",
+   "pressure": "firm",
+   "where": "center left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "evergreen",
+   "action": "touch a light spot into the tree",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "roll on knife",
+   "motion": "touch",
+   "pressure": "whisper",
+   "where": "through the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "evergreen",
+   "action": "bounce knife along the dark edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "carried over",
+   "motion": "bounce and graze",
+   "pressure": "light",
+   "where": "outer edge of tree",
+   "rule": "a rough edge reads as bark when dry",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "trunk/limbs",
+   "action": "add thin tree limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "liner thinned with paint thinner",
+   "motion": "pull thin strokes",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "thin paint flows, add more thinner if it does not",
+   "new": ""
+  },
+  {
+   "t": "25:53",
+   "subject": "snow",
+   "action": "fill snow at the tree base with liquid white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "clean brush dipped",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "bottom of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:23",
+   "subject": "fence",
+   "action": "touch in a small fence with brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "from the brown mix",
+   "motion": "touch across",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:50",
+   "subject": "snow",
+   "action": "add a small shadow in the snow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "a little touch",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "snow near fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:50",
+   "subject": "path",
+   "action": "indicate a little path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "lay in path",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

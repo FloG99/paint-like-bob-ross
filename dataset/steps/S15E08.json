@@ -1,0 +1,538 @@
+{
+ "ep": "S15E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "black",
+  "cadmium yellow",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "dark sienna",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "crisscross blue into sky, lighter toward horizon",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "work a little blue into bristles",
+   "motion": "crisscross X strokes",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "It should become progressively lighter toward the horizon.",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "cloud",
+   "action": "lavender cloud, dark round strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix blue and alizarin crimson for lavender",
+   "motion": "little round circular strokes",
+   "pressure": "unknown",
+   "where": "over in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "cloud",
+   "action": "fluffy clouds with 1in brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "pull through the white, least touch of alizarin crimson",
+   "motion": "one after another, wherever",
+   "pressure": "unknown",
+   "where": "up here in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "cloud",
+   "action": "warm glow on clouds, blend gently",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "pick up a touch more crimson",
+   "motion": "gently blending, fluff",
+   "pressure": "light",
+   "where": "these clouds",
+   "rule": "This allows blending while the paint is still wet.",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "mountain",
+   "action": "dark lavender hill on knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix more crimson into lavender, roll on knife edge",
+   "motion": "push firmly into the fabric",
+   "pressure": "firm",
+   "where": "back there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "mountain",
+   "action": "blend hill bottoms with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "grab paint gently, pull, blend",
+   "pressure": "light",
+   "where": "bottom of the hills",
+   "rule": "This suggests mist toward the base.",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "mountain",
+   "action": "rolling hills, dark lavender with black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black"
+   ],
+   "load": "add a little black, tap into brush",
+   "motion": "tap, shape the hill",
+   "pressure": "unknown",
+   "where": "on top of that",
+   "rule": "The placement is not yet fixed.",
+   "new": ""
+  },
+  {
+   "t": "07:39",
+   "subject": "land",
+   "action": "dark base fill with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "black",
+    "phthalo blue"
+   ],
+   "load": "brown, crimson, black, little blue",
+   "motion": "paint it in",
+   "pressure": "unknown",
+   "where": "all this area",
+   "rule": "Much of this will likely be covered here.",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "mountain",
+   "action": "tap yellow ochre into hill color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "tap cadmium yellow then yellow ochre into bristles",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "on these hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "mountain",
+   "action": "lighter hill with titanium white, darker as it turns",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "add a little titanium white",
+   "motion": "layer after layer",
+   "pressure": "unknown",
+   "where": "that hill",
+   "rule": "The hill should stand out from the other hill.",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "mountain",
+   "action": "touch of bright red in hill color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "add at least little touch of bright red",
+   "motion": "layer after layer",
+   "pressure": "unknown",
+   "where": "come right on over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "far trees",
+   "action": "lavender patches of distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix lavender, use a fan brush",
+   "motion": "tap indication of patches",
+   "pressure": "unknown",
+   "where": "between these two",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:31",
+   "subject": "far trees",
+   "action": "tap little trees firmly with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "clean knife, more blue black and crimson",
+   "motion": "strike firmly, pushing very firmly",
+   "pressure": "firm",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:50",
+   "subject": "mist",
+   "action": "tap clean dry brush for mist at tree base",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "base of these",
+   "rule": "This separates the elements from each other.",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "far trees",
+   "action": "closer tree layer with 2in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "use that same color, keep using the 2in",
+   "motion": "layer after layer",
+   "pressure": "unknown",
+   "where": "a little bit closer",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:06",
+   "subject": "leaf tree",
+   "action": "bright red corner tapped for tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "reach for yellow, get bright red into corner",
+   "motion": "tap corner",
+   "pressure": "unknown",
+   "where": "right into the corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "mist",
+   "action": "soft yellows and greens at tree base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "load yellows and greens",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "base of this",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:41",
+   "subject": "land",
+   "action": "dirt with brown and white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "brown",
+    "titanium white"
+   ],
+   "load": "little brown and white",
+   "motion": "put a little dirt in here",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "grass",
+   "action": "yellow and green grass tapped into dirt",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "green"
+   ],
+   "load": "yellow and green on fan brush",
+   "motion": "tap little grassy things down into dirt",
+   "pressure": "unknown",
+   "where": "right down here",
+   "rule": "This cleans the edges and unifies the area.",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "stream",
+   "action": "Liquid white and titanium white with a little blue for the stream.",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white then titanium white with a little blue",
+   "motion": "let it run, splash",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "Thin titanium white so it flows over the existing color.",
+   "new": ""
+  },
+  {
+   "t": "19:19",
+   "subject": "rock",
+   "action": "dark brown stones dropped in with little highlight",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "drop in brown stones, brown and white for highlight",
+   "motion": "drop them in",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "A small highlight on the stone makes it stand out.",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "water",
+   "action": "liquid white and titanium white with blue, water hits stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "back into liquid white, titanium white, touch of phthalo blue",
+   "motion": "here comes my water, hits these stones and goes",
+   "pressure": "unknown",
+   "where": "along here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "land",
+   "action": "lavender land to close it in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "go back into lavender",
+   "motion": "add land here, closing this off",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "grass",
+   "action": "tint grass with cadmium, Indian and ochre yellows plus bright-red touch",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "little cadmium yellow, indian yellow, yellow ochre, bright red",
+   "motion": "little grassy things right here",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "This unifies the composition.",
+   "new": ""
+  },
+  {
+   "t": "22:31",
+   "subject": "leaf tree",
+   "action": "dark sienna tree, lighter as it works upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "touch of dark sienna",
+   "motion": "goes right on off the canvas",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:09",
+   "subject": "trunk/limbs",
+   "action": "twigs and sticks with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "brown"
+   ],
+   "load": "brown plus thinner on the liner brush",
+   "motion": "little indication of trunks and sticks",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:47",
+   "subject": "leaf tree",
+   "action": "wiggle brush for trees with arms",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "let the brush wiggle and jiggle",
+   "motion": "let the paint flow",
+   "pressure": "unknown",
+   "where": "on the other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "leaf tree",
+   "action": "dark green with 1in: liquid white and dark color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "yellow",
+    "black"
+   ],
+   "load": "touch of liquid white, pick up dark color",
+   "motion": "tap a little color into bristles",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "Touching yellow turns it green.",
+   "new": ""
+  },
+  {
+   "t": "25:03",
+   "subject": "leaf tree",
+   "action": "bushy leaves and branches with yellow ochre and bright red",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "add yellow ochre and touch of bright red",
+   "motion": "let it come right on down",
+   "pressure": "unknown",
+   "where": "right down here",
+   "rule": "This gives the tree shape and form.",
+   "new": ""
+  },
+  {
+   "t": "25:42",
+   "subject": "land",
+   "action": "clean bottom, dark shadow under trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean up the bottom, bring it together",
+   "pressure": "unknown",
+   "where": "bottom of this",
+   "rule": "Typically a large shadow lies beneath these trees.",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "other: signature",
+   "action": "sign with red on liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thin paint on liner, a little bit of red",
+   "motion": "write her name",
+   "pressure": "unknown",
+   "where": "bottom",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[06:24] The element can be changed or moved.",
+  "[03:11] The paint used is very dry and firm."
+ ]
+}

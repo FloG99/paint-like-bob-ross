@@ -1,0 +1,613 @@
+{
+ "ep": "S06E07",
+ "base": "phthalo blue and alizarin crimson wash",
+ "format": "unknown",
+ "light": "light source is here",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "van dyke brown",
+  "burnt umber",
+  "sap green",
+  "cadmium yellow",
+  "yellow ochre",
+  "indian yellow",
+  "permanent red",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sky",
+   "action": "light source in the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white",
+   "motion": "touch it with the white",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "blend the light area out in a half circle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "This is the light area.",
+   "new": "otherwise the dirty color gets pulled back to the center"
+  },
+  {
+   "t": "02:09",
+   "subject": "cloud",
+   "action": "Lightly touch in a small cloud.",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "small roll of paint on the knife",
+   "motion": "just touch the canvas",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "cloud",
+   "action": "light on the bottom of some clouds",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "a little thalo blue into the white",
+   "motion": "let a little light strike the bottom",
+   "pressure": "unknown",
+   "where": "bottom of some of these clouds",
+   "rule": "The light source is located here.",
+   "new": ""
+  },
+  {
+   "t": "03:22",
+   "subject": "cloud",
+   "action": "blend the highlights out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend back and forth",
+   "pressure": "light",
+   "where": "these clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:00",
+   "subject": "mountain",
+   "action": "build the mountain shape with purple",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same purple color",
+   "motion": "push the paint right into the fabric",
+   "pressure": "hard",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "mountain",
+   "action": "pull down with large brush to lay out the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull it down",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "mountain",
+   "action": "highlight along the side of the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a small roll of paint on the edge of the knife",
+   "motion": "barely touch, follow down the side of the mountain",
+   "pressure": "light",
+   "where": "down the side of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:33",
+   "subject": "mountain",
+   "action": "shadow side with light purple",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "purple with a little light color",
+   "motion": "Cut along the edge and add small shadows.",
+   "pressure": "unknown",
+   "where": "shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "mist",
+   "action": "mist at the base of the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently tap following the angles, then lift upward",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "leaf tree",
+   "action": "dark trees in front of the mountain",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "dark colors on the fan brush",
+   "motion": "just touching",
+   "pressure": "light",
+   "where": "Here, in front of the large mountain.",
+   "rule": "They stand out against the lighter tone of the mountain.",
+   "new": ""
+  },
+  {
+   "t": "10:54",
+   "subject": "grass",
+   "action": "grass indication with sun shining through",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "cad yellow and sap green",
+   "motion": "just barely touch, tapping the canvas",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:42",
+   "subject": "grass",
+   "action": "break up the grass with yellow ochre and indian yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "a little yellow ochre and indian yellow",
+   "motion": "just break it up a little",
+   "pressure": "unknown",
+   "where": "grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:29",
+   "subject": "land",
+   "action": "scrub in land under here",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "Van Dyke brown + burnt umber",
+   "motion": "scrub in a little color",
+   "pressure": "unknown",
+   "where": "under here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "grass",
+   "action": "tap grass on top of the land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap grass onto it",
+   "pressure": "unknown",
+   "where": "on top of that",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "trunk/limbs",
+   "action": "tree trunk indications with white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount of titanium white on the fan brush",
+   "motion": "lift upward a little, just here and there",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "The dark color will show through clearly.",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "stream",
+   "action": "bright blue water lines",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "titanium white and phthalo blue",
+   "motion": "pull it out very flat, barely stroking",
+   "pressure": "light",
+   "where": "right up here",
+   "rule": "Water always seeks a level state, so it flows until it settles.",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "rock",
+   "action": "stone in the stream, water falls over it",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a lot of blue and white in the bristles",
+   "motion": "let it fall right over",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "land",
+   "action": "land mass to contain the water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "van dyke brown, then the purple",
+   "motion": "just let it live right here",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "It should not spread out unexpectedly.",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "evergreen",
+   "action": "evergreen tree on the land mass",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "the purple color",
+   "motion": "let him drop off the brush",
+   "pressure": "unknown",
+   "where": "on this land mass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:30",
+   "subject": "trunk/limbs",
+   "action": "trunk indications and highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little of the blue and white",
+   "motion": "just touching the canvas",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "leaf tree",
+   "action": "leaf indications, dulled sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "van dyke brown"
+   ],
+   "load": "sap green, cad yellow, a little van dyke brown to dull it",
+   "motion": "a few little indications of leaves",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "It is too bright and should be dulled.",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "grass",
+   "action": "grassy things with yellow ochre and indian yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "a little yellow ochre and indian yellow",
+   "motion": "just some little grassy things",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "land",
+   "action": "make dirt with yellow ochre and burnt umber",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "yellow ochre with a little burnt umber",
+   "motion": "dirt area",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "rock",
+   "action": "big old stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "brown and a little purple",
+   "motion": "a big old stone lives right there",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "grass",
+   "action": "grass down the top of the stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "yellow ochre"
+   ],
+   "load": "a little umber and yellow ochre",
+   "motion": "fold the top downward slightly",
+   "pressure": "unknown",
+   "where": "top of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "evergreen",
+   "action": "evergreen on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "the purple and brown",
+   "motion": "let him fall off your brush",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:38",
+   "subject": "rock",
+   "action": "another nice stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brown and a little burnt umber",
+   "motion": "make another nice stone",
+   "pressure": "unknown",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "leaf tree",
+   "action": "highlights and leaves on the big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "yellow, sap green",
+   "motion": "mere hints, minimal detail needed",
+   "pressure": "unknown",
+   "where": "this big tree over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:57",
+   "subject": "stream",
+   "action": "swirls and churning water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "magic white"
+   ],
+   "load": "thalo blue and white with a little magic white",
+   "motion": "swirls and churning actions",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "This thins it slightly.",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "rock",
+   "action": "stones with grass on them",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "grass scattered on them",
+   "pressure": "unknown",
+   "where": "wherever we want",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "trunk/limbs",
+   "action": "tree foot",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown",
+   "motion": "small foot at base of this tree",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "trunk/limbs",
+   "action": "highlights on the tree and its foot",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "permanent red and white, a little burnt umber",
+   "motion": "just here and there",
+   "pressure": "light",
+   "where": "on his foots",
+   "rule": "Just enough to create a shine.",
+   "new": ""
+  },
+  {
+   "t": "25:08",
+   "subject": "trunk/limbs",
+   "action": "dark reflected light on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little thalo blue and white",
+   "motion": "just give an indication of reflected light",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "This makes it stand out.",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "grass",
+   "action": "grass around the foot",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "a little grass down here around his foots",
+   "pressure": "unknown",
+   "where": "around his foots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "trunk/limbs",
+   "action": "old limb hanging out",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "an indication of an old limb",
+   "pressure": "unknown",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

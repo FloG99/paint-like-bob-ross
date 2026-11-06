@@ -1,0 +1,541 @@
+{
+ "ep": "S22E05",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "above",
+ "guest": false,
+ "palette": [
+  "liquid clear",
+  "yellow ochre",
+  "dark sienna",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "indian yellow",
+  "cadmium yellow",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "01:15",
+   "subject": "sky",
+   "action": "paint circles and patterns in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "tapped yellow ochre and dark sienna on the brush",
+   "motion": "circles going one way, then the other",
+   "pressure": "light",
+   "where": "across the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "sky",
+   "action": "add a bright white spot and bounce it around",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little pure white on the brush",
+   "motion": "bounce the white around with the corner",
+   "pressure": "light",
+   "where": "middle of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:11",
+   "subject": "bush",
+   "action": "paint soft far bushes with the corner of the brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender lightly tapped on the brush corner",
+   "motion": "tap basic shapes in the back",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "too much detail up close makes far shapes look close",
+   "new": ""
+  },
+  {
+   "t": "07:35",
+   "subject": "leaf tree",
+   "action": "flick paint thinner onto the paint for leaf dots",
+   "tool": "other: clean brush",
+   "part": "corner",
+   "paint": [],
+   "load": "paint thinner on the brush corner",
+   "motion": "flick the thinner onto the paint",
+   "pressure": "unknown",
+   "where": "back trees and bushes",
+   "rule": "thinner lifts paint, leaving dots that read as leaves",
+   "new": ""
+  },
+  {
+   "t": "08:50",
+   "subject": "bush",
+   "action": "add yellow ochre and dark sienna shapes in front of the lavender bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "yellow ochre and dark sienna mixed",
+   "motion": "shape small things in layers",
+   "pressure": "light",
+   "where": "in front of the lavender bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "bush",
+   "action": "add indian yellow and lavender bush variety",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "indian yellow dabbed, then lavender on without cleaning",
+   "motion": "work back and forth so colors mix",
+   "pressure": "light",
+   "where": "among the front bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:01",
+   "subject": "bush",
+   "action": "add a touch of cadmium yellow to brighten the spot",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "least touch on the brush",
+   "motion": "dab a brighter spot",
+   "pressure": "light",
+   "where": "spot under the light source",
+   "rule": "cadmium is strong, so use only a tiny amount",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "trunk/limbs",
+   "action": "paint thin sticks and branches in lavender",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender thinned with paint thinner, turned to a point",
+   "motion": "paint thin branches and twigs",
+   "pressure": "light",
+   "where": "back in the layers, behind the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:57",
+   "subject": "trunk/limbs",
+   "action": "add a touch of dark sienna and van dyke to the trees on the other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "least touch of dark sienna added",
+   "motion": "paint the trees on the other side",
+   "pressure": "unknown",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "trunk/limbs",
+   "action": "add a few white sticks and twigs",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white thinned",
+   "motion": "dab a few white sticks here and there",
+   "pressure": "light",
+   "where": "among the trees",
+   "rule": "white sticks are common in woods, so add some",
+   "new": ""
+  },
+  {
+   "t": "13:52",
+   "subject": "other: shadow base",
+   "action": "lay a lavender base low down on the clear",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender made on the brush",
+   "motion": "lay color down low",
+   "pressure": "light",
+   "where": "lower area of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:21",
+   "subject": "snow",
+   "action": "lay pure white snow from the back toward the top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white on the brush",
+   "motion": "lay snow with the brush",
+   "pressure": "light",
+   "where": "from the back area up toward the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "grass",
+   "action": "mix and push weeds up with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow"
+   ],
+   "load": "mixed a variety on the brush, a little white added",
+   "motion": "push upward for little weeds",
+   "pressure": "light",
+   "where": "along the snow line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:13",
+   "subject": "snow",
+   "action": "clean snow edges with white on a fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "grab and pull to clean the edges",
+   "pressure": "light",
+   "where": "edges of the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "trunk/limbs",
+   "action": "add lavender sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender on the liner brush",
+   "motion": "add sticks and twigs",
+   "pressure": "light",
+   "where": "out in the snow and up closer",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "structure",
+   "action": "block in the cabin back eave, then snow on the roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown on the knife, then white on the knife",
+   "motion": "lay the back eave, then the other side of the roof",
+   "pressure": "light",
+   "where": "cabin area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:47",
+   "subject": "structure",
+   "action": "block in cabin front with van dyke brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the knife",
+   "motion": "touch and pull for base color",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:13",
+   "subject": "structure",
+   "action": "add old wood texture with a marbled mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "small marbled mix, not overmixed",
+   "motion": "touch and pull down with no pressure",
+   "pressure": "whisper",
+   "where": "on the cabin front",
+   "rule": "no pressure lets the paint break so the wood looks old",
+   "new": ""
+  },
+  {
+   "t": "20:01",
+   "subject": "structure",
+   "action": "lay in a door and a window in van dyke brown",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the small knife",
+   "motion": "lay in the door and window shapes",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:27",
+   "subject": "structure",
+   "action": "outline the window with light color",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light color on the knife",
+   "motion": "outline the window so it stands out",
+   "pressure": "light",
+   "where": "the window on the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "snow",
+   "action": "bring snow up to the cabin door with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "pull the snow up to the door",
+   "pressure": "light",
+   "where": "up to the cabin door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:20",
+   "subject": "path",
+   "action": "indicate a small path with dark lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "a touch of the dark lavender",
+   "motion": "make a small indication going up",
+   "pressure": "light",
+   "where": "path up toward the door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "bush",
+   "action": "tap bushes on this side with dark sienna and yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "tapped mix on the brush",
+   "motion": "tap the indication of bushes",
+   "pressure": "light",
+   "where": "on this side near the cabin",
+   "rule": "few people around means the deer can stay",
+   "new": ""
+  },
+  {
+   "t": "22:31",
+   "subject": "bush",
+   "action": "add yellow ochre, indian yellow, and cadmium yellow bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "yellow ochres and a little white on the brush",
+   "motion": "tap in bushes with the top corner",
+   "pressure": "light",
+   "where": "the other side of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:17",
+   "subject": "snow",
+   "action": "add a snow bank with white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the 2in",
+   "motion": "touch and push snow in",
+   "pressure": "light",
+   "where": "beside the bushes near the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "grass",
+   "action": "tap little grassy areas with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "tap little grass",
+   "pressure": "light",
+   "where": "both sides of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:10",
+   "subject": "snow",
+   "action": "clean the bottom edge with white on a fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on a fan",
+   "motion": "clean up the bottom",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:34",
+   "subject": "leaf tree",
+   "action": "paint a big tree in van dyke brown and dark sienna",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns mixed on the brush",
+   "motion": "drop in the big tree shape",
+   "pressure": "unknown",
+   "where": "big tree in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:56",
+   "subject": "leaf tree",
+   "action": "tap a highlight along the tree edge with mostly white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mostly white with a little dark sienna",
+   "motion": "tap along the edge",
+   "pressure": "light",
+   "where": "edge of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:51",
+   "subject": "trunk/limbs",
+   "action": "paint big limbs with thin browns",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns thinned like ink with paint thinner",
+   "motion": "reach out thin limbs and arms",
+   "pressure": "light",
+   "where": "big tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:15",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs hanging off the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same thin brown mix",
+   "motion": "hang sticks and twigs off the limbs",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[12:09] thinner reacting with the clear makes marks look highlighted",
+  "[25:29] tapping makes edges look fuzzy, like evergreen bark"
+ ]
+}

@@ -1,0 +1,501 @@
+{
+ "ep": "S04E02",
+ "base": "black canvas with an alizarin crimson and phthalo blue wash",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "sap green",
+  "burnt umber",
+  "van dyke brown",
+  "permanent red",
+  "cadmium yellow",
+  "yellow ochre",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "sky",
+   "action": "light white over the purple base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the large brush",
+   "motion": "lay thin color across the sky",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:42",
+   "subject": "cloud",
+   "action": "floater clouds with fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan full of white",
+   "motion": "drop in small floaters with the corner",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "cloud",
+   "action": "blend cloud edges",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry big brush",
+   "motion": "gently blend across the clouds",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "firm dry first coat blends without turning muddy",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "mountain",
+   "action": "block in distant foothill",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "mix blue and green then add white and brown",
+   "motion": "basic foothill shape from the corner",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "brown dulls a mix that is too bright",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "mountain",
+   "action": "pull brush down for highlights and shadows",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same large brush",
+   "motion": "pull down in strokes",
+   "pressure": "light",
+   "where": "foothills area",
+   "rule": "changing brush direction makes highlights and shadows",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "mist",
+   "action": "tap little white for mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny bit of white on the brush",
+   "motion": "tap in lightly then lift upward",
+   "pressure": "light",
+   "where": "bottom of the foothills",
+   "rule": "color shows much stronger on black so use little",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "mountain",
+   "action": "darker second range of hills",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "mix blue and brown on the fan",
+   "motion": "lay in a little hill shape",
+   "pressure": "medium",
+   "where": "in front of the first hills",
+   "rule": "closer things get darker in value",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "mountain",
+   "action": "red-brown tint on a far hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "mix red and burnt umber on the brush",
+   "motion": "dab color onto the hill",
+   "pressure": "light",
+   "where": "middle hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "mountain",
+   "action": "soften the red-brown hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean big brush",
+   "motion": "gently tap to soften",
+   "pressure": "light",
+   "where": "red hill edges",
+   "rule": "too far away for bright color",
+   "new": ""
+  },
+  {
+   "t": "08:09",
+   "subject": "far trees",
+   "action": "tiny bush and tree hints in red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "add a little white to the same brush",
+   "motion": "dab small bush and tree marks",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:03",
+   "subject": "bush",
+   "action": "block in dark green bush line",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "mix sap green and cadmium yellow",
+   "motion": "block in tree line bottoms",
+   "pressure": "light",
+   "where": "lower edge of the tree line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:28",
+   "subject": "land",
+   "action": "light meadow band",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "add more cadmium yellow",
+   "motion": "lay a brighter band across",
+   "pressure": "light",
+   "where": "middle band of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "land",
+   "action": "new plane in yellow ochre and indian yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "add yellow ochre and indian yellow",
+   "motion": "lay a new plane over the meadow",
+   "pressure": "light",
+   "where": "over the meadow edge",
+   "rule": "a color change makes another plane",
+   "new": "thinner added so paint sticks"
+  },
+  {
+   "t": "10:44",
+   "subject": "land",
+   "action": "tap to darken the meadow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush with no new paint",
+   "motion": "tap to pick up the color underneath",
+   "pressure": "light",
+   "where": "darker parts of the meadow",
+   "rule": "tapping picks up the color underneath to darken",
+   "new": ""
+  },
+  {
+   "t": "11:33",
+   "subject": "leaf tree",
+   "action": "big leafy tree mass on the side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix brown crimson and green on brush",
+   "motion": "pull in one direction then touch and push",
+   "pressure": "firm",
+   "where": "side of the canvas",
+   "rule": "a lot of paint avoids hitting the canvas too hard",
+   "new": ""
+  },
+  {
+   "t": "15:02",
+   "subject": "leaf tree",
+   "action": "highlight big tree with yellow and green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "load bristles with yellow and sap green",
+   "motion": "touch barely and bend bristles",
+   "pressure": "light",
+   "where": "upper part of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "leaf tree",
+   "action": "vary tree clump with yellow ochre and red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "add yellow ochre then permanent red",
+   "motion": "same light touch in the clump",
+   "pressure": "light",
+   "where": "tree clump",
+   "rule": "red brightens the clump",
+   "new": ""
+  },
+  {
+   "t": "16:11",
+   "subject": "leaf tree",
+   "action": "bright shiny bush on the other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "add green then yellow ochre",
+   "motion": "touch in the bush shape",
+   "pressure": "light",
+   "where": "other side of canvas, big old tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "leaf tree",
+   "action": "red accent on one tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "add permanent red to the brush",
+   "motion": "touch on one tree",
+   "pressure": "light",
+   "where": "one tree in the group",
+   "rule": "to make it stand out a little",
+   "new": ""
+  },
+  {
+   "t": "17:21",
+   "subject": "trunk/limbs",
+   "action": "thin limbs and sticks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown with paint thinner and sharpen tip",
+   "motion": "pull thin limbs out from the top",
+   "pressure": "light",
+   "where": "top of the trees",
+   "rule": "limbs are pretty so do not leave them out",
+   "new": "thinner added so paint sticks"
+  },
+  {
+   "t": "18:31",
+   "subject": "trunk/limbs",
+   "action": "more limbs with white over brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "add a little white to the brown on the liner",
+   "motion": "add more limbs and sticks",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:57",
+   "subject": "trunk/limbs",
+   "action": "brown limbs on the other side",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "back to brown on the liner",
+   "motion": "add limbs here and there",
+   "pressure": "light",
+   "where": "other side of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:24",
+   "subject": "trunk/limbs",
+   "action": "more limbs from leftover brown and white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thin with paint thinner and add white",
+   "motion": "add a few more limbs",
+   "pressure": "light",
+   "where": "one more limb spot",
+   "rule": "skipping the brush cleaning saves time",
+   "new": ""
+  },
+  {
+   "t": "19:48",
+   "subject": "grass",
+   "action": "tap grassy bits in green yellow and red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "use the old background mix on the brush",
+   "motion": "tap small grassy areas up the hill",
+   "pressure": "whisper",
+   "where": "the hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:22",
+   "subject": "land",
+   "action": "dirt patch with brown and umber on knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix brown and umber on the knife",
+   "motion": "touch and let the knife bounce",
+   "pressure": "light",
+   "where": "bottom of canvas dirt area",
+   "rule": "knife work cleans the bottom of the grass",
+   "new": ""
+  },
+  {
+   "t": "22:13",
+   "subject": "land",
+   "action": "light gray graze across top of land",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "mix white blue and brown into gray on knife",
+   "motion": "barely touch across the top",
+   "pressure": "whisper",
+   "where": "top of the land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "water line",
+   "action": "pull knife waterlines",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mix white with a little blue on the knife",
+   "motion": "pull knife out flat then cut across",
+   "pressure": "light",
+   "where": "lower water area under the land",
+   "rule": "crooked lines would make the water run out",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "trunk/limbs",
+   "action": "add twigs to break up the trees",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "same knife with no new paint",
+   "motion": "add a few twigs here and there",
+   "pressure": "light",
+   "where": "middle of the trees",
+   "rule": "to break the trees up",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "other: signature",
+   "action": "sign the painting with thinned paint",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin paint with paint thinner",
+   "motion": "drop a small signature in place",
+   "pressure": "light",
+   "where": "bottom corner of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[15:47] keep some dark areas so the tree does not look flat"
+ ]
+}

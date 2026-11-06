@@ -1,0 +1,405 @@
+{
+ "ep": "S16E02",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna",
+  "titanium white",
+  "alizarin crimson",
+  "indian yellow",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "bright horizon band",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "least touch on the brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "sky",
+   "action": "yellow ochre above the horizon",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "ochre on the same brush",
+   "motion": "blending into the yellow",
+   "pressure": "light",
+   "where": "above horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "sky",
+   "action": "red into the yellow for orange",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "tapped into bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "red over yellow turns orange",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "sky",
+   "action": "blue into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tapped into bristles",
+   "motion": "blending down to the red",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:53",
+   "subject": "sky",
+   "action": "blend the sky smooth",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blending across",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "mountain",
+   "action": "distant hill with dark edge",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "cadmium yellow"
+   ],
+   "load": "tiny bit of black on the yellow",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "distant hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "leaf tree",
+   "action": "tap a small leaf tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "corner dipped into a little paint",
+   "motion": "tapping basic shape",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:59",
+   "subject": "structure",
+   "action": "block in cabin shape",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll of paint on the knife",
+   "motion": "laying back eave and roof lines",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "blocks shape without committing",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "structure",
+   "action": "roof with dirty gray",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "marbled gray mix",
+   "motion": "touch and bounce along",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:50",
+   "subject": "structure",
+   "action": "shingle and front detail",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "marbled dark sienna and white",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "small knife fits small places",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "structure",
+   "action": "darker side wall",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "darker roll of paint",
+   "motion": "barely dragging",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "less light hits this side",
+   "new": ""
+  },
+  {
+   "t": "10:05",
+   "subject": "structure",
+   "action": "straight brown door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on the knife",
+   "motion": "coming across",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:45",
+   "subject": "structure",
+   "action": "window and edge highlights",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tiny blue and white mix",
+   "motion": "small loop",
+   "pressure": "light",
+   "where": "front window",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:25",
+   "subject": "grass",
+   "action": "grassy layers around cabin",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "yellow ochre",
+    "sap green",
+    "indian yellow"
+   ],
+   "load": "thin mixed colors on the knife",
+   "motion": "barely touching",
+   "pressure": "light",
+   "where": "cabin sides",
+   "rule": "different colors show when touched to yellow",
+   "new": ""
+  },
+  {
+   "t": "12:03",
+   "subject": "path",
+   "action": "path to the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "pushing a winding shape",
+   "pressure": "light",
+   "where": "bottom of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "bush",
+   "action": "tap small bush shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "back bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "trunk/limbs",
+   "action": "thin trunks and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "very thin brown and white with thinner",
+   "motion": "turning bristles down",
+   "pressure": "light",
+   "where": "side trees",
+   "rule": "",
+   "new": "turning makes trunks"
+  },
+  {
+   "t": "16:26",
+   "subject": "leaf tree",
+   "action": "foliage clumps",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "midnight black"
+   ],
+   "load": "green and yellow with a touch of black",
+   "motion": "tapping clumps",
+   "pressure": "light",
+   "where": "back foliage",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "leaf tree",
+   "action": "highlights on big tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "highlight mix",
+   "motion": "tapping clumps",
+   "pressure": "light",
+   "where": "right side tree",
+   "rule": "dark gaps give depth",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "land",
+   "action": "darker ground in back",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tapped color on the brush",
+   "motion": "tapping and lifting",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "working from far to near gives depth",
+   "new": ""
+  },
+  {
+   "t": "22:46",
+   "subject": "land",
+   "action": "hill on the other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:40",
+   "subject": "grass",
+   "action": "lighten grass so brown shows",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on the fan brush",
+   "motion": "barely touching",
+   "pressure": "light",
+   "where": "bottom of grassy areas",
+   "rule": "white reveals the dark brown underneath",
+   "new": ""
+  },
+  {
+   "t": "26:32",
+   "subject": "other: signature",
+   "action": "signature in bright red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "tapping sign",
+   "pressure": "light",
+   "where": "lower right",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

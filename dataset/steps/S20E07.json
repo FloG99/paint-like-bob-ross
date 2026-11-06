@@ -1,0 +1,674 @@
+{
+ "ep": "S20E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid white",
+  "bright red",
+  "titanium white",
+  "alizarin crimson",
+  "sap green",
+  "phthalo blue",
+  "black",
+  "Van Dyke brown",
+  "dark sienna",
+  "cad yellow",
+  "Indian yellow",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "crisscross red sky, lighter toward the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of bright red on the brush",
+   "motion": "criss-cross strokes up from the horizon",
+   "pressure": "light",
+   "where": "sky above the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:13",
+   "subject": "water",
+   "action": "horizontal strokes of pink for the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "pinkish color from the sky",
+   "motion": "horizontal strokes",
+   "pressure": "light",
+   "where": "lower canvas, the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:41",
+   "subject": "cloud",
+   "action": "tap cloud shapes and strokes into the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "Van Dyke brown with a little dark sienna",
+   "motion": "tap and stroke upward",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:28",
+   "subject": "sky",
+   "action": "tap one bright light spot in the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white on the brush",
+   "motion": "tap one spot",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:54",
+   "subject": "sky",
+   "action": "blend the sky out with a clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend lightly",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "mountain",
+   "action": "drop a mountain shape in with firm pressure",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "alizarin crimson and sap green mixed about equal",
+   "motion": "drop it in with firm pressure",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "mountain",
+   "action": "pull the paint across with the 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull across the canvas",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "less paint on the canvas makes the next layer easier",
+   "new": ""
+  },
+  {
+   "t": "05:23",
+   "subject": "mountain",
+   "action": "highlight mix rolled on the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "white with a little bright red rolled on the knife",
+   "motion": "cut a roll and place highlights",
+   "pressure": "unknown",
+   "where": "highlight area on the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "mountain",
+   "action": "blue-gray shadow strokes with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "white with a little blue, black and crimson",
+   "motion": "touch and caress the canvas",
+   "pressure": "whisper",
+   "where": "mountain area",
+   "rule": "a ridge of paint on the knife saves trouble",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mountain",
+   "action": "tiny dark accents with the small knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson and blue, lavender tone",
+   "motion": "tap small dark shapes here and there",
+   "pressure": "light",
+   "where": "small areas across the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:25",
+   "subject": "mist",
+   "action": "tap base with clean dry brush and lift",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap and lift following the angles",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "otherwise you destroy everything you have done",
+   "new": ""
+  },
+  {
+   "t": "10:37",
+   "subject": "evergreen",
+   "action": "tap evergreen tree shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown from sap green + alizarin crimson",
+   "motion": "tap a small tree in place",
+   "pressure": "light",
+   "where": "on the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:03",
+   "subject": "far trees",
+   "action": "tap little indications of trees behind",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with brown",
+   "motion": "tap little shapes",
+   "pressure": "light",
+   "where": "back area behind the evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "bush",
+   "action": "push bushy shapes in",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "still loaded with brown",
+   "motion": "push bushy shapes in",
+   "pressure": "light",
+   "where": "bushy areas along the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "reflection",
+   "action": "pull straight down, then gently across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "brush loaded with brown",
+   "motion": "pull straight down, then across",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:05",
+   "subject": "bush",
+   "action": "bushes with yellow and green",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "liquid white with cad yellow and sap green",
+   "motion": "push in bush shapes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "bush",
+   "action": "yellow ochre and red bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "yellow ochre with a touch of bright red",
+   "motion": "pop bushes in one at a time",
+   "pressure": "light",
+   "where": "bushes along the area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "reflection",
+   "action": "touch of bush color reflected in the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "a touch of the same color",
+   "motion": "lightly reflect into the water",
+   "pressure": "light",
+   "where": "water below the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:12",
+   "subject": "land",
+   "action": "tap a little land in brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "brown with a little white and dark sienna",
+   "motion": "put a little land in",
+   "pressure": "light",
+   "where": "lower canvas, under the trees",
+   "rule": "the trees need ground so they do not fall in the water",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "land",
+   "action": "few highlights on the land",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna mixed",
+   "motion": "tap a few highlights here and there",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "too far away to show much detail",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "other: small dabs along the shoreline",
+   "action": "pop in little dabs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "Indian yellow, yellow ochre and red on the fan",
+   "motion": "pop in a few little things",
+   "pressure": "light",
+   "where": "along the land line",
+   "rule": "it breaks up the line and brings everything together",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "water line",
+   "action": "cut a water line with liquid white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white rolled on the knife edge",
+   "motion": "saw back and forth, tilt the knife",
+   "pressure": "unknown",
+   "where": "water line area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:09",
+   "subject": "leaf tree",
+   "action": "tap little trees on the side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown made from crimson and sap green",
+   "motion": "tap a basic tree shape",
+   "pressure": "light",
+   "where": "behind the other trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:54",
+   "subject": "land",
+   "action": "basic shapes of ground under the trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brown",
+   "motion": "push in basic shapes",
+   "pressure": "light",
+   "where": "lower area under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "evergreen",
+   "action": "tap a few reddish highlights on the trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "still loaded from the brown",
+   "motion": "tap a few highlights",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "evergreen",
+   "action": "dark green-black fan evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "green and black with a little blue and crimson",
+   "motion": "load full and push the tree out",
+   "pressure": "unknown",
+   "where": "on the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "evergreen",
+   "action": "another evergreen with a little thinner",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with the dark green",
+   "motion": "push out the tree shape",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "a little thinner helps paint stick over what is behind",
+   "new": "thinner added to the brush"
+  },
+  {
+   "t": "18:35",
+   "subject": "evergreen",
+   "action": "big evergreen on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with the dark green",
+   "motion": "push out the tree shape",
+   "pressure": "light",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "trunk/limbs",
+   "action": "little trunks in the evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white left from earlier",
+   "motion": "tap a trunk in each tree",
+   "pressure": "light",
+   "where": "on the evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:31",
+   "subject": "bush",
+   "action": "dark bush shapes with the one-inch",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix on the one-inch brush",
+   "motion": "push in dark shapes",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:18",
+   "subject": "evergreen",
+   "action": "big evergreens with a double-loaded fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "one side thin light color, the other side brown",
+   "motion": "pull and push out tree shapes",
+   "pressure": "light",
+   "where": "back, behind the trees",
+   "rule": "double loading paints both sides of a tree at once",
+   "new": ""
+  },
+  {
+   "t": "21:58",
+   "subject": "leaf tree",
+   "action": "push upward for leaves and branches",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark green mix on the fan",
+   "motion": "push upward with the fan corner",
+   "pressure": "light",
+   "where": "among the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "trunk/limbs",
+   "action": "leave a little trunk showing",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with the green",
+   "motion": "lift and separate the limbs",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:12",
+   "subject": "leaf tree",
+   "action": "green highlights on the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on a fan brush",
+   "motion": "tap a few highlights",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:34",
+   "subject": "trunk/limbs",
+   "action": "few limbs with highlights on the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on the fan",
+   "motion": "tap a few limbs",
+   "pressure": "light",
+   "where": "on this tree and the other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "land",
+   "action": "brown soil and a water line with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white with liquid white",
+   "motion": "scrape the soil in",
+   "pressure": "unknown",
+   "where": "bottom of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "bush",
+   "action": "bright red bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red on the brush",
+   "motion": "tap in bush shapes",
+   "pressure": "light",
+   "where": "lower bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:20",
+   "subject": "bush",
+   "action": "one bush at a time in bright red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red",
+   "motion": "tap one bush at a time",
+   "pressure": "light",
+   "where": "mid and right side bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "land",
+   "action": "straighten the edge and add a bit of soil",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "straighten the edge with the fan",
+   "pressure": "light",
+   "where": "bottom edge into the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "trunk/limbs",
+   "action": "scrape a few sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through the paint",
+   "pressure": "unknown",
+   "where": "scattered across the canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

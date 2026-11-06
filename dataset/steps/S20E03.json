@@ -1,0 +1,496 @@
+{
+ "ep": "S20E03",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "top",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:42",
+   "subject": "sky",
+   "action": "add small indian yellow at top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount",
+   "motion": "place into position",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:05",
+   "subject": "sky",
+   "action": "blend yellow ochre into the yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "no cleaning, ochre added",
+   "motion": "small criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "sky",
+   "action": "add a tiny bit of bright red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tiny amount, brush not cleaned",
+   "motion": "drop in small amount",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "sky",
+   "action": "add lavender in blue sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "crimson-heavy mix on brush",
+   "motion": "small criss-cross strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "lavender against yellow avoids a bright green",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "sky",
+   "action": "add titanium white at center of sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on clean brush",
+   "motion": "blend outward from center",
+   "pressure": "light",
+   "where": "center of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:23",
+   "subject": "sky",
+   "action": "blend white sky lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "standing back shows if colors blend",
+   "new": ""
+  },
+  {
+   "t": "06:37",
+   "subject": "mountain",
+   "action": "lay out ridge line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "pull paint flat, cut a tiny roll",
+   "motion": "lay out ridge",
+   "pressure": "light",
+   "where": "upper ridge line",
+   "rule": "only the top edge matters at this point",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "mountain",
+   "action": "add pink-white touch on ridge edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "very little red and white on knife",
+   "motion": "touch and let paint drop",
+   "pressure": "whisper",
+   "where": "ridge edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:05",
+   "subject": "mountain",
+   "action": "add shadow touches to ridge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "black, white and lavender mix",
+   "motion": "tap in small shadow spots",
+   "pressure": "light",
+   "where": "shadow areas of ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "mountain",
+   "action": "add small peaks and bumps",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same mix",
+   "motion": "touch and drop in",
+   "pressure": "light",
+   "where": "lower areas and peaks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:06",
+   "subject": "mountain",
+   "action": "blend most of ridge paint out",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend out lightly",
+   "pressure": "light",
+   "where": "ridge area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:26",
+   "subject": "mist",
+   "action": "tap soft misty bottom of ridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap bottom then blend upward",
+   "pressure": "light",
+   "where": "bottom of ridge",
+   "rule": "soft bottom reads as misty",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "far trees",
+   "action": "tap distant trees downward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "fan loaded full",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "far back of canvas",
+   "rule": "more trees avoid a fence-post look",
+   "new": ""
+  },
+  {
+   "t": "15:37",
+   "subject": "mist",
+   "action": "tap firmly for mist",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "base of far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "far trees",
+   "action": "add darker layer above misty gap",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "lavender with a little brown",
+   "motion": "tap up above mist",
+   "pressure": "light",
+   "where": "above the mist line",
+   "rule": "misty gap keeps the layers separate",
+   "new": ""
+  },
+  {
+   "t": "17:13",
+   "subject": "evergreen",
+   "action": "paint a tree with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "back and forth with corner",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:35",
+   "subject": "evergreen",
+   "action": "paint second evergreen with sparse limbs",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "few sparse limbs",
+   "pressure": "light",
+   "where": "beside first evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:56",
+   "subject": "mist",
+   "action": "blend misty layer off with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush blend",
+   "pressure": "light",
+   "where": "end of foothill layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "mountain",
+   "action": "tap base color for foothills",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix on big brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper area for foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "mountain",
+   "action": "add pink highlights to foothills",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "thinned with liquid white",
+   "motion": "tap highlights in place",
+   "pressure": "light",
+   "where": "foothill edges",
+   "rule": "thin paint sticks to the thick layer below",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "snow",
+   "action": "pull titanium white down as snow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "pinkish touch left on brush",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:42",
+   "subject": "leaf tree",
+   "action": "block in trees with lavender brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "lavender and brown on big brush",
+   "motion": "block in base color",
+   "pressure": "light",
+   "where": "middle right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:29",
+   "subject": "snow",
+   "action": "add snow-covered highlights on tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "red and white on brush",
+   "motion": "tap snow shapes following form",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "snow must follow form to give shape",
+   "new": ""
+  },
+  {
+   "t": "24:19",
+   "subject": "snow",
+   "action": "pull tree shadow into snow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "pull out into snow",
+   "pressure": "light",
+   "where": "snow area beside tree",
+   "rule": "shadow shows another plane",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "trunk/limbs",
+   "action": "add trunk indications",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "touch of liquid white",
+   "motion": "small trunk indications",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in sticks and twigs",
+   "pressure": "light",
+   "where": "around trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "bush",
+   "action": "scrape in small bush at base",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in shape",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:12",
+   "subject": "trunk/limbs",
+   "action": "paint thin naked tree outline",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned brown on liner",
+   "motion": "draw thin outline and arms",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:58",
+   "subject": "mountain",
+   "action": "pull hill color into snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "crimson and blue with a touch of white",
+   "motion": "pull off into snow",
+   "pressure": "light",
+   "where": "lower right edge of snow",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

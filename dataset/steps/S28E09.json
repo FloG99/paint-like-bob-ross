@@ -1,0 +1,493 @@
+{
+ "ep": "S28E09",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "criss-cross blue sky strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount of phthalo blue",
+   "motion": "little X criss-cross strokes, working outward",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "sky",
+   "action": "add prussian blue into blue sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo blue"
+   ],
+   "load": "prussian blue loaded without cleaning",
+   "motion": "criss-cross, blend down into phthalo",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:56",
+   "subject": "sky",
+   "action": "darker layers away from light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "prussian blue and midnight black",
+   "motion": "layers darker, moving away from the light",
+   "pressure": "unknown",
+   "where": "outer sky",
+   "rule": "wet canvas lets paint blend easily",
+   "new": ""
+  },
+  {
+   "t": "04:08",
+   "subject": "sun/glow",
+   "action": "light area with one corner of 2in",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "one corner of the 2in in titanium white",
+   "motion": "start around in circles, working outward",
+   "pressure": "unknown",
+   "where": "light source area",
+   "rule": "the lightest part should be the brightest",
+   "new": ""
+  },
+  {
+   "t": "04:59",
+   "subject": "sun/glow",
+   "action": "repeat cleaned white for brighter light",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "fresh white on a cleaned brush",
+   "motion": "work outward again",
+   "pressure": "unknown",
+   "where": "light source area",
+   "rule": "repeating makes the light a little brighter",
+   "new": ""
+  },
+  {
+   "t": "05:27",
+   "subject": "sky",
+   "action": "blend rest of sky into graduation",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "blend until no stopping line shows",
+   "pressure": "light",
+   "where": "rest of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:13",
+   "subject": "mountain",
+   "action": "test light blue hill tone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "light blue mix, a little white",
+   "motion": "touch on fan and test against the sky",
+   "pressure": "unknown",
+   "where": "far back, hill area",
+   "rule": "nearly sky colored so the hill recedes",
+   "new": ""
+  },
+  {
+   "t": "07:04",
+   "subject": "mountain",
+   "action": "blend far hills softly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "pull gently and blend together",
+   "pressure": "light",
+   "where": "far hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "mountain",
+   "action": "tap foothills and push upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue"
+   ],
+   "load": "phthalo and prussian on bristle ends",
+   "motion": "tap, push, add color up the hill",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "far trees",
+   "action": "lift upward for tiny far trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "lift straight up",
+   "pressure": "unknown",
+   "where": "far away",
+   "rule": "lifting up makes small trees look far away",
+   "new": ""
+  },
+  {
+   "t": "09:08",
+   "subject": "grass",
+   "action": "lift tiny grass down hill side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "lift up, down the side of the hill",
+   "pressure": "unknown",
+   "where": "side of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "far trees",
+   "action": "lift straight up on hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "lift up, keeping lines straight",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "lines must go straight up or it looks windy",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "snow",
+   "action": "load white for snow on mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "snow climbing up the mountain side",
+   "pressure": "unknown",
+   "where": "back, mountain side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:17",
+   "subject": "evergreen",
+   "action": "mix blue, white and black for trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mostly blue with a little white and black",
+   "motion": "let them wander down the side",
+   "pressure": "unknown",
+   "where": "in front of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "mist",
+   "action": "tap tree base softer, then lift",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "tap, then lift upward",
+   "pressure": "unknown",
+   "where": "base of the trees",
+   "rule": "base should be softer than the top",
+   "new": ""
+  },
+  {
+   "t": "14:02",
+   "subject": "snow",
+   "action": "smooth snow up to tree base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "smooth snow up to the base of the trees",
+   "pressure": "unknown",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:52",
+   "subject": "bush",
+   "action": "touch and lift small bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "touch and lift upward",
+   "pressure": "unknown",
+   "where": "among the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:22",
+   "subject": "water",
+   "action": "blue river shape far back",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "the same blue mix",
+   "motion": "lay basic river shapes gently",
+   "pressure": "unknown",
+   "where": "far back",
+   "rule": "far away, so only basic shapes are needed",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "water",
+   "action": "blend river to smooth it out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "gently blend it out",
+   "pressure": "light",
+   "where": "river area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "far trees",
+   "action": "lift stand of trees higher",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "lift up, higher than the ones above",
+   "pressure": "unknown",
+   "where": "far back",
+   "rule": "these sit a little closer, so higher",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "snow",
+   "action": "clean snow at tree base with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "clean the base up",
+   "pressure": "unknown",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "evergreen",
+   "action": "evergreen tree near the front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "blue mix with a little white",
+   "motion": "use the corner, working down",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "covers up a small area that needs it",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "evergreen",
+   "action": "highlights on evergreens with thin paint",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "phthalo with white, thinned with liquid white",
+   "motion": "drop in a few highlights on the tree",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "snow",
+   "action": "drop in and pull up snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white from the fan",
+   "motion": "drop in and pull up, smooth out",
+   "pressure": "unknown",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:48",
+   "subject": "rock",
+   "action": "blend stone under tree with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "shadow color on brush",
+   "motion": "blend the stone out with the big brush",
+   "pressure": "unknown",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:17",
+   "subject": "leaf tree",
+   "action": "big tree, darker blue, placed off center",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "darker blue mix with very little white",
+   "motion": "push big tree down, one side of center",
+   "pressure": "unknown",
+   "where": "left of center",
+   "rule": "off-center placement avoids bothering the eye",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "leaf tree",
+   "action": "small friend tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "shake out a small tree",
+   "pressure": "unknown",
+   "where": "small tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "evergreen",
+   "action": "highlights on trees with thinned blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "phthalo with liquid and titanium white",
+   "motion": "drop in highlights",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "liquid white only thins the color",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "bush",
+   "action": "bushy touches, touch and lift",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "touch and lift",
+   "pressure": "unknown",
+   "where": "around the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "sign it",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[09:33] lines must go straight up or the trees look windy"
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "ep": "S28E04",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "upper center behind a limb",
+ "guest": false,
+ "palette": [
+  "black gesso",
+  "white gesso",
+  "gray gesso",
+  "titanium white",
+  "phthalo blue",
+  "prussian blue",
+  "indian yellow",
+  "alizarin crimson",
+  "sap green",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:50",
+   "subject": "other: background glow",
+   "action": "lightest area in center with paper towel",
+   "tool": "other: paper towel",
+   "part": "unknown",
+   "paint": [
+    "gesso"
+   ],
+   "load": "dip paper towel in gesso",
+   "motion": "dab and work outward from center",
+   "pressure": "light",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:18",
+   "subject": "other: background glow",
+   "action": "darken edges with gray gesso",
+   "tool": "other: paper towel",
+   "part": "unknown",
+   "paint": [
+    "gray gesso"
+   ],
+   "load": "same paper towel",
+   "motion": "press over the top",
+   "pressure": "light",
+   "where": "edges of canvas",
+   "rule": "darker edges make center look like sunlight",
+   "new": ""
+  },
+  {
+   "t": "04:11",
+   "subject": "far trees",
+   "action": "tree shapes with black gesso",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "black gesso",
+    "white gesso",
+    "gray gesso"
+   ],
+   "load": "black on light side, white on dark side, gray middle",
+   "motion": "touch then press harder going down",
+   "pressure": "light",
+   "where": "background tree line",
+   "rule": "trees look better bigger at base",
+   "new": ""
+  },
+  {
+   "t": "05:26",
+   "subject": "far trees",
+   "action": "far trees in gray and white",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "gray gesso",
+    "white gesso"
+   ],
+   "load": "gray gesso for far trees",
+   "motion": "build more trees",
+   "pressure": "light",
+   "where": "background tree line",
+   "rule": "farther from light so lighter",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "trunk/limbs",
+   "action": "thin limbs and twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "gray gesso",
+    "white gesso"
+   ],
+   "load": "add water to gesso",
+   "motion": "pull arms and twigs off trunks",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "enough water lets gesso slide over it",
+   "new": ""
+  },
+  {
+   "t": "09:44",
+   "subject": "trunk/limbs",
+   "action": "white arms on a few trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "white gesso"
+   ],
+   "load": "add a little water",
+   "motion": "bring arms off trunk",
+   "pressure": "light",
+   "where": "left side of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "trunk/limbs",
+   "action": "big monster tree trunk",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "black gesso"
+   ],
+   "load": "load foam brush with black gesso",
+   "motion": "press and move down",
+   "pressure": "medium",
+   "where": "center, across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:37",
+   "subject": "bush",
+   "action": "bottom bush indications",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "white gesso",
+    "gray gesso"
+   ],
+   "load": "touch with foam brush",
+   "motion": "touch, touch",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:53",
+   "subject": "path",
+   "action": "lay in path",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "black gesso",
+    "gray gesso"
+   ],
+   "load": "mix black and gray on foam brush",
+   "motion": "lay in path basically, flat",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:21",
+   "subject": "bush",
+   "action": "darker bush in front by path",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "black gesso"
+   ],
+   "load": "use black gesso",
+   "motion": "tap bush shape",
+   "pressure": "light",
+   "where": "side of path",
+   "rule": "front is darker because it is closer to light source",
+   "new": ""
+  },
+  {
+   "t": "15:07",
+   "subject": "other: whole canvas",
+   "action": "thin coat of liquid clear",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "liquid clear",
+   "motion": "long horizontal and vertical strokes",
+   "pressure": "light",
+   "where": "entire canvas",
+   "rule": "keeps coat even across canvas",
+   "new": ""
+  },
+  {
+   "t": "16:51",
+   "subject": "other: background glaze",
+   "action": "glaze over the top with phthalo blue",
+   "tool": "towel",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount of phthalo blue",
+   "motion": "rag wipe back to bush tops",
+   "pressure": "light",
+   "where": "top of canvas down to bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:38",
+   "subject": "other: corners",
+   "action": "darken corners with prussian blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a little prussian blue",
+   "motion": "tap in corners",
+   "pressure": "light",
+   "where": "corners of canvas",
+   "rule": "corners darker so middle looks lighter",
+   "new": ""
+  },
+  {
+   "t": "18:02",
+   "subject": "other: background",
+   "action": "cover with indian yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiny amount of indian yellow",
+   "motion": "cover whole area, let some blue show",
+   "pressure": "light",
+   "where": "whole background",
+   "rule": "leaving blue makes a greenish cast",
+   "new": ""
+  },
+  {
+   "t": "18:53",
+   "subject": "bush",
+   "action": "dark base of bushes, darkest at bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix crimson with more crimson than sap green",
+   "motion": "start at base and work upward",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:49",
+   "subject": "trunk/limbs",
+   "action": "pull dark color up onto trunks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "pull upward",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "sun/glow",
+   "action": "sun behind limb with corner of brush",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "corner of brush into white",
+   "motion": "touch and push over limb",
+   "pressure": "light",
+   "where": "upper center behind a limb",
+   "rule": "bright sun seems to burn through branch",
+   "new": ""
+  },
+  {
+   "t": "22:07",
+   "subject": "sun/glow",
+   "action": "pull light rays through trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "touch then pull out",
+   "pressure": "light",
+   "where": "through trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "bush",
+   "action": "add more blue to make greener",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "indian yellow"
+   ],
+   "load": "add blue to brush, mix with yellow",
+   "motion": "dab greener over bushes",
+   "pressure": "light",
+   "where": "over bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "sun/glow",
+   "action": "put light rays back in",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "pull out light rays",
+   "pressure": "light",
+   "where": "through trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "other: signature",
+   "action": "sign with red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "pick up a little red",
+   "motion": "write signature",
+   "pressure": "light",
+   "where": "lower corner of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

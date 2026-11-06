@@ -1,0 +1,460 @@
+{
+ "ep": "S08E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "crimson",
+  "titanium white",
+  "sap green",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "midnight black",
+  "liquid black",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:06",
+   "subject": "sky",
+   "action": "crisscross pink glow in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson"
+   ],
+   "load": "brush tapped into crimson",
+   "motion": "crisscross strokes with very little pressure",
+   "pressure": "light",
+   "where": "top of the canvas",
+   "rule": "keep the glow soft, not too bright",
+   "new": ""
+  },
+  {
+   "t": "01:42",
+   "subject": "sky",
+   "action": "lavender mix tested in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson with a tiny bit of blue on the same brush",
+   "motion": "test and blend in the sky",
+   "pressure": "light",
+   "where": "top of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "mountain",
+   "action": "block in the mountain outline with lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender roll on the knife edge",
+   "motion": "push firmly into the canvas",
+   "pressure": "hard",
+   "where": "along the horizon",
+   "rule": "only the outside shape matters at this stage",
+   "new": ""
+  },
+  {
+   "t": "05:02",
+   "subject": "mountain",
+   "action": "pull the mountain base out with liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the large brush",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "bottom of the mountain",
+   "rule": "mist and haze soften the light at the base",
+   "new": ""
+  },
+  {
+   "t": "05:40",
+   "subject": "mountain",
+   "action": "knife dabs of highlight and shadow on the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch of white on the knife",
+   "motion": "rub in lightly",
+   "pressure": "light",
+   "where": "far spots on the mountain",
+   "rule": "mountains far away so little detail is needed",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "mountain",
+   "action": "foothill blocked in with a lavender mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "crimson, a little blue and a touch of white",
+   "motion": "tap and pull downward",
+   "pressure": "light",
+   "where": "down here, a small foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "mist",
+   "action": "tap mist under the foothills",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean 2in brush",
+   "motion": "tap firmly then lift up",
+   "pressure": "firm",
+   "where": "base of the foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:46",
+   "subject": "mountain",
+   "action": "darker foothill layer in front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "same mix, a little darker with a touch of sap green",
+   "motion": "drop it down and tap",
+   "pressure": "light",
+   "where": "in front of the first foothill",
+   "rule": "closer things are darker in value so they stand apart",
+   "new": ""
+  },
+  {
+   "t": "09:25",
+   "subject": "mist",
+   "action": "tap mist at the base of the foothill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap firmly then lift upward",
+   "pressure": "firm",
+   "where": "base of the darker foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "mountain",
+   "action": "far hills in the distance",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "lavender with a tiny bit of sap green",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "way back in the distance",
+   "rule": "each new layer of hills adds depth to the painting",
+   "new": ""
+  },
+  {
+   "t": "11:20",
+   "subject": "mountain",
+   "action": "darker hill layers closer to the viewer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "same mix with a little more green",
+   "motion": "tap very gently",
+   "pressure": "light",
+   "where": "middle distance",
+   "rule": "closer hills get a bit darker",
+   "new": ""
+  },
+  {
+   "t": "11:58",
+   "subject": "evergreen",
+   "action": "evergreen trees pushed up with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender with a little white loaded full",
+   "motion": "touch for center then push upward",
+   "pressure": "light",
+   "where": "back, a few trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "land",
+   "action": "meadow highlights with yellows and a touch of red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellow mix with a tiny red",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "back meadow area",
+   "rule": "blending softens colors and creates depth",
+   "new": ""
+  },
+  {
+   "t": "15:50",
+   "subject": "evergreen",
+   "action": "more evergreen trees pushed up",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender with white on the old brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back up here",
+   "rule": "more trees give more practice",
+   "new": ""
+  },
+  {
+   "t": "16:27",
+   "subject": "other: dead tree",
+   "action": "dead tree in the back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same lavender on the brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back in the trees",
+   "rule": "dead trees make the painting look real",
+   "new": ""
+  },
+  {
+   "t": "17:04",
+   "subject": "trunk/limbs",
+   "action": "old limbs on the dead trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liquid black on the liner",
+   "motion": "small indications of limbs",
+   "pressure": "light",
+   "where": "on the dead trees in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "mountain",
+   "action": "base dark color for a new hill, leaving light gaps",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "crimson",
+    "phthalo blue"
+   ],
+   "load": "dark blue and crimson mix",
+   "motion": "lay base leaving gaps",
+   "pressure": "unknown",
+   "where": "new hill, right side",
+   "rule": "light gaps will create effects later",
+   "new": ""
+  },
+  {
+   "t": "19:34",
+   "subject": "mountain",
+   "action": "tap light touches of white and red on the hills",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "touch of white with red on the brush",
+   "motion": "tap on",
+   "pressure": "light",
+   "where": "middle of the hill",
+   "rule": "brighter on top looks like light striking a hill",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "mountain",
+   "action": "highlights with yellow and green on the hills",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green",
+    "bright red"
+   ],
+   "load": "yellow with a little green and red",
+   "motion": "tap highlights on",
+   "pressure": "light",
+   "where": "hill tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:31",
+   "subject": "trunk/limbs",
+   "action": "big tree trunks in black and brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "black and brown mixed on the brush",
+   "motion": "tap down",
+   "pressure": "firm",
+   "where": "on the mountain, big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:12",
+   "subject": "trunk/limbs",
+   "action": "white highlight down the trunk edge",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the second fan brush",
+   "motion": "pull down the edge",
+   "pressure": "light",
+   "where": "right down the edge of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:50",
+   "subject": "trunk/limbs",
+   "action": "more trunks in black and brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same black and brown mix",
+   "motion": "tap trunks in",
+   "pressure": "firm",
+   "where": "across the mountain, on a small hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "trunk/limbs",
+   "action": "quick highlight drops along trunks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the other fan brush",
+   "motion": "quick drops",
+   "pressure": "light",
+   "where": "along the trunks",
+   "rule": "light from the right is easier for right-handed painters",
+   "new": ""
+  },
+  {
+   "t": "24:49",
+   "subject": "trunk/limbs",
+   "action": "thin black limbs on the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liquid black thinned with thinner",
+   "motion": "bring to a point and drop limbs",
+   "pressure": "light",
+   "where": "on the trees, wherever",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "leaf tree",
+   "action": "dark leaves dabbed on the old trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "black on the fan brush",
+   "motion": "touch and push upward",
+   "pressure": "light",
+   "where": "on the old trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:43",
+   "subject": "leaf tree",
+   "action": "highlight leaves with sap green and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "fan brush with sap green and a touch of yellow",
+   "motion": "gently highlight",
+   "pressure": "light",
+   "where": "some of the leaves on this tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

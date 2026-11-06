@@ -1,0 +1,704 @@
+{
+ "ep": "S02E06",
+ "base": "flat black",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "prussian blue",
+  "alizarin crimson",
+  "burnt umber",
+  "van dyke brown",
+  "cad yellow",
+  "magic white",
+  "permanent red",
+  "sap green",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "sky",
+   "action": "play white into the sky",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the fan brush",
+   "motion": "light touches all over",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:41",
+   "subject": "sky",
+   "action": "blend sunset clouds in circles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush",
+   "motion": "turn the brush in circles",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:55",
+   "subject": "leaf tree",
+   "action": "general tree shapes base",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "load a lot of paint on the one-inch brush",
+   "motion": "block in general tree shapes",
+   "pressure": "unknown",
+   "where": "left and corners",
+   "rule": "keeps the sky showing through",
+   "new": ""
+  },
+  {
+   "t": "04:15",
+   "subject": "reflection",
+   "action": "pull yellow reflection down under the light source",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "small amount on the large brush",
+   "motion": "touch and pull straight down then across",
+   "pressure": "light",
+   "where": "under the light source",
+   "rule": "the light source makes this spot brighter",
+   "new": ""
+  },
+  {
+   "t": "05:32",
+   "subject": "trunk/limbs",
+   "action": "small trunks with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on the fan brush",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:57",
+   "subject": "trunk/limbs",
+   "action": "highlight trunks with yellow on one side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "yellow added to one side of the brush",
+   "motion": "touch and push",
+   "pressure": "light",
+   "where": "trunk sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "leaf tree",
+   "action": "thin yellow leaves with magic white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cad yellow"
+   ],
+   "load": "tiny bit of magic white into cad yellow",
+   "motion": "push in many little leaves",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "06:48",
+   "subject": "leaf tree",
+   "action": "red leaves in the yellows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "back to yellow after the red",
+   "motion": "push leaves in",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:20",
+   "subject": "leaf tree",
+   "action": "dull little indications with umber and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "umber mixed into the yellow",
+   "motion": "dab little things all over",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:37",
+   "subject": "land",
+   "action": "dark river bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown"
+   ],
+   "load": "mix burnt umber with van dyke brown",
+   "motion": "lay the bank in",
+   "pressure": "firm",
+   "where": "bottom of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:59",
+   "subject": "land",
+   "action": "highlight the bank with yellow and umber",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow",
+    "burnt umber"
+   ],
+   "load": "mix yellow and burnt umber",
+   "motion": "barely touch with the knife",
+   "pressure": "light",
+   "where": "edge of the bank",
+   "rule": "not too bright so it still stands out",
+   "new": ""
+  },
+  {
+   "t": "09:29",
+   "subject": "water line",
+   "action": "water line between reflection and land",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow",
+    "burnt umber"
+   ],
+   "load": "thin yellow with umber",
+   "motion": "short line under the bank",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "separates the reflection from the land",
+   "new": ""
+  },
+  {
+   "t": "09:55",
+   "subject": "land",
+   "action": "bring land and trees together with green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "a touch of green on the fan brush",
+   "motion": "work green downward",
+   "pressure": "light",
+   "where": "through the land and trees",
+   "rule": "brings the land and trees together",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "land",
+   "action": "big bank down the middle",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "on the fan brush",
+   "motion": "drop bank down",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:46",
+   "subject": "water line",
+   "action": "waterline under the bank",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "same brush",
+   "motion": "short line across",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "leaf tree",
+   "action": "airy loose leaves with magic white and red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "permanent red",
+    "cad yellow"
+   ],
+   "load": "large brush loaded",
+   "motion": "dab loose leaves",
+   "pressure": "light",
+   "where": "upper area under the light",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "leaf tree",
+   "action": "dark leaf mix and highlight at tree bottoms",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red",
+    "sap green"
+   ],
+   "load": "mix sap green into the yellow and red",
+   "motion": "dab at bottoms of the trees",
+   "pressure": "light",
+   "where": "bottom of trees",
+   "rule": "enough light to suggest many little things behind",
+   "new": ""
+  },
+  {
+   "t": "12:34",
+   "subject": "leaf tree",
+   "action": "tree on the far side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mix on the brush",
+   "motion": "block in a tree",
+   "pressure": "unknown",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "trunk/limbs",
+   "action": "trunk indications here and there",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap trunk shapes",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "scattered in the trees",
+   "new": ""
+  },
+  {
+   "t": "13:25",
+   "subject": "leaf tree",
+   "action": "highlight tree with yellow and red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix on the brush",
+   "motion": "touch where the light would strike",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "adding green dulls the color because red and green make brown",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "bush",
+   "action": "a couple of small bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small bush shapes",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "land",
+   "action": "ground with brown and umber",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix on the brush",
+   "motion": "lay in the ground",
+   "pressure": "firm",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "land",
+   "action": "highlight ground with yellow and umber",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "mix on the brush",
+   "motion": "light highlight strokes",
+   "pressure": "light",
+   "where": "on the ground",
+   "rule": "enough to make it stand out slightly",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "reflection",
+   "action": "reflect the bright fireball into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "pop a little color on the brush",
+   "motion": "pull down into the water",
+   "pressure": "light",
+   "where": "right side of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:30",
+   "subject": "grass",
+   "action": "grassy areas with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "more sap green on the fan brush",
+   "motion": "push upward to bend the grass",
+   "pressure": "firm",
+   "where": "bottom of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:19",
+   "subject": "water line",
+   "action": "water line under the bank with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "push a line with the knife",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "trunk/limbs",
+   "action": "scratch sticks with the clean knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scratch a few sticks",
+   "pressure": "light",
+   "where": "across the painting",
+   "rule": "sticks help create depth since each group shows different planes",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "land",
+   "action": "bring land area together with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brush land together",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:34",
+   "subject": "path",
+   "action": "path in van dyke brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the fan brush",
+   "motion": "back and forth down the path",
+   "pressure": "light",
+   "where": "path area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "grass",
+   "action": "grassy area climbing the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix all colors on the brush",
+   "motion": "push grassy strokes up the hill",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:48",
+   "subject": "bush",
+   "action": "small bushes on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "same mix",
+   "motion": "tap bushes",
+   "pressure": "light",
+   "where": "along the hill",
+   "rule": "higher bushes catch more light so they are brighter",
+   "new": ""
+  },
+  {
+   "t": "19:15",
+   "subject": "path",
+   "action": "highlight the path with burnt umber",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "on the fan brush",
+   "motion": "back and forth light touches",
+   "pressure": "light",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "land",
+   "action": "hill over the old path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bring the hill down",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "path",
+   "action": "path with magic white and yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow ochre"
+   ],
+   "load": "mix in magic white and yellow ochre",
+   "motion": "begin path strokes",
+   "pressure": "light",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "bush",
+   "action": "bush closing the end of the path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow ochre"
+   ],
+   "load": "same mix",
+   "motion": "tap a bush shape",
+   "pressure": "light",
+   "where": "end of path",
+   "rule": "closes the path end so it is unclear where it goes",
+   "new": ""
+  },
+  {
+   "t": "22:03",
+   "subject": "trunk/limbs",
+   "action": "more sticks scratched through the paint",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch through the paint",
+   "pressure": "light",
+   "where": "scattered in painting",
+   "rule": "scratching shows the black canvas through",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "rock",
+   "action": "basic little stone shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "basic stone shape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lower area",
+   "new": "yellow and umber make a good highlight on dark paintings"
+  },
+  {
+   "t": "22:55",
+   "subject": "rock",
+   "action": "knife edge highlights on the stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "marbled umber and yellow",
+   "motion": "let the knife wander down the side",
+   "pressure": "light",
+   "where": "side of stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "rock",
+   "action": "color under the rock to blend it in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "fan brush",
+   "motion": "lay color underneath",
+   "pressure": "light",
+   "where": "under the rock",
+   "rule": "so the rock does not float above everything",
+   "new": ""
+  },
+  {
+   "t": "23:52",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "few little sticks",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "other: signature",
+   "action": "thin paint for the signature",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin with oil and sharpen the point",
+   "pressure": "firm",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:41",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "sign in a way unique to the painter",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

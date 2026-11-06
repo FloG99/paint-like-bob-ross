@@ -1,0 +1,753 @@
+{
+ "ep": "S01E10",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "phthalo green",
+  "titanium white",
+  "permanent red",
+  "van dyke brown",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "big brush blue strokes from the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "blue worked into bristles",
+   "motion": "moving paint around at the top",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:00",
+   "subject": "water line",
+   "action": "lake water with green and a sheen left open",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "touch of green added to blue",
+   "motion": "bringing the water together",
+   "pressure": "light",
+   "where": "middle lake area",
+   "rule": "leaving an open area reads as light across the water",
+   "new": ""
+  },
+  {
+   "t": "01:27",
+   "subject": "cloud",
+   "action": "pink-tinged cloud puffs with moving strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "white with a touch of red",
+   "motion": "keeping the brush moving",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "a bit of pink makes clouds look like sunshine",
+   "new": ""
+  },
+  {
+   "t": "02:44",
+   "subject": "cloud",
+   "action": "hypnotize the cloud lightly with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle brushing",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "overworking a cloud kills its softness",
+   "new": ""
+  },
+  {
+   "t": "03:35",
+   "subject": "cloud",
+   "action": "another cloud with a dark gap between clouds",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "same mix",
+   "motion": "blending and fluffing",
+   "pressure": "light",
+   "where": "right of the first cloud",
+   "rule": "a dark gap separates the clouds",
+   "new": ""
+  },
+  {
+   "t": "04:28",
+   "subject": "mountain",
+   "action": "ridge pushed into the canvas with blue brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "grey mixed on the knife",
+   "motion": "pushing hard into the canvas",
+   "pressure": "firm",
+   "where": "ridge across the canvas",
+   "rule": "blue is much stronger so use it sparingly",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "mountain",
+   "action": "pull the ridge downward with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pulling downward",
+   "pressure": "light",
+   "where": "bottom of ridge",
+   "rule": "paint lightens toward the bottom as it blends with the base",
+   "new": ""
+  },
+  {
+   "t": "05:43",
+   "subject": "mountain",
+   "action": "shadow color from brown white and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "mixed shadow color",
+   "motion": "mixing",
+   "pressure": "light",
+   "where": "mountain mix",
+   "rule": "highlights and shadows alternate so we work back and forth",
+   "new": ""
+  },
+  {
+   "t": "06:17",
+   "subject": "mountain",
+   "action": "subdued cliff strokes with very little paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "grey roll of paint on the knife",
+   "motion": "light strikes here and there",
+   "pressure": "whisper",
+   "where": "ridge face",
+   "rule": "very little paint keeps the ridge subdued",
+   "new": ""
+  },
+  {
+   "t": "07:18",
+   "subject": "mountain",
+   "action": "diffuse the ridge with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "diffusing",
+   "pressure": "light",
+   "where": "ridge",
+   "rule": "diffusing softens and pushes the ridge back",
+   "new": ""
+  },
+  {
+   "t": "08:45",
+   "subject": "mountain",
+   "action": "ridge coming down into the lake",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pulling down",
+   "pressure": "light",
+   "where": "ridge end",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "mountain",
+   "action": "small shadows and projections on the ridge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "shadow color on the knife",
+   "motion": "tapping small bits",
+   "pressure": "light",
+   "where": "ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:06",
+   "subject": "mist",
+   "action": "soft mist diffused over the ridge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "diffusing lightly",
+   "pressure": "light",
+   "where": "ridge base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:36",
+   "subject": "cloud",
+   "action": "thin clouds drifting over the mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "laying thin cloud shapes",
+   "pressure": "light",
+   "where": "over the mountain",
+   "rule": "thick paint underneath first or it turns to mud",
+   "new": ""
+  },
+  {
+   "t": "11:36",
+   "subject": "cloud",
+   "action": "hypnotize the thin clouds very gently",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very gentle touch",
+   "pressure": "whisper",
+   "where": "over the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:00",
+   "subject": "land",
+   "action": "sap green and brown mix for land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "mixed together on the brush",
+   "motion": "laying in color",
+   "pressure": "light",
+   "where": "middle ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "reflection",
+   "action": "instant reflections pulled down then across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "carried over land color",
+   "motion": "pulling down then across",
+   "pressure": "light",
+   "where": "under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "grass",
+   "action": "bright green highlights on little grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "liquid white with white and green",
+   "motion": "dabbing highlights",
+   "pressure": "light",
+   "where": "grassy areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:34",
+   "subject": "reflection",
+   "action": "bright green reflected into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo green"
+   ],
+   "load": "carried over",
+   "motion": "pulling down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:18",
+   "subject": "far trees",
+   "action": "very dark tree shapes with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix on the fan",
+   "motion": "back and forth then pushing downward",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:00",
+   "subject": "water line",
+   "action": "water lines and dirt color pulled into reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "liquid white with brown",
+   "motion": "straight lines in back",
+   "pressure": "light",
+   "where": "back waterline area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "beach",
+   "action": "dry brush lift for a beach",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lifting a touch",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "thin paint moves over the other without destroying it",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "trunk/limbs",
+   "action": "small sticks and stems with straight white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "dabbing sticks and stems",
+   "pressure": "light",
+   "where": "scattered here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "evergreen",
+   "action": "dark evergreen with one inch brush",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "letting it drip off the brush",
+   "pressure": "light",
+   "where": "middle right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:30",
+   "subject": "bush",
+   "action": "small bushy trees with reflections underneath",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "pulling reflections down",
+   "pressure": "light",
+   "where": "bushy tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:59",
+   "subject": "trunk/limbs",
+   "action": "trunk indications with a highlight",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark brown then white",
+   "motion": "dabbing trunks",
+   "pressure": "light",
+   "where": "here and there among bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:59",
+   "subject": "bush",
+   "action": "green bush with sap green",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on the brush",
+   "motion": "touching and pushing",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "reflection",
+   "action": "reflections pulled down from the trees",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle pulls",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "land",
+   "action": "soil with brown then let it wander",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "laying soil",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "rock",
+   "action": "brown and white highlights shaped like stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mixed",
+   "motion": "touching and shaping",
+   "pressure": "light",
+   "where": "bottom of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "water line",
+   "action": "flat straight water line under the land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "straight lines",
+   "pressure": "light",
+   "where": "middle lake edge",
+   "rule": "still water has to be flat so lines stay straight",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "land",
+   "action": "pushed brown strokes into the canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "pulling across",
+   "pressure": "firm",
+   "where": "land near the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:32",
+   "subject": "land",
+   "action": "light brown and blue dirt area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "grey brown mix",
+   "motion": "pulling across",
+   "pressure": "light",
+   "where": "dirt area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:58",
+   "subject": "leaf tree",
+   "action": "dark tree built with blue brown and sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "building tree shapes",
+   "pressure": "light",
+   "where": "right of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "trunk/limbs",
+   "action": "trunks and highlights on the dark tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "adding trunks and highlights",
+   "pressure": "light",
+   "where": "on the dark tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "bush",
+   "action": "little bushes in the dark mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "little bushes",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "path",
+   "action": "dark path area leading down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "laying a dark strip",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "leaf tree",
+   "action": "tree shapes on both sides",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "touching in both sides",
+   "pressure": "light",
+   "where": "middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "leaf tree",
+   "action": "dark leaves on the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "dabbing leaves",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:31",
+   "subject": "leaf tree",
+   "action": "highlights on the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "adding highlights",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "land",
+   "action": "small marks showing the land falls away",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "small marks",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "indicates the land works down that way",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "trunk/limbs",
+   "action": "sticks cut through the paint across the area",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cutting through the paint",
+   "pressure": "light",
+   "where": "throughout the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:44",
+   "subject": "other: small marks",
+   "action": "dark marks with thin oil",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark mix thinned with oil",
+   "motion": "dropping small marks",
+   "pressure": "light",
+   "where": "scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:44",
+   "subject": "trunk/limbs",
+   "action": "old dead limbs here and there",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark brown",
+   "motion": "marking limbs",
+   "pressure": "light",
+   "where": "scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:20",
+   "subject": "leaf tree",
+   "action": "dark green leaves with light highlights on the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "prussian blue"
+   ],
+   "load": "dark green mix",
+   "motion": "touching highlights",
+   "pressure": "light",
+   "where": "tree areas",
+   "rule": "highlights suggest light playing on the trees",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

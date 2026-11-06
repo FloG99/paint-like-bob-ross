@@ -1,0 +1,603 @@
+{
+ "ep": "S27E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "titanium white",
+  "midnight black",
+  "prussian blue",
+  "van dyke brown",
+  "dark sienna",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:22",
+   "subject": "sky",
+   "action": "add yellow glow in sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "dab a small amount of yellow",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "a little warmth keeps winter from feeling too cold",
+   "new": ""
+  },
+  {
+   "t": "01:12",
+   "subject": "sky",
+   "action": "gray sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix white and black to a dark gray",
+   "motion": "criss-cross strokes from top down",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "winter brings many gray skies",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "sky",
+   "action": "blend sky from light to dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend from light area toward dark area",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "cloud",
+   "action": "small cloud circles",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "tap gray brush into paint",
+   "motion": "tiny circles with the corner",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:00",
+   "subject": "cloud",
+   "action": "blend cloud base into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently blend base so it dissolves",
+   "pressure": "light",
+   "where": "base of cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "cloud",
+   "action": "light spot in cloud",
+   "tool": "other: blender brush",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap blender corner in white",
+   "motion": "blend in gently",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "far trees",
+   "action": "lighter gray for distant trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "pull lighter gray with a wiggle",
+   "motion": "pull the brush with a wiggle",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:13",
+   "subject": "far trees",
+   "action": "indicate distant trees",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "bend brush sideways for trees",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "distant trees need little detail, closer ones get more",
+   "new": ""
+  },
+  {
+   "t": "06:02",
+   "subject": "mist",
+   "action": "mist at base of far trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap firmly then lift upward",
+   "pressure": "firm",
+   "where": "base of far trees",
+   "rule": "lifting upward removes the tap marks",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "evergreen",
+   "action": "dark tree shapes closest to us",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "gray with least touch of blue",
+   "motion": "push upward for limbs",
+   "pressure": "firm",
+   "where": "closest trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:38",
+   "subject": "evergreen",
+   "action": "bigger tree with more detail",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "darker black mix",
+   "motion": "push upward for limbs",
+   "pressure": "unknown",
+   "where": "right side",
+   "rule": "more sunlight on this one means more detail",
+   "new": ""
+  },
+  {
+   "t": "08:31",
+   "subject": "evergreen",
+   "action": "darker row of trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "darken with brown",
+   "motion": "push sideways and upward",
+   "pressure": "firm",
+   "where": "side of canvas",
+   "rule": "darker layers make planes that create depth",
+   "new": ""
+  },
+  {
+   "t": "08:59",
+   "subject": "evergreen",
+   "action": "push big tree to bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push hard toward the bottom",
+   "pressure": "hard",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "mist",
+   "action": "mist at tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap firmly then lift gently",
+   "pressure": "firm",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:11",
+   "subject": "snow",
+   "action": "tap in powdery snow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap brush into white",
+   "motion": "tap then blend gently with blender",
+   "pressure": "light",
+   "where": "back hill",
+   "rule": "green snow looks wrong, so snow stays white",
+   "new": ""
+  },
+  {
+   "t": "13:03",
+   "subject": "snow",
+   "action": "blue shadow in snow",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "least touch of blue on blender",
+   "motion": "blend down low",
+   "pressure": "light",
+   "where": "lower snow area",
+   "rule": "blue marks the shadows in snow closer to us",
+   "new": ""
+  },
+  {
+   "t": "14:20",
+   "subject": "structure",
+   "action": "house block-in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "mix browns with a little crimson",
+   "motion": "scrape basic cabin shape",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "dark goes in first so snow can sit on the roof",
+   "new": ""
+  },
+  {
+   "t": "15:05",
+   "subject": "structure",
+   "action": "logs across roof top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "load brown mix",
+   "motion": "short dabs across for logs",
+   "pressure": "light",
+   "where": "cabin top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:57",
+   "subject": "structure",
+   "action": "logs the other direction",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light area first then logs the other way",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "the angles matter because we see the front and side",
+   "new": ""
+  },
+  {
+   "t": "16:20",
+   "subject": "structure",
+   "action": "darken other side of cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "add brown to the other side",
+   "motion": "small marks on that side",
+   "pressure": "light",
+   "where": "other side of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "structure",
+   "action": "light in window",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "mix yellow and white",
+   "motion": "dab light in window",
+   "pressure": "light",
+   "where": "window area",
+   "rule": "a lit window hints someone is home",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "structure",
+   "action": "window panes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small pane lines",
+   "pressure": "light",
+   "where": "window area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "structure",
+   "action": "outline roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "outline then come down",
+   "pressure": "light",
+   "where": "roof area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:55",
+   "subject": "snow",
+   "action": "snow on other roof side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "leave it rough or smooth",
+   "pressure": "light",
+   "where": "roof area",
+   "rule": "leaving it rough looks natural as snow starts to decay",
+   "new": ""
+  },
+  {
+   "t": "18:19",
+   "subject": "structure",
+   "action": "block in porch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "pull a little brown",
+   "motion": "basic shape out front",
+   "pressure": "light",
+   "where": "front of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "snow",
+   "action": "snow on porch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "add snow on porch",
+   "pressure": "light",
+   "where": "porch",
+   "rule": "snow on the roof means snow on the porch",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "structure",
+   "action": "porch posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on brush",
+   "motion": "small posts",
+   "pressure": "light",
+   "where": "porch",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:28",
+   "subject": "snow",
+   "action": "snow by porch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "dab snow and blend lightly",
+   "pressure": "light",
+   "where": "along the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "path",
+   "action": "white road path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "wander a road up into the scene",
+   "pressure": "light",
+   "where": "middle back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:46",
+   "subject": "fence",
+   "action": "old fence remnant",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on brush",
+   "motion": "small remnant fence",
+   "pressure": "light",
+   "where": "right of the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:46",
+   "subject": "snow",
+   "action": "snow on fence rail",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "lay white above the rail",
+   "pressure": "light",
+   "where": "fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "grass",
+   "action": "weeds at fence post base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown with thinner",
+   "motion": "small weeds and sticks",
+   "pressure": "light",
+   "where": "base of fence posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "trunk/limbs",
+   "action": "branches on old tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brown thinned",
+   "motion": "add branches here and there",
+   "pressure": "light",
+   "where": "old tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "trunk/limbs",
+   "action": "more branches for birds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add limbs and branches",
+   "pressure": "light",
+   "where": "old tree",
+   "rule": "a few branches give birds a place to sit",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "snow",
+   "action": "icicles off posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "liquid white on brush",
+   "motion": "pull thin lines down from posts",
+   "pressure": "light",
+   "where": "posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "path",
+   "action": "deepen road bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "load gray",
+   "motion": "outline bank then blend in",
+   "pressure": "light",
+   "where": "road bank",
+   "rule": "adds depth along that roadside",
+   "new": ""
+  },
+  {
+   "t": "23:50",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "load red",
+   "motion": "sign it",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

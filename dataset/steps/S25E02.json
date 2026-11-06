@@ -1,0 +1,478 @@
+{
+ "ep": "S25E02",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "sap green",
+  "titanium white",
+  "indian yellow",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:49",
+   "subject": "other: background wash",
+   "action": "cover canvas with brown mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "equal parts mix on the brush",
+   "motion": "thin even coat",
+   "pressure": "light",
+   "where": "entire canvas",
+   "rule": "thin coat keeps it like a glaze",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "other: background",
+   "action": "spin in light glow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "indian yellow"
+   ],
+   "load": "a little of each without washing",
+   "motion": "spinning with the corner",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "start at the lightest area and blend outward",
+   "new": ""
+  },
+  {
+   "t": "04:55",
+   "subject": "far trees",
+   "action": "tap in background tree shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "small amount with a little white",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "up in the background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "trunk/limbs",
+   "action": "paint thin branches and stems",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thinned to ink with paint thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "scattered through the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:38",
+   "subject": "other: dark edges",
+   "action": "load solid dark color for the edges",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "solid dark mix",
+   "motion": "dabbing",
+   "pressure": "medium",
+   "where": "outer edges of the painting",
+   "rule": "dark edges force the eye to the bright center",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "trunk/limbs",
+   "action": "tap in limbs and hanging branches",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tapped into the bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "the oval brush makes branches almost automatically",
+   "new": ""
+  },
+  {
+   "t": "09:53",
+   "subject": "other: lighter accents",
+   "action": "tap lighter accents",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix with a little white",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "a few spots on the limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:17",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "up in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:58",
+   "subject": "trunk/limbs",
+   "action": "add arms to a big trunk",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinned mix carried over",
+   "motion": "stretching strokes",
+   "pressure": "light",
+   "where": "on the big trunk",
+   "rule": "arms reach out to catch as much light as possible",
+   "new": ""
+  },
+  {
+   "t": "13:20",
+   "subject": "bush",
+   "action": "paint bush trunk and legs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "a little thinned brown",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "base of the bush",
+   "rule": "legs let the bush stand up",
+   "new": ""
+  },
+  {
+   "t": "14:12",
+   "subject": "bush",
+   "action": "paint dark bush mass",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "pure dark mix not diluted",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:12",
+   "subject": "waterfall",
+   "action": "paint waterfall streak",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white thinned with clear, both sides loaded",
+   "motion": "swishing down",
+   "pressure": "light",
+   "where": "up in this area",
+   "rule": "thinned so it flows smoothly",
+   "new": ""
+  },
+  {
+   "t": "14:55",
+   "subject": "rock",
+   "action": "highlight the stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "small roll of highlight color",
+   "motion": "light tapping",
+   "pressure": "whisper",
+   "where": "on the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "waterfall",
+   "action": "lift the white upward to blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "lifting upward",
+   "pressure": "light",
+   "where": "on the waterfall",
+   "rule": "lifting blends it together",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "waterfall",
+   "action": "flick thinner for foam bubbles",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dipped in thinner and shaken",
+   "motion": "flicking",
+   "pressure": "light",
+   "where": "bottom of the waterfall",
+   "rule": "thinner reacts with the clear to make bubbles",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "rock",
+   "action": "block in brown stone above waterfall",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "pulling",
+   "pressure": "medium",
+   "where": "above the waterfall",
+   "rule": "it contains the waterfall",
+   "new": ""
+  },
+  {
+   "t": "17:19",
+   "subject": "rock",
+   "action": "highlight top of the stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown with a little white",
+   "motion": "pulling down",
+   "pressure": "whisper",
+   "where": "top of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:33",
+   "subject": "bush",
+   "action": "tap bush shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tapped into the bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "around the rock and below",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:23",
+   "subject": "bush",
+   "action": "paint bush over the waterfall",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "over the waterfall",
+   "rule": "in front of the waterfall pushes it back for depth",
+   "new": ""
+  },
+  {
+   "t": "19:48",
+   "subject": "mist",
+   "action": "soften mist where water hits",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch on the corner",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "far back where water hits",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "water",
+   "action": "pull white down as a river",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white on the brush",
+   "motion": "pulling straight down",
+   "pressure": "light",
+   "where": "below the waterfall",
+   "rule": "brown underneath mixes with white on its own",
+   "new": ""
+  },
+  {
+   "t": "20:36",
+   "subject": "reflection",
+   "action": "tap mist and reflections together",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "mist and reflections area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:25",
+   "subject": "bush",
+   "action": "highlight darker bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch of yellow ochre on the dirty brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "darker bushes",
+   "rule": "a little highlight separates the bushes",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "land",
+   "action": "block in land area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "blocking in",
+   "pressure": "light",
+   "where": "bottom of the painting",
+   "rule": "gives the trees something to sit on",
+   "new": ""
+  },
+  {
+   "t": "23:53",
+   "subject": "trunk/limbs",
+   "action": "paint light twigs in dark areas",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "lighter brown mix",
+   "motion": "sticks and twigs",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "lighter color stands out where it is dark",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "water line",
+   "action": "add small water lines",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "liquid white on the liner",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "out in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "other: hanging roots",
+   "action": "let roots hang over the bank",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "pulling down",
+   "pressure": "light",
+   "where": "over the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:55",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "thinned to ink",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

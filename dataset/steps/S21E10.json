@@ -1,0 +1,587 @@
+{
+ "ep": "S21E10",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "prussian blue",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:20",
+   "subject": "sky",
+   "action": "mix black and blue for the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mixed on the brush",
+   "motion": "x-shaped strokes from the top down",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "blend the color down so it lightens toward the horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "liquid white"
+   ],
+   "load": "paint mixes with white on the canvas",
+   "motion": "pull across the whole canvas",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "color lightens toward the horizon as it mixes with white",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "water",
+   "action": "add black and blue water across the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same mix from the brush",
+   "motion": "start at the outside edge and pull inward",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "starting at the edge avoids a hard line that is hard to blend",
+   "new": ""
+  },
+  {
+   "t": "03:22",
+   "subject": "water",
+   "action": "blend the bottom and leave a light sheen open",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same mix",
+   "motion": "blend lightly, leave a light area open",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "a light opening becomes a sheen of light",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "cloud",
+   "action": "tap titanium white on the fan brush for clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load both sides of the fan",
+   "motion": "work small tight circles",
+   "pressure": "medium",
+   "where": "cloud spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "cloud",
+   "action": "tiny circles to shape the white cloud",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "work in tight tiny circles",
+   "pressure": "medium",
+   "where": "cloud spot",
+   "rule": "do not stay in one spot or it looks like a cotton ball",
+   "new": ""
+  },
+  {
+   "t": "05:29",
+   "subject": "cloud",
+   "action": "blend the cloud with the top bristles of a dry 2in",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "pull the top bristles lightly over the cloud",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "only thick dry paint blends this way, so keep it dry",
+   "new": ""
+  },
+  {
+   "t": "06:16",
+   "subject": "cloud",
+   "action": "fluff the layered cloud edges",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "fluff lightly",
+   "pressure": "light",
+   "where": "top layer of cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:49",
+   "subject": "cloud",
+   "action": "mix gray on a fan brush for darker layers",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "gray on the fan brush",
+   "motion": "tap layers of gray clouds",
+   "pressure": "light",
+   "where": "layers above the first cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:40",
+   "subject": "cloud",
+   "action": "blend layer bottoms back and fluff the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "dry brush blends the base back",
+   "pressure": "light",
+   "where": "cloud base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "cloud",
+   "action": "let a small cloud slip down as a front floater",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "gray and white on the brush",
+   "motion": "tap a small floater",
+   "pressure": "light",
+   "where": "front of the cloud range",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:19",
+   "subject": "cloud",
+   "action": "blend the cloud bases and the sky together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush blends the base out",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:07",
+   "subject": "mountain",
+   "action": "add a basic mountain with black and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark gray mix on the fan",
+   "motion": "drop in peaks that fade out",
+   "pressure": "light",
+   "where": "middle canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "mountain",
+   "action": "pull mountain color across the wet canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull across the canvas",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "a wet canvas lets the color move",
+   "new": ""
+  },
+  {
+   "t": "12:59",
+   "subject": "mountain",
+   "action": "add titanium white snow on the mountain tops",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small knife with white",
+   "motion": "rub, turning the knife to widen down the mountain",
+   "pressure": "light",
+   "where": "mountain tops",
+   "rule": "keep the dark areas, they become shadows",
+   "new": ""
+  },
+  {
+   "t": "15:41",
+   "subject": "other: trees",
+   "action": "tap gray for little trees growing up the mountain side",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "gray on the 1in brush",
+   "motion": "touch and lift upward",
+   "pressure": "light",
+   "where": "side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "other: trees",
+   "action": "lift up tiny far trees with a clean dry 1in",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "mountain sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "snow",
+   "action": "add another tree layer with snow at the base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "add a small layer and snow at the base",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "snow at the base brings it together",
+   "new": ""
+  },
+  {
+   "t": "18:01",
+   "subject": "evergreen",
+   "action": "tap far evergreens with a fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue-black-white mix, not too dark",
+   "motion": "touch and pull downward",
+   "pressure": "light",
+   "where": "back, far away",
+   "rule": "not too dark, since several layers will follow",
+   "new": ""
+  },
+  {
+   "t": "19:16",
+   "subject": "mist",
+   "action": "tap the base with a clean 2in to create mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "mist makes the winter scene feel colder",
+   "new": ""
+  },
+  {
+   "t": "20:06",
+   "subject": "grass",
+   "action": "push up grassy things at the base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mix from the brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "evergreen",
+   "action": "push harder down the tree from the corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mix from the fan",
+   "motion": "push harder moving down the tree",
+   "pressure": "firm",
+   "where": "bigger tree, right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:19",
+   "subject": "snow",
+   "action": "pull dark color through a white brush for shadow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "white with a pull of dark",
+   "motion": "pull down a little dark area",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:43",
+   "subject": "snow",
+   "action": "fill in snow with angled strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the 2in",
+   "motion": "fill in along the angles",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "angles matter for snow",
+   "new": ""
+  },
+  {
+   "t": "22:07",
+   "subject": "water",
+   "action": "pull dark straight down for a pond",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "darker mix on the brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "lower center",
+   "rule": "a pull creates a sheen on the pond",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "water line",
+   "action": "cut a water line with thinned white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "liquid white thinned with titanium white",
+   "motion": "cut a line like a hole",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "thin paint sticks better",
+   "new": ""
+  },
+  {
+   "t": "22:54",
+   "subject": "water",
+   "action": "pull titanium white straight through the lake",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "pull straight through",
+   "pressure": "light",
+   "where": "lake area",
+   "rule": "pulling pushes the lake area back",
+   "new": ""
+  },
+  {
+   "t": "23:21",
+   "subject": "evergreen",
+   "action": "tap a small evergreen with fan blue-black",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "blue-black mix on the fan",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "near the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "evergreen",
+   "action": "pull a shadow under the evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same fan",
+   "motion": "pull the bottom for a shadow",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "evergreen",
+   "action": "tap an evergreen on the other side",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same fan brush",
+   "motion": "tap the tree from the corner",
+   "pressure": "light",
+   "where": "other side, large tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "evergreen",
+   "action": "bend the little evergreen over",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same fan brush",
+   "motion": "bend the tip over",
+   "pressure": "light",
+   "where": "tree at the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "reflection",
+   "action": "pull a 2in straight down for reflections",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "pull straight down, then across",
+   "pressure": "light",
+   "where": "below the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:24",
+   "subject": "evergreen",
+   "action": "darker tree in front with stronger values",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "darker mix on the fan",
+   "motion": "tap darker tree",
+   "pressure": "light",
+   "where": "front of scene",
+   "rule": "darker values in front make it stand out",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "water line",
+   "action": "cut a liquid white water line by the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "liquid white on the brush",
+   "motion": "cut a water line",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "water",
+   "action": "add a sheen ripple and scrape in sticks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean knife",
+   "motion": "scrape in sticks and twigs",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

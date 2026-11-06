@@ -1,0 +1,497 @@
+{
+ "ep": "S26E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "titanium white",
+  "midnight black",
+  "alizarin crimson",
+  "sap green",
+  "vandyke brown",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "crisscross blue sky strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a small amount of blue tapped into bristles",
+   "motion": "little X strokes",
+   "pressure": "light",
+   "where": "top of the canvas",
+   "rule": "easier to add blue later than take it off",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "water",
+   "action": "pull blue across for still water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "more blue added to the bristles",
+   "motion": "pull from the outside inward",
+   "pressure": "light",
+   "where": "lower area, across the canvas",
+   "rule": "a gap left open reads as a sheen of light",
+   "new": ""
+  },
+  {
+   "t": "04:52",
+   "subject": "cloud",
+   "action": "tap a basic cloud shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white tapped into the bristles",
+   "motion": "tap the basic shape",
+   "pressure": "light",
+   "where": "in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "cloud",
+   "action": "fluff and soften clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle fluffing with a dry brush",
+   "pressure": "whisper",
+   "where": "the cloud group",
+   "rule": "a dry brush keeps the clouds soft",
+   "new": ""
+  },
+  {
+   "t": "06:50",
+   "subject": "far trees",
+   "action": "tap far tree shapes with gray",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "gray mix loaded to a sharp chisel edge",
+   "motion": "touch and give a little push",
+   "pressure": "light",
+   "where": "back, far away",
+   "rule": "far things need only basic shape and color",
+   "new": ""
+  },
+  {
+   "t": "09:17",
+   "subject": "mist",
+   "action": "tap misty area at the base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap at the base then lift upward",
+   "pressure": "light",
+   "where": "bottom of the canvas",
+   "rule": "a misty area makes the trees stand out",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "reflection",
+   "action": "pull trees straight down as reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then go across",
+   "pressure": "light",
+   "where": "under the tree group",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:24",
+   "subject": "water line",
+   "action": "cut in a straight waterline",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thinned white on the knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "middle of the water",
+   "rule": "water is flat, so waterlines stay straight",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "evergreen",
+   "action": "dark tree masses",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "dark mix piled on the brush, wiggled to a point",
+   "motion": "touch the canvas, then work back and forth",
+   "pressure": "light",
+   "where": "the big tree, center then outward",
+   "rule": "wiggling pulls the paint to the bristle tips",
+   "new": ""
+  },
+  {
+   "t": "12:48",
+   "subject": "evergreen",
+   "action": "second dark tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "back and forth with the corner",
+   "pressure": "light",
+   "where": "lower area, another tree right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:13",
+   "subject": "evergreen",
+   "action": "tree with a bend, pushed harder down",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "same dark mix, sharp edge",
+   "motion": "push harder as it goes down",
+   "pressure": "medium",
+   "where": "one more tree, off to the side",
+   "rule": "trees with character look better than straight poles",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "land",
+   "action": "land under the tree reflections",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "dark mix still on the brush",
+   "motion": "pull across to make the reflection",
+   "pressure": "light",
+   "where": "under the tree group",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:27",
+   "subject": "trunk/limbs",
+   "action": "tree trunks here and there",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "roll of white and dark sienna on the knife",
+   "motion": "dab trunks here and there",
+   "pressure": "light",
+   "where": "here and there, in the trees",
+   "rule": "trunks suggest more trees hidden behind",
+   "new": ""
+  },
+  {
+   "t": "15:15",
+   "subject": "evergreen",
+   "action": "big tree off the canvas",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "work back and forth",
+   "pressure": "light",
+   "where": "one side, runs off the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:04",
+   "subject": "evergreen",
+   "action": "another tree separated by highlights",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "vandyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "another tree, right there",
+   "rule": "highlights will separate the trees",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "trunk/limbs",
+   "action": "tree trunks on this side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "trunk strokes",
+   "pressure": "light",
+   "where": "this side of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "trunk/limbs",
+   "action": "scrape hanging limbs with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in hanging limbs",
+   "pressure": "light",
+   "where": "the big tree",
+   "rule": "evergreens always have limbs that hang off them",
+   "new": ""
+  },
+  {
+   "t": "17:39",
+   "subject": "evergreen",
+   "action": "yellow-green highlights on tree",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "tree color on the brush, loaded with cad yellow",
+   "motion": "strokes on both sides of the tree",
+   "pressure": "light",
+   "where": "both sides of the tree",
+   "rule": "blue and black in the base color turn yellow into green",
+   "new": ""
+  },
+  {
+   "t": "18:04",
+   "subject": "evergreen",
+   "action": "farthest tree first, darker lower",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "same mix with yellow ochre added",
+   "motion": "work down, getting darker",
+   "pressure": "light",
+   "where": "farthest tree, dark at the bottom",
+   "rule": "shadows are big down low",
+   "new": ""
+  },
+  {
+   "t": "20:07",
+   "subject": "land",
+   "action": "lay in land along the angles",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "edge loaded by tapping into the color",
+   "motion": "touch and follow the angles",
+   "pressure": "light",
+   "where": "where the land slopes down",
+   "rule": "water sits in low spots, so land slopes toward it",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "land",
+   "action": "more land on the other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner or liquid white on the brush",
+   "motion": "lay more land on the other side",
+   "pressure": "light",
+   "where": "other side of the canvas",
+   "rule": "liquid white makes the color brighter",
+   "new": ""
+  },
+  {
+   "t": "22:00",
+   "subject": "grass",
+   "action": "tap grassy areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap soft or distinct grass",
+   "pressure": "light",
+   "where": "in the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "bush",
+   "action": "push in a small bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push and bend the bristles",
+   "pressure": "medium",
+   "where": "down the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:47",
+   "subject": "leaf tree",
+   "action": "small tree with indian yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "indian yellow touched in",
+   "motion": "push a little bitty tree",
+   "pressure": "medium",
+   "where": "right there, and one on the other side too",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "bush",
+   "action": "small bush low down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place little bush",
+   "pressure": "light",
+   "where": "right down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:54",
+   "subject": "water line",
+   "action": "light waterline to separate the darks",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "liquid white pulled out flat",
+   "motion": "cut straight across",
+   "pressure": "light",
+   "where": "under the bush, between the darks",
+   "rule": "a light area separates the two darks",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "water line",
+   "action": "keep waterline straight, add ripples",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "few ripples here and there",
+   "pressure": "light",
+   "where": "along the waterline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "trunk/limbs",
+   "action": "pop in a few sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pop in sticks and twigs",
+   "pressure": "light",
+   "where": "out here, both sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:40",
+   "subject": "other: signature",
+   "action": "sign with crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "crimson thinned with paint thinner",
+   "motion": "write the signature",
+   "pressure": "light",
+   "where": "bottom of the canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,633 @@
+{
+ "ep": "S06E06",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "top",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "van dyke brown",
+  "alizarin crimson",
+  "titanium white",
+  "burnt umber",
+  "yellow ochre",
+  "cadmium yellow",
+  "phthalo green",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "sky",
+   "action": "criss-cross sky strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "blue with a little van dyke brown",
+   "motion": "criss-cross strokes across top",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "van dyke brown dulls the blue so it is less bright",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "cloud",
+   "action": "build small fluffy clouds",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "heavy load of white",
+   "motion": "tiny circles, let them fall off",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "keep moving or the clouds become one heavy cotton ball",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "cloud",
+   "action": "blend cloud bottoms very gently",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend, do not touch the tops",
+   "pressure": "whisper",
+   "where": "cloud bottoms",
+   "rule": "overworking clouds is a common mistake",
+   "new": ""
+  },
+  {
+   "t": "03:01",
+   "subject": "cloud",
+   "action": "fluff the cloud tops",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift and fluff",
+   "pressure": "whisper",
+   "where": "clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "far trees",
+   "action": "block in distant tree shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "blue, crimson and white thinned with paint thinner",
+   "motion": "drop in basic shapes",
+   "pressure": "light",
+   "where": "background",
+   "rule": "a thicker layer must lie under thin paint",
+   "new": ""
+  },
+  {
+   "t": "05:02",
+   "subject": "mist",
+   "action": "tap the base of distant trees for mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "firm",
+   "where": "base of far trees",
+   "rule": "softened bottoms create the illusion of mist",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "far trees",
+   "action": "add a closer layer with brown and umber",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brown and umber added to the thin mix",
+   "motion": "tap in a closer layer",
+   "pressure": "light",
+   "where": "middle distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "mist",
+   "action": "tap mist at base of the layer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift",
+   "pressure": "whisper",
+   "where": "base of middle layer",
+   "rule": "each layer adds depth and makes the scene look farther",
+   "new": ""
+  },
+  {
+   "t": "07:32",
+   "subject": "bush",
+   "action": "block in bushes poking through the snow",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "burnt umber and white mixed on brush",
+   "motion": "barely touch with corner taps",
+   "pressure": "whisper",
+   "where": "back area in the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "bush",
+   "action": "tap yellow ochre on bush tops",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount of yellow ochre",
+   "motion": "tap the top",
+   "pressure": "whisper",
+   "where": "top of bushes",
+   "rule": "warm tones keep the winter scene from looking cold",
+   "new": ""
+  },
+  {
+   "t": "09:13",
+   "subject": "trunk/limbs",
+   "action": "touch in thin tree trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner, sharp point",
+   "motion": "light touches",
+   "pressure": "whisper",
+   "where": "background trees",
+   "rule": "thin paint needs only a touch to show",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "snow",
+   "action": "lay snow along the lay of the land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white with a tiny bit of crimson",
+   "motion": "barely touch, follow the land",
+   "pressure": "whisper",
+   "where": "snow areas, furthest first",
+   "rule": "stroke angles follow the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "10:55",
+   "subject": "snow",
+   "action": "add blue shadows in the snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny bit of blue on the fan",
+   "motion": "soft strokes",
+   "pressure": "whisper",
+   "where": "snow shadow areas",
+   "rule": "a little blue creates shadows in the snow",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "bush",
+   "action": "let burnt umber bushes run down onto the snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "burnt umber on the fan",
+   "motion": "let them run down",
+   "pressure": "light",
+   "where": "bushes and snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "bush",
+   "action": "highlight the bush tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "small amount of cadmium yellow",
+   "motion": "barely tap on top",
+   "pressure": "whisper",
+   "where": "top of each bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:10",
+   "subject": "snow",
+   "action": "lay snow on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "lay snow over the hill",
+   "pressure": "light",
+   "where": "middle hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:59",
+   "subject": "bush",
+   "action": "tap yellow ochre on hill tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on the fan",
+   "motion": "barely tap",
+   "pressure": "whisper",
+   "where": "top of each hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:48",
+   "subject": "snow",
+   "action": "pull brown down into the snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "a little burnt umber",
+   "motion": "pull down lightly",
+   "pressure": "light",
+   "where": "snow edges",
+   "rule": "brown in the snow helps carry the shadows",
+   "new": ""
+  },
+  {
+   "t": "14:38",
+   "subject": "leaf tree",
+   "action": "mix a dark color for background trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "equal parts, a little more crimson",
+   "motion": "mix on brush",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "both colors are transparent, so the dark stays see-through",
+   "new": ""
+  },
+  {
+   "t": "15:35",
+   "subject": "leaf tree",
+   "action": "drop in old tree trunk from the base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "fan loaded with the dark mix",
+   "motion": "pull and drop trunk shape",
+   "pressure": "light",
+   "where": "left side back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:59",
+   "subject": "leaf tree",
+   "action": "dab leaf impressions on the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "back and forth dabs",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:55",
+   "subject": "leaf tree",
+   "action": "add a smaller tree farther back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "drop in leaves and a foot",
+   "pressure": "light",
+   "where": "farther back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:17",
+   "subject": "snow",
+   "action": "tap the bottom and pull snow in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap, then pull snow with fan",
+   "pressure": "whisper",
+   "where": "bottom of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:50",
+   "subject": "leaf tree",
+   "action": "leave gaps in a big tree on the edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "limbs hang over from the edge",
+   "pressure": "light",
+   "where": "right edge",
+   "rule": "leaving gaps lets sky show through, adding depth",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "leaf tree",
+   "action": "touch yellow ochre on the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "tiny taps",
+   "pressure": "whisper",
+   "where": "tree tips",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "leaf tree",
+   "action": "touch in another tree with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "paint thinner with brown",
+   "motion": "turn brush and make limbs",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "evergreen",
+   "action": "tap rough edge on evergreen",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of paint on the fan",
+   "motion": "tap the edge",
+   "pressure": "light",
+   "where": "edge of evergreen",
+   "rule": "evergreen edges look rough, so tapping suits them",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "evergreen",
+   "action": "add light side on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white and brown mix",
+   "motion": "stroke down the other side",
+   "pressure": "light",
+   "where": "other side of evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "snow",
+   "action": "blend a shadow at base of tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "light blend",
+   "pressure": "whisper",
+   "where": "snow near tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:51",
+   "subject": "trunk/limbs",
+   "action": "add small limbs hanging down",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "hang limbs out",
+   "pressure": "light",
+   "where": "evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "evergreen",
+   "action": "block in big dark evergreen with rough edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of dark paint",
+   "motion": "drop in big tree, rough edge",
+   "pressure": "firm",
+   "where": "right side big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:09",
+   "subject": "evergreen",
+   "action": "add light side to big tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white and brown mix",
+   "motion": "sweep light side",
+   "pressure": "light",
+   "where": "one side of big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "snow",
+   "action": "blend snow up around tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "base of big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:56",
+   "subject": "trunk/limbs",
+   "action": "add big limb bending across tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little more brown",
+   "motion": "bend a big limb across tree",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "dead limbs give the tree character",
+   "new": ""
+  },
+  {
+   "t": "24:19",
+   "subject": "grass",
+   "action": "add weeds and leafy bits in the snow",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "almost straight burnt umber",
+   "motion": "touch then lift",
+   "pressure": "whisper",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:44",
+   "subject": "rock",
+   "action": "add a small stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "touch in stone",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:44",
+   "subject": "snow",
+   "action": "pull snow over the stone",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "touch and come over the stone",
+   "pressure": "whisper",
+   "where": "top of stone",
+   "rule": "snow covers the top of the stone",
+   "new": ""
+  },
+  {
+   "t": "25:10",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "paint thinner with red",
+   "motion": "turn brush and write",
+   "pressure": "light",
+   "where": "corner of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[05:02] softened bottoms of distant trees create the illusion of mist",
+  "[11:46] highlights sit on top where the light strikes"
+ ]
+}

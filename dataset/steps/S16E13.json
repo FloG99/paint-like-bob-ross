@@ -1,0 +1,467 @@
+{
+ "ep": "S16E13",
+ "base": "liquid white over black gesso and lavender glaze",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "van dyke brown",
+  "dark sienna",
+  "cadmium yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:49",
+   "subject": "sky",
+   "action": "soft blue sky fading downward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny amount of blue on 2in brush",
+   "motion": "soft strokes fading down",
+   "pressure": "whisper",
+   "where": "top of canvas, fading down",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "leaf tree",
+   "action": "basic limb shapes over trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over dark in bristles",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "limbs over one side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "far trees",
+   "action": "tiny far tree shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "pick up more paint from pile",
+   "motion": "back and forth",
+   "pressure": "unknown",
+   "where": "way back, one tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:44",
+   "subject": "trunk/limbs",
+   "action": "thin lavender trunks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thin lavender with paint thinner",
+   "motion": "trunk and twig strokes",
+   "pressure": "unknown",
+   "where": "up here, tree trunk",
+   "rule": "paint thinner helps the paint flow",
+   "new": ""
+  },
+  {
+   "t": "04:22",
+   "subject": "far trees",
+   "action": "mauve leaves on distant tree",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "tap mauve mix into brush tips",
+   "motion": "corner dabs",
+   "pressure": "unknown",
+   "where": "distant tree in back",
+   "rule": "thinner keeps color, liquid white shifts it",
+   "new": ""
+  },
+  {
+   "t": "05:34",
+   "subject": "far trees",
+   "action": "bluer mauve leaves",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "add more blue to mix",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "distant trees, blending toward sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:44",
+   "subject": "bush",
+   "action": "green bush with sap green and yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "mix sap green with yellow ochre",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "little bush in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:34",
+   "subject": "bush",
+   "action": "darker bush shade",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "darker same mauve mix",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "bush area in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:45",
+   "subject": "far trees",
+   "action": "darker strokes back here",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "darker mix",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "back of canvas, dark area",
+   "rule": "two brushes keep green and pink from mixing",
+   "new": ""
+  },
+  {
+   "t": "09:43",
+   "subject": "water",
+   "action": "pull water straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little titanium white on 2in brush",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "back area, about the middle",
+   "rule": "transparent color underneath mixes with white automatically",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "land",
+   "action": "dark land mass with roll",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll of brown on knife",
+   "motion": "roll brown onto canvas, add dirt",
+   "pressure": "unknown",
+   "where": "back ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "land",
+   "action": "edge of land with dark sienna and white",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "small roll of dark sienna with a little white",
+   "motion": "cut across, barely touching",
+   "pressure": "whisper",
+   "where": "edge of the land",
+   "rule": "paint brighter than normal so it shows on TV",
+   "new": ""
+  },
+  {
+   "t": "13:08",
+   "subject": "bush",
+   "action": "bush projecting down on land",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "onto the land",
+   "rule": "dark is needed in order for light to show",
+   "new": ""
+  },
+  {
+   "t": "13:57",
+   "subject": "water line",
+   "action": "lavender water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender from knife, mix in white and blue",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "here and there along the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:30",
+   "subject": "water",
+   "action": "fan highlights on water",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white and blue mix on fan brush",
+   "motion": "light highlight strokes",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "do not cover reflections, they show through highlights",
+   "new": ""
+  },
+  {
+   "t": "14:55",
+   "subject": "waterfall",
+   "action": "tiny waterfall splash where water hits",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tiny strokes at the drop",
+   "pressure": "light",
+   "where": "bottom of the little waterfall",
+   "rule": "small splash keeps the scene peaceful and calm",
+   "new": ""
+  },
+  {
+   "t": "15:44",
+   "subject": "bush",
+   "action": "bush group along this side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same mauve color as before",
+   "motion": "bush shapes",
+   "pressure": "unknown",
+   "where": "along this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "bush",
+   "action": "yellow and green bush with bright red touch",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows and greens with a touch of bright red",
+   "motion": "tap indication",
+   "pressure": "unknown",
+   "where": "another bush right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "bush",
+   "action": "lavender bush back and forth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender from other brush",
+   "motion": "back and forth strokes",
+   "pressure": "unknown",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:18",
+   "subject": "rock",
+   "action": "small brown stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown on brush",
+   "motion": "drop in a stone shape",
+   "pressure": "unknown",
+   "where": "middle area, a stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "rock",
+   "action": "highlight on stone",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [],
+   "load": "highlight color on brush",
+   "motion": "bounce, barely touching",
+   "pressure": "light",
+   "where": "top of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "trunk/limbs",
+   "action": "thin brown tree trunks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin brown with a little white and thinner",
+   "motion": "touch and turn the brush, wiggle",
+   "pressure": "unknown",
+   "where": "up in here, trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:36",
+   "subject": "trunk/limbs",
+   "action": "dark trunk on old tree other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark brown mix",
+   "motion": "touch in trunk and widen it",
+   "pressure": "unknown",
+   "where": "other side, old tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "leaf tree",
+   "action": "highlights on big trees",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [],
+   "load": "green already on brush",
+   "motion": "tap color onto tip, corner strokes",
+   "pressure": "unknown",
+   "where": "upper big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:07",
+   "subject": "trunk/limbs",
+   "action": "light sticks and twigs in back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "very light lavender thinned with paint thinner",
+   "motion": "tiny sticks and twigs",
+   "pressure": "unknown",
+   "where": "back in here, in the woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:31",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks with clean knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife, no paint",
+   "motion": "scrape in a stick or two",
+   "pressure": "unknown",
+   "where": "dark area in the back",
+   "rule": "black showing through makes it look like many sticks",
+   "new": ""
+  },
+  {
+   "t": "25:57",
+   "subject": "other: signature",
+   "action": "sign with bright red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red with paint thinner",
+   "motion": "sign and call it finished",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[06:21] working in layers avoids a flat look",
+  "[10:32] test transparency by rubbing paint on a black canvas",
+  "[16:35] separate brushes for lights and darks save cleaning time",
+  "[21:12] base colors must stay thick, or layers turn to mud",
+  "[21:36] paint should stand about three quarters of an inch off the tube"
+ ]
+}

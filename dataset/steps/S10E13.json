@@ -1,0 +1,538 @@
+{
+ "ep": "S10E13",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "bright red",
+  "dark sienna",
+  "prussian blue",
+  "yellow",
+  "yellow ochre",
+  "indian yellow",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "load phthalo blue and start the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap brush into the blue",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "darken a few spots with midnight black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a least little touch",
+   "motion": "touch in spots",
+   "pressure": "light",
+   "where": "some spots in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "water line",
+   "action": "bring blue down the bottom as water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "sky",
+   "action": "blend back with a clean brush leaving light spots",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend very gently",
+   "pressure": "whisper",
+   "where": "open areas in the sky",
+   "rule": "these light areas could read as clouds",
+   "new": ""
+  },
+  {
+   "t": "02:37",
+   "subject": "water line",
+   "action": "lightly go across to remove brush strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "go across lightly",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "leaves a light sheen across the water",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "cloud",
+   "action": "circles of titanium white with a touch of bright red",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a least touch of red",
+   "motion": "little circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "bright red is very strong so use only a sliver",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "cloud",
+   "action": "lift the edges to fluff the clouds",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift up gently",
+   "pressure": "whisper",
+   "where": "cloud edges",
+   "rule": "blending too much makes them disappear",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "other: tree",
+   "action": "background trees with round brush in brown and prussian blue",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "tap and work upward",
+   "pressure": "medium",
+   "where": "back of the canvas",
+   "rule": "dark at the bottom where the shadows are and lighter going up",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "trunk/limbs",
+   "action": "thin paint with the liner for trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "thin paint like water and indicate trunks",
+   "pressure": "light",
+   "where": "scattered in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "leaf tree",
+   "action": "tap midnight black and yellow into the trees with the round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow"
+   ],
+   "load": "",
+   "motion": "tap clumps",
+   "pressure": "medium",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "leaf tree",
+   "action": "dip yellow ochre, indian yellow and bright red for tips",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "tap individual clumps",
+   "pressure": "light",
+   "where": "scattered on the trees",
+   "rule": "shapes and clumps look better than random hits",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "reflection",
+   "action": "pull the water area straight down",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then go across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "straight pulls give instant reflections",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "other: base color",
+   "action": "cover the canvas with browns and a little prussian blue",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "throw it on",
+   "pressure": "firm",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:02",
+   "subject": "reflection",
+   "action": "pull reflections down from the land masses",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down then go across",
+   "pressure": "light",
+   "where": "under the land masses",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "structure",
+   "action": "block in the cabin body with brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch and pull a shape",
+   "pressure": "light",
+   "where": "cabin site",
+   "rule": "blocking in color so detail does not matter yet",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "structure",
+   "action": "block in the roof with red and dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "block in the roof color",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:57",
+   "subject": "structure",
+   "action": "light trim along the roof edges with the small knife",
+   "tool": "small knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "roof edge",
+   "rule": "so the roof edge stands out",
+   "new": ""
+  },
+  {
+   "t": "16:35",
+   "subject": "structure",
+   "action": "darker trim on the other side of the roof",
+   "tool": "small knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "other side of roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:12",
+   "subject": "structure",
+   "action": "door and window in brown with a white outline",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "outline with white",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "grass",
+   "action": "push grass up around the house with the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "short upward push",
+   "pressure": "light",
+   "where": "around the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:30",
+   "subject": "path",
+   "action": "clear a path with the little knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "sneak back up through the grass",
+   "pressure": "light",
+   "where": "up through the grass",
+   "rule": "a path to reach the water for the big fish",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "grass",
+   "action": "grass areas beside the path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "short upward pushes",
+   "pressure": "light",
+   "where": "beside the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:46",
+   "subject": "path",
+   "action": "highlight the path edge in brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "along the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:25",
+   "subject": "grass",
+   "action": "bring grass down into the path with midnight black and yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow"
+   ],
+   "load": "",
+   "motion": "upward strokes",
+   "pressure": "light",
+   "where": "into the path",
+   "rule": "sets the path down into the painting",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks into the dark areas with the small knife",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cut through the dark",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:20",
+   "subject": "rock",
+   "action": "small knife stones and rocks in brown and white",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dab stones",
+   "pressure": "light",
+   "where": "near the bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:20",
+   "subject": "water line",
+   "action": "liquid white water line across the back",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "pull out flat and cut in",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "breaks up the bottom and divides the land",
+   "new": ""
+  },
+  {
+   "t": "23:00",
+   "subject": "grass",
+   "action": "grass on the right land area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow"
+   ],
+   "load": "",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "right land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "trunk/limbs",
+   "action": "big tree with the fan brush in brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "build tree shape",
+   "pressure": "firm",
+   "where": "open area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "trunk/limbs",
+   "action": "thin bark lines with the liner in brown",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "thin lines on the trunk",
+   "pressure": "light",
+   "where": "on the tree trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "trunk/limbs",
+   "action": "highlight one side of the trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap a light highlight",
+   "pressure": "light",
+   "where": "one side of trunk",
+   "rule": "light strikes one side of the trunk",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "leaf tree",
+   "action": "tap leaves onto the top with the round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "tops of the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

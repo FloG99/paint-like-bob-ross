@@ -1,0 +1,398 @@
+{
+ "ep": "S17E03",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "sap green",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "black",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "01:17",
+   "subject": "other: transparent base wash",
+   "action": "cover canvas with thin transparent wash",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "mixed transparent color",
+   "motion": "coat across",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "Van dyke brown only dulls the color.",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "leaf tree",
+   "action": "tap basic leaf shapes into wet base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "same transparent color",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "over this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "sky",
+   "action": "crisscross phthalo blue into sky getting lighter toward horizon",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "tapped phthalo blue, touch of crimson",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper sky between branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "sun/glow",
+   "action": "paint bright spot and blend upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "blend upward with light over dark",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "middle of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "cloud",
+   "action": "dab small floating cloud shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "on fan brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:29",
+   "subject": "cloud",
+   "action": "blend and fluff cloud bases",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried, gentle",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "cloud bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "mountain",
+   "action": "lay basic mountain shape and blend downward",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "black",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mixed with a lot of color",
+   "motion": "corner stroke then blend down",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "mountain",
+   "action": "pull to add highlights and shadows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "water",
+   "action": "paint lake under the mountain",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "touch of each on brush",
+   "motion": "pull straight down then lightly across",
+   "pressure": "light",
+   "where": "under mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "far trees",
+   "action": "paint little trees at base of mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "upward push",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "water line",
+   "action": "knife roll for water line between dark areas",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red"
+   ],
+   "load": "liquid white and bright red on knife, cut a roll",
+   "motion": "pull out flat and cut across",
+   "pressure": "light",
+   "where": "between dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "evergreen",
+   "action": "dark tops of evergreens over hill",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "dark mix on brush",
+   "motion": "tap tops",
+   "pressure": "light",
+   "where": "tops over hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "land",
+   "action": "tap in land colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lay of land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:17",
+   "subject": "land",
+   "action": "darken land toward back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "darker mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back shadows",
+   "rule": "Darker tones push the area back into distance.",
+   "new": ""
+  },
+  {
+   "t": "12:51",
+   "subject": "land",
+   "action": "tap more layers into back shadows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried darker mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Tapping lets colors bleed and darken more.",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "grass",
+   "action": "layer grassy meadow patches from far to near",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried",
+   "motion": "dab layers",
+   "pressure": "light",
+   "where": "meadow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:06",
+   "subject": "leaf tree",
+   "action": "paint big tree with liner in brown and white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thinned, heavy load",
+   "motion": "push and run off",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "Turning the bristles restores a sharp point.",
+   "new": ""
+  },
+  {
+   "t": "16:41",
+   "subject": "leaf tree",
+   "action": "tap leaves with thinned green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "liquid white dipped in to thin",
+   "motion": "tap at angle",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "Thin paint sticks well over thick paint.",
+   "new": ""
+  },
+  {
+   "t": "17:19",
+   "subject": "leaf tree",
+   "action": "paint big trees on both sides",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green from earlier",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "bush",
+   "action": "paint bushes on other side with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "loaded by pushing into bristles",
+   "motion": "tap bristles",
+   "pressure": "medium",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "bush",
+   "action": "tap small bush above the lake",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "more yellow ochre",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "above the lake",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:24",
+   "subject": "bush",
+   "action": "paint dark and light strokes with thin paint",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "thin mix, dark side and light side",
+   "motion": "pull down and turn",
+   "pressure": "light",
+   "where": "bushes in center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:58",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "paint thinner added",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

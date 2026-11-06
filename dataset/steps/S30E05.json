@@ -1,0 +1,572 @@
+{
+ "ep": "S30E05",
+ "base": "liquid clear and liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "sap green",
+  "alizarin crimson",
+  "dark sienna",
+  "van dyke brown",
+  "titanium white",
+  "midnight black",
+  "prussian blue",
+  "phthalo blue",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "01:15",
+   "subject": "other: background color",
+   "action": "mix brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "other: background color",
+   "action": "drop in brown streaks",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "brown mix on brush",
+   "motion": "streaks",
+   "pressure": "light",
+   "where": "background areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:54",
+   "subject": "other: background color",
+   "action": "blend white into browns",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "between colors",
+   "rule": "keeps background warm",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "land",
+   "action": "add warm brown shadow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "warm brown works as shadow",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "far trees",
+   "action": "paint thin far trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "draw limbs and sticks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "distant trees need little detail",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "far trees",
+   "action": "add far trees other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "other side of background",
+   "rule": "keep clear thin for translucence",
+   "new": ""
+  },
+  {
+   "t": "06:56",
+   "subject": "leaf tree",
+   "action": "flick thinner spatter",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "paint thinner on fan brush",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "tree and background",
+   "rule": "thinner eats clear to suggest leaves",
+   "new": ""
+  },
+  {
+   "t": "07:48",
+   "subject": "bush",
+   "action": "add background bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "tap one corner in brown mix",
+   "motion": "tap in basic shape",
+   "pressure": "light",
+   "where": "background",
+   "rule": "only basic shape needed",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "bush",
+   "action": "tap highlights",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap yellows",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "just enough so they come out",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "snow",
+   "action": "lay snow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "lay snow with flow of land",
+   "pressure": "light",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "water",
+   "action": "pull water indication",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mostly black with a bit of blue",
+   "motion": "pull straight down and across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:31",
+   "subject": "water",
+   "action": "blend in brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "brown makes water fit the painting",
+   "new": ""
+  },
+  {
+   "t": "12:57",
+   "subject": "bush",
+   "action": "drop in big bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix dark",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "bush",
+   "action": "pick out bush spots",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "liquid white on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "bush",
+   "action": "add warm spots",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "pick up color",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "leave dark ones for shadow and depth",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "land",
+   "action": "pull peninsula out",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "pull through white",
+   "motion": "pull out",
+   "pressure": "light",
+   "where": "peninsula into water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "land",
+   "action": "pick up brown shadow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "pick up brown",
+   "motion": "lift",
+   "pressure": "light",
+   "where": "shadow areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "dark areas",
+   "new": "scraping adds depth and distance"
+  },
+  {
+   "t": "16:22",
+   "subject": "leaf tree",
+   "action": "paint big dark tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "load a lot of dark",
+   "motion": "drop in",
+   "pressure": "firm",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:48",
+   "subject": "leaf tree",
+   "action": "paint family of trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "drop in",
+   "pressure": "firm",
+   "where": "left and right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "trunk/limbs",
+   "action": "pull white birch trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife edge",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:40",
+   "subject": "trunk/limbs",
+   "action": "pull trunk texture",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same roll",
+   "motion": "touch and pull",
+   "pressure": "whisper",
+   "where": "trunk areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:30",
+   "subject": "trunk/limbs",
+   "action": "add dark marks on trunks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "midnight black; van dyke brown",
+   "motion": "thick dark mix",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "trunk areas",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "trunk/limbs",
+   "action": "add white touch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "titanium white",
+   "motion": "small amount",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "trunk areas",
+   "new": ""
+  },
+  {
+   "t": "19:40",
+   "subject": "trunk/limbs",
+   "action": "paint arms on trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "draw arms",
+   "pressure": "light",
+   "where": "birch branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:40",
+   "subject": "evergreen",
+   "action": "mix dark evergreen color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:02",
+   "subject": "evergreen",
+   "action": "drop in evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "drop in",
+   "pressure": "firm",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "evergreen",
+   "action": "pull bottom highlight",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pick up color",
+   "motion": "pull bottom",
+   "pressure": "light",
+   "where": "tree bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "trunk/limbs",
+   "action": "indicate tree trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "indicate trunk",
+   "pressure": "light",
+   "where": "tree bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "evergreen",
+   "action": "add highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "white and blue on brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "evergreen",
+   "rule": "highlights make tree stand out",
+   "new": ""
+  },
+  {
+   "t": "23:45",
+   "subject": "bush",
+   "action": "add little details",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "liquid white with yellows and ochres",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:10",
+   "subject": "bush",
+   "action": "add highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "indian yellow on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:32",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "bright red",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "call finished"
+  }
+ ],
+ "rules": []
+}

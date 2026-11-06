@@ -1,0 +1,517 @@
+{
+ "ep": "S09E10",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "bright red",
+  "titanium white",
+  "yellow ochre",
+  "sap green",
+  "dark sienna",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:37",
+   "subject": "sky",
+   "action": "crisscross strokes in blue and black sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "tapped into the bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "leave open spaces for clouds later",
+   "new": ""
+  },
+  {
+   "t": "02:32",
+   "subject": "cloud",
+   "action": "tight circles of dark for cloud shadows",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "midnight black"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tight circles",
+   "pressure": "light",
+   "where": "cloud shadow spots",
+   "rule": "dark shadows make light colors sparkle",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "cloud",
+   "action": "basic cloud shapes in tight circles",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "loaded a lot",
+   "motion": "small circles",
+   "pressure": "unknown",
+   "where": "cloud area",
+   "rule": "planned shapes look better than random paint",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "cloud",
+   "action": "fluff clouds with big upward circles",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "big circles lifting upward",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "straight lifts would look like rain going up",
+   "new": ""
+  },
+  {
+   "t": "07:04",
+   "subject": "sky",
+   "action": "blend whole sky with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle grazing",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:43",
+   "subject": "mountain",
+   "action": "tap far hills with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "yellow ochre",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed to a dull blue",
+   "motion": "tapping and pulling downward",
+   "pressure": "light",
+   "where": "back hilltops",
+   "rule": "fan curve makes the hilltops",
+   "new": ""
+  },
+  {
+   "t": "09:39",
+   "subject": "far trees",
+   "action": "tiny upward lifts for distant trees",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tiny lifts",
+   "pressure": "whisper",
+   "where": "back hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:39",
+   "subject": "mist",
+   "action": "mist at base with 2in strike and blend",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "picked up",
+   "motion": "striking then blending",
+   "pressure": "firm",
+   "where": "base of the hills",
+   "rule": "mist fades so no hard line shows",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "mountain",
+   "action": "lighter foothill layer with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "loaded full",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "front hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:33",
+   "subject": "mist",
+   "action": "mist between foothill layers with dry 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "short upward strokes",
+   "pressure": "light",
+   "where": "between foothill layers",
+   "rule": "mist keeps layers from a straight hard line",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "mountain",
+   "action": "dark sienna foothill layer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "loaded full",
+   "motion": "tap and turn brush sideways",
+   "pressure": "light",
+   "where": "front foothills",
+   "rule": "each layer darker creates distance",
+   "new": ""
+  },
+  {
+   "t": "14:10",
+   "subject": "land",
+   "action": "X strokes of dark earth in foreground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thinner added",
+   "motion": "crisscross strokes",
+   "pressure": "unknown",
+   "where": "foreground",
+   "rule": "dark base lets light colors show up",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "grass",
+   "action": "grassy tapping in yellow and green mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "indian yellow",
+    "dark sienna"
+   ],
+   "load": "mixed with dark sienna",
+   "motion": "tapping down",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "warm earth tones make people happy",
+   "new": ""
+  },
+  {
+   "t": "16:48",
+   "subject": "leaf tree",
+   "action": "tap dark tree on left with round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "upper left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:25",
+   "subject": "leaf tree",
+   "action": "dark tree against the white cloud",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapped",
+   "pressure": "firm",
+   "where": "right of the cloud",
+   "rule": "dark against light makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "leaf tree",
+   "action": "yellow and green highlights above dark areas",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "loaded full",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "above the dark tree areas",
+   "rule": "thin yellow needs no thinning",
+   "new": ""
+  },
+  {
+   "t": "19:56",
+   "subject": "structure",
+   "action": "block in cabin with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "pulled out flat",
+   "motion": "pressed down",
+   "pressure": "firm",
+   "where": "cabin site",
+   "rule": "simple cabins teach bigger buildings",
+   "new": ""
+  },
+  {
+   "t": "20:35",
+   "subject": "structure",
+   "action": "light color on cabin sides",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "pulled flat",
+   "motion": "barely touching and pull down",
+   "pressure": "light",
+   "where": "cabin sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:35",
+   "subject": "structure",
+   "action": "dark door across the front",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pulled across",
+   "pressure": "firm",
+   "where": "cabin front",
+   "rule": "a door is needed to get in and out",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "structure",
+   "action": "cut board lines into the walls",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cutting",
+   "pressure": "light",
+   "where": "cabin walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "structure",
+   "action": "blue window",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "cabin wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:56",
+   "subject": "structure",
+   "action": "dark roof indication",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "keep the roof quite dark",
+   "new": ""
+  },
+  {
+   "t": "21:56",
+   "subject": "structure",
+   "action": "light edge highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "cabin roof edge",
+   "rule": "highlight makes the edge jump out",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "grass",
+   "action": "yellow and red grassy tapping",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "picked up with plenty of paint",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "grassy areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "path",
+   "action": "path in browns with small knife",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns",
+   "motion": "laid in",
+   "pressure": "light",
+   "where": "from cabin door outward",
+   "rule": "a path gives a way to the door",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "bush",
+   "action": "yellow bushes with 1in brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "picked up",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "up near the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:53",
+   "subject": "land",
+   "action": "bounce dirt with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns",
+   "motion": "bouncing",
+   "pressure": "light",
+   "where": "front of the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:32",
+   "subject": "leaf tree",
+   "action": "yellow and green highlights on the other side tree",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "loaded",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "other side tree",
+   "rule": "planned shapes make trees look like trees",
+   "new": ""
+  },
+  {
+   "t": "25:11",
+   "subject": "trunk/limbs",
+   "action": "knife sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in",
+   "pressure": "light",
+   "where": "over the trees",
+   "rule": "sticks show different planes for distance",
+   "new": ""
+  },
+  {
+   "t": "25:51",
+   "subject": "trunk/limbs",
+   "action": "filbert tree with arms",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pulled arms out",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:31",
+   "subject": "leaf tree",
+   "action": "tapping in leaves with round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "on the filbert tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

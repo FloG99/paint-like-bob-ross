@@ -1,0 +1,542 @@
+{
+ "ep": "S04E11",
+ "base": "liquid white; liquid black",
+ "format": "unknown",
+ "light": "left",
+ "guest": true,
+ "palette": [
+  "sap green",
+  "alizarin crimson",
+  "titanium white",
+  "cadmium yellow",
+  "indian yellow",
+  "permanent red",
+  "burnt umber",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "other: base coat",
+   "action": "work a thin coat of sap green over the dark base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "picked up with lots of pressure",
+   "motion": "work it in thin",
+   "pressure": "firm",
+   "where": "bottom half",
+   "rule": "",
+   "new": "dark base coat under the sap green"
+  },
+  {
+   "t": "01:16",
+   "subject": "cloud",
+   "action": "touch dark cloud color in with lots of pressure",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "van dyke brown and prussian blue equal parts, a little crimson",
+   "motion": "touch in",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "cloud",
+   "action": "pull thick white with a stiff fan and move it around",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "stiff fan loaded with thick white",
+   "motion": "move it around and work it in",
+   "pressure": "firm",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:38",
+   "subject": "cloud",
+   "action": "blend down into the shadow with a clean dry brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "a few hairs blend down",
+   "pressure": "whisper",
+   "where": "cloud edge into the shadow",
+   "rule": "just a few hairs keep the paint where it was placed",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "mountain",
+   "action": "load knife with blue and brown mix and a touch of white",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thick roll on the knife edge",
+   "motion": "bring it up into the area",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:01",
+   "subject": "mountain",
+   "action": "press the knife in to lay the mountain undercoat",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "same loaded knife",
+   "motion": "press firmly and lift off extra paint",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "lifting extra paint lets the brush blend it into fog",
+   "new": ""
+  },
+  {
+   "t": "04:40",
+   "subject": "mountain",
+   "action": "add shadow color with a gentle touch of the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "picked up a nice edge of thick paint",
+   "motion": "touch gently and let it pull",
+   "pressure": "whisper",
+   "where": "mountain shadow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:20",
+   "subject": "mountain",
+   "action": "add a light touch of sunshine color on the mountain",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "pull and move it around",
+   "pressure": "light",
+   "where": "mountain light area",
+   "rule": "sunshine color is not named in the transcript",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "mountain",
+   "action": "tap a dark green-brown mix to set the mountains back",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "loaded from the inside out",
+   "motion": "tap tap",
+   "pressure": "light",
+   "where": "back mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:14",
+   "subject": "mountain",
+   "action": "tap a little texture into the dark",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "dark area",
+   "rule": "the black undercoat supplies the dark so no extra dark is needed",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "mountain",
+   "action": "touch light paint from the brush into the light area",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush, opened up",
+   "motion": "light touch and let it pull",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:30",
+   "subject": "bush",
+   "action": "pick up yellows and reds and marble them on the brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "sap green",
+    "cadmium yellow",
+    "red"
+   ],
+   "load": "marbled on the brush, not mixed",
+   "motion": "pick up from the palette",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:10",
+   "subject": "bush",
+   "action": "lightly touch the marbled color down into the shadow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "light touch and pull",
+   "pressure": "light",
+   "where": "down into the shadow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "bush",
+   "action": "pick up cadmium yellow and permanent red and tap them in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "permanent red"
+   ],
+   "load": "loosened with liquid clear, then tapped in",
+   "motion": "tap tap",
+   "pressure": "light",
+   "where": "dark shadow areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:30",
+   "subject": "bush",
+   "action": "tap bright yellow into thick white and place a small bush in front",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "titanium white"
+   ],
+   "load": "tapped into thick white",
+   "motion": "tap and touch",
+   "pressure": "light",
+   "where": "front of painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:10",
+   "subject": "bush",
+   "action": "add a few more little colors",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "touch in",
+   "pressure": "light",
+   "where": "top of the bushes",
+   "rule": "colors picked from the palette, not named",
+   "new": ""
+  },
+  {
+   "t": "11:47",
+   "subject": "bush",
+   "action": "add bright color with taps and light touches",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "loosened on the brush",
+   "motion": "tap tap light touch",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "keeping the brush loose keeps colors from turning to mud",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "bush",
+   "action": "pull loose white-tinted paint through with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "white with a touch of color, loose",
+   "motion": "pull the knife through",
+   "pressure": "firm",
+   "where": "around the little bushes",
+   "rule": "lines show things moving around them rather than one line per item",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "bush",
+   "action": "pull a big stroke up with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "same knife with loose paint",
+   "motion": "pull up",
+   "pressure": "firm",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:20",
+   "subject": "bush",
+   "action": "tap colors upward with the brush turned over",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush, loosened",
+   "motion": "tap upward",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:59",
+   "subject": "bush",
+   "action": "add brighter yellow in front with titanium white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "titanium white"
+   ],
+   "load": "yellow tapped into thick white, loosened",
+   "motion": "touch and clip along",
+   "pressure": "light",
+   "where": "front of painting",
+   "rule": "a brighter front makes it look closer",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "leaf tree",
+   "action": "draw a birch trunk line with the knife, then fill it in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife loaded on both sides",
+   "motion": "draw the line and fill it in",
+   "pressure": "firm",
+   "where": "birch trunk areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "leaf tree",
+   "action": "add another birch line and fill it in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same loaded knife",
+   "motion": "draw the line and fill it in",
+   "pressure": "firm",
+   "where": "birch area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:35",
+   "subject": "leaf tree",
+   "action": "fill in the darker base low down and tap",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "same knife",
+   "motion": "tap tap",
+   "pressure": "firm",
+   "where": "lower birch area",
+   "rule": "shadow must come before light",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "leaf tree",
+   "action": "lay three values of burnt umber and white on the birch",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "mixed to three values, not over-mixed",
+   "motion": "pull and let the paint do the work",
+   "pressure": "whisper",
+   "where": "right side of birch trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:56",
+   "subject": "leaf tree",
+   "action": "add light on one side of the trees with a light touch",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "white marbled into the brown mix",
+   "motion": "light touch and pull",
+   "pressure": "light",
+   "where": "one side of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:32",
+   "subject": "leaf tree",
+   "action": "touch thinned green-black into the dark shadow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "liquid black"
+   ],
+   "load": "thinned loose with liquid black",
+   "motion": "lightly touch and let it pull",
+   "pressure": "light",
+   "where": "shadow side of trees",
+   "rule": "thin paint pulls off on its own",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "trunk/limbs",
+   "action": "paint branches with a thin black-brown mix using a long-haired liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black",
+    "burnt umber"
+   ],
+   "load": "thinned loose with liquid black",
+   "motion": "bounce the long hairs onto the canvas",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "long hairs bounce instead of pushing into the canvas",
+   "new": ""
+  },
+  {
+   "t": "22:07",
+   "subject": "trunk/limbs",
+   "action": "add small snags and twigs with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "same liner",
+   "motion": "flick small snags",
+   "pressure": "light",
+   "where": "branch ends",
+   "rule": "otherwise they look like sticks hanging there",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "trunk/limbs",
+   "action": "highlight a few branches with a light touch",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "thinned loose",
+   "motion": "let it drift off naturally",
+   "pressure": "light",
+   "where": "some branches",
+   "rule": "light on dark makes the branches stand away",
+   "new": ""
+  },
+  {
+   "t": "23:22",
+   "subject": "sun/glow",
+   "action": "add little light touches up high and sun clipping in",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "same liner",
+   "motion": "let it pull",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "bush",
+   "action": "add a larger light shape moving in front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "touched on the brush",
+   "motion": "touch and move",
+   "pressure": "light",
+   "where": "middle right area",
+   "rule": "movement breaks the area and keeps the eye in the painting",
+   "new": ""
+  },
+  {
+   "t": "25:19",
+   "subject": "other: signature",
+   "action": "sign the painting with thin black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "thin paint",
+   "motion": "sign my name",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "thin paint pulls off on its own",
+   "new": "signing the finished painting"
+  }
+ ],
+ "rules": []
+}

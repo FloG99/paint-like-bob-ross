@@ -1,0 +1,696 @@
+{
+ "ep": "S16E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "midnight black",
+  "titanium white",
+  "prussian blue",
+  "dark sienna",
+  "sap green",
+  "bright red",
+  "yellow ochre",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "crisscross blue sky, top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap small amount into bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "tapping spreads paint evenly through the bristles",
+   "new": ""
+  },
+  {
+   "t": "01:34",
+   "subject": "sky",
+   "action": "crisscross summer sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue still on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "summer side, top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:34",
+   "subject": "sky",
+   "action": "add lavender touch to summer sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "small amount touched in",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "summer sky, right of blue",
+   "rule": "adds a little sparkle",
+   "new": ""
+  },
+  {
+   "t": "02:12",
+   "subject": "sky",
+   "action": "crisscross gray winter sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "reload blue and black",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "winter side, top",
+   "rule": "grayed sky reads chillier and moodier",
+   "new": ""
+  },
+  {
+   "t": "02:52",
+   "subject": "water",
+   "action": "pull water outside inward on both canvases",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue and black on brush",
+   "motion": "pull from outside inward",
+   "pressure": "light",
+   "where": "lower area, both canvases",
+   "rule": "leaves an open gap that reads as light",
+   "new": ""
+  },
+  {
+   "t": "03:31",
+   "subject": "water",
+   "action": "blend water with clean brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush, very little paint",
+   "motion": "three hairs and air, sweep across",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "keeps the light gap intact",
+   "new": ""
+  },
+  {
+   "t": "03:31",
+   "subject": "water",
+   "action": "brighter green-blue water, summer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "add a touch of green",
+   "motion": "pull outside inward",
+   "pressure": "light",
+   "where": "summer water",
+   "rule": "a brighter tint suits the summer side",
+   "new": ""
+  },
+  {
+   "t": "04:11",
+   "subject": "cloud",
+   "action": "tiny summer clouds, circular strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "touch of red into white",
+   "motion": "tiny circular strokes",
+   "pressure": "light",
+   "where": "upper summer sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:50",
+   "subject": "cloud",
+   "action": "tiny winter clouds, grayed",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "touch of black into white",
+   "motion": "tiny circular strokes",
+   "pressure": "light",
+   "where": "upper winter sky",
+   "rule": "grayed clouds are less bright",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "cloud",
+   "action": "blend cloud bases with clean dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle blend across cloud bases",
+   "pressure": "whisper",
+   "where": "cloud bases, both canvases",
+   "rule": "overworking makes clouds look like cotton balls",
+   "new": ""
+  },
+  {
+   "t": "06:06",
+   "subject": "cloud",
+   "action": "fluff clouds, lightly blend sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "fluff, then lightly blend",
+   "pressure": "light",
+   "where": "whole sky, both canvases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:06",
+   "subject": "mountain",
+   "action": "pull flat roll on knife for distant peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "pull paint out flat, load colors",
+   "motion": "straight down, then cut across",
+   "pressure": "medium",
+   "where": "back of canvas, small peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:20",
+   "subject": "mountain",
+   "action": "scrape off excess below peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape downward",
+   "pressure": "firm",
+   "where": "lower mountain",
+   "rule": "only the outer top edge matters at this stage",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "mountain",
+   "action": "blend mountain down with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none, paint still wet",
+   "motion": "pull and angle downward",
+   "pressure": "medium",
+   "where": "lower mountain",
+   "rule": "wet canvas lets paint move; dry canvas would resist",
+   "new": ""
+  },
+  {
+   "t": "08:38",
+   "subject": "mountain",
+   "action": "marbled brown mix roll on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mix lightly, leave marbled",
+   "motion": "knife roll",
+   "pressure": "medium",
+   "where": "summer side, mountain area",
+   "rule": "marbling lets colors vary on their own",
+   "new": ""
+  },
+  {
+   "t": "09:16",
+   "subject": "mountain",
+   "action": "dark shadow strokes, opposite direction",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "prussian blue"
+   ],
+   "load": "add a little blue, cut roll",
+   "motion": "knife, opposite direction",
+   "pressure": "light",
+   "where": "mountain shadow side",
+   "rule": "blue grays the shadow down",
+   "new": ""
+  },
+  {
+   "t": "09:54",
+   "subject": "mist",
+   "action": "tap soft mist at mountain base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap, then lift upward",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "tapping and lifting softens the base",
+   "new": ""
+  },
+  {
+   "t": "10:35",
+   "subject": "mountain",
+   "action": "knife snow on winter peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "roll white with leftover gray",
+   "motion": "knife roll, drag along peak",
+   "pressure": "light",
+   "where": "winter mountain peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "mountain",
+   "action": "delicate winter shadow along edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mix blue, black and white",
+   "motion": "barely graze and float across",
+   "pressure": "whisper",
+   "where": "winter mountain edge",
+   "rule": "a delicate touch keeps the edge soft",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "mountain",
+   "action": "dark foothills, corner taps",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "mix dark colors, touch of white",
+   "motion": "tap with brush corner",
+   "pressure": "light",
+   "where": "far back, distant foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "reflection",
+   "action": "tap and pull reflection straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "same colors on brush",
+   "motion": "tap, then pull straight down",
+   "pressure": "medium",
+   "where": "water below foothills",
+   "rule": "reflections are easier here than traditional painting",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "mountain",
+   "action": "gray winter foothills by tapping",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "load white, black and a touch of blue",
+   "motion": "tap in same shape",
+   "pressure": "light",
+   "where": "winter side, far back",
+   "rule": "gray suits the drab winter mood",
+   "new": ""
+  },
+  {
+   "t": "13:48",
+   "subject": "reflection",
+   "action": "knife roll reflection, summer",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "pull liquid white, touch of crimson",
+   "motion": "pull flat, cut across",
+   "pressure": "medium",
+   "where": "summer water, under mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:26",
+   "subject": "water line",
+   "action": "summer water line with ripples",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "knife already loaded",
+   "motion": "cut across",
+   "pressure": "medium",
+   "where": "summer water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:26",
+   "subject": "water line",
+   "action": "winter water line in pure white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "load liquid white only",
+   "motion": "cut across",
+   "pressure": "medium",
+   "where": "winter water line",
+   "rule": "pure white keeps the winter side colder",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "leaf tree",
+   "action": "dark tree mix for foreground tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mix dark colors, no green",
+   "motion": "push and bend upward",
+   "pressure": "medium",
+   "where": "foreground, one side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:23",
+   "subject": "evergreen",
+   "action": "back-and-forth evergreen strokes, winter",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "load fan brush full",
+   "motion": "back and forth strokes",
+   "pressure": "medium",
+   "where": "winter side, left",
+   "rule": "open arms give birds a place to sit",
+   "new": ""
+  },
+  {
+   "t": "17:39",
+   "subject": "evergreen",
+   "action": "second evergreen, same height",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same brush, reloaded",
+   "motion": "back and forth strokes",
+   "pressure": "medium",
+   "where": "winter side, second tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "land",
+   "action": "pull white snow across ground",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white on big brush",
+   "motion": "pull across",
+   "pressure": "medium",
+   "where": "winter ground, under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:54",
+   "subject": "land",
+   "action": "pull dark into snow for shadows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dark carried from earlier",
+   "motion": "pull from dark area into snow",
+   "pressure": "light",
+   "where": "under bushes and trees",
+   "rule": "dark pickup makes shadows under the trees",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "leaf tree",
+   "action": "highlights with liquid white and yellow",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "liquid white, then yellow and green",
+   "motion": "pull in one direction, light touch",
+   "pressure": "light",
+   "where": "summer tree highlights",
+   "rule": "thinned paint sits on top of thicker paint",
+   "new": ""
+  },
+  {
+   "t": "20:13",
+   "subject": "leaf tree",
+   "action": "add yellow ochre, indian yellow, touch of red",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "touch of each on brush",
+   "motion": "light touches in layers",
+   "pressure": "light",
+   "where": "highlights on branches",
+   "rule": "adds sparkle",
+   "new": ""
+  },
+  {
+   "t": "20:54",
+   "subject": "evergreen",
+   "action": "light highlights on evergreen",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "load fan heavily",
+   "motion": "light highlight touches",
+   "pressure": "light",
+   "where": "evergreen highlights",
+   "rule": "covering all the dark makes the tree lose shape",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "grass",
+   "action": "dirty 2in tapped into colors for grass",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "tap into various colors",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "lower ground, grass area",
+   "rule": "layers of grass make another plane",
+   "new": ""
+  },
+  {
+   "t": "22:10",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape light lines",
+   "pressure": "light",
+   "where": "back in the bushes",
+   "rule": "keep the dark areas or the painting goes flat",
+   "new": ""
+  },
+  {
+   "t": "22:50",
+   "subject": "snow",
+   "action": "dab snow onto winter tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with a touch of blue",
+   "motion": "dab and blend",
+   "pressure": "light",
+   "where": "winter tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "trunk/limbs",
+   "action": "snow-covered limbs by pulling one direction",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "load a lot, mixed white and liquid white",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "winter tree limbs",
+   "rule": "liquid white only thins the paint",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "other: stems",
+   "action": "scratch stems in dark areas",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "dark areas at bush base",
+   "rule": "stems show best against dark",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "trunk/limbs",
+   "action": "thin sticks with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "thin with thinner until ink-like",
+   "motion": "turn and pull",
+   "pressure": "light",
+   "where": "back area, upper",
+   "rule": "slightly bent sticks look natural",
+   "new": ""
+  },
+  {
+   "t": "26:39",
+   "subject": "trunk/limbs",
+   "action": "winter sticks in dark sienna",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "same liner, reloaded",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "winter side, left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:39",
+   "subject": "other: signature",
+   "action": "sign both canvases in thinned red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with thinner",
+   "motion": "pull as ink",
+   "pressure": "light",
+   "where": "lower corner of each canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,541 @@
+{
+ "ep": "S04E07",
+ "base": "other: thalo blue and sap green wash",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "thalo green",
+  "alizarin crimson",
+  "thalo blue",
+  "titanium white",
+  "sap green",
+  "indian yellow",
+  "yellow ochre",
+  "yellow",
+  "permanent red",
+  "van dyke brown",
+  "burnt umber"
+ ],
+ "steps": [
+  {
+   "t": "02:51",
+   "subject": "far trees",
+   "action": "fill in far trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "full load",
+   "motion": "fill in",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:41",
+   "subject": "far trees",
+   "action": "lighter far trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "remaining paint only",
+   "motion": "drop in lighter",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "farther trees read lighter",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "trunk/limbs",
+   "action": "hanging limbs in thin paint",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "thinned with thinner",
+   "motion": "make little limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "08:36",
+   "subject": "land",
+   "action": "soft clearing in back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap soft",
+   "pressure": "whisper",
+   "where": "back clearing",
+   "rule": "color stands out on black so use little",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "far trees",
+   "action": "bring trees closer",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "unknown",
+   "motion": "extend over grass",
+   "pressure": "unknown",
+   "where": "closer trees",
+   "rule": "extending over grass brings a tree forward",
+   "new": ""
+  },
+  {
+   "t": "10:23",
+   "subject": "leaf tree",
+   "action": "tree base in grass",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:14",
+   "subject": "leaf tree",
+   "action": "mix shadow color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on palette",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:44",
+   "subject": "leaf tree",
+   "action": "light touches on left side of trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "small roll on knife",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "left side of trees",
+   "rule": "light from left makes left side bright",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "leaf tree",
+   "action": "dark shadow side on trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "thalo blue"
+   ],
+   "load": "more blue",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "right side of trees",
+   "rule": "gives trees a shadow side",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "other: shadow behind trees",
+   "action": "dark shadow behind trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "black mix",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "behind trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "grass",
+   "action": "soft grassy areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre",
+    "permanent red",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap soft",
+   "pressure": "whisper",
+   "where": "foreground grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "structure",
+   "action": "back of house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "edge roll on knife",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "back house area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:47",
+   "subject": "structure",
+   "action": "front of house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "house front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "structure",
+   "action": "shed on house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "house side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:57",
+   "subject": "structure",
+   "action": "marbled brown cabin wall",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "mixed on knife",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "cabin wall",
+   "rule": "lets paint break so it looks old",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "structure",
+   "action": "lighter cabin front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "white added",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "light from left makes front brighter",
+   "new": ""
+  },
+  {
+   "t": "18:52",
+   "subject": "structure",
+   "action": "bluish shed shadow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "thalo blue"
+   ],
+   "load": "blue added",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "shed area",
+   "rule": "blue casts shadow",
+   "new": ""
+  },
+  {
+   "t": "19:24",
+   "subject": "structure",
+   "action": "shingles",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "mixed on knife",
+   "motion": "drop in layers",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "each layer covers the one below",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "structure",
+   "action": "highlight edge of cabin",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop down edge",
+   "pressure": "light",
+   "where": "cabin edge",
+   "rule": "separates the parts",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "structure",
+   "action": "door with white highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "cabin",
+   "rule": "white makes door stand out",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "structure",
+   "action": "windows with blue glass",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "windows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:01",
+   "subject": "path",
+   "action": "path from cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on brush",
+   "motion": "wander",
+   "pressure": "unknown",
+   "where": "from cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:26",
+   "subject": "path",
+   "action": "light brown and blue on path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "thalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:47",
+   "subject": "grass",
+   "action": "grassy areas to path edge",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "path edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:12",
+   "subject": "land",
+   "action": "dirt spot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "dirt area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:26",
+   "subject": "grass",
+   "action": "soft grass on other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "other side",
+   "rule": "tapping picks up colors underneath to soften",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "bush",
+   "action": "dark bushes at house edge",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "house edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "far trees",
+   "action": "dark far tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "far back",
+   "rule": "far and dark reads as distant",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "bush",
+   "action": "bushes over land",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "drop over land",
+   "pressure": "unknown",
+   "where": "over land",
+   "rule": "overlap pushes land into painting",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "structure",
+   "action": "tiny highlight on roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

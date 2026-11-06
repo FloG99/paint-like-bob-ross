@@ -1,0 +1,471 @@
+{
+ "ep": "S02E02",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "permanent red",
+  "prussian blue",
+  "van dyke brown",
+  "alizarin crimson",
+  "titanium white",
+  "magic white",
+  "burnt umber"
+ ],
+ "steps": [
+  {
+   "t": "00:29",
+   "subject": "sun/glow",
+   "action": "sun with indian yellow and permanent red",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "tiny yellow and red on opposite corners",
+   "motion": "small circles and x strokes",
+   "pressure": "light",
+   "where": "sun spot, upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:50",
+   "subject": "sky",
+   "action": "dark prussian and brown mix outward",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "tiny blue and brown mixed on brush",
+   "motion": "x strokes out to edge",
+   "pressure": "light",
+   "where": "outer sky, far from sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:40",
+   "subject": "sky",
+   "action": "blend sky colors outward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend from lightest outward",
+   "pressure": "firm",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "sun/glow",
+   "action": "build sun center with white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lot of white in bristles",
+   "motion": "push hard into yellow center and turn",
+   "pressure": "firm",
+   "where": "center of sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:59",
+   "subject": "sun/glow",
+   "action": "knife scrape excess paint from sun",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape across",
+   "pressure": "light",
+   "where": "sun spot",
+   "rule": "scrape excess so colors blend",
+   "new": ""
+  },
+  {
+   "t": "04:24",
+   "subject": "leaf tree",
+   "action": "crimson tree shapes with bent bristles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "crimson with tiny blue loaded full",
+   "motion": "touch and bend bristles",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:31",
+   "subject": "water",
+   "action": "pull water straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "pull straight down then across gently",
+   "pressure": "light",
+   "where": "lower canvas water",
+   "rule": "straight down strokes become the reflections",
+   "new": ""
+  },
+  {
+   "t": "07:26",
+   "subject": "trunk/limbs",
+   "action": "pull trunks with palette knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown on knife",
+   "motion": "touch and pull slightly sideways",
+   "pressure": "firm",
+   "where": "tree positions",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "trunk/limbs",
+   "action": "white highlight on trunk with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "touch and pull with knife wrapping around",
+   "pressure": "light",
+   "where": "trunk edge",
+   "rule": "knife wrap gives trunks a round look",
+   "new": ""
+  },
+  {
+   "t": "08:51",
+   "subject": "trunk/limbs",
+   "action": "highlight on other tree, opposite side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "opposite side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "snow",
+   "action": "lay snow with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "gentle touch",
+   "pressure": "whisper",
+   "where": "around water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:35",
+   "subject": "bush",
+   "action": "thin white highlights on bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "magic white thins titanium white",
+   "motion": "barely touch and bend bristles",
+   "pressure": "light",
+   "where": "bushes and trees",
+   "rule": "thinned white sticks to thicker paint under it",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "leaf tree",
+   "action": "pink highlight on big tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "pick up crimson underneath",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "big tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:20",
+   "subject": "bush",
+   "action": "snow-covered bushes into snow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "touch and let bend",
+   "pressure": "light",
+   "where": "bushes into snow",
+   "rule": "keep the darks or the canvas turns plain white",
+   "new": ""
+  },
+  {
+   "t": "13:20",
+   "subject": "leaf tree",
+   "action": "sparkles on big tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "thin white on brush",
+   "motion": "dab small sparkles",
+   "pressure": "light",
+   "where": "big tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "trunk/limbs",
+   "action": "scrape stems with clean knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape through paint",
+   "pressure": "firm",
+   "where": "bushes and grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:45",
+   "subject": "reflection",
+   "action": "pull white down into water reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "large brush loaded with white",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "snow water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:35",
+   "subject": "water line",
+   "action": "fine white line along water",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white flat on knife",
+   "motion": "come across",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:01",
+   "subject": "snow",
+   "action": "drag snow down a bit more",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "right waterline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "snow",
+   "action": "snow streaks down through middle",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "streak down",
+   "pressure": "light",
+   "where": "middle of painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "water line",
+   "action": "magic white waterline",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "small amount on knife",
+   "motion": "lay line",
+   "pressure": "light",
+   "where": "waterline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "bush",
+   "action": "dark crimson and blue bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "crimson and blue on brush",
+   "motion": "dab bush shapes",
+   "pressure": "light",
+   "where": "middle of waterline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:09",
+   "subject": "bush",
+   "action": "darken bush with prussian blue",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "magic white",
+    "permanent red"
+   ],
+   "load": "prussian blue then magic white and red mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "dark first so the light color shows on it",
+   "new": ""
+  },
+  {
+   "t": "19:32",
+   "subject": "bush",
+   "action": "pinkish leaves on bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "permanent red"
+   ],
+   "load": "tiny red in white",
+   "motion": "push off leaves",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:51",
+   "subject": "trunk/limbs",
+   "action": "cut a few stems",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over",
+   "motion": "cut stems",
+   "pressure": "firm",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "trunk/limbs",
+   "action": "small stems with tap",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed brown and umber",
+   "motion": "tap in sticks",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:31",
+   "subject": "trunk/limbs",
+   "action": "snow highlights on stems",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "magic white"
+   ],
+   "load": "little magic white on liner",
+   "motion": "light touch along stems",
+   "pressure": "light",
+   "where": "stems and sticks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:31",
+   "subject": "other: signature",
+   "action": "sign with thin oil red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "red with thin oil",
+   "motion": "let paint flow to sign",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

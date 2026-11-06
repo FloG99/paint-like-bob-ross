@@ -1,0 +1,482 @@
+{
+ "ep": "S10E05",
+ "base": "liquid white",
+ "format": "vertical",
+ "light": "strikes the wave area",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "bright red",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo green",
+  "prussian blue",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "01:10",
+   "subject": "sky",
+   "action": "crisscross sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue and black mixed on brush",
+   "motion": "small crisscross strokes",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "darker sky so the clouds stand out",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "cloud",
+   "action": "soften cloud edge into light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "soft blending strokes",
+   "pressure": "unknown",
+   "where": "cloud shape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:43",
+   "subject": "cloud",
+   "action": "tap shadow color under cloud",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "midnight black"
+   ],
+   "load": "tapped into bristles",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "lower cloud against the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "cloud",
+   "action": "fluffy highlights on cloud top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "tiny bit of red into white, loaded full",
+   "motion": "tiny dancing circles",
+   "pressure": "unknown",
+   "where": "top of cloud, then down into dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:59",
+   "subject": "cloud",
+   "action": "blend cloud bottom into darker area",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "bottom of cloud",
+   "rule": "leave the top untouched so it stays strong and bright",
+   "new": ""
+  },
+  {
+   "t": "07:39",
+   "subject": "cloud",
+   "action": "fluff cloud with big circular strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "big circular strokes",
+   "pressure": "light",
+   "where": "whole cloud",
+   "rule": "straight-up pulls would look like rain falling up",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "cloud",
+   "action": "lift next cloud layer upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward in short strokes",
+   "pressure": "light",
+   "where": "next cloud layer",
+   "rule": "beating out paint keeps the brush dry",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "cloud",
+   "action": "very light blend across cloud",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light circular blend",
+   "pressure": "whisper",
+   "where": "entire cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "ocean/wave",
+   "action": "sketch wave guide line",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on brush",
+   "motion": "light line across",
+   "pressure": "unknown",
+   "where": "where the big wave will be",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:55",
+   "subject": "water",
+   "action": "plain white background strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "plain white on fan brush",
+   "motion": "little strokes into wet background",
+   "pressure": "unknown",
+   "where": "background behind the wave guide",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:32",
+   "subject": "water",
+   "action": "blend trough between strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light blend",
+   "pressure": "whisper",
+   "where": "between the strokes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:49",
+   "subject": "ocean/wave",
+   "action": "shape the wave with gentle strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white from earlier, reloaded",
+   "motion": "gentle Z-shaped strokes",
+   "pressure": "whisper",
+   "where": "the wave shape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "ocean/wave",
+   "action": "scrub light transparency along top",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with least touch of yellow, loaded full",
+   "motion": "scrub then blend outward",
+   "pressure": "firm",
+   "where": "top of the wave, fading out",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:06",
+   "subject": "ocean/wave",
+   "action": "scrape off thick buildup",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch off excess",
+   "pressure": "unknown",
+   "where": "thick spots on the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:43",
+   "subject": "ocean/wave",
+   "action": "blend transparency into wave shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light strokes, flatter as it goes out",
+   "pressure": "whisper",
+   "where": "the light transparency",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "ocean/wave",
+   "action": "block in crest with white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "reloaded white, a touch of blue left over",
+   "motion": "quick touches, reloading often",
+   "pressure": "light",
+   "where": "top of the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "ocean/wave",
+   "action": "scrub in dark foam shadow",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mix white, crimson and blue to dark lavender",
+   "motion": "scrub in",
+   "pressure": "hard",
+   "where": "under the splash",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "ocean/wave",
+   "action": "highlight foam crest",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "tiny touch of yellow in white",
+   "motion": "hold brush sideways, push upward",
+   "pressure": "light",
+   "where": "top of the foam",
+   "rule": "upward push makes splashes at the top",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "ocean/wave",
+   "action": "splash up at horizon and blend",
+   "tool": "filbert",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with a touch of yellow",
+   "motion": "tiny circles with the corner",
+   "pressure": "whisper",
+   "where": "horizon and wave edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "ocean/wave",
+   "action": "add white splash curl",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white, reloaded",
+   "motion": "C-shaped stroke",
+   "pressure": "unknown",
+   "where": "right along the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "rock",
+   "action": "block in tall rock at horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "mostly brown",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "at the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "rock",
+   "action": "thin red edge along rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "very thin with paint thinner",
+   "motion": "strokes along rock edge",
+   "pressure": "unknown",
+   "where": "over the edge of the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "ocean/wave",
+   "action": "dab white splashes at bottom",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white from the same brush",
+   "motion": "lift up in dabs",
+   "pressure": "unknown",
+   "where": "bottom of the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:04",
+   "subject": "rock",
+   "action": "highlight the small stone",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount of white on knife",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "small stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "ocean/wave",
+   "action": "foam against base of wave",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on knife",
+   "motion": "dab foam in",
+   "pressure": "unknown",
+   "where": "base of the wave by the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "ocean/wave",
+   "action": "foam patterns with gaps",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "little foam patterns following the wave",
+   "pressure": "unknown",
+   "where": "down the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "ocean/wave",
+   "action": "highlight wave edges with thinned yellow and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "yellow and white thinned with paint thinner",
+   "motion": "light strokes along edges",
+   "pressure": "light",
+   "where": "the wave edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "ocean/wave",
+   "action": "dribble blue and white down the side",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on liner",
+   "motion": "drip strokes downward",
+   "pressure": "unknown",
+   "where": "side of the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:51",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "small amount of bright red",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[05:42] if too much dark paint is picked up, wash the brush and go on"
+ ]
+}

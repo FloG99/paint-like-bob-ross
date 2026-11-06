@@ -1,0 +1,667 @@
+{
+ "ep": "S02E10",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "van dyke brown",
+  "burnt umber",
+  "sap green",
+  "Prussian blue",
+  "magic white",
+  "cad yellow",
+  "yellow ochre",
+  "permanent red",
+  "bright yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "sky",
+   "action": "crisscross blue sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap into bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:04",
+   "subject": "bush",
+   "action": "dark bushes and trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "sap green",
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "let them flow off brush",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:13",
+   "subject": "bush",
+   "action": "pop in dark color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tap in bristles",
+   "motion": "touch and pop up",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "far trees",
+   "action": "dark trunks in background",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "burnt umber",
+    "van dyke brown"
+   ],
+   "load": "load both colors on fan",
+   "motion": "touch little trunks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:29",
+   "subject": "bush",
+   "action": "highlight bushes with yellow green",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "load magic white on 1in",
+   "motion": "touch leaves off brush",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:16",
+   "subject": "bush",
+   "action": "add yellow ochre and red touches",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "same brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "highlights on bushes",
+   "rule": "bright colors show better on television",
+   "new": ""
+  },
+  {
+   "t": "04:42",
+   "subject": "bush",
+   "action": "tap more yellow green bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "mix on brush",
+   "motion": "tap bushes",
+   "pressure": "light",
+   "where": "bushes in background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "water",
+   "action": "pull brown down for water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "brown from earlier",
+   "motion": "pull down and wipe across",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "water color comes from what is pulled down",
+   "new": ""
+  },
+  {
+   "t": "05:55",
+   "subject": "land",
+   "action": "form little banks",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "load brown with ochre",
+   "motion": "let banks happen",
+   "pressure": "light",
+   "where": "back of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:18",
+   "subject": "land",
+   "action": "highlight banks",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "van dyke brown",
+    "burnt umber",
+    "prussian blue"
+   ],
+   "load": "load on fan",
+   "motion": "just a little touch",
+   "pressure": "light",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:48",
+   "subject": "grass",
+   "action": "grassy areas run back into deep woods",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same fan brush",
+   "motion": "pop in grass",
+   "pressure": "light",
+   "where": "back into woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "water",
+   "action": "pull reflections across water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "pull straight across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "keeps water inside the picture",
+   "new": ""
+  },
+  {
+   "t": "07:44",
+   "subject": "water line",
+   "action": "scrape water lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "load on knife",
+   "motion": "scrape lines",
+   "pressure": "light",
+   "where": "distant water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "bush",
+   "action": "highlight small tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "load fan brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "small tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "land",
+   "action": "land masses in brown and ochre",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "yellow ochre"
+   ],
+   "load": "load on knife",
+   "motion": "scrape land masses",
+   "pressure": "light",
+   "where": "front of water",
+   "rule": "needs a bank to sit and fish from",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "land",
+   "action": "highlight top of bank",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "yellow ochre"
+   ],
+   "load": "load on knife",
+   "motion": "touch along top",
+   "pressure": "whisper",
+   "where": "top of bank",
+   "rule": "stroke angle makes it look high",
+   "new": ""
+  },
+  {
+   "t": "09:58",
+   "subject": "water",
+   "action": "pull reflections under bank",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same large brush",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:23",
+   "subject": "water line",
+   "action": "magic white water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "load on knife",
+   "motion": "drop line",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "grass",
+   "action": "grass with yellow ochre and red",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "load fan brush",
+   "motion": "pop in grass",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:13",
+   "subject": "bush",
+   "action": "bush with white and yellow",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "cad yellow"
+   ],
+   "load": "load fan brush",
+   "motion": "dab bush",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "water",
+   "action": "reflections and water lines under peninsula",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same large brush",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:55",
+   "subject": "trunk/limbs",
+   "action": "old tree on peninsula",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "load fan brush",
+   "motion": "run tree up through",
+   "pressure": "light",
+   "where": "peninsula",
+   "rule": "needs a tree to sit under while fishing",
+   "new": ""
+  },
+  {
+   "t": "14:28",
+   "subject": "trunk/limbs",
+   "action": "highlight tree with red and umber",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "load tiny bit",
+   "motion": "touch and pull up",
+   "pressure": "whisper",
+   "where": "tree highlight",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:16",
+   "subject": "trunk/limbs",
+   "action": "blue reflected light on limb",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "load on knife",
+   "motion": "touch",
+   "pressure": "whisper",
+   "where": "limb",
+   "rule": "suggests light bouncing off the limb",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "trunk/limbs",
+   "action": "drop in limbs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load on knife",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "texture shows once dry",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "leaf tree",
+   "action": "knife leaf highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "load knife",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "land",
+   "action": "land and water edge pull",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "same large brush",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:36",
+   "subject": "grass",
+   "action": "grassy areas with mixed green",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix on brush",
+   "motion": "pop in grass",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "color picks up the brown underneath",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "grass",
+   "action": "dark grass below highlight",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load fan brush",
+   "motion": "run grass around highlight",
+   "pressure": "light",
+   "where": "around highlight",
+   "rule": "keeps this part dark so it is not too bright",
+   "new": ""
+  },
+  {
+   "t": "18:50",
+   "subject": "water line",
+   "action": "knife water line between water and land",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "load on knife",
+   "motion": "draw water line",
+   "pressure": "whisper",
+   "where": "water edge",
+   "rule": "light area separates water from land",
+   "new": ""
+  },
+  {
+   "t": "19:18",
+   "subject": "leaf tree",
+   "action": "big tree off knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "load knife",
+   "motion": "drop in tree",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:40",
+   "subject": "leaf tree",
+   "action": "highlights on big tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "same knife",
+   "motion": "touch and tap",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "leaf tree",
+   "action": "lighter leaves with red",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "load fan brush",
+   "motion": "touch leaves",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:00",
+   "subject": "bush",
+   "action": "small foreground tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "burnt umber",
+    "sap green"
+   ],
+   "load": "load fan brush",
+   "motion": "tap small tree",
+   "pressure": "light",
+   "where": "foreground middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "leaf tree",
+   "action": "loose tiny leaves",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "load fan brush",
+   "motion": "touch leaves",
+   "pressure": "whisper",
+   "where": "over tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:21",
+   "subject": "trunk/limbs",
+   "action": "sticks here and there",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape sticks",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "other: floating things",
+   "action": "float small things in water",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "bright yellow",
+    "yellow ochre",
+    "van dyke brown"
+   ],
+   "load": "load fan brush",
+   "motion": "lift up",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:40",
+   "subject": "water line",
+   "action": "water line under floating things",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "load on knife",
+   "motion": "drop line",
+   "pressure": "light",
+   "where": "under floating things",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:43",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin oil",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,525 @@
+{
+ "ep": "S27E11",
+ "base": "liquid white over liquid black",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "prussian blue",
+  "alizarin crimson",
+  "van dyke brown",
+  "dark sienna",
+  "titanium white",
+  "liquid white",
+  "liquid black",
+  "phthalo blue"
+ ],
+ "steps": [
+  {
+   "t": "00:47",
+   "subject": "mountain",
+   "action": "warm crimson tint behind the mountain edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "a tiny bit",
+   "motion": "tiny touch",
+   "pressure": "light",
+   "where": "behind the mountain edge",
+   "rule": "a tiny amount keeps the sky from overpowering",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "sky",
+   "action": "criss-cross sky in midnight black and prussian blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mixed on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "sky",
+   "action": "blend the sky to a blue gray with a clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend between the two areas",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:31",
+   "subject": "mountain",
+   "action": "mix the dark mountain color",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mixed on the palette, pulled flat",
+   "motion": "cut across to get a roll",
+   "pressure": "firm",
+   "where": "middle of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:54",
+   "subject": "mountain",
+   "action": "lay in the mountain with the knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "push and drop the mountain shape",
+   "pressure": "firm",
+   "where": "the middle, with a bump beside it",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:43",
+   "subject": "mountain",
+   "action": "scrape off the excess with the knife, leave some crimson showing",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape across",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "a little crimson warms it so it is not too cold",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "mountain",
+   "action": "pull a clean brush down to lighten toward the horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "toward the horizon",
+   "rule": "pulling down lightens the value toward the horizon",
+   "new": ""
+  },
+  {
+   "t": "04:50",
+   "subject": "mountain",
+   "action": "white highlight on the left side of the mountain",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pulled out very flat, roll",
+   "motion": "touch and glide with no pressure",
+   "pressure": "whisper",
+   "where": "left side of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:36",
+   "subject": "mountain",
+   "action": "shadow blue and white with a little black for a few shadows",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "blue and white mixed, black added to dull it",
+   "motion": "tap a few shadow areas",
+   "pressure": "light",
+   "where": "a few spots on the mountain",
+   "rule": "black dulls the shadow so it is not too bright",
+   "new": ""
+  },
+  {
+   "t": "07:10",
+   "subject": "mountain",
+   "action": "barely touch rounded strokes alternating white and shadow",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "alternate white and the shadow color",
+   "motion": "barely touch in rounded strokes",
+   "pressure": "whisper",
+   "where": "front of the mountain, bumps",
+   "rule": "the strokes make the front look rounded",
+   "new": ""
+  },
+  {
+   "t": "09:11",
+   "subject": "mist",
+   "action": "mist at the base with clean dry 2in, picking up white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white picked up",
+   "motion": "tap then blend away the tap marks",
+   "pressure": "light",
+   "where": "bottom of the mountain",
+   "rule": "mist makes the base feel cold",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "evergreen",
+   "action": "big fat evergreen with fan brush, dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "both sides of the fan loaded",
+   "motion": "brush turned, straight in for a fat tree",
+   "pressure": "light",
+   "where": "one tree near the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:48",
+   "subject": "evergreen",
+   "action": "thinned fat trees to fill naked spots",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "straight in with fat tree shapes",
+   "pressure": "light",
+   "where": "a couple more trees across the scene",
+   "rule": "thinned paint sticks to thick paint underneath",
+   "new": ""
+  },
+  {
+   "t": "11:14",
+   "subject": "bush",
+   "action": "little bushes with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small bush shapes",
+   "pressure": "light",
+   "where": "where the trees stand",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:40",
+   "subject": "evergreen",
+   "action": "blue and white highlights on the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "liquid white with blue and white",
+   "motion": "touch a few highlights",
+   "pressure": "light",
+   "where": "here and there on the trees",
+   "rule": "liquid white thins the color so it sticks to the thicker tree color",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "mountain",
+   "action": "lighter patch with 2in that darkens as it moves out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "loaded full",
+   "motion": "start light, brush picks up the dark underneath",
+   "pressure": "unknown",
+   "where": "light area on the mountain",
+   "rule": "the brush picks up the dark underneath so it darkens by itself",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "structure",
+   "action": "lay in a cabin shape in the light patch",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap a small house shape",
+   "pressure": "light",
+   "where": "light area of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:45",
+   "subject": "structure",
+   "action": "cabin brown with van dyke and dark sienna, left marbled",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed a little, not fully",
+   "motion": "marble the brown, barely mix",
+   "pressure": "light",
+   "where": "the cabin",
+   "rule": "partial mixing gives variety, so do not over mix",
+   "new": ""
+  },
+  {
+   "t": "14:35",
+   "subject": "mountain",
+   "action": "darken the right side with more brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little more brown",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "right side, darker",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "structure",
+   "action": "cabin door and roof lines",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown",
+   "motion": "touch in door and roof indications",
+   "pressure": "light",
+   "where": "front of the cabin and roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:09",
+   "subject": "mountain",
+   "action": "cool blue into the dark part",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little blue on the brush with white",
+   "motion": "let it come through into the liquid black",
+   "pressure": "light",
+   "where": "dark area of the mountain",
+   "rule": "blue is cool, which makes it feel cold",
+   "new": ""
+  },
+  {
+   "t": "16:31",
+   "subject": "structure",
+   "action": "window with a little snow at the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small touches",
+   "pressure": "light",
+   "where": "on the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "evergreen",
+   "action": "tap big evergreen down with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "blue and black, loaded",
+   "motion": "tap repeatedly down the length",
+   "pressure": "light",
+   "where": "one large tree, then a small group of three",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "bush",
+   "action": "bushes by wiggling the fan brush edge",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "wiggle quickly with the corner",
+   "pressure": "light",
+   "where": "small bushes in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "trunk/limbs",
+   "action": "hanging limbs with a liner in thinned dark paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "thinned almost to ink, sharp point",
+   "motion": "add hanging limbs with a flick",
+   "pressure": "light",
+   "where": "through the evergreen, out the sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "trunk/limbs",
+   "action": "tap downward limbs on the bare tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "the bare tree area",
+   "rule": "winter trees lose their leaves so the limbs show",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "trunk/limbs",
+   "action": "highlight the limbs with white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "fully loaded, liquid white thins it",
+   "motion": "gentle touch to highlight",
+   "pressure": "whisper",
+   "where": "top of the bare limbs",
+   "rule": "highlight gently so the dark stays",
+   "new": ""
+  },
+  {
+   "t": "21:19",
+   "subject": "rock",
+   "action": "pull and blend white from the bottom of the dark mass, ledge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "liquid white and a little blue",
+   "motion": "pull out and blend, bring up a ledge",
+   "pressure": "light",
+   "where": "bottom of the dark mass, ledge over it",
+   "rule": "liquid white thins the paint so it blends in",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "bush",
+   "action": "small bush up the side with fan push upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "push upward for highlighted bushes",
+   "pressure": "light",
+   "where": "suitable spot for a small bush",
+   "rule": "phthalo blue is used to highlight lightly",
+   "new": ""
+  },
+  {
+   "t": "23:20",
+   "subject": "trunk/limbs",
+   "action": "old bare tree with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "the dark mix",
+   "motion": "bare limbs out, a tree",
+   "pressure": "light",
+   "where": "right side, bare tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:42",
+   "subject": "snow",
+   "action": "icicles on the cabin with liner and liquid white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the liner",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "hanging off the cabin",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

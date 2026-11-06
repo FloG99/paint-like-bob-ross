@@ -1,0 +1,652 @@
+{
+ "ep": "S29E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "Prussian blue",
+  "titanium white",
+  "midnight black",
+  "sap green",
+  "phthalo green",
+  "cad yellow",
+  "yellow ochre",
+  "dark sienna",
+  "van dyke brown",
+  "bright red",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:21",
+   "subject": "sky",
+   "action": "criss-cross pink into sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap into bristles",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:12",
+   "subject": "sky",
+   "action": "criss-cross blue over pink",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same brush not cleaned",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "sky over the pink",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "sky",
+   "action": "blend sky colors",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend back and forth",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "blue is much stronger than the pink so go carefully",
+   "new": ""
+  },
+  {
+   "t": "02:59",
+   "subject": "water",
+   "action": "pull flat still water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull from outside in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "still water is always level",
+   "new": ""
+  },
+  {
+   "t": "03:24",
+   "subject": "other: corners",
+   "action": "darken corners",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "tap in corners",
+   "pressure": "light",
+   "where": "corners of canvas",
+   "rule": "to darken the corners",
+   "new": ""
+  },
+  {
+   "t": "04:14",
+   "subject": "sky",
+   "action": "blend pink into sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "light area of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:40",
+   "subject": "far trees",
+   "action": "pull distant tree tops down",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tap into bristles",
+   "motion": "pull down from corner",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:32",
+   "subject": "far trees",
+   "action": "add darker layer of trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "phthalo blue"
+   ],
+   "load": "add Prussian blue to mix",
+   "motion": "touch and pull downward",
+   "pressure": "light",
+   "where": "over first layer",
+   "rule": "layers create depth in the painting",
+   "new": ""
+  },
+  {
+   "t": "06:16",
+   "subject": "mist",
+   "action": "tap misty base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap then lift",
+   "pressure": "light",
+   "where": "bottom of distant trees",
+   "rule": "color and value difference separates the layers",
+   "new": ""
+  },
+  {
+   "t": "06:42",
+   "subject": "far trees",
+   "action": "mix dark tree color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo blue",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "load knife from palette",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "far trees",
+   "action": "drop in distant trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "load both sides of fan",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:58",
+   "subject": "mist",
+   "action": "tap mist over tree base",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "tap then lift lightly",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "reflection",
+   "action": "pull reflections down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo blue",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "tap into bristles",
+   "motion": "straight down then across",
+   "pressure": "light",
+   "where": "under trees",
+   "rule": "reflections need straight down strokes",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "far trees",
+   "action": "lift white for trunks",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "upper tree area",
+   "rule": "another plane and tree trunks",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "water line",
+   "action": "flat water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "pull out flat on knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "back of water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "evergreen",
+   "action": "mix dark evergreen color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "load knife from palette",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:06",
+   "subject": "evergreen",
+   "action": "paint evergreen trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "load both sides",
+   "motion": "touch and work from center out",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "center stays darkest since leaves cover trunk",
+   "new": ""
+  },
+  {
+   "t": "11:21",
+   "subject": "reflection",
+   "action": "reflect evergreens",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "tap into bristles",
+   "motion": "straight down then across",
+   "pressure": "light",
+   "where": "under evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:46",
+   "subject": "evergreen",
+   "action": "add yellow green highlights",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "same fan brush",
+   "motion": "touch on tree",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "bush",
+   "action": "indicate small bushes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "phthalo green",
+    "cad yellow"
+   ],
+   "load": "add liquid white to brush",
+   "motion": "pop in small shapes",
+   "pressure": "light",
+   "where": "bottom island area",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "12:37",
+   "subject": "land",
+   "action": "dirt on the island",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "cut a roll from knife",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "bottom of island",
+   "rule": "island needs ground to sit on",
+   "new": ""
+  },
+  {
+   "t": "13:25",
+   "subject": "leaf tree",
+   "action": "block in big tree shape",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "same paint",
+   "motion": "lay in basic shape",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "leaf tree",
+   "action": "tap in bushy dark areas",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap in patches",
+   "pressure": "light",
+   "where": "sides of big tree",
+   "rule": "dark base lets later light color show",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "trunk/limbs",
+   "action": "trunk with white and dark sienna",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mix on fan brush",
+   "motion": "dab trunk",
+   "pressure": "light",
+   "where": "middle of big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:46",
+   "subject": "leaf tree",
+   "action": "leaf dabs with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "load 2in brush",
+   "motion": "dab with corner",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "most leaves get covered later anyway",
+   "new": ""
+  },
+  {
+   "t": "16:32",
+   "subject": "bush",
+   "action": "background color for smaller tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "load fan brush",
+   "motion": "drop in shape",
+   "pressure": "light",
+   "where": "near big tree",
+   "rule": "background color first, highlights later",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "trunk/limbs",
+   "action": "brown trunk indications",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "middle of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:21",
+   "subject": "evergreen",
+   "action": "highlight evergreens with yellows",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "load fan brush",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "evergreen tree",
+   "rule": "evergreens stay darker so keep dark areas",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "bush",
+   "action": "bush shadows under trees",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "load a lot of color",
+   "motion": "tap in bushes",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "rock",
+   "action": "dark rock shapes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dipped in thinner",
+   "motion": "tap in rock shapes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "path",
+   "action": "path with van dyke brown",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load from palette",
+   "motion": "lay a path",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "path lets him reach the fishing spot",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "path",
+   "action": "path highlight",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mix small roll",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "bush",
+   "action": "bushes on other side",
+   "tool": "1in",
+   "part": "edge",
+   "paint": [],
+   "load": "load a lot of paint",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "other side of path",
+   "rule": "rounded edge gives the shape",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "flower",
+   "action": "tiny red flower dots",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "load tip",
+   "motion": "tap dots",
+   "pressure": "light",
+   "where": "tips of bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:10",
+   "subject": "trunk/limbs",
+   "action": "thin twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "thin paint with thinner",
+   "motion": "pull thin lines",
+   "pressure": "light",
+   "where": "dark and light areas",
+   "rule": "light trees on dark and dark trees on light both exist",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "evergreen",
+   "action": "dead limbs with knife flick",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "load from knife",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "evergreen limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "other: signature",
+   "action": "sign with red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner then brush",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

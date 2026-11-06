@@ -1,0 +1,636 @@
+{
+ "ep": "S25E08",
+ "base": "white canvas coated with liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "midnight black",
+  "prussian blue",
+  "titanium white",
+  "bright red",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "indian yellow",
+  "sap green",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "sky",
+   "action": "load phthalo blue and criss-cross the top of the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny amount of blue on the brush",
+   "motion": "little X strokes, working across then down",
+   "pressure": "light",
+   "where": "top of the canvas",
+   "rule": "starting at the top makes it lighter toward the horizon",
+   "new": ""
+  },
+  {
+   "t": "01:38",
+   "subject": "sky",
+   "action": "touch of crimson for a lavender band low in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "a little crimson on the blue",
+   "motion": "work upward from the bottom",
+   "pressure": "light",
+   "where": "low in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:02",
+   "subject": "other: dark corners",
+   "action": "darken the corners with midnight black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black on the brush",
+   "motion": "blend in along the corners",
+   "pressure": "light",
+   "where": "corners of the painting",
+   "rule": "a darker corner draws the eye to the center",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "other: dark corners",
+   "action": "mix prussian blue into the black and blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "black with prussian blue",
+   "motion": "blend it in",
+   "pressure": "light",
+   "where": "top and corners",
+   "rule": "prussian blue is darker and stronger",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "water",
+   "action": "pull lavender straight across from outside in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender toward the blue side",
+   "motion": "pull straight across",
+   "pressure": "light",
+   "where": "across the water area",
+   "rule": "leave a small open gap for a sheen of light",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "other: dark corners",
+   "action": "darken the corners more with lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender toward the blue side",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "the corners",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:46",
+   "subject": "other: pink base",
+   "action": "dab a little crimson in one small area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "crimson on the brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "that little area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "cloud",
+   "action": "pink-sparkle clouds with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little bright red on the fan",
+   "motion": "tap and let it wander",
+   "pressure": "light",
+   "where": "up in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "cloud",
+   "action": "dull the cloud down with more white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white on the fan",
+   "motion": "dull it with a touch",
+   "pressure": "light",
+   "where": "the same cloud",
+   "rule": "too much pink, so dull it with white",
+   "new": ""
+  },
+  {
+   "t": "07:57",
+   "subject": "far trees",
+   "action": "tap in far cypress shapes",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender toward the blue side",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "back here and there",
+   "rule": "too much detail would ruin the distance",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "far trees",
+   "action": "yellow ochre and indian yellow highlights on the trees",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "mixed with what is on the brush",
+   "motion": "corner dabs",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "highlights separate the individual trees",
+   "new": ""
+  },
+  {
+   "t": "09:13",
+   "subject": "trunk/limbs",
+   "action": "thin lavender trunks and arms, far away",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender thinned with paint thinner",
+   "motion": "small trunks and arms",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "little detail keeps the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "09:57",
+   "subject": "far trees",
+   "action": "lavender row of trees pushed upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "lavender on the fan",
+   "motion": "push upward firmly and bend it",
+   "pressure": "firm",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:06",
+   "subject": "bush",
+   "action": "dab green bushes and weeds way back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "green mixed on the fan",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "way back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:32",
+   "subject": "other: cool accent",
+   "action": "dab a little cool blue into the area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little blue and white on the fan",
+   "motion": "dab",
+   "pressure": "whisper",
+   "where": "right in here",
+   "rule": "cools the area down",
+   "new": ""
+  },
+  {
+   "t": "11:57",
+   "subject": "reflection",
+   "action": "pull lavender down straight, then lightly across",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender still on the fan",
+   "motion": "pull straight down, then lightly across",
+   "pressure": "light",
+   "where": "back under the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:44",
+   "subject": "water line",
+   "action": "cut a water line with the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "a little white and blue on the knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "above the reflection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "trunk/limbs",
+   "action": "fat cypress trunk with the filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed brown on the filbert",
+   "motion": "pull in a fat trunk",
+   "pressure": "firm",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:16",
+   "subject": "other: cypress knee",
+   "action": "add a knee and white highlight on one side",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "little white and brown",
+   "motion": "dab a knee shape",
+   "pressure": "light",
+   "where": "right over in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "grass",
+   "action": "dark grassy base with dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix on the fan",
+   "motion": "dab a small area",
+   "pressure": "light",
+   "where": "around the knee",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "reflection",
+   "action": "pull the dark grass down for a reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dark grass colors on the brush",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "below the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "water line",
+   "action": "cut a water line around the grass",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife",
+   "motion": "cut right around",
+   "pressure": "light",
+   "where": "around the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:09",
+   "subject": "grass",
+   "action": "thick dark grass with filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thick mix on filbert",
+   "motion": "press grass in around the foot",
+   "pressure": "firm",
+   "where": "around his foot",
+   "rule": "thick paint catches the highlight later",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "trunk/limbs",
+   "action": "block in a big tree trunk",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thick brown mix",
+   "motion": "block in a big shape",
+   "pressure": "firm",
+   "where": "middle of the canvas",
+   "rule": "block in texture now, add highlights later",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "trunk/limbs",
+   "action": "cypress trunks in clumps, big at the bottom",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same thick mix",
+   "motion": "block in big at the bottom",
+   "pressure": "firm",
+   "where": "across the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "reflection",
+   "action": "pull the tree color down for reflections",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "tree color on the brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:03",
+   "subject": "trunk/limbs",
+   "action": "thin bark lines separating the trees",
+   "tool": "liner",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "thinned almost like ink with paint thinner",
+   "motion": "graze with the edge of the liner",
+   "pressure": "light",
+   "where": "between the trees",
+   "rule": "the liner edge separates the trees",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "other: shadow shine",
+   "action": "add reflected white on one side for a shadow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little blue and white",
+   "motion": "dab a light line",
+   "pressure": "light",
+   "where": "on this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:09",
+   "subject": "trunk/limbs",
+   "action": "pull out a little cypress knee",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull out a small knee",
+   "pressure": "light",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "leaf tree",
+   "action": "push dark leaves in from the top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "dark mix on the fan",
+   "motion": "push in with pressure",
+   "pressure": "firm",
+   "where": "top of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:19",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs down low",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the liner",
+   "motion": "small limbs down",
+   "pressure": "light",
+   "where": "low on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "leaf tree",
+   "action": "yellow highlights over the dark leaves",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "the dark leftover on the fan",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "on the leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "bush",
+   "action": "dark dabs at the base of the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "dark mix on the fan",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "at the base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:20",
+   "subject": "grass",
+   "action": "green highlights in the grassy areas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on the fan",
+   "motion": "pop in highlights",
+   "pressure": "light",
+   "where": "grassy areas down low",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:45",
+   "subject": "water line",
+   "action": "cut a water line along the bottom",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white with a little color",
+   "motion": "cut across lightly",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "it cleans the bottom and gives it borders",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "other: scrape excess paint",
+   "action": "scrape off some excess color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "on the wet area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:35",
+   "subject": "other: egret",
+   "action": "add a small white egret with beak and legs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "white on the liner",
+   "motion": "dab a shape and add legs",
+   "pressure": "light",
+   "where": "out here",
+   "rule": "wait until the painting is dry",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

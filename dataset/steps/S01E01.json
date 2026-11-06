@@ -1,0 +1,720 @@
+{
+ "ep": "S01E01",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "magic white",
+  "phthalo green",
+  "cad yellow",
+  "titanium white",
+  "Prussian blue",
+  "Van Dyke brown",
+  "alizarin crimson",
+  "sap green",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "02:07",
+   "subject": "other: base coat",
+   "action": "cover canvas with a thin layer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "cover it nice and even",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "other: base coat",
+   "action": "long strokes back and forth to spread it",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "up and down one time",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "Magic White keeps the base layer smooth and even across the whole canvas.",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "sun/glow",
+   "action": "crisscross X's of yellow and green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "phthalo green"
+   ],
+   "load": "least little touch of green, then a bit more",
+   "motion": "making little X's, work it around",
+   "pressure": "unknown",
+   "where": "start right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:12",
+   "subject": "sky",
+   "action": "crisscross X's in Prussian blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "without cleaning the brush",
+   "motion": "crisscross, little X strokes",
+   "pressure": "unknown",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:41",
+   "subject": "sky",
+   "action": "blend titanium white outward from center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean brush, a little right in the center",
+   "motion": "begin working outward",
+   "pressure": "light",
+   "where": "center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "sky",
+   "action": "blend the sky out more",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend further",
+   "pressure": "light",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "leaf tree",
+   "action": "push in basic tree shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "a little blue, a lot of crimson",
+   "motion": "bend the brush, push basic shapes",
+   "pressure": "unknown",
+   "where": "tree area",
+   "rule": "Prussian blue is about 100 times stronger than crimson; use only a little.",
+   "new": ""
+  },
+  {
+   "t": "06:51",
+   "subject": "leaf tree",
+   "action": "add a little tree right here",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push quite firm here",
+   "pressure": "firm",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:14",
+   "subject": "leaf tree",
+   "action": "add a bigger tree on this side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "maybe a bigger one over here",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "trunk/limbs",
+   "action": "lay in basic trunks",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay in some basic trunks here",
+   "pressure": "unknown",
+   "where": "trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:34",
+   "subject": "trunk/limbs",
+   "action": "add another trunk and limbs",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "one more trunk, some limbs up in here",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "trunk/limbs",
+   "action": "add a few sticks and twigs",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "little sticks and twigs here and there",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "trunk/limbs",
+   "action": "highlight tree with white and brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "a little white, a touch of brown mixed",
+   "motion": "highlight right here, like so",
+   "pressure": "light",
+   "where": "this tree, right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:51",
+   "subject": "trunk/limbs",
+   "action": "highlight the lit side of tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "same mix",
+   "motion": "highlight this side of it",
+   "pressure": "light",
+   "where": "this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:16",
+   "subject": "leaf tree",
+   "action": "load thinned leaf paint",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "phthalo green",
+    "cad yellow"
+   ],
+   "load": "thin with magic white, load brush full",
+   "motion": "begin pushing leaves on here",
+   "pressure": "unknown",
+   "where": "side of the tree",
+   "rule": "The side of the tree should be slightly brighter.",
+   "new": ""
+  },
+  {
+   "t": "10:39",
+   "subject": "leaf tree",
+   "action": "push thousands of little leaves",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "paint trapped in bristles releases",
+   "pressure": "light",
+   "where": "this side over here",
+   "rule": "Less light strikes this area, so it stays darker.",
+   "new": ""
+  },
+  {
+   "t": "11:08",
+   "subject": "leaf tree",
+   "action": "highlight the little tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "phthalo green",
+    "cad yellow"
+   ],
+   "load": "a little bit thinner paint",
+   "motion": "put a little highlight on him",
+   "pressure": "unknown",
+   "where": "this little tree over here",
+   "rule": "Use a thinner paint so the layer adheres to the surface.",
+   "new": ""
+  },
+  {
+   "t": "11:56",
+   "subject": "leaf tree",
+   "action": "put nice little leaves on big tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "bend that brush",
+   "pressure": "unknown",
+   "where": "big tree in the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:22",
+   "subject": "bush",
+   "action": "add little bush, bend the brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "bend that brush",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "A brush that does not bend will not produce the small leaf shapes.",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "bush",
+   "action": "add a nice little bush on this side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "nice little bush here",
+   "pressure": "unknown",
+   "where": "this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:39",
+   "subject": "leaf tree",
+   "action": "leaves on the big tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "add small leaves",
+   "pressure": "unknown",
+   "where": "big tree here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "leaf tree",
+   "action": "add permanent red to the color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little with my color now",
+   "motion": "for a different value",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "added for value"
+  },
+  {
+   "t": "14:41",
+   "subject": "path",
+   "action": "wander a path down through here",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "touch of Van Dyke brown",
+   "motion": "let this path wander right down through here",
+   "pressure": "unknown",
+   "where": "right down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "path",
+   "action": "barely touch highlight on path",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little bit of white",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "through here",
+   "rule": "Add just enough paint to mark where sunlight shows through.",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "bush",
+   "action": "push bushes over the path",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push 'em in",
+   "pressure": "unknown",
+   "where": "over the path, here and there",
+   "rule": "This technique makes the element sit down into the painting.",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "land",
+   "action": "bring land down through here",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "come down through here, just like so",
+   "pressure": "unknown",
+   "where": "this area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "water",
+   "action": "pull Prussian blue down for a puddle",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a little touch of Prussian blue",
+   "motion": "pull downward",
+   "pressure": "unknown",
+   "where": "puddle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "water",
+   "action": "come gently across for a watery effect",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very gently come across this way",
+   "pressure": "whisper",
+   "where": "puddle",
+   "rule": "This creates a watery effect.",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "water",
+   "action": "pull titanium white down for a sheen",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little touch of titanium white on the brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "puddle",
+   "rule": "This gives the surface a slight sheen.",
+   "new": ""
+  },
+  {
+   "t": "18:11",
+   "subject": "water",
+   "action": "come across lightly for watery feel",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just come across, just enough for a watery feel",
+   "pressure": "whisper",
+   "where": "puddle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "water",
+   "action": "make little puddles with Van Dyke brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "wash the brush, Van Dyke brown",
+   "motion": "makes it come down like so",
+   "pressure": "unknown",
+   "where": "right through there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:00",
+   "subject": "water",
+   "action": "highlight the separate puddle",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little brown and white",
+   "motion": "lay a little highlight on there",
+   "pressure": "light",
+   "where": "separate puddle back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "water line",
+   "action": "cut in water lines with thin white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin white paint",
+   "motion": "cut right into the canvas, smooth it out",
+   "pressure": "unknown",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:20",
+   "subject": "trunk/limbs",
+   "action": "cut a few little sticks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cut right through the paint",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "Thin upright strokes like these suggest distance in a painting.",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "bush",
+   "action": "bushes on the grass",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop 'em right in",
+   "pressure": "unknown",
+   "where": "on the grass, soil area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "land",
+   "action": "lay in land with Van Dyke brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "Van Dyke brown again + touch of white",
+   "motion": "add ground running down through this area",
+   "pressure": "unknown",
+   "where": "down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "bush",
+   "action": "few little bushes out here",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "see how easy that is",
+   "pressure": "unknown",
+   "where": "right out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "water line",
+   "action": "few more little water lines",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just let 'em happen",
+   "pressure": "unknown",
+   "where": "in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:22",
+   "subject": "trunk/limbs",
+   "action": "Paint a tree trunk.",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight Van Dyke brown",
+   "motion": "make his little trunk here",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:47",
+   "subject": "trunk/limbs",
+   "action": "give tree little feet and an arm",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "angle out to form small feet",
+   "pressure": "unknown",
+   "where": "his base, one arm",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "leaf tree",
+   "action": "add dark leaves",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "more alizarin crimson + touch of Prussian blue",
+   "motion": "give him some little leaves",
+   "pressure": "unknown",
+   "where": "tree",
+   "rule": "Dark areas are needed to make light areas visible.",
+   "new": ""
+  },
+  {
+   "t": "24:55",
+   "subject": "leaf tree",
+   "action": "Add small leaves.",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "Place small leaf shapes at scattered points.",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:19",
+   "subject": "leaf tree",
+   "action": "highlight this tree with permanent red",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little touch more permanent red",
+   "motion": "highlight this one",
+   "pressure": "unknown",
+   "where": "this tree right here",
+   "rule": "This makes the figure stand out more.",
+   "new": ""
+  },
+  {
+   "t": "25:42",
+   "subject": "bush",
+   "action": "add little bushes in here",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "nice little bushes and stuff happening",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:08",
+   "subject": "trunk/limbs",
+   "action": "add a few little sticks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add a few small sticks",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "This builds depth in this area.",
+   "new": ""
+  },
+  {
+   "t": "26:35",
+   "subject": "other: signature",
+   "action": "sign with a script liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "a little bit of oil",
+   "motion": "sign that rascal",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "red paint, not named"
+  }
+ ],
+ "rules": []
+}

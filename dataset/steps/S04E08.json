@@ -1,0 +1,662 @@
+{
+ "ep": "S04E08",
+ "base": "unknown",
+ "format": "vertical",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "van dyke brown",
+  "burnt umber",
+  "titanium white",
+  "magic white",
+  "firm white",
+  "cad yellow",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:02",
+   "subject": "sky",
+   "action": "work prussian blue and brown into brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "small blue with brown",
+   "motion": "beat into bristles",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "brown dulls the blue"
+  },
+  {
+   "t": "00:29",
+   "subject": "sky",
+   "action": "criss-cross blue and brown strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "blue and brown",
+   "motion": "light criss-cross strokes",
+   "pressure": "light",
+   "where": "canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "water",
+   "action": "place water band in lower canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "more blue and brown",
+   "motion": "place wherever wanted",
+   "pressure": "unknown",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "cloud",
+   "action": "start small white cloud circles",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white pulled through brush",
+   "motion": "small tiny circles",
+   "pressure": "unknown",
+   "where": "up in sky",
+   "rule": "white on the dark start color makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "02:51",
+   "subject": "cloud",
+   "action": "blend clouds with corner of clean dry brush",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush",
+   "pressure": "light",
+   "where": "light",
+   "rule": "clouds",
+   "new": "dark base is needed so the light shows"
+  },
+  {
+   "t": "03:19",
+   "subject": "cloud",
+   "action": "add more cloud layers",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "small circles",
+   "pressure": "light",
+   "where": "more places in sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "cloud",
+   "action": "blend and fluff last clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend and fluff",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:18",
+   "subject": "leaf tree",
+   "action": "tap thin brown and blue tree shape",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "prussian blue"
+   ],
+   "load": "thin mix with thinner",
+   "motion": "tap basic shape",
+   "pressure": "unknown",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:32",
+   "subject": "leaf tree",
+   "action": "tap larger tree shapes in thin paint",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "thin brown and blue",
+   "motion": "tap basic shapes",
+   "pressure": "unknown",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:49",
+   "subject": "reflection",
+   "action": "pull reflections down with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "same thin mix",
+   "pressure": "light",
+   "where": "light",
+   "rule": "under tree",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "far trees",
+   "action": "blend and soften far color with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soften with large brush",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "large brush mutes the basic color",
+   "new": ""
+  },
+  {
+   "t": "08:00",
+   "subject": "far trees",
+   "action": "soften with corner of dry brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "dry brush",
+   "motion": "soften lightly",
+   "pressure": "whisper",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "bush",
+   "action": "lay basic bush color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green",
+   "motion": "lay color on",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:50",
+   "subject": "bush",
+   "action": "tap soft green shapes with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "more green",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:17",
+   "subject": "bush",
+   "action": "add small permanent red spots",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "tap in red",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:47",
+   "subject": "reflection",
+   "action": "pull bush color down into reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:41",
+   "subject": "bush",
+   "action": "mix yellows and red for bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop color in",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:21",
+   "subject": "land",
+   "action": "lay peninsula with magic white and brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "magic white with brown",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "peninsula",
+   "rule": "brown dulls the white down",
+   "new": ""
+  },
+  {
+   "t": "11:45",
+   "subject": "water line",
+   "action": "cut water lines with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:18",
+   "subject": "trunk/limbs",
+   "action": "paint dead tree limbs with thin brown",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown with thinner",
+   "motion": "paint thin limbs",
+   "pressure": "unknown",
+   "where": "dead trees area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "trunk/limbs",
+   "action": "add top dead tree limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown",
+   "motion": "paint thin limbs",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "dead trees are part of nature so keep them",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "other: moss",
+   "action": "add hanging moss with fan thinned white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thinned brown and white",
+   "motion": "let hang down",
+   "pressure": "unknown",
+   "where": "back on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:59",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "water below trees",
+   "rule": "straight pulls keep reflections looking right",
+   "new": ""
+  },
+  {
+   "t": "15:22",
+   "subject": "bush",
+   "action": "add bushes one at a time with corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "permanent red",
+    "sap green"
+   ],
+   "load": "yellow red green mix",
+   "motion": "work back and forth",
+   "pressure": "unknown",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:12",
+   "subject": "bush",
+   "action": "barely touch soft bush with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "reflection",
+   "action": "pull bush color into reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:02",
+   "subject": "land",
+   "action": "lay land area with mixed white and brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white",
+    "van dyke brown"
+   ],
+   "load": "white and brown mix",
+   "motion": "cut across and lay land",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "grass",
+   "action": "bring grassy areas down onto land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tap grass down",
+   "pressure": "unknown",
+   "where": "on land",
+   "rule": "breaks up the straight edge",
+   "new": ""
+  },
+  {
+   "t": "18:08",
+   "subject": "trunk/limbs",
+   "action": "scratch twigs with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "cut small sticks",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "leaf tree",
+   "action": "cover big tree area with thin dark mix",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "thin dark mix",
+   "motion": "cover area",
+   "pressure": "unknown",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:21",
+   "subject": "leaf tree",
+   "action": "add basic leaf shapes with sap green",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "dark green",
+   "motion": "drop basic shapes",
+   "pressure": "unknown",
+   "where": "on big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:54",
+   "subject": "leaf tree",
+   "action": "soften leaf shapes with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap very lightly",
+   "pressure": "whisper",
+   "where": "on big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:23",
+   "subject": "other: moss",
+   "action": "add thin mossy hanging",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "thin paint like water",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:10",
+   "subject": "leaf tree",
+   "action": "add another tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green mix",
+   "motion": "drop in shapes",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:43",
+   "subject": "bush",
+   "action": "add big bush with leaf shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in and soften",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:12",
+   "subject": "bush",
+   "action": "tap varied colors with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "trunk/limbs",
+   "action": "add small tree trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "place small tree",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:12",
+   "subject": "leaf tree",
+   "action": "add arms and white highlights on small tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "add arms",
+   "pressure": "unknown",
+   "where": "small tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "bush",
+   "action": "add bush with white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "crimson white blue mix",
+   "motion": "make a bush",
+   "pressure": "unknown",
+   "where": "bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "bush",
+   "action": "tap last bush lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap lightly",
+   "pressure": "whisper",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

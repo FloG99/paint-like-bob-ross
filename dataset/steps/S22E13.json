@@ -1,0 +1,532 @@
+{
+ "ep": "S22E13",
+ "base": "black gesso; liquid clear",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "sap green",
+  "titanium white",
+  "bright red",
+  "indian yellow",
+  "yellow ochre",
+  "cadmium yellow",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "other: background wash",
+   "action": "cover canvas with dulled green-blue wash",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "mixed with brown to dull it",
+   "motion": "spread over canvas",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "brown dulls the mix",
+   "new": ""
+  },
+  {
+   "t": "00:49",
+   "subject": "other: highlight glow",
+   "action": "touch white into the top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the corner",
+   "motion": "touch and spread",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "other: highlight glow",
+   "action": "add more white to corners",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more white",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "corners and sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "other: distant background",
+   "action": "darken lower area with less color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "light amount",
+   "motion": "light blend",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "makes the area read as far away",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "other: background wash",
+   "action": "lightly brush across the wash",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "very light brush across",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "removes brush strokes so you can judge",
+   "new": ""
+  },
+  {
+   "t": "04:48",
+   "subject": "far trees",
+   "action": "pull thin background trunks",
+   "tool": "other: thin brush",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "loaded full",
+   "motion": "pull straight down, more pressure lower",
+   "pressure": "medium",
+   "where": "background",
+   "rule": "pressure at the bottom gives a trunk",
+   "new": ""
+  },
+  {
+   "t": "05:38",
+   "subject": "far trees",
+   "action": "add highlight on edge with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on cleaned knife",
+   "motion": "short highlight stroke",
+   "pressure": "light",
+   "where": "right edge of tree",
+   "rule": "light comes from the right",
+   "new": ""
+  },
+  {
+   "t": "06:04",
+   "subject": "far trees",
+   "action": "add reflected blue to back edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little on knife",
+   "motion": "lay on back edge",
+   "pressure": "light",
+   "where": "back edge of tree",
+   "rule": "indicates reflected light",
+   "new": ""
+  },
+  {
+   "t": "06:32",
+   "subject": "far trees",
+   "action": "touch black to blend and texture",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "pure black on knife",
+   "motion": "touch and let canvas pull",
+   "pressure": "light",
+   "where": "tree surface",
+   "rule": "blends colors and gives bark texture",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "trunk/limbs",
+   "action": "add dark limbs and arms",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "loaded brush full",
+   "motion": "indicate a few limbs",
+   "pressure": "unknown",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:56",
+   "subject": "leaf tree",
+   "action": "tap in leaves and limbs with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "black and sap green",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "black dulls the green",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "bush",
+   "action": "tap in bushes across back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap down here and there",
+   "pressure": "light",
+   "where": "scattered across back",
+   "rule": "red dulls the green",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "leaf tree",
+   "action": "paint big dark foreground tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black loaded",
+   "motion": "bring lower and farther forward",
+   "pressure": "unknown",
+   "where": "beside first tree, lower",
+   "rule": "makes it read as closer than the rest",
+   "new": ""
+  },
+  {
+   "t": "12:20",
+   "subject": "leaf tree",
+   "action": "paint big tree with number six fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dark tree color",
+   "motion": "build tree shape",
+   "pressure": "unknown",
+   "where": "foreground tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:44",
+   "subject": "snow",
+   "action": "let red and white drop down the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "red and white on brush",
+   "motion": "let it drop down the tree",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "leaf tree",
+   "action": "add blue reflected light down back side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little blue",
+   "motion": "let it play down back side",
+   "pressure": "light",
+   "where": "back side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:17",
+   "subject": "leaf tree",
+   "action": "touch black texture onto tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a roll of paint",
+   "motion": "touch and blend",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:17",
+   "subject": "trunk/limbs",
+   "action": "pull limbs and branches with thin black",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned black",
+   "motion": "pull thin strokes",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:58",
+   "subject": "trunk/limbs",
+   "action": "add big arm to big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned with thinner",
+   "motion": "wiggle hand as you pull",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "uneven limbs give the tree character",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "grass",
+   "action": "tap grassy mix along bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "let colors mix on brush",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:34",
+   "subject": "other: roots",
+   "action": "paint roots at tree bases",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black",
+   "motion": "paint a root out",
+   "pressure": "light",
+   "where": "base of some trees",
+   "rule": "not every tree needs roots since some get covered",
+   "new": ""
+  },
+  {
+   "t": "22:28",
+   "subject": "leaf tree",
+   "action": "add foliage pieces with fan",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "same fan load",
+   "motion": "tap in foliage shapes",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "leaf tree",
+   "action": "add thinned leaf strokes across tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "tap across tree",
+   "pressure": "light",
+   "where": "across tree",
+   "rule": "thinner keeps it from mixing with paint below",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "grass",
+   "action": "add grassy patches at bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "same grass mix",
+   "motion": "light tapping",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "leaf tree",
+   "action": "place another huge tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place large tree shape",
+   "pressure": "unknown",
+   "where": "right of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "snow",
+   "action": "drop bright red and white down new tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "red and white on brush",
+   "motion": "let it drop down",
+   "pressure": "light",
+   "where": "right of big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "leaf tree",
+   "action": "drop blue down new tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little blue",
+   "motion": "drop down",
+   "pressure": "light",
+   "where": "new tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "leaf tree",
+   "action": "touch black into new tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black on brush",
+   "motion": "touch and drop",
+   "pressure": "light",
+   "where": "new tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "trunk/limbs",
+   "action": "drop branches on new tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "same black",
+   "motion": "drop branches",
+   "pressure": "light",
+   "where": "new tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "leaf tree",
+   "action": "tap leaves on upper new tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "same black",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper part of new tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:09",
+   "subject": "path",
+   "action": "rub a path into the ground",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna and white",
+   "motion": "rub strongly",
+   "pressure": "firm",
+   "where": "lower center, going back",
+   "rule": "suggests a path leading far back",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

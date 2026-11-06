@@ -1,0 +1,670 @@
+{
+ "ep": "S28E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "prussian blue",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna",
+  "titanium white",
+  "bright red",
+  "phthalo green",
+  "sap green",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "warm the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "small dabs in upper sky",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "a little warms it up",
+   "new": ""
+  },
+  {
+   "t": "00:49",
+   "subject": "water",
+   "action": "add pink to water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "pink reflects into the water",
+   "new": ""
+  },
+  {
+   "t": "01:13",
+   "subject": "sky",
+   "action": "criss-cross strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little into brush unwashed",
+   "motion": "small X strokes",
+   "pressure": "light",
+   "where": "top of sky down toward pink",
+   "rule": "blue is much stronger so use little",
+   "new": ""
+  },
+  {
+   "t": "01:40",
+   "subject": "sky",
+   "action": "darken sky corners",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "sky corners on each side",
+   "rule": "prussian blue is darker",
+   "new": ""
+  },
+  {
+   "t": "02:12",
+   "subject": "water",
+   "action": "add blue to water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "sky",
+   "action": "blend sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean brush gentle strokes",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "water",
+   "action": "blend water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean brush gentle strokes",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "pink should show through",
+   "new": ""
+  },
+  {
+   "t": "03:37",
+   "subject": "cloud",
+   "action": "tap basic cloud shape",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap into white",
+   "motion": "tap basic shape",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "basic shape needed or cloud looks random",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "cloud",
+   "action": "blend cloud soft",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush gentle air blend",
+   "pressure": "whisper",
+   "where": "cloud areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:55",
+   "subject": "mountain",
+   "action": "mix mountain color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "roll paint on knife edge",
+   "motion": "mix together",
+   "pressure": "unknown",
+   "where": "upper mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:24",
+   "subject": "mountain",
+   "action": "scrape off excess",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "upper mountain",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "mountain",
+   "action": "pull and blend base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull brush down",
+   "pressure": "unknown",
+   "where": "base of mountain",
+   "rule": "pulling removes excess and softens base into mist",
+   "new": ""
+  },
+  {
+   "t": "06:17",
+   "subject": "mountain",
+   "action": "highlight gray warm edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "midnight black"
+   ],
+   "load": "mix lightly leave marbled",
+   "motion": "float along mountain angle",
+   "pressure": "whisper",
+   "where": "mountain top edge",
+   "rule": "leave marbled so streaks stay",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "mountain",
+   "action": "add shadows",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with blue shadow color",
+   "motion": "float along in mountain",
+   "pressure": "whisper",
+   "where": "mountain shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "mountain",
+   "action": "shadow under each peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same knife",
+   "motion": "float",
+   "pressure": "whisper",
+   "where": "peaks",
+   "rule": "each highlight needs its own shadow",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "mist",
+   "action": "tap and lift to blend",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap then lift up",
+   "pressure": "light",
+   "where": "mountain base and slope",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:10",
+   "subject": "mountain",
+   "action": "pull ridge down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "ridge area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "mountain",
+   "action": "pull gray paint down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray mix on brush",
+   "motion": "pull hard",
+   "pressure": "unknown",
+   "where": "ridge",
+   "rule": "pulling removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "mountain",
+   "action": "light highlight on right",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "right side of mountain",
+   "rule": "light from right shows where it strikes",
+   "new": ""
+  },
+  {
+   "t": "11:40",
+   "subject": "rock",
+   "action": "indicate cliffs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "whisper",
+   "where": "light",
+   "rule": "under big mountain",
+   "new": ""
+  },
+  {
+   "t": "12:11",
+   "subject": "mountain",
+   "action": "soften base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift and blend",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "mountain base",
+   "new": ""
+  },
+  {
+   "t": "12:32",
+   "subject": "far trees",
+   "action": "mix far tree color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mountain color with white",
+   "motion": "mix on pallet",
+   "pressure": "unknown",
+   "where": "far back under mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "mist",
+   "action": "tap base of far trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap hard at bottom then lift up",
+   "pressure": "firm",
+   "where": "bottom of far trees",
+   "rule": "tap for mist illusion",
+   "new": ""
+  },
+  {
+   "t": "13:53",
+   "subject": "evergreen",
+   "action": "mix evergreen color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix all together",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:17",
+   "subject": "evergreen",
+   "action": "paint tree tops",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "phthalo green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "load full both sides",
+   "motion": "push harder down the tree",
+   "pressure": "firm",
+   "where": "tree area right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:04",
+   "subject": "evergreen",
+   "action": "fill forest tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "dabs",
+   "pressure": "unknown",
+   "where": "forest in front of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "evergreen",
+   "action": "big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin paint with thinner",
+   "pressure": "unknown",
+   "where": "big tree area",
+   "rule": "thinner helps paint stick over mountain",
+   "new": ""
+  },
+  {
+   "t": "17:47",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "bottom under trees",
+   "rule": "keep straight down for reflection",
+   "new": ""
+  },
+  {
+   "t": "18:33",
+   "subject": "evergreen",
+   "action": "highlight green tips",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "phthalo green"
+   ],
+   "load": "mix green from tree color",
+   "motion": "tap highlight",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:00",
+   "subject": "evergreen",
+   "action": "set highlights on top",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "phthalo green"
+   ],
+   "load": "thin with thinner",
+   "motion": "pull back through color",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "thinned paint sits on top",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "grass",
+   "action": "tap meadow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "cad yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tap load",
+   "motion": "tap upward",
+   "pressure": "light",
+   "where": "back meadow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "land",
+   "action": "indicate soil",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix brown and dark sienna",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:31",
+   "subject": "grass",
+   "action": "bring grass down",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "dim green with white",
+   "motion": "dab up",
+   "pressure": "light",
+   "where": "area over shoe",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "bush",
+   "action": "make bushes",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "load round corner up",
+   "motion": "push bend gently",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:16",
+   "subject": "flower",
+   "action": "dab flowers",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "dab on end",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bush ends",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "grass",
+   "action": "soften grassy area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower grass",
+   "rule": "tapping makes it soft",
+   "new": ""
+  },
+  {
+   "t": "23:13",
+   "subject": "water line",
+   "action": "add light water line",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap white",
+   "motion": "light stroke",
+   "pressure": "light",
+   "where": "between dark areas",
+   "rule": "light between darks shows",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "bush",
+   "action": "drop in dark bush",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "side of bush",
+   "rule": "dark gives light something to show on",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "bush",
+   "action": "paint green bush",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "load green yellow",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "by the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:30",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "bright red",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "call finished"
+  }
+ ],
+ "rules": []
+}

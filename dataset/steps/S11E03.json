@@ -1,0 +1,514 @@
+{
+ "ep": "S11E03",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "dark sienna",
+  "alizarin crimson",
+  "black",
+  "cadmium yellow",
+  "yellow ochre",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "other: background",
+   "action": "streak dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "very little paint",
+   "motion": "tap streaks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "other: background",
+   "action": "streak alizarin crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "very little paint",
+   "motion": "tap streaks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "other: background",
+   "action": "streak van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tiny amount",
+   "motion": "tap streaks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "other: background",
+   "action": "streak phthalo blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiniest amount",
+   "motion": "tap streaks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:37",
+   "subject": "other: background",
+   "action": "darker streak dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "small amount",
+   "motion": "tap streaks",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "far trees",
+   "action": "tap faint distant shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "tap color onto brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "far trees",
+   "action": "add more faint shapes with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:34",
+   "subject": "other: background",
+   "action": "lift and blend into background",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch and lift",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:13",
+   "subject": "other: flecks",
+   "action": "flick thinner and clear onto wet paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "liquid clear and thinner",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "on the background",
+   "rule": "",
+   "new": "reaction makes patterns"
+  },
+  {
+   "t": "06:27",
+   "subject": "evergreen",
+   "action": "big dark evergreen mass",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "black",
+    "van dyke brown",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "wiggle through paint to chisel edge",
+   "motion": "push downward",
+   "pressure": "medium",
+   "where": "left back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "bush",
+   "action": "plane of bushes with tiny dark sienna",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "tiniest amount",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "back behind the trees",
+   "rule": "",
+   "new": "layered planes push distance back"
+  },
+  {
+   "t": "08:58",
+   "subject": "trunk/limbs",
+   "action": "few sticks and twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "thin paint drag lightly",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:37",
+   "subject": "far trees",
+   "action": "tap downward for far tree indications",
+   "tool": "liner",
+   "part": "chisel",
+   "paint": [
+    "phthalo blue",
+    "black",
+    "van dyke brown",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "load full to sharp chisel edge",
+   "motion": "tap downward and pull",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "evergreen",
+   "action": "second big evergreen beside first",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "push downward",
+   "pressure": "medium",
+   "where": "right of first tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "evergreen",
+   "action": "small trees with large brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "trunk/limbs",
+   "action": "scrape trunks into paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "pull out a little roll",
+   "motion": "scrape through paint",
+   "pressure": "firm",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:50",
+   "subject": "evergreen",
+   "action": "dirty brush into cadmium yellow turns dark green",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "dirty brush",
+   "motion": "dip and work",
+   "pressure": "medium",
+   "where": "dark tree mass",
+   "rule": "leftover blue and black turn the yellow dark green",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "evergreen",
+   "action": "gentle highlights on the big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "pat and lift",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": "too many highlights kill dark color and flatten it"
+  },
+  {
+   "t": "14:06",
+   "subject": "land",
+   "action": "scrub in lay of the land with almost no paint",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "almost no paint",
+   "motion": "scrub in",
+   "pressure": "light",
+   "where": "land area under dark",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:26",
+   "subject": "land",
+   "action": "tap dark color outward to build hill planes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "fence",
+   "action": "firm knife pulls for fence posts",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull down firmly",
+   "pressure": "hard",
+   "where": "left fence line",
+   "rule": "",
+   "new": "digs into canvas"
+  },
+  {
+   "t": "18:36",
+   "subject": "fence",
+   "action": "second fence post with knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull down firmly",
+   "pressure": "hard",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:15",
+   "subject": "fence",
+   "action": "wider rails nearer the viewer",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "bend knife and pull",
+   "pressure": "hard",
+   "where": "rails in front",
+   "rule": "wider nearer rails push the scene back",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "fence",
+   "action": "highlight fence tops",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thin paint",
+   "motion": "lightly along top",
+   "pressure": "light",
+   "where": "top of fence",
+   "rule": "",
+   "new": "a light highlight ties the fence pieces together"
+  },
+  {
+   "t": "19:54",
+   "subject": "grass",
+   "action": "tap base of fences with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom of fences",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:32",
+   "subject": "grass",
+   "action": "grassy pulls with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thin with liquid clear",
+   "motion": "punch in and pull upward",
+   "pressure": "medium",
+   "where": "foreground base",
+   "rule": "",
+   "new": "thin paint lifts with the corner"
+  },
+  {
+   "t": "21:48",
+   "subject": "grass",
+   "action": "lift lighter grass with yellow ochre",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "lift and pull",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lighter toward top",
+   "new": "keep base darker where the shadow sits"
+  },
+  {
+   "t": "22:26",
+   "subject": "land",
+   "action": "tap with big brush to smooth base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pick up color",
+   "pressure": "light",
+   "where": "base of hill",
+   "rule": "",
+   "new": "tapping makes planes for depth"
+  },
+  {
+   "t": "23:03",
+   "subject": "flower",
+   "action": "daisies with thin titanium white",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin with liquid clear",
+   "motion": "pop in",
+   "pressure": "light",
+   "where": "back area flowers",
+   "rule": "",
+   "new": "liquid clear makes flowers glossy"
+  },
+  {
+   "t": "24:18",
+   "subject": "flower",
+   "action": "blue daisies in front",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "thin with liquid clear",
+   "motion": "pop in and let fall off brush",
+   "pressure": "light",
+   "where": "front of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:33",
+   "subject": "flower",
+   "action": "yellow ochre centers on daisies",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch of yellow ochre",
+   "motion": "dab center",
+   "pressure": "light",
+   "where": "on daisies",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "grass",
+   "action": "liner twigs and grass stems",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "paint thinner and brown",
+   "motion": "thin stems and sticks",
+   "pressure": "light",
+   "where": "through the scene",
+   "rule": "",
+   "new": "stems keep flowers from falling over"
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,598 @@
+{
+ "ep": "S31E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "bright red",
+  "cadmium yellow",
+  "yellow ochre",
+  "sap green",
+  "alizarin crimson",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna",
+  "prussian blue",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:22",
+   "subject": "sky",
+   "action": "orange-yellow sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "mix small amounts together",
+   "motion": "light strokes across the top",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "the wet base lightens the paint as it blends",
+   "new": ""
+  },
+  {
+   "t": "01:32",
+   "subject": "far trees",
+   "action": "tap basic background tree shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mix equal parts into a pile",
+   "motion": "tap shapes into the background",
+   "pressure": "light",
+   "where": "background",
+   "rule": "too much detail ruins the sense of distance",
+   "new": ""
+  },
+  {
+   "t": "04:02",
+   "subject": "trunk/limbs",
+   "action": "paint thin trunks and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "same brown thinned with paint thinner",
+   "motion": "small thin lines",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:12",
+   "subject": "far trees",
+   "action": "tap yellows and red into background trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "tap several colors into the bristles",
+   "motion": "tap dabs of color",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:36",
+   "subject": "far trees",
+   "action": "test and brighten the color mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "cadmium yellow",
+    "yellow ochre",
+    "liquid white"
+   ],
+   "load": "add more yellow and a touch of liquid white",
+   "motion": "tap and thin the mix",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "far trees",
+   "action": "tap small colored dabs",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "cadmium yellow",
+    "liquid white"
+   ],
+   "load": "thinned with liquid white",
+   "motion": "tap small dabs",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "thin paint sticks to the thicker paint below",
+   "new": ""
+  },
+  {
+   "t": "06:48",
+   "subject": "far trees",
+   "action": "tap sap green dabs",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load a little sap green",
+   "motion": "tap here and there",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:09",
+   "subject": "far trees",
+   "action": "tap a little red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "load a little red",
+   "motion": "tap a single spot",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "bush",
+   "action": "tap darker shapes of trees and bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "add midnight black to the brown",
+   "motion": "tap shapes",
+   "pressure": "light",
+   "where": "middle of canvas, closer",
+   "rule": "darker shapes push the background back",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "reflection",
+   "action": "pull dark reflection straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "same dark mix",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "water area below bridge",
+   "rule": "angled lines make reflections look wrong",
+   "new": ""
+  },
+  {
+   "t": "09:15",
+   "subject": "land",
+   "action": "marbled soil and rock edge at water",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "marbled gray-brown mix on the knife edge",
+   "motion": "small roll of paint dabbed on",
+   "pressure": "unknown",
+   "where": "water's edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "land",
+   "action": "tint the soil at the water edge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "small amount of yellow ochre with white",
+   "motion": "small roll dabbed on",
+   "pressure": "light",
+   "where": "water's edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:27",
+   "subject": "land",
+   "action": "blend and lift the soil area",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a touch of light color on the fan",
+   "motion": "lift and blend upward",
+   "pressure": "light",
+   "where": "water's edge",
+   "rule": "blending makes the area read as one area",
+   "new": ""
+  },
+  {
+   "t": "10:49",
+   "subject": "water line",
+   "action": "cut a thin horizontal line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "prussian blue"
+   ],
+   "load": "liquid white with a little blue",
+   "motion": "cut across horizontally",
+   "pressure": "unknown",
+   "where": "water line",
+   "rule": "a little blue dulls the white so it is not too bright",
+   "new": ""
+  },
+  {
+   "t": "12:00",
+   "subject": "structure",
+   "action": "lay out basic bridge shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown",
+   "motion": "block in basic shape",
+   "pressure": "light",
+   "where": "bridge location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:22",
+   "subject": "structure",
+   "action": "darken the door and bridge area",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "darker brown",
+   "motion": "block in dark areas",
+   "pressure": "light",
+   "where": "bridge door and roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:14",
+   "subject": "structure",
+   "action": "highlight the bridge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "highlight mix from brown and white",
+   "motion": "small roll dabbed on",
+   "pressure": "light",
+   "where": "bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:37",
+   "subject": "structure",
+   "action": "add boards",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown from the same mix",
+   "motion": "small dabs and lines",
+   "pressure": "light",
+   "where": "bridge boards",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "structure",
+   "action": "leave an open gap at top of bridge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "lighter mix for the front",
+   "motion": "pull paint across",
+   "pressure": "light",
+   "where": "top front of bridge",
+   "rule": "a gap at the top lets air pass through",
+   "new": ""
+  },
+  {
+   "t": "14:50",
+   "subject": "structure",
+   "action": "blend edges gently",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown",
+   "motion": "gentle drag",
+   "pressure": "whisper",
+   "where": "bridge areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:38",
+   "subject": "structure",
+   "action": "brighten highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a touch of white",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "bridge areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "structure",
+   "action": "add bridge entrance",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown",
+   "motion": "block in entrance",
+   "pressure": "light",
+   "where": "bridge entrance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:27",
+   "subject": "structure",
+   "action": "gray top of bridge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix a gray",
+   "motion": "let it graze over the top",
+   "pressure": "light",
+   "where": "upper bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "structure",
+   "action": "show rails inside the bridge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white",
+   "motion": "thin lines into distance",
+   "pressure": "light",
+   "where": "inside bridge opening",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:14",
+   "subject": "rock",
+   "action": "indicate small stones under bridge",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black",
+   "motion": "small stone marks",
+   "pressure": "light",
+   "where": "base of bridge",
+   "rule": "unwanted parts become reflection underneath",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "reflection",
+   "action": "smooth out the reflection under bridge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "smooth strokes",
+   "pressure": "light",
+   "where": "under bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "land",
+   "action": "block in soil under bridge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "mix the brown with green and black",
+   "motion": "block in color",
+   "pressure": "light",
+   "where": "under bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "bush",
+   "action": "add a small bush by the water",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "small shape",
+   "pressure": "light",
+   "where": "right by water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:32",
+   "subject": "grass",
+   "action": "tap yellows, reds and a touch of green",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "bright red",
+    "sap green"
+   ],
+   "load": "mix on brush",
+   "motion": "tap small grassy shapes",
+   "pressure": "light",
+   "where": "middle grassy area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "path",
+   "action": "mix gray for the road",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "white, brown and black",
+   "motion": "draw road in middle",
+   "pressure": "light",
+   "where": "road area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:24",
+   "subject": "path",
+   "action": "lay road coming toward viewer",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch and widen",
+   "pressure": "whisper",
+   "where": "road area",
+   "rule": "a light touch now, firm pressure saved for later",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "grass",
+   "action": "tap grassy shapes with thinned greens and yellows",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "liquid white",
+    "sap green",
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "thin with liquid white, add yellows and red",
+   "motion": "tap grassy shapes",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "structure",
+   "action": "tap doorway edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "tap edges on doorway",
+   "pressure": "light",
+   "where": "doorway",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner with red",
+   "motion": "write name",
+   "pressure": "light",
+   "where": "corner of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[00:22] the wet base lightens the paint, so start a little darker",
+  "[06:24] too much detail in the far background ruins the feeling of distance"
+ ]
+}

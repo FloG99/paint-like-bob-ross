@@ -1,0 +1,618 @@
+{
+ "ep": "S06E03",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "van dyke brown",
+  "yellow ochre",
+  "burnt umber",
+  "titanium white",
+  "cad yellow",
+  "indian yellow",
+  "sap green",
+  "permanent red",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "crisscross blue on sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue pulled into bristles and tapped",
+   "motion": "crisscross strokes, leave spots open",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "sky",
+   "action": "warm sky with crimson",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny amount worked into bristles",
+   "motion": "lightly drop into light sky areas",
+   "pressure": "whisper",
+   "where": "light sky areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "water",
+   "action": "pull water strokes outside in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson mixed on brush",
+   "motion": "pull from outside edges inward",
+   "pressure": "light",
+   "where": "lower canvas, water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "water",
+   "action": "light pass across water for sheen",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "very light pass across",
+   "pressure": "whisper",
+   "where": "water",
+   "rule": "",
+   "new": "sheen from bare canvas"
+  },
+  {
+   "t": "03:10",
+   "subject": "mountain",
+   "action": "dark mountain mass",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "small roll of dark mix on knife",
+   "motion": "press mountain shape",
+   "pressure": "medium",
+   "where": "horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "mountain",
+   "action": "pull mountain top down into white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "gently pull top down",
+   "pressure": "light",
+   "where": "mountain body",
+   "rule": "pulling into white lightens the bottom automatically",
+   "new": ""
+  },
+  {
+   "t": "04:50",
+   "subject": "mountain",
+   "action": "yellow ochre and burnt umber highlights",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "small roll of ochre and umber on knife",
+   "motion": "drop little highlights",
+   "pressure": "light",
+   "where": "where light would strike the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "mountain",
+   "action": "shadow strokes on mountain",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "brown white and blue mixed on knife",
+   "motion": "barely touch and caress canvas",
+   "pressure": "whisper",
+   "where": "mountain shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "snow",
+   "action": "snow with blue shadow tint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with least blue on knife",
+   "motion": "barely touch, let light bounce",
+   "pressure": "whisper",
+   "where": "upper mountain ridge",
+   "rule": "blue gives snow a shadow color",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "mountain",
+   "action": "deep shadows",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small amount on knife",
+   "motion": "dab shadows in",
+   "pressure": "light",
+   "where": "dark areas of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "grass",
+   "action": "grassy areas up mountain side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mountain mix with extra crimson",
+   "motion": "tap up the side following angles",
+   "pressure": "light",
+   "where": "mountain side",
+   "rule": "dark first so lighter color shows on top",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "grass",
+   "action": "lift yellow and green highlights into grass",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "sap green"
+   ],
+   "load": "yellows mixed on brush then green",
+   "motion": "touch and lift up",
+   "pressure": "light",
+   "where": "grass up the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:33",
+   "subject": "mountain",
+   "action": "soften mountain edges with white",
+   "tool": "2in",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "tapped into white",
+   "motion": "tap edges and gently lift",
+   "pressure": "light",
+   "where": "mountain edges",
+   "rule": "mixing with white lightens automatically",
+   "new": ""
+  },
+  {
+   "t": "11:21",
+   "subject": "far trees",
+   "action": "tap distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "lot of paint in fan bristles",
+   "motion": "touch and tap downward",
+   "pressure": "light",
+   "where": "distant hill",
+   "rule": "quick way to suggest distant trees",
+   "new": ""
+  },
+  {
+   "t": "13:29",
+   "subject": "mist",
+   "action": "tap bottom of hill to create mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap the bottom",
+   "pressure": "light",
+   "where": "bottom of distant trees",
+   "rule": "mist separates the planes",
+   "new": ""
+  },
+  {
+   "t": "13:57",
+   "subject": "far trees",
+   "action": "dark green highlights on tree mass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "cad yellow over blue-green from brush",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "dark tree mass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "far trees",
+   "action": "scatter yellow accents in dark trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "touch of each on brush",
+   "motion": "tiny touches",
+   "pressure": "whisper",
+   "where": "scattered in dark mass",
+   "rule": "too far away for detail",
+   "new": "light glow across distant trees"
+  },
+  {
+   "t": "15:12",
+   "subject": "mist",
+   "action": "tap and lift mist then blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap then lift up",
+   "pressure": "light",
+   "where": "base of distant trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:33",
+   "subject": "evergreen",
+   "action": "dark evergreen shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "straight dark mix in bristles",
+   "motion": "touch center then pull down lightly",
+   "pressure": "light",
+   "where": "scattered on the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:48",
+   "subject": "land",
+   "action": "small land mass at the water edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "drop a shape out to the side",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "reflection",
+   "action": "pull reflections down from trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "touch and pull down, then push wet paint",
+   "pressure": "light",
+   "where": "below the trees",
+   "rule": "wet canvas lets reflection paint be pushed around",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "trunk/limbs",
+   "action": "drop small yellow ochre trunks",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "small roll of ochre and white on knife",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "evergreen",
+   "action": "highlights on trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "fan with green and yellow mix",
+   "motion": "drop highlights",
+   "pressure": "light",
+   "where": "tree tops and sides",
+   "rule": "dark areas matter so keep them",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "grass",
+   "action": "drop grass with green yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "same fan mix",
+   "motion": "drop grassy strokes",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:26",
+   "subject": "land",
+   "action": "scrub ground areas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on fan brush",
+   "motion": "scrub in",
+   "pressure": "medium",
+   "where": "lower foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "land",
+   "action": "light highlight on dirt",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "white and ochre on fan",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "on the dirt",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "water line",
+   "action": "cut water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "small amount on knife",
+   "motion": "cut into canvas across",
+   "pressure": "firm",
+   "where": "water edge at left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:28",
+   "subject": "leaf tree",
+   "action": "back and forth tree shapes on right side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "phthalo blue"
+   ],
+   "load": "lot of paint on fan",
+   "motion": "back and forth push",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "reflection",
+   "action": "reflections on right side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull straight down and across",
+   "pressure": "light",
+   "where": "below right trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "trunk/limbs",
+   "action": "drop trunks with ochre white and umber",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "tiny umber into ochre-white",
+   "motion": "drop a few trunks",
+   "pressure": "light",
+   "where": "right side tree bases",
+   "rule": "darken slightly for the shaded side",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "leaf tree",
+   "action": "leaf highlights on trunks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "fan with green and yellow",
+   "motion": "dab leaves",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "leaves catch the sun so tree sparkles",
+   "new": ""
+  },
+  {
+   "t": "23:50",
+   "subject": "rock",
+   "action": "big stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "dark brown mix on fan",
+   "motion": "drop in stone",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "rock",
+   "action": "yellow ochre and red highlight on stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "tiny red into ochre on fan",
+   "motion": "touch with highlight",
+   "pressure": "light",
+   "where": "stone tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:37",
+   "subject": "bush",
+   "action": "bushes around stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "fan with green and yellow",
+   "motion": "let it play down around stones",
+   "pressure": "light",
+   "where": "around rocks and base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "water line",
+   "action": "cut water lines around stones",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white on knife",
+   "motion": "cut into canvas curving around stone",
+   "pressure": "firm",
+   "where": "water edge around stones",
+   "rule": "a curved line keeps the stone interesting",
+   "new": ""
+  },
+  {
+   "t": "25:26",
+   "subject": "other: signature",
+   "action": "sign with thin red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin oil and red on tip",
+   "motion": "sign name",
+   "pressure": "light",
+   "where": "on canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

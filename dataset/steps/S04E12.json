@@ -1,0 +1,607 @@
+{
+ "ep": "S04E12",
+ "base": "black acrylic",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "prussian blue",
+  "magic white",
+  "titanium white",
+  "sap green",
+  "van dyke brown",
+  "burnt umber",
+  "cad yellow",
+  "yellow ochre",
+  "permanent red",
+  "phthalo green"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "dab crimson phthalo and prussian onto black canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "prussian blue"
+   ],
+   "load": "mixed on canvas",
+   "motion": "dab in spots",
+   "pressure": "unknown",
+   "where": "across black canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:37",
+   "subject": "sky",
+   "action": "criss-cross magic white over colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "white on brush",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "sky area",
+   "rule": "more white makes the sky lighter",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "leaf tree",
+   "action": "mix dark tree color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "dark mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "leaf tree",
+   "action": "touch in basic tree shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "touch canvas lightly",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "keeps background color showing through",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "leaf tree",
+   "action": "let some trees fade very light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin dark mix",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:39",
+   "subject": "leaf tree",
+   "action": "pull limbs toward trunk with corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "tap then pull to trunk",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "pulling toward trunk makes limbs look right",
+   "new": ""
+  },
+  {
+   "t": "04:13",
+   "subject": "leaf tree",
+   "action": "tap yellow highlights on tree",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow mix",
+   "motion": "just touch",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "bush",
+   "action": "add red and green bush mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "sap green"
+   ],
+   "load": "red green mix",
+   "motion": "drop in bush",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "bush",
+   "action": "add bushes on far side without highlight",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "far side",
+   "rule": "leaving highlight off makes it look far away",
+   "new": ""
+  },
+  {
+   "t": "06:47",
+   "subject": "grass",
+   "action": "tap soft grass with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "back grass",
+   "rule": "gentle pushing stops colors mixing with bottom paint",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "trunk/limbs",
+   "action": "add tree trunks with liner and thinner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix thinned",
+   "motion": "indicate trunks",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "trunks add planes and depth",
+   "new": ""
+  },
+  {
+   "t": "10:09",
+   "subject": "land",
+   "action": "make a small hill on the other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap hill",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:04",
+   "subject": "trunk/limbs",
+   "action": "add tree arms with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned",
+   "motion": "draw arms",
+   "pressure": "unknown",
+   "where": "left tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "trunk/limbs",
+   "action": "add bent trunks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown",
+   "motion": "add bends",
+   "pressure": "unknown",
+   "where": "trees",
+   "rule": "crooks and bends make trees more interesting",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "bush",
+   "action": "tap bright cad yellow indents",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "cad yellow",
+   "motion": "tap indents",
+   "pressure": "light",
+   "where": "background bushes",
+   "rule": "bright color stands out against the background",
+   "new": ""
+  },
+  {
+   "t": "13:05",
+   "subject": "leaf tree",
+   "action": "drop yellow ochre leaves on little tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "yellow red mix",
+   "motion": "drop leaves",
+   "pressure": "unknown",
+   "where": "little tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "water",
+   "action": "add tiny white water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "tiny white",
+   "motion": "place water",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "land",
+   "action": "lay land with brown mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brown mix",
+   "motion": "let it play",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:38",
+   "subject": "land",
+   "action": "push land shapes with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "land",
+   "action": "highlight land edge with yellow ochre mix",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "yellow ochre",
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "highlight mix",
+   "motion": "cut across roll",
+   "pressure": "unknown",
+   "where": "land edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "grass",
+   "action": "mix grass colors on fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "mixed on brush",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "not one flat color keeps it lively"
+  },
+  {
+   "t": "17:21",
+   "subject": "grass",
+   "action": "push grass up over land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push and bend upward",
+   "pressure": "unknown",
+   "where": "over land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "water line",
+   "action": "cut dull white water line",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "magic white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dull white mix",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "across canvas",
+   "rule": "brown dulls the white",
+   "new": ""
+  },
+  {
+   "t": "19:16",
+   "subject": "water",
+   "action": "tap dark pond edge with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "tap highlights on edge",
+   "pressure": "unknown",
+   "where": "pond edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "leaf tree",
+   "action": "mix dark color for big trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:31",
+   "subject": "leaf tree",
+   "action": "place big tree with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "place tree",
+   "pressure": "unknown",
+   "where": "right area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:55",
+   "subject": "leaf tree",
+   "action": "add big foot and arm on big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "push out shapes",
+   "pressure": "unknown",
+   "where": "base of tree",
+   "rule": "keeps the tree from tipping into the mud",
+   "new": ""
+  },
+  {
+   "t": "21:21",
+   "subject": "leaf tree",
+   "action": "add second closer tree with root",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "place tree and root",
+   "pressure": "unknown",
+   "where": "closer to viewer",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:43",
+   "subject": "land",
+   "action": "add land under the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:07",
+   "subject": "leaf tree",
+   "action": "tap yellow ochre and white highlights on trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "yellow white mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "along trees",
+   "rule": "highlight makes trees stand out",
+   "new": ""
+  },
+  {
+   "t": "22:36",
+   "subject": "leaf tree",
+   "action": "tap permanent red on other tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "other tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:04",
+   "subject": "leaf tree",
+   "action": "add arm on skinny tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add arm",
+   "pressure": "unknown",
+   "where": "skinny tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:33",
+   "subject": "leaf tree",
+   "action": "tap leaf indications with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "yellow",
+   "motion": "tap leaves",
+   "pressure": "light",
+   "where": "top of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "leaf tree",
+   "action": "tap floating leaves",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "float leaves",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "grass",
+   "action": "add grass layers at root",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "green mix",
+   "motion": "drop in layers",
+   "pressure": "unknown",
+   "where": "root area",
+   "rule": "layers add depth",
+   "new": ""
+  },
+  {
+   "t": "25:36",
+   "subject": "leaf tree",
+   "action": "add yellow ochre highlight",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "little highlight",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:36",
+   "subject": "water line",
+   "action": "add little waterline",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cut in",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

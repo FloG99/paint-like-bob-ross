@@ -1,0 +1,594 @@
+{
+ "ep": "S09E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "bright red",
+  "yellow ochre",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "prussian blue",
+  "dark sienna",
+  "liquid white",
+  "liquid clear"
+ ],
+ "steps": [
+  {
+   "t": "01:06",
+   "subject": "sun/glow",
+   "action": "crisscross sun with yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "tiny yellow ochre on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper canvas, sun spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:44",
+   "subject": "sun/glow",
+   "action": "add bright red to sun edges",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "smallest amount of red",
+   "motion": "tap warm red at edges",
+   "pressure": "light",
+   "where": "edges of the sun area",
+   "rule": "warm colors keep the winter scene from feeling cold",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "sky",
+   "action": "blue and black sky from outside in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue and black mixed on brush",
+   "motion": "crisscross from edges toward sun",
+   "pressure": "light",
+   "where": "outer sky",
+   "rule": "darker far from the sun and lighter near it",
+   "new": ""
+  },
+  {
+   "t": "03:38",
+   "subject": "snow",
+   "action": "touch of shadow color on snow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "carried blue and black",
+   "motion": "lay a touch across",
+   "pressure": "light",
+   "where": "snow area, lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:18",
+   "subject": "sky",
+   "action": "blend color seam with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend edges where colors meet",
+   "pressure": "light",
+   "where": "seam between sky and snow",
+   "rule": "dirty brush in light color turns to mud",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "sun/glow",
+   "action": "rub sun in with finger",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "rub firmly in one spot",
+   "pressure": "firm",
+   "where": "sun spot",
+   "rule": "",
+   "new": "repeat rubbing for lighter sun"
+  },
+  {
+   "t": "05:36",
+   "subject": "sun/glow",
+   "action": "zip knife across sun to lift paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "gentle zip across sun",
+   "pressure": "whisper",
+   "where": "sun",
+   "rule": "a plain blend would smear the sun",
+   "new": ""
+  },
+  {
+   "t": "06:13",
+   "subject": "cloud",
+   "action": "paint soft cloud",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "little black and blue on fan",
+   "motion": "lightly place cloud shape",
+   "pressure": "light",
+   "where": "across the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "cloud",
+   "action": "blend cloud softly",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "very light dry blend",
+   "pressure": "whisper",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "mountain",
+   "action": "lay mountain top edge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark mix pulled flat and cut across",
+   "motion": "push firmly into canvas",
+   "pressure": "firm",
+   "where": "mountain top edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:52",
+   "subject": "mountain",
+   "action": "pull mountain top down into wet white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down gently",
+   "pressure": "light",
+   "where": "mountain body",
+   "rule": "pulling into wet white lightens the bottom automatically",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "snow",
+   "action": "lay snow with knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small roll of white on knife",
+   "motion": "barely touch, caress canvas",
+   "pressure": "whisper",
+   "where": "upper mountain",
+   "rule": "too much pressure or soft paint breaks the snow",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "mountain",
+   "action": "shadow strokes on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue black and white shadow mix",
+   "motion": "small strokes following angles",
+   "pressure": "light",
+   "where": "dark side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:23",
+   "subject": "mist",
+   "action": "tap mist along mountain base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "changing the angles would ruin the mountain",
+   "new": ""
+  },
+  {
+   "t": "12:04",
+   "subject": "mountain",
+   "action": "foothill shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "fan loaded full",
+   "motion": "touch and paint shapes",
+   "pressure": "medium",
+   "where": "middle distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "mist",
+   "action": "tap mist at foothill base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "base of foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "mountain",
+   "action": "second foothill row with crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "dirty fan with crimson added",
+   "motion": "pull down",
+   "pressure": "medium",
+   "where": "farther row",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "mist",
+   "action": "tap mist and small white light spot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of white",
+   "motion": "tap gently then lift",
+   "pressure": "light",
+   "where": "behind foothills",
+   "rule": "",
+   "new": "small light through the haze"
+  },
+  {
+   "t": "14:39",
+   "subject": "snow",
+   "action": "snow sweep with blue touch",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with touch of blue on fan",
+   "motion": "sweep across",
+   "pressure": "light",
+   "where": "mid ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:18",
+   "subject": "land",
+   "action": "hills with white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "carried on fan",
+   "motion": "touch and make hill shapes",
+   "pressure": "light",
+   "where": "middle ground hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:55",
+   "subject": "evergreen",
+   "action": "dark evergreen mix and shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "fan loaded full of dark mix",
+   "motion": "corner of fan, back and forth",
+   "pressure": "medium",
+   "where": "left hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "far trees",
+   "action": "dab far trees with lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "lavender on fan",
+   "motion": "tap in lightly",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "farther trees are lighter and closer ones darker",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "evergreen",
+   "action": "bent dark trees on right",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on fan",
+   "motion": "bend and shape trunks",
+   "pressure": "medium",
+   "where": "right side",
+   "rule": "crooked trees look better than straight ones",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "evergreen",
+   "action": "more dark evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on fan",
+   "motion": "dab trees out",
+   "pressure": "medium",
+   "where": "right side, contrast",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "trunk/limbs",
+   "action": "trunks at tree bases",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "tiny roll on knife",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:44",
+   "subject": "trunk/limbs",
+   "action": "scratch dead limbs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "none",
+   "motion": "scratch with knife point",
+   "pressure": "firm",
+   "where": "on evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "evergreen",
+   "action": "highlights on left side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin white and blue paint",
+   "motion": "drop highlights, darker going down",
+   "pressure": "light",
+   "where": "left side of trees",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "23:01",
+   "subject": "land",
+   "action": "another hill with white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white and blue on fan",
+   "motion": "tap hill shape",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:42",
+   "subject": "grass",
+   "action": "push grass into hill base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "picked up dark color",
+   "motion": "push in",
+   "pressure": "light",
+   "where": "hill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "land",
+   "action": "hill plane with thin white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "thin white on fan",
+   "motion": "pull upward",
+   "pressure": "light",
+   "where": "right hill edge",
+   "rule": "each hill adds a new plane for depth",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "water",
+   "action": "pull water lines down and across",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "tapped blue and black",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "lower right pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "rock",
+   "action": "stone and reflection below it",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "carried dark mix",
+   "motion": "dab stone then pull reflection down",
+   "pressure": "light",
+   "where": "under the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:19",
+   "subject": "snow",
+   "action": "snow dab on rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan",
+   "motion": "touch and let bend",
+   "pressure": "light",
+   "where": "on the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:19",
+   "subject": "water line",
+   "action": "liquid white water line with knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small roll on knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "below the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:59",
+   "subject": "other: signature",
+   "action": "sign with liquid clear",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid clear"
+   ],
+   "load": "liquid clear on sharp tip",
+   "motion": "write name",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

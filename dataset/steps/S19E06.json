@@ -1,0 +1,577 @@
+{
+ "ep": "S19E06",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "from above the waterfall, weaker on the left",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "dark sienna",
+  "midnight black",
+  "sap green",
+  "cad yellow",
+  "vandyke brown",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:46",
+   "subject": "other: light beam",
+   "action": "crisscross white light strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount of white on the brush",
+   "motion": "small crisscross strokes",
+   "pressure": "light",
+   "where": "above the waterfall",
+   "rule": "a little paint creates the look of light shining through",
+   "new": ""
+  },
+  {
+   "t": "02:45",
+   "subject": "far trees",
+   "action": "tap basic tree shapes",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender tapped onto brush with leftover white",
+   "motion": "tap small shapes",
+   "pressure": "light",
+   "where": "far back, in the light",
+   "rule": "keep them subdued since they sit in strong light",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "far trees",
+   "action": "light highlights on far trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the same brush",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "far back trees",
+   "rule": "light coming through makes them bright",
+   "new": ""
+  },
+  {
+   "t": "04:03",
+   "subject": "trunk/limbs",
+   "action": "thin sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thinned lavender on liner",
+   "motion": "thin flowing strokes",
+   "pressure": "light",
+   "where": "back trees, scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:17",
+   "subject": "leaf tree",
+   "action": "small clumps of foliage",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender with a little more white",
+   "motion": "tap clumps",
+   "pressure": "light",
+   "where": "back trees; darker on the left",
+   "rule": "left side gets less light so it is darker",
+   "new": ""
+  },
+  {
+   "t": "06:39",
+   "subject": "far trees",
+   "action": "basic far shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same color on fan brush",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "far things need only basic shapes",
+   "new": ""
+  },
+  {
+   "t": "07:05",
+   "subject": "waterfall",
+   "action": "waterfall stream",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white thinned with liquid clear, touch of blue",
+   "motion": "pull down and let it curve and fall",
+   "pressure": "light",
+   "where": "waterfall path",
+   "rule": "clear only thins the paint so it flows slick",
+   "new": ""
+  },
+  {
+   "t": "08:35",
+   "subject": "waterfall",
+   "action": "blend waterfall smooth",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "lift upward from the bottom",
+   "pressure": "light",
+   "where": "waterfall",
+   "rule": "clear lets the blend become glass smooth",
+   "new": ""
+  },
+  {
+   "t": "08:35",
+   "subject": "mist",
+   "action": "dab foam mist at base",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny white on brush tip",
+   "motion": "dab small foam",
+   "pressure": "light",
+   "where": "base of waterfall",
+   "rule": "water falling that far makes mist",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "trunk/limbs",
+   "action": "paint birch trunk",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna thinned with white",
+   "motion": "wiggle down as it comes",
+   "pressure": "light",
+   "where": "one side, far back",
+   "rule": "paint the farthest things first then work forward",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "leaf tree",
+   "action": "dark green leafy masses",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "midnight black"
+   ],
+   "load": "dark green mixed, loaded on bristle edge",
+   "motion": "dab hanging clumps",
+   "pressure": "light",
+   "where": "over here, hanging limbs",
+   "rule": "less light reaches here so it is darker",
+   "new": ""
+  },
+  {
+   "t": "12:01",
+   "subject": "land",
+   "action": "push brown land along waterfall side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mixed on knife",
+   "motion": "push down along the side",
+   "pressure": "light",
+   "where": "one side of the waterfall",
+   "rule": "dark brown pushes the waterfall back into depth",
+   "new": ""
+  },
+  {
+   "t": "12:28",
+   "subject": "land",
+   "action": "marbled cliff highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "touch of white folded into brown",
+   "motion": "marble lightly, do not overmix",
+   "pressure": "light",
+   "where": "cliff by the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:36",
+   "subject": "grass",
+   "action": "fern grass hanging off the top",
+   "tool": "other: brush corner",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap fern strokes",
+   "pressure": "light",
+   "where": "top edge of the waterfall",
+   "rule": "mist means plants grow along the edges",
+   "new": ""
+  },
+  {
+   "t": "14:07",
+   "subject": "rock",
+   "action": "small stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "brown from earlier mix",
+   "motion": "touch in stone shape",
+   "pressure": "light",
+   "where": "under the grass by the cliff",
+   "rule": "gives the rock shape and form",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "grass",
+   "action": "grass over the top of the rock area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "work from farthest to nearest",
+   "pressure": "light",
+   "where": "over the stones",
+   "rule": "paint the farthest things first",
+   "new": ""
+  },
+  {
+   "t": "15:36",
+   "subject": "rock",
+   "action": "highlight on stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mixed",
+   "motion": "touch highlight on top",
+   "pressure": "light",
+   "where": "lower stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:36",
+   "subject": "trunk/limbs",
+   "action": "scratch in sticks and twigs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch in small twigs",
+   "pressure": "unknown",
+   "where": "various spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:01",
+   "subject": "water",
+   "action": "pull white straight down under the stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "pull straight down then lightly across",
+   "pressure": "light",
+   "where": "under the stone",
+   "rule": "underlying colors mix in so it reads as water",
+   "new": ""
+  },
+  {
+   "t": "16:51",
+   "subject": "land",
+   "action": "brown cliff mass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mixed together",
+   "motion": "block in cliff",
+   "pressure": "light",
+   "where": "middle of the canvas",
+   "rule": "layers of brown build the cliff",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "land",
+   "action": "brown and white highlight on cliff",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "touch of brown and white on the brush",
+   "motion": "touch and highlight",
+   "pressure": "light",
+   "where": "cliff spots",
+   "rule": "brown underneath makes the highlight pop",
+   "new": ""
+  },
+  {
+   "t": "17:38",
+   "subject": "grass",
+   "action": "grassy colors down the cliff",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let grass fall down with the angle",
+   "pressure": "light",
+   "where": "down the cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "grass",
+   "action": "grass hangs over the waterfall",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let grass drape over the waterfall",
+   "pressure": "light",
+   "where": "over the waterfall",
+   "rule": "overlapping grass pushes the waterfall back",
+   "new": ""
+  },
+  {
+   "t": "18:56",
+   "subject": "reflection",
+   "action": "grass pulled down into water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull grass touches down into the water",
+   "pressure": "light",
+   "where": "in the water below the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "reflection",
+   "action": "blue accents on reflection",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny touch of blue on brush",
+   "motion": "tap spots here and there",
+   "pressure": "light",
+   "where": "in the water",
+   "rule": "a little blue makes things stand out",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "leaf tree",
+   "action": "big tree in lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender from the cover color",
+   "motion": "drop in tree shape",
+   "pressure": "light",
+   "where": "right side, hanging over",
+   "rule": "each layer adds depth and distance",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "trunk/limbs",
+   "action": "thin dark limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "brown mix thinned with paint thinner",
+   "motion": "flowing thin strokes",
+   "pressure": "light",
+   "where": "showing through the big tree",
+   "rule": "keep them dark or they will look wrong",
+   "new": ""
+  },
+  {
+   "t": "21:08",
+   "subject": "leaf tree",
+   "action": "dark green shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "darker green mixed with a little black",
+   "motion": "tap shapes into the tree",
+   "pressure": "light",
+   "where": "upper tree area, darker toward base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "land",
+   "action": "lavender bank with dark edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender from the cover color",
+   "motion": "drop bank shape",
+   "pressure": "light",
+   "where": "lower part of canvas",
+   "rule": "dark underneath forms an edge",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "rock",
+   "action": "dark stone shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mixed",
+   "motion": "block in small stone",
+   "pressure": "light",
+   "where": "right of the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "other: scraped texture",
+   "action": "scrape bits of color",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "almost no color on the knife",
+   "motion": "scrape firmly in small bits",
+   "pressure": "firm",
+   "where": "around the stones",
+   "rule": "brings the edges together",
+   "new": ""
+  },
+  {
+   "t": "25:10",
+   "subject": "water",
+   "action": "tiny blue ripples",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little blue on the knife",
+   "motion": "dab a few ripples",
+   "pressure": "light",
+   "where": "a little out in the water",
+   "rule": "too much blue loses its effect",
+   "new": ""
+  },
+  {
+   "t": "25:35",
+   "subject": "trunk/limbs",
+   "action": "pick out sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on liner",
+   "motion": "thin sticks hanging over",
+   "pressure": "light",
+   "where": "here and there in the woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "write the name",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

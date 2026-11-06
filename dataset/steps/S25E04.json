@@ -1,0 +1,663 @@
+{
+ "ep": "S25E04",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "dark sienna",
+  "van dyke brown",
+  "alizarin crimson",
+  "yellow ochre",
+  "indian yellow",
+  "black",
+  "prussian blue",
+  "sap green",
+  "cadmium yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:26",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "very little paint on bristles",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "upper sky, across the top",
+   "rule": "little paint since the canvas holds only liquid clear",
+   "new": ""
+  },
+  {
+   "t": "02:01",
+   "subject": "sky",
+   "action": "criss-cross sky color reaching into tree area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same blue, a little more",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "upper sky, reaching into tree area",
+   "rule": "keeps some blue visible through the trees later",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "other: background wash",
+   "action": "faint dark sienna and crimson accents",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "tap with almost no paint",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "far trees",
+   "action": "tiny distant shapes in mixed colors",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "dark sienna",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "tap top corner in mixed colors",
+   "motion": "tap and vary colors back and forth",
+   "pressure": "light",
+   "where": "back in the distance",
+   "rule": "basic shapes only since they are far away",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "other: thinner flick",
+   "action": "flick thinner spots over canvas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "fan dipped in thinner, shaken off",
+   "motion": "flick across",
+   "pressure": "unknown",
+   "where": "upper canvas area",
+   "rule": "",
+   "new": "thinner and liquid clear react and form spots"
+  },
+  {
+   "t": "05:22",
+   "subject": "other: light glow",
+   "action": "transparent indian yellow layer",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount, transparent",
+   "motion": "lay and work in",
+   "pressure": "light",
+   "where": "across the upper layer",
+   "rule": "suggests light coming through when finished",
+   "new": ""
+  },
+  {
+   "t": "06:08",
+   "subject": "far trees",
+   "action": "thin dark sienna sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna thinned with thinner",
+   "motion": "turn bristles and stroke",
+   "pressure": "light",
+   "where": "far back in the woods",
+   "rule": "keeps them faint so they stay in the distance",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "leaf tree",
+   "action": "dark tap texture like small leaves",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue"
+   ],
+   "load": "small amount of dark mix",
+   "motion": "tap in small spots",
+   "pressure": "light",
+   "where": "up back area",
+   "rule": "",
+   "new": "black gesso underlayer does most of the work"
+  },
+  {
+   "t": "07:48",
+   "subject": "leaf tree",
+   "action": "flick warm dark spots",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "thinner mix shaken off, flicked",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "water",
+   "action": "pond reflection with white, sienna and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "phthalo blue"
+   ],
+   "load": "very little paint on fan",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "front pond area",
+   "rule": "too much white is opaque and covers the layers",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "reflection",
+   "action": "tap small reflections",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "same colors, a little yellow",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "within the pond area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "water",
+   "action": "pull water down and lightly across",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull down, then lightly across",
+   "pressure": "light",
+   "where": "pond area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "land",
+   "action": "land mass with van dyke and dark sienna",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll of paint on knife edge",
+   "motion": "lay roll down across",
+   "pressure": "unknown",
+   "where": "back of pond, land mass",
+   "rule": "the little things need a place to stay",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "water",
+   "action": "pond with crimson, yellow ochre, white and sienna",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "yellow ochre",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "roll of mixed color on knife",
+   "motion": "lay roll across",
+   "pressure": "light",
+   "where": "pond area in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:21",
+   "subject": "land",
+   "action": "light highlight on land",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny roll on knife",
+   "motion": "lay very lightly",
+   "pressure": "light",
+   "where": "top of the land area",
+   "rule": "too far away for much highlight",
+   "new": ""
+  },
+  {
+   "t": "11:45",
+   "subject": "land",
+   "action": "fuzz land edges away",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "up and down with clean knife",
+   "pressure": "light",
+   "where": "edges of the land",
+   "rule": "soft edges make the land disappear",
+   "new": ""
+  },
+  {
+   "t": "11:45",
+   "subject": "far trees",
+   "action": "sticks and twigs off the land",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "liner with thin paint",
+   "motion": "flick sticks up",
+   "pressure": "light",
+   "where": "along the land edges",
+   "rule": "helps bring it all together",
+   "new": ""
+  },
+  {
+   "t": "12:36",
+   "subject": "water line",
+   "action": "light water lines with bright red and white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "phthalo blue"
+   ],
+   "load": "liquid white with a touch of red",
+   "motion": "light horizontal lines",
+   "pressure": "light",
+   "where": "water surface in front of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "waterfall",
+   "action": "waterfall with thin white-blue paint",
+   "tool": "other: brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin mix in liquid white",
+   "motion": "let it fall over edge, then push up for splash",
+   "pressure": "unknown",
+   "where": "right side, falling over the edge",
+   "rule": "liquid white thins the paint so it flows",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "rock",
+   "action": "big rock in front of waterfall",
+   "tool": "other: brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on brush",
+   "motion": "fill in with a gentle pass",
+   "pressure": "light",
+   "where": "in front of the waterfall",
+   "rule": "rock holds the water so it does not float",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "rock",
+   "action": "brown and white soft work-down",
+   "tool": "other: brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "let it work down, barely touching",
+   "pressure": "light",
+   "where": "lower rock area, shadowed",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "rock",
+   "action": "add bright red to dark rock mix",
+   "tool": "other: brush",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "dark mix plus bright red",
+   "motion": "blend in",
+   "pressure": "unknown",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on knife",
+   "motion": "pull trunk shape",
+   "pressure": "unknown",
+   "where": "where the tree goes, middle left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "leaf tree",
+   "action": "brown and white bounce for foliage",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on knife",
+   "motion": "touch and let it bounce",
+   "pressure": "unknown",
+   "where": "upper part of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "trunk/limbs",
+   "action": "highlight on arm limb",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "light touch",
+   "pressure": "unknown",
+   "where": "out to the side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "leaf tree",
+   "action": "dark base dabs for leaves",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on knife",
+   "motion": "tap base color down",
+   "pressure": "unknown",
+   "where": "both sides of tree",
+   "rule": "fill base color first, highlights come later",
+   "new": ""
+  },
+  {
+   "t": "18:43",
+   "subject": "leaf tree",
+   "action": "leave openings on other side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "same dark mix",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "other side of tree",
+   "rule": "leave openings so you can see the sky",
+   "new": ""
+  },
+  {
+   "t": "19:06",
+   "subject": "leaf tree",
+   "action": "highlights as leaf shapes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "black"
+   ],
+   "load": "load color on oval brush",
+   "motion": "push in leaf shapes",
+   "pressure": "light",
+   "where": "tree leaves, both sides",
+   "rule": "think about shape so leaves are not random",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "leaf tree",
+   "action": "tap more leaf shapes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "same colors on oval brush",
+   "motion": "tap in small shapes",
+   "pressure": "unknown",
+   "where": "tree area, both sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "trunk/limbs",
+   "action": "small dark sienna trunks and sticks",
+   "tool": "other: oval brush",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna thinned with thinner",
+   "motion": "add small trunks and sticks",
+   "pressure": "unknown",
+   "where": "back in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "bush",
+   "action": "bushes across back",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "liquid white with cad yellow and sap green",
+   "motion": "pull in one direction",
+   "pressure": "unknown",
+   "where": "back area, bush mass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:06",
+   "subject": "grass",
+   "action": "sideways grassy layers",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "more yellow ochre on brush",
+   "motion": "sideways strokes",
+   "pressure": "unknown",
+   "where": "back, along the land",
+   "rule": "black gesso already gives the dark values",
+   "new": ""
+  },
+  {
+   "t": "22:31",
+   "subject": "land",
+   "action": "brown land bump with highlight",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "add little highlight",
+   "pressure": "unknown",
+   "where": "bump on the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:57",
+   "subject": "bush",
+   "action": "bushes in back",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "yellow ochre"
+   ],
+   "load": "black and yellow mixed",
+   "motion": "tap in bushes",
+   "pressure": "unknown",
+   "where": "middle back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "grass",
+   "action": "grass pushed upward on the side",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "push upward with side of brush",
+   "pressure": "light",
+   "where": "right side, tall grasses",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "far trees",
+   "action": "twigs scratched through with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "unknown",
+   "motion": "scrape through to reveal black gesso",
+   "pressure": "unknown",
+   "where": "back in the woods",
+   "rule": "scratching reveals black gesso as dark twigs",
+   "new": ""
+  },
+  {
+   "t": "24:40",
+   "subject": "rock",
+   "action": "stones with grey and brown filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "black",
+    "van dyke brown"
+   ],
+   "load": "one side light grey, one side brown",
+   "motion": "pull stroke to make stone",
+   "pressure": "unknown",
+   "where": "back, scattered stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:28",
+   "subject": "water",
+   "action": "ripples into the distance",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "black"
+   ],
+   "load": "phthalo blue with black",
+   "motion": "tap ripple shapes",
+   "pressure": "light",
+   "where": "back water area",
+   "rule": "darker in the back for depth",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "water",
+   "action": "foamy ripples outward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little liquid white and titanium white",
+   "motion": "pop foamy ripples",
+   "pressure": "unknown",
+   "where": "water areas going outward",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

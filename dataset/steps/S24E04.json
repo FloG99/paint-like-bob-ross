@@ -1,0 +1,575 @@
+{
+ "ep": "S24E04",
+ "base": "black gesso, thin liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "phthalo blue",
+  "bright red",
+  "alizarin crimson",
+  "sap green",
+  "midnight black",
+  "prussian blue",
+  "yellow ochre",
+  "cadmium yellow",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:18",
+   "subject": "sky",
+   "action": "x strokes for sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mix white and blue on palette",
+   "motion": "tiny x strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "canvas has only clear medium, so color must be mixed on palette",
+   "new": ""
+  },
+  {
+   "t": "02:38",
+   "subject": "cloud",
+   "action": "shape little clouds",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "tap corner into a little of the mix",
+   "motion": "corner strokes, floating shapes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "cloud",
+   "action": "blend cloud base for shadow",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over dry brush",
+   "motion": "firmer blend",
+   "pressure": "medium",
+   "where": "cloud base",
+   "rule": "dark base shows through as shadow",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "cloud",
+   "action": "more pinkish cloud layers",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "tap corner into pinkish mix",
+   "motion": "tap then sideways strokes",
+   "pressure": "light",
+   "where": "upper sky layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:32",
+   "subject": "cloud",
+   "action": "fluffy cloud layers with side of brush",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "tap straight down to load",
+   "motion": "sideways strokes",
+   "pressure": "light",
+   "where": "upper sky layers",
+   "rule": "side of brush opens bristles so clouds stay fluffy",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "cloud",
+   "action": "blend cloud base softly",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dry brush with no paint",
+   "motion": "very light blend with one stroke",
+   "pressure": "whisper",
+   "where": "cloud base",
+   "rule": "thinner left on brush would ruin the wet base",
+   "new": ""
+  },
+  {
+   "t": "08:14",
+   "subject": "far trees",
+   "action": "sideways push distant trees",
+   "tool": "unknown",
+   "part": "chisel",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "mix brown then lighten with black, blue and white",
+   "motion": "sideways push, one side then the other",
+   "pressure": "light",
+   "where": "far back row",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:45",
+   "subject": "mist",
+   "action": "blend white into base for mist",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap leftover white from brush",
+   "motion": "tap then blend with clean brush",
+   "pressure": "light",
+   "where": "base of distant trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "bush",
+   "action": "darker bush layer with corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "darken same brown mix",
+   "motion": "tap with top corner",
+   "pressure": "light",
+   "where": "bushes over the mist",
+   "rule": "layering creates depth so each layer is darker",
+   "new": ""
+  },
+  {
+   "t": "12:01",
+   "subject": "bush",
+   "action": "lighter bush layer then lift to blend mist",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "tap a little lighter color",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "bushes near the mist",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:52",
+   "subject": "far trees",
+   "action": "background trees with two inch brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "darker brown mix each pass",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "background behind bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "leaf tree",
+   "action": "tree with widening branches",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "corner first then bend bristles down the tree",
+   "pressure": "medium",
+   "where": "other side of canvas",
+   "rule": "more pressure going down makes branches wider",
+   "new": ""
+  },
+  {
+   "t": "15:05",
+   "subject": "trunk/limbs",
+   "action": "tree trunk indications",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mix brown with a little white",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "back of the tree rows",
+   "rule": "far back so keep trunk detail minimal",
+   "new": ""
+  },
+  {
+   "t": "15:30",
+   "subject": "leaf tree",
+   "action": "dark green highlight on big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow",
+    "midnight black"
+   ],
+   "load": "mix dark green from yellows and black",
+   "motion": "touch highlight with corner",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:54",
+   "subject": "grass",
+   "action": "tap grassy patch",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow",
+    "midnight black",
+    "bright red"
+   ],
+   "load": "same green mix with bright red dab",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "grassy patch",
+   "rule": "red dulls green since red and green make brown",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "grass",
+   "action": "sparkle white highlights on grass",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on same brush",
+   "motion": "tap sparkle",
+   "pressure": "light",
+   "where": "grassy patch",
+   "rule": "too much white kills the effect",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "leaf tree",
+   "action": "closer dark tree",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "load dark black and blue to chisel edge",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "closer tree in upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "trunk/limbs",
+   "action": "highlight arms of big tree in greens and yellows",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow",
+    "midnight black"
+   ],
+   "load": "same brush with greens and yellows",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "big tree arms in upper area",
+   "rule": "brighter so it stands out against the dark tree",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "structure",
+   "action": "block in cabin back and front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "brown mix",
+   "motion": "block in color",
+   "pressure": "unknown",
+   "where": "back eave then front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "structure",
+   "action": "old wood tone for logs",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "mix yellow ochre with brown and white",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "cabin logs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:44",
+   "subject": "structure",
+   "action": "dark log lines across cabin",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "take a little dark mix",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "across the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:17",
+   "subject": "structure",
+   "action": "highlight logs on one side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "highlight logs and keep other side dark",
+   "pressure": "unknown",
+   "where": "cabin logs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "structure",
+   "action": "shingle roof with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mix gray from black and white",
+   "motion": "short marks from bottom up in layers",
+   "pressure": "unknown",
+   "where": "roof of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "structure",
+   "action": "door and window with highlight edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:56",
+   "subject": "grass",
+   "action": "layers of grass around cabin",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow",
+    "midnight black",
+    "bright red"
+   ],
+   "load": "tap grassy color on halfway clean brush",
+   "motion": "tapping layers",
+   "pressure": "unknown",
+   "where": "around cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "land",
+   "action": "dark hill base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix first",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "hill above the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "path",
+   "action": "highlight brown path up hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "brown with white on top",
+   "motion": "highlight stroke",
+   "pressure": "unknown",
+   "where": "path up the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "grass",
+   "action": "grassy area beside hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "side of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:44",
+   "subject": "trunk/limbs",
+   "action": "thin brown arms of big tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "thin brown with thinner, ink-like",
+   "motion": "arm strokes",
+   "pressure": "unknown",
+   "where": "big tree arm reaching over",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:44",
+   "subject": "trunk/limbs",
+   "action": "highlight on arms with brown and white",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "thin brown and white mix",
+   "motion": "come down along arms",
+   "pressure": "unknown",
+   "where": "tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "trunk/limbs",
+   "action": "extend tree arms past oval edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "past the oval edge",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

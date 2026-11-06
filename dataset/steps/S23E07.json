@@ -1,0 +1,645 @@
+{
+ "ep": "S23E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "bright red",
+  "cad yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "liquid white",
+  "liquid clear"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sun/glow",
+   "action": "place orange circle",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "cad yellow"
+   ],
+   "load": "bright red with a little cad yellow",
+   "motion": "circle shape",
+   "pressure": "light",
+   "where": "upper middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:51",
+   "subject": "reflection",
+   "action": "reflect orange into water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down lightly",
+   "pressure": "light",
+   "where": "water below circle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:51",
+   "subject": "sky",
+   "action": "add yellow ochre and red near circle",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mix yellow ochre with bright red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "around the circle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "sky",
+   "action": "crimson base over sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "just crimson on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "crisscross makes later blending easier",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "sky",
+   "action": "add lavender sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mix crimson and blue on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "water",
+   "action": "pull lavender down into water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "sky",
+   "action": "fill rest of sky with darker mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "darker mix",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "rest of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:53",
+   "subject": "sky",
+   "action": "blend dark outward from center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "start center, blend outward",
+   "pressure": "light",
+   "where": "center of sky",
+   "rule": "keeps outside dark so center stays light",
+   "new": ""
+  },
+  {
+   "t": "04:37",
+   "subject": "sky",
+   "action": "glow white at center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure titanium white",
+   "motion": "work outward",
+   "pressure": "light",
+   "where": "center of sky",
+   "rule": "brightest center makes a glow",
+   "new": ""
+  },
+  {
+   "t": "06:19",
+   "subject": "evergreen",
+   "action": "paint small evergreens",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "lavender mix with a little white",
+   "motion": "push down, bend bristles",
+   "pressure": "light",
+   "where": "back background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:31",
+   "subject": "bush",
+   "action": "tap small growth along line",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "along the back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "reflection",
+   "action": "pull reflection straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "straight down then across",
+   "pressure": "light",
+   "where": "where land meets water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "land",
+   "action": "tap basic land shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "snow",
+   "action": "tap snow-covered tops",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "liquid white thinned on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:12",
+   "subject": "water line",
+   "action": "cut in water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "liquid white with a touch of bright red",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "a touch of red warms the white",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "bush",
+   "action": "tap layered bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "darker base color",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle layer",
+   "rule": "each layer darker as it comes forward",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "reflection",
+   "action": "pull tree reflection straight down",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "straight down then across",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "trunk/limbs",
+   "action": "paint few thin trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "same color thinned with paint thinner",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "trunks hold up the little things in back",
+   "new": ""
+  },
+  {
+   "t": "11:53",
+   "subject": "far trees",
+   "action": "tap light and dark highlights",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "white, then darker color",
+   "motion": "tap to load",
+   "pressure": "light",
+   "where": "back row trees",
+   "rule": "keeps far highlights subdued",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "snow",
+   "action": "lay snow along base",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white on knife",
+   "motion": "angled strokes",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:40",
+   "subject": "land",
+   "action": "pull dark under snow bank",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "dark mix from earlier",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "puts depth under the bank",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "grass",
+   "action": "dab grassy bits along bank",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "liquid white",
+    "bright red"
+   ],
+   "load": "liquid white with a touch of bright red",
+   "motion": "pop in quick bits",
+   "pressure": "light",
+   "where": "along the bank",
+   "rule": "breaks up the edge and blends",
+   "new": ""
+  },
+  {
+   "t": "15:01",
+   "subject": "evergreen",
+   "action": "paint small dark tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mostly van dyke brown with dark sienna",
+   "motion": "push down",
+   "pressure": "light",
+   "where": "by the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "evergreen",
+   "action": "highlight tree edge",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white",
+   "motion": "run along the edge",
+   "pressure": "light",
+   "where": "edge of the tree",
+   "rule": "light source placement makes the highlight",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs and leaf indications",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dab limbs",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "evergreen",
+   "action": "highlight tips with thin white",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "dark wiped off, tip dipped in thin white",
+   "motion": "come around like this",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:57",
+   "subject": "leaf tree",
+   "action": "tap great big trees",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "reflection",
+   "action": "pull reflection straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "straight down then across",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "reflection goes in before details, hard to add later",
+   "new": ""
+  },
+  {
+   "t": "19:30",
+   "subject": "other: open areas",
+   "action": "fill dark to show lights",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "dark mix",
+   "motion": "fill open areas",
+   "pressure": "light",
+   "where": "open canvas areas",
+   "rule": "dark makes the lights show",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "trunk/limbs",
+   "action": "paint sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "lavender thinned with paint thinner",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "evergreen",
+   "action": "paint very dark evergreen",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "lot of dark paint",
+   "motion": "push down, bend bristles",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:35",
+   "subject": "leaf tree",
+   "action": "paint two very large trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "van dyke brown and dark sienna",
+   "motion": "push and bend",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "trunk/limbs",
+   "action": "add bark lines with white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white",
+   "motion": "round pull",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "trunk/limbs",
+   "action": "barely touch dark for bark texture",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark color from before",
+   "motion": "barely touch, lift",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:00",
+   "subject": "trunk/limbs",
+   "action": "add dark limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark color thinned",
+   "motion": "indicate here and there",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:54",
+   "subject": "evergreen",
+   "action": "highlight across tree with thin white",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "liquid clear"
+   ],
+   "load": "thin white and clear",
+   "motion": "run across tree",
+   "pressure": "light",
+   "where": "across the tree",
+   "rule": "thin paint slides over firm paint",
+   "new": ""
+  },
+  {
+   "t": "25:52",
+   "subject": "path",
+   "action": "work knife back and forth into path",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white on knife",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "path area",
+   "rule": "gives the little painter a place to hide",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[10:09] blue is cold, so it makes the scene look chilly",
+  "[12:39] keeping some dark areas makes the highlights show"
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "ep": "S28E05",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "sap green",
+  "titanium white",
+  "yellow ochre",
+  "bright red",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "02:08",
+   "subject": "sky",
+   "action": "tint sky with blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount worked into bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top area",
+   "rule": "tint so the sky reads as blue behind",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "leaf tree",
+   "action": "block in brown tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from crimson and green",
+   "motion": "crisscross strokes",
+   "pressure": "unknown",
+   "where": "background, up to the top",
+   "rule": "only basic shapes needed now, detail later",
+   "new": ""
+  },
+  {
+   "t": "04:06",
+   "subject": "other: dark base shadow",
+   "action": "add dark shadows at bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "bottom of the shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "other: background fill",
+   "action": "cover rest of canvas with brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "bright red"
+   ],
+   "load": "brown mix with some red",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "rest of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:19",
+   "subject": "trunk/limbs",
+   "action": "thin tree trunks and limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "very thin, almost ink",
+   "motion": "unknown",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "thin paint slides into place without fuss",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "leaf tree",
+   "action": "tap yellows and bright red on round",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap to load, layers of color",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "layers of color on the brush give variety",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "leaf tree",
+   "action": "pick out individual bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "carried on round",
+   "motion": "tap individual shapes",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "leaf tree",
+   "action": "dull the bushes with brown and red",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "bright red"
+   ],
+   "load": "brown and a little red",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "bushes in the back",
+   "rule": "brown dulls the color so it stays subdued",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "land",
+   "action": "lay of the land with yellow tap ridges",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap a ridge of paint",
+   "motion": "push up ridge then tap",
+   "pressure": "unknown",
+   "where": "lower area, unspecified",
+   "rule": "dark underlayer makes it brighter out here",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "leaf tree",
+   "action": "highlight a bush with top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "brighter color on brush",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "one bush, unspecified",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:30",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "a little brown with thinner",
+   "motion": "draw thin twigs",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:17",
+   "subject": "leaf tree",
+   "action": "big tree with many arms",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "a lot of brown",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "up here, big tree",
+   "rule": "gives squirrels a place to climb and play",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "leaf tree",
+   "action": "highlight left side of tree",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "white mixed into brown on brush",
+   "motion": "bounce along, lifting high spots",
+   "pressure": "unknown",
+   "where": "left side of tree",
+   "rule": "light comes from the left, so highlights go there",
+   "new": ""
+  },
+  {
+   "t": "16:01",
+   "subject": "leaf tree",
+   "action": "cover some areas with leaves",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried on filbert",
+   "motion": "tap on leaves",
+   "pressure": "unknown",
+   "where": "areas not liked",
+   "rule": "leave liked areas bare and cover the rest",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "leaf tree",
+   "action": "tap basic leaf shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "alizarin crimson",
+    "sap green",
+    "bright red"
+   ],
+   "load": "mixed darker than final color",
+   "motion": "tap basic shapes",
+   "pressure": "unknown",
+   "where": "tree",
+   "rule": "dark base lets highlights show up",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "leaf tree",
+   "action": "highlight outer leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "yellow ochre"
+   ],
+   "load": "liquid white with yellow ochre",
+   "motion": "touch lightly, reload often",
+   "pressure": "light",
+   "where": "outside of tree",
+   "rule": "thin paint grabs onto thick base",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "fence",
+   "action": "dark and light fence swoosh",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "one side dark, other light",
+   "motion": "swoosh strokes",
+   "pressure": "unknown",
+   "where": "far back and around tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:43",
+   "subject": "other: tree base shadows",
+   "action": "soft shadows around tree bases",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "carried mix",
+   "motion": "unknown",
+   "pressure": "light",
+   "where": "around tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "trunk/limbs",
+   "action": "paint dead tree with hanging arms",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "old tree in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "other: weeds and sticks",
+   "action": "add weeds and sticks around things",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "around the things",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

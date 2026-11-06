@@ -1,0 +1,482 @@
+{
+ "ep": "S21E04",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "behind",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "sap green",
+  "yellow ochre",
+  "Indian yellow",
+  "cad yellow",
+  "bright red",
+  "van Dyke brown",
+  "dark sienna",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sun/glow",
+   "action": "white glow behind tree with X strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on both sides of bristles",
+   "motion": "X strokes then blend outward",
+   "pressure": "light",
+   "where": "behind tree",
+   "rule": "blending picks up the color underneath for the glow",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "sun/glow",
+   "action": "add glow above top of tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "blend in",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "other: distant shrubs",
+   "action": "tap basic shapes of far trees and bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix from underneath color",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "too much light here so the color cannot be dark",
+   "new": ""
+  },
+  {
+   "t": "04:58",
+   "subject": "other: tree trunk",
+   "action": "thin liner trunk and arms",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin paint from thinner, pull limbs",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:12",
+   "subject": "sun/glow",
+   "action": "add pink highlight on back shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "white with touch of crimson and blue",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "back shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:48",
+   "subject": "bush",
+   "action": "cool bushes by adding blue",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "blue added to lavender",
+   "motion": "corner taps",
+   "pressure": "light",
+   "where": "back bushes",
+   "rule": "blue makes it look more in the shadow",
+   "new": ""
+  },
+  {
+   "t": "08:38",
+   "subject": "bush",
+   "action": "pink bushes on other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "pink mix",
+   "motion": "corner taps",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "other: forward layers",
+   "action": "darker layers working forward",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "darker lavender",
+   "motion": "pop in shapes",
+   "pressure": "light",
+   "where": "forward areas",
+   "rule": "darker layers forward create depth",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "other: big limbs",
+   "action": "drop in basic limbs",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "back limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "bush",
+   "action": "drop in bush and limbs on both sides",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "both sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:20",
+   "subject": "other: tree trunk",
+   "action": "liner trunk with dark sienna and white",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "thin dark sienna with a little white",
+   "motion": "thin strokes and arms",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "adding white helps the trunk show",
+   "new": ""
+  },
+  {
+   "t": "13:05",
+   "subject": "trunk/limbs",
+   "action": "add little sticks and bumps",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thin lavender",
+   "motion": "sticks and bumps",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "sticks keep the painting interesting",
+   "new": ""
+  },
+  {
+   "t": "13:57",
+   "subject": "other: green leaves",
+   "action": "mix light green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "sap green with yellow ochre",
+   "motion": "mix on brush",
+   "pressure": "light",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "bush",
+   "action": "add yellow highlights to bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "green with yellows",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "light zings through the bushes",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "land",
+   "action": "grassy area with yellow and red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "yellow mix",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "grassy area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "other: leaves",
+   "action": "paint hanging leaves on old tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on brush",
+   "motion": "hang leaves",
+   "pressure": "light",
+   "where": "right side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:21",
+   "subject": "other: leaves",
+   "action": "sparkle white highlights on leaves",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "sap green"
+   ],
+   "load": "green with a little white",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "top of leaves",
+   "rule": "overdoing it loses the effect",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "bush",
+   "action": "bright red bush with yellow ochre and black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "red with yellow ochre",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:12",
+   "subject": "land",
+   "action": "soft land area on other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green",
+   "motion": "flow strokes",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "the lay of the land is important",
+   "new": ""
+  },
+  {
+   "t": "19:00",
+   "subject": "other: big tree",
+   "action": "tree body with van Dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "brown and sienna mix with black",
+   "motion": "follow outline with bumpy edge",
+   "pressure": "firm",
+   "where": "tree outline",
+   "rule": "keeps tree dark for contrast",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "other: big tree",
+   "action": "add arms and gnarly edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mix",
+   "motion": "arms out to sides",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "other: big tree",
+   "action": "highlight bark edges with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on brush",
+   "motion": "bounce along edges",
+   "pressure": "light",
+   "where": "tree edges",
+   "rule": "keeps tree dark so it stands out against light",
+   "new": ""
+  },
+  {
+   "t": "21:09",
+   "subject": "land",
+   "action": "path strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white and brown",
+   "motion": "stroke",
+   "pressure": "light",
+   "where": "path area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "land",
+   "action": "grass patches at base of tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on fan",
+   "motion": "patches",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "grass helps form the roots",
+   "new": ""
+  },
+  {
+   "t": "22:46",
+   "subject": "water",
+   "action": "add waterfall with white and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with phthalo blue",
+   "motion": "bounce and drop",
+   "pressure": "light",
+   "where": "water in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "rock",
+   "action": "rocks along waterfall edge with dark and light sides",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "liquid white"
+   ],
+   "load": "dark brown and light mix on filbert",
+   "motion": "single stroke",
+   "pressure": "light",
+   "where": "edge of waterfall",
+   "rule": "rocks keep the water from running out",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "trunk/limbs",
+   "action": "hanging limbs with black and sap green",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "dark green mix",
+   "motion": "pull limbs over",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,471 @@
+{
+ "ep": "S28E08",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "black gesso",
+  "white gesso",
+  "gray gesso",
+  "phthalo blue",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "midnight black",
+  "prussian blue",
+  "alizarin crimson",
+  "sap green",
+  "indian yellow",
+  "yellow ochre",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "trunk/limbs",
+   "action": "paint thin tree trunks and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black gesso",
+    "white gesso",
+    "gray gesso"
+   ],
+   "load": "liner loaded with gesso",
+   "motion": "quick thin strokes",
+   "pressure": "light",
+   "where": "tree trunk areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:52",
+   "subject": "leaf tree",
+   "action": "daub clumps of gesso for leaf areas",
+   "tool": "towel",
+   "part": "unknown",
+   "paint": [
+    "black gesso",
+    "white gesso",
+    "gray gesso"
+   ],
+   "load": "gesso dabbed on a paper towel",
+   "motion": "dab and press",
+   "pressure": "light",
+   "where": "tops of the trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:52",
+   "subject": "rock",
+   "action": "make small stone shapes at the bottom",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [
+    "black gesso",
+    "gray gesso"
+   ],
+   "load": "gesso loaded on the filbert",
+   "motion": "touch down in small shapes",
+   "pressure": "unknown",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:43",
+   "subject": "sky",
+   "action": "glaze blue over the whole background",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount on the brush",
+   "motion": "broad sweeping strokes",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "the clear makes the color act as a glaze",
+   "new": ""
+  },
+  {
+   "t": "04:38",
+   "subject": "rock",
+   "action": "pull a brown streak for the back rock",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix pulled flat on the knife",
+   "motion": "pull a thin streak across",
+   "pressure": "light",
+   "where": "far back behind the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:02",
+   "subject": "rock",
+   "action": "mix gray marbled rock and gently touch it on",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue",
+    "dark sienna"
+   ],
+   "load": "gray mix left marbled on the knife",
+   "motion": "gently touch and lift",
+   "pressure": "light",
+   "where": "back rock area",
+   "rule": "leave the mix marbled so streaks transfer to canvas",
+   "new": ""
+  },
+  {
+   "t": "04:08",
+   "subject": "waterfall",
+   "action": "pull the water stroke down the rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white thinned with clear",
+   "motion": "straight pull down",
+   "pressure": "light",
+   "where": "over the rock down to the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:19",
+   "subject": "mist",
+   "action": "tap soft mist at the base of the waterfall",
+   "tool": "other: blender",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "small amount of the water color",
+   "motion": "tap and diffuse",
+   "pressure": "light",
+   "where": "base of the waterfall",
+   "rule": "the soft blender lets you paint over the layer",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "rock",
+   "action": "pull brown into a rock that contains the waterfall",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll of brown on the knife edge",
+   "motion": "drag down and fade into the mist",
+   "pressure": "unknown",
+   "where": "right side of the waterfall",
+   "rule": "a rock here keeps the waterfall contained",
+   "new": ""
+  },
+  {
+   "t": "07:57",
+   "subject": "rock",
+   "action": "paint a flat top on the rock",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brown mix",
+   "motion": "press flat across the top",
+   "pressure": "unknown",
+   "where": "top of the right rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:19",
+   "subject": "mist",
+   "action": "blend mist out past the rock",
+   "tool": "other: blender",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "small amount of mist color",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "both sides of the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:13",
+   "subject": "bush",
+   "action": "block in dark green bush shapes",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "both sides loaded and tapped",
+   "motion": "tap basic bush shapes, including the corner",
+   "pressure": "light",
+   "where": "upper area above the waterfall",
+   "rule": "dark base gives highlights something to show against",
+   "new": ""
+  },
+  {
+   "t": "10:26",
+   "subject": "bush",
+   "action": "tap a big bush on the right side over the top",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "tap and let it hang over",
+   "pressure": "light",
+   "where": "right side over the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "bush",
+   "action": "pick out individual yellow highlights",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "pull through paint and tap to form a ridge",
+   "motion": "tap individual highlights",
+   "pressure": "light",
+   "where": "upper bushes",
+   "rule": "one highlight at a time keeps the dark from being covered",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "bush",
+   "action": "tap a hanging bush over the lower edge",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "indian yellow"
+   ],
+   "load": "thinner added, more sap green and yellow",
+   "motion": "tap bushy clumps",
+   "pressure": "light",
+   "where": "lower edge, hanging over",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "bush",
+   "action": "dab small highlights in red and yellow",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "same brush with yellow and red",
+   "motion": "dab small highlights",
+   "pressure": "light",
+   "where": "middle bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "bush",
+   "action": "paint the bush on the other side in yellow ochre",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre added to the bush mix",
+   "motion": "tap in the bush",
+   "pressure": "light",
+   "where": "other side of the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "bush",
+   "action": "overlap a bush arm in front of the waterfall",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap an overlap",
+   "pressure": "light",
+   "where": "in front of the waterfall",
+   "rule": "overlap pushes the waterfall back so it looks farther",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "land",
+   "action": "lay a small peninsula of brown land",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "small roll of brown on the knife edge",
+   "motion": "lay a small roll along the bottom",
+   "pressure": "unknown",
+   "where": "bottom of the canvas, small peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:04",
+   "subject": "grass",
+   "action": "tap grassy tufts along the land",
+   "tool": "1in",
+   "part": "chisel",
+   "paint": [
+    "sap green"
+   ],
+   "load": "darker sap green tapped to a ridge",
+   "motion": "tap tap tap upward",
+   "pressure": "light",
+   "where": "land on both sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "trunk/limbs",
+   "action": "paint thin dead stems in the background",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white thinned with thinner",
+   "motion": "fine stems",
+   "pressure": "light",
+   "where": "middle background among bushes",
+   "rule": "stems create the illusion of depth and distance",
+   "new": ""
+  },
+  {
+   "t": "21:00",
+   "subject": "rock",
+   "action": "pick up dark and light paint for stones",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark on both sides, light on one side",
+   "motion": "touch lightly to form stones",
+   "pressure": "light",
+   "where": "scattered in the water",
+   "rule": "thinned paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "water",
+   "action": "paint a few ripples across the water",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same brush with blue, white and clear",
+   "motion": "short ripple strokes",
+   "pressure": "light",
+   "where": "water across the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "water",
+   "action": "wipe back some color to keep the water see-through",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [],
+   "load": "wiped nearly clean",
+   "motion": "wipe back",
+   "pressure": "light",
+   "where": "water around the rocks",
+   "rule": "keeps the water transparent so rocks show",
+   "new": ""
+  },
+  {
+   "t": "23:07",
+   "subject": "water",
+   "action": "brush clear and black gesso over the water",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [
+    "black gesso"
+   ],
+   "load": "clear mixed with black gesso",
+   "motion": "brush over the water",
+   "pressure": "light",
+   "where": "water over the rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "rock",
+   "action": "define the rock edge with a small knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "small roll of mixed white, black and brown",
+   "motion": "run a thin edge line",
+   "pressure": "light",
+   "where": "edge of the rock",
+   "rule": "defining the edge makes it stand out",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[12:29] thin paint sticks to thick paint, so add thinner when it will not stick"
+ ]
+}

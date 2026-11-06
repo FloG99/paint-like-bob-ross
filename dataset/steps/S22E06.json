@@ -1,0 +1,526 @@
+{
+ "ep": "S22E06",
+ "base": "black gesso graduated to clear, thin alizarin crimson and phthalo blue wash",
+ "format": "unknown",
+ "light": "center",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "sap green",
+  "dark sienna",
+  "van dyke brown",
+  "liquid white",
+  "liquid clear"
+ ],
+ "steps": [
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "criss-cross light area in the center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "light area in the center",
+   "rule": "starting in the center makes it darken outward",
+   "new": ""
+  },
+  {
+   "t": "02:09",
+   "subject": "sky",
+   "action": "brighten the center with fresh white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "reloaded white",
+   "motion": "criss-cross outward from the center",
+   "pressure": "light",
+   "where": "center area",
+   "rule": "a dirty brush would dull the center so clean it between loads",
+   "new": ""
+  },
+  {
+   "t": "03:26",
+   "subject": "sky",
+   "action": "brush lightly across and blend the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "brush lightly then blend",
+   "pressure": "whisper",
+   "where": "top corner and sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:12",
+   "subject": "far trees",
+   "action": "tap lavender background trees",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix with more crimson than blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:19",
+   "subject": "bush",
+   "action": "tap warm highlights on the background bush",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "a touch of each warm color",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background bush",
+   "rule": "warm bright colors make the background bright",
+   "new": ""
+  },
+  {
+   "t": "07:12",
+   "subject": "bush",
+   "action": "tap hot pink and blue shades into bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "phthalo blue"
+   ],
+   "load": "pink mix then a touch of blue",
+   "motion": "tap onto the bristles",
+   "pressure": "light",
+   "where": "background bushes",
+   "rule": "cool next to warm makes a striking contrast",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "bush",
+   "action": "tap light sap green into the bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "titanium white",
+    "bright red",
+    "phthalo blue"
+   ],
+   "load": "least touch of sap green",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "background bushes",
+   "rule": "dark green would change the mood so keep it light",
+   "new": "some background left unpainted for depth"
+  },
+  {
+   "t": "09:44",
+   "subject": "trunk/limbs",
+   "action": "paint thin twigs and trunks with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thinned lavender loaded full",
+   "motion": "pull fine lines",
+   "pressure": "light",
+   "where": "scattered in the woods",
+   "rule": "twigs add depth and dimension",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "grass",
+   "action": "tap yellow greens for grassy ridges",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "lavender on the brush then yellow",
+   "motion": "tap and push to build a ridge",
+   "pressure": "medium",
+   "where": "lower land area",
+   "rule": "lavender underneath gives varied greens",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "land",
+   "action": "darken the land toward the back",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "yellow mix",
+   "motion": "tap with less pressure going back",
+   "pressure": "light",
+   "where": "back of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "other: light highlight",
+   "action": "pick out sparkle spots with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount of white",
+   "motion": "tap one or two spots",
+   "pressure": "whisper",
+   "where": "where light would hit",
+   "rule": "light hitting one spot makes the painting sparkle",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "stream",
+   "action": "paint a thin stream with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "liquid white"
+   ],
+   "load": "liquid white with white and a touch of phthalo blue",
+   "motion": "pull straight then go down",
+   "pressure": "light",
+   "where": "center up in the painting",
+   "rule": "liquid white thins paint so it slides over thick paint",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "leaf tree",
+   "action": "block in a dark tree on the right of the falls",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender from the palette",
+   "motion": "block a basic shape",
+   "pressure": "light",
+   "where": "right side over the waterfall",
+   "rule": "the dark is there only so light can go on top",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "leaf tree",
+   "action": "block in bluish-gray light on the tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "bluish-gray mix",
+   "motion": "block a light tone",
+   "pressure": "light",
+   "where": "on the dark tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:56",
+   "subject": "leaf tree",
+   "action": "dab foliage clusters with the corner in layers",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "more yellow ochre on the brush",
+   "motion": "dab in layers",
+   "pressure": "light",
+   "where": "across the tree",
+   "rule": "think about the tree shape so it does not look random",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "grass",
+   "action": "add a small grassy bank under the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "grass color from the brush",
+   "motion": "tap down",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "rock",
+   "action": "paint stones with the filbert in one stroke",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "liquid white"
+   ],
+   "load": "thin brown mix with dark and light sides",
+   "motion": "touch and pull one side through the light",
+   "pressure": "light",
+   "where": "back of the canvas, scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:03",
+   "subject": "waterfall",
+   "action": "paint the waterfall around the stones",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin white with a touch of phthalo blue",
+   "motion": "wiggle down and push upward for foam",
+   "pressure": "light",
+   "where": "around the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:54",
+   "subject": "grass",
+   "action": "tap a grassy bush with ochre and red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "grass green with a touch of red",
+   "motion": "tap down",
+   "pressure": "light",
+   "where": "lower bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:18",
+   "subject": "bush",
+   "action": "tap a bush hanging over the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "greens from the grass color",
+   "motion": "push and tap",
+   "pressure": "light",
+   "where": "bank over the water",
+   "rule": "makes the bush look like it sticks out over the water",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "trunk/limbs",
+   "action": "paint a big tree trunk with bends using the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "draw trunk with bends and wiggles",
+   "pressure": "light",
+   "where": "right side by the waterfall",
+   "rule": "a liner makes many bends and wiggles easy",
+   "new": ""
+  },
+  {
+   "t": "22:31",
+   "subject": "trunk/limbs",
+   "action": "paint a second trunk running off the canvas",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown from the liner",
+   "motion": "draw wiggly trunk",
+   "pressure": "light",
+   "where": "left side off the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:55",
+   "subject": "trunk/limbs",
+   "action": "add short arms to the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown from the liner",
+   "motion": "add short arms",
+   "pressure": "light",
+   "where": "out from the trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:20",
+   "subject": "trunk/limbs",
+   "action": "highlight the trunks with a filbert stroke",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "liquid white"
+   ],
+   "load": "thin rock color on the filbert",
+   "motion": "pull down the trunks",
+   "pressure": "light",
+   "where": "the trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "leaf tree",
+   "action": "add a few floating leaves at the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow-green from the grass mix",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "upper tree area",
+   "rule": "keeps it sparse so the background still shows",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "leaf tree",
+   "action": "shift the other side toward gold",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "a little more of each",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "other side of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:30",
+   "subject": "leaf tree",
+   "action": "brighten the big tree with red and ochre",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "bright red added to yellow ochre",
+   "motion": "tap leaves that hang out",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:55",
+   "subject": "trunk/limbs",
+   "action": "paint a few twigs on the lower limb",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little of the light color",
+   "motion": "small twig strokes",
+   "pressure": "light",
+   "where": "lower limb",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red with paint thinner",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

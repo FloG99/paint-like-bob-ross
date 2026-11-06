@@ -1,0 +1,632 @@
+{
+ "ep": "S04E06",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "prussian blue",
+  "burnt umber",
+  "van dyke brown",
+  "cadmium yellow",
+  "yellow ochre",
+  "sap green",
+  "permanent red",
+  "phthalo blue",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "other: background wash",
+   "action": "lay in crimson wash across background",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "worked into brush",
+   "motion": "lay here and there",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:29",
+   "subject": "other: background wash",
+   "action": "bounce prussian blue into the crimson",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "not cleaned",
+   "motion": "bounce lightly",
+   "pressure": "light",
+   "where": "background",
+   "rule": "blue is much stronger and would overpower crimson",
+   "new": ""
+  },
+  {
+   "t": "01:01",
+   "subject": "other: background wash",
+   "action": "add burnt umber to gray the colors",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "small amount",
+   "motion": "lay here and there",
+   "pressure": "light",
+   "where": "background",
+   "rule": "it grays the colors down",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "far trees",
+   "action": "lay in basic background tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "same dirty brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "reflection",
+   "action": "pull dirty color down for reflections",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down then lightly across",
+   "pressure": "light",
+   "where": "below background",
+   "rule": "we do not know where the water will be yet",
+   "new": ""
+  },
+  {
+   "t": "03:37",
+   "subject": "other: background color",
+   "action": "mix cadmium yellow yellow ochre and sap green on brush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "tiniest bit of thinner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "other: background color",
+   "action": "add permanent red to break up the color",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "it breaks the color up",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "other: background",
+   "action": "soften the background with the clean 2.5in brush",
+   "tool": "other: 2.5in brush",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "touch and soften",
+   "pressure": "light",
+   "where": "background edges",
+   "rule": "softening makes it look far away",
+   "new": ""
+  },
+  {
+   "t": "06:02",
+   "subject": "far trees",
+   "action": "add thin trunk indications with van dyke brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with thin oil",
+   "motion": "lift or pull",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:17",
+   "subject": "other: background",
+   "action": "soften with the other corner of the large brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:41",
+   "subject": "other: background details",
+   "action": "lay in thin brown and white shapes",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "thin paint cut from palette",
+   "motion": "lay small shapes",
+   "pressure": "light",
+   "where": "upper background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:30",
+   "subject": "land",
+   "action": "lay in base land with brown and burnt umber",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "from palette",
+   "motion": "lay base shape",
+   "pressure": "medium",
+   "where": "middle canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "land",
+   "action": "lay blue-gray highlights on the land",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "magic white",
+    "phthalo blue"
+   ],
+   "load": "on the knife",
+   "motion": "lay a few highlights",
+   "pressure": "light",
+   "where": "over the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "land",
+   "action": "add a lighter value highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white"
+   ],
+   "load": "on the knife",
+   "motion": "lay highlights",
+   "pressure": "whisper",
+   "where": "over the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "far trees",
+   "action": "tap a small far tree with thinned brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "magic white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "thinned so it comes off the brush easier",
+   "new": ""
+  },
+  {
+   "t": "11:39",
+   "subject": "far trees",
+   "action": "tap yellow-green shapes with the corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "loaded from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:40",
+   "subject": "far trees",
+   "action": "soften the edges with the big brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:07",
+   "subject": "trunk/limbs",
+   "action": "add trunk with brown and white on each side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "magic white"
+   ],
+   "load": "dark on one side light on the other",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:02",
+   "subject": "leaf tree",
+   "action": "tap detail shapes on the closer tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "closer tree",
+   "rule": "closer things need more detail",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "leaf tree",
+   "action": "highlight with sap green and yellow",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "from palette",
+   "motion": "tap here and there",
+   "pressure": "light",
+   "where": "highlight area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "land",
+   "action": "lay in land masses with the 2in brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "from palette",
+   "motion": "tap to soften",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "land",
+   "action": "leave the shadow area on the land dark",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower land",
+   "rule": "this area is shadow so keep it dark",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "sun/glow",
+   "action": "add a tiny white touch for light through the land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "tiniest bit",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "through here",
+   "rule": "it shows light coming through",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "leaf tree",
+   "action": "cut a big tree with brown from the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of paint pulled flat",
+   "motion": "press and drag",
+   "pressure": "firm",
+   "where": "center",
+   "rule": "bark texture can be felt when dry",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "leaf tree",
+   "action": "add bark highlights with brown and white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "magic white",
+    "permanent red"
+   ],
+   "load": "on the knife",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "up the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "leaf tree",
+   "action": "add cool reflected light on the other side",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "from palette",
+   "motion": "lay color",
+   "pressure": "light",
+   "where": "other side of tree",
+   "rule": "cool color adds depth to the tree",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "grass",
+   "action": "mix yellow sap green and brown to dull it",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "mixed on brush",
+   "motion": "push",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "it keeps the color from looking too bright",
+   "new": ""
+  },
+  {
+   "t": "21:03",
+   "subject": "leaf tree",
+   "action": "dab leaves with the dulled green",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:37",
+   "subject": "leaf tree",
+   "action": "highlight leaves with thinned yellow green",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "touch and let sparkle fall",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "thin paint sticks to the paint already there",
+   "new": ""
+  },
+  {
+   "t": "22:03",
+   "subject": "bush",
+   "action": "drop in a bush shape with brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "from palette",
+   "motion": "drop down",
+   "pressure": "light",
+   "where": "corner of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:28",
+   "subject": "bush",
+   "action": "drop in another bush shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "carried over",
+   "motion": "drop down",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:17",
+   "subject": "trunk/limbs",
+   "action": "add a couple of trunks with brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "inside the bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "trunk/limbs",
+   "action": "add sticks poking out with thin oil and brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil and brown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "leaf tree",
+   "action": "add big tree with dark brown trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "from palette",
+   "motion": "press firm",
+   "pressure": "firm",
+   "where": "tree location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:49",
+   "subject": "leaf tree",
+   "action": "highlight the tree with a little blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree highlight",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "grass",
+   "action": "add grassy areas at the tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "from palette",
+   "motion": "push",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:39",
+   "subject": "leaf tree",
+   "action": "add very dark leaves with sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "pure sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on big tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

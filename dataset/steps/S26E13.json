@@ -1,0 +1,628 @@
+{
+ "ep": "S26E13",
+ "base": "black gesso, liquid clear, thin midnight black and prussian blue wash",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "midnight black",
+  "prussian blue",
+  "liquid clear",
+  "sap green",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:47",
+   "subject": "sky",
+   "action": "quick criss-cross sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "background color to start before the waterfall",
+   "new": ""
+  },
+  {
+   "t": "01:36",
+   "subject": "sky",
+   "action": "blend the sky out",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "top of sky",
+   "rule": "keep it light because things sit high in the sky",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "far trees",
+   "action": "tap in dark distant trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix with more black",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "far back on a hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:45",
+   "subject": "far trees",
+   "action": "tap white tips onto distant trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "brush side holds white",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "far back, may run off canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:38",
+   "subject": "mist",
+   "action": "tap in mist over the trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch of white",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "over the distant trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:04",
+   "subject": "cloud",
+   "action": "tap in small floating clouds",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount of white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "high in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "cloud",
+   "action": "soften clouds with the blender",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean soft blender",
+   "motion": "blend very gently",
+   "pressure": "whisper",
+   "where": "the clouds",
+   "rule": "more blending picks up the dark underneath so clouds fade",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "far trees",
+   "action": "tap in background foliage trees",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix from the palette",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "right side, running down",
+   "rule": "a waterfall needs a water source so foliage marks the river start",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "far trees",
+   "action": "soften background trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "over the background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:05",
+   "subject": "far trees",
+   "action": "tap a forest of little trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "a lot of the dark mix",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "middle ground, both sides of the falls",
+   "rule": "a lighter cloud behind gives contrast so the trees show",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "land",
+   "action": "rub bank color on with the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little of each from a roll on the knife",
+   "motion": "rub across, small upward push",
+   "pressure": "medium",
+   "where": "where the river bank sits",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:10",
+   "subject": "bush",
+   "action": "pump bank color into bushes with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "bank color picked up by a clean fan",
+   "motion": "pump up",
+   "pressure": "light",
+   "where": "along the river bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "stream",
+   "action": "paint lighter stream color with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "lighter blue-black with more white",
+   "motion": "meander down the middle",
+   "pressure": "medium",
+   "where": "middle of the canvas",
+   "rule": "lighter so the water shows against the dark",
+   "new": ""
+  },
+  {
+   "t": "09:43",
+   "subject": "waterfall",
+   "action": "drag falling water down the edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same roll on the knife",
+   "motion": "pull downward over the edge",
+   "pressure": "medium",
+   "where": "down over the edge to the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "waterfall",
+   "action": "highlight the falls with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white from the palette",
+   "motion": "tap highlights here and there",
+   "pressure": "light",
+   "where": "on the falls",
+   "rule": "so the falls show up better",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "waterfall",
+   "action": "let white water break over the edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white roll on the knife edge",
+   "motion": "let it break and spread",
+   "pressure": "light",
+   "where": "over the edge of the falls",
+   "rule": "easy to overdo it so stop before it gets too much",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "waterfall",
+   "action": "blend the spill over the edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend gently",
+   "pressure": "whisper",
+   "where": "over the edge of the falls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:18",
+   "subject": "mist",
+   "action": "blend misty clouds at the base",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the blender",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "base of the falls",
+   "rule": "falling water makes mist at the base",
+   "new": ""
+  },
+  {
+   "t": "13:04",
+   "subject": "rock",
+   "action": "paint big stones at the base",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same mixed color",
+   "motion": "dab stone shapes",
+   "pressure": "light",
+   "where": "base of the falls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "mist",
+   "action": "pull soft mist over the rocks",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean soft blender",
+   "motion": "pull gently down over the rocks",
+   "pressure": "whisper",
+   "where": "over the rocks at the base",
+   "rule": "a soft brush keeps from cutting the paint",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "waterfall",
+   "action": "let white water creep out of the mist",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid clear"
+   ],
+   "load": "thin white with liquid clear",
+   "motion": "let it creep out and splash",
+   "pressure": "light",
+   "where": "out of the mist",
+   "rule": "liquid clear only thins the paint",
+   "new": ""
+  },
+  {
+   "t": "14:51",
+   "subject": "rock",
+   "action": "tap highlights on some stones with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "the least touch of white",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "on some stones",
+   "rule": "keep the base dark so the contrast shows",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "leaf tree",
+   "action": "paint dark little trees to close the falls",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "dark mix with a little white",
+   "motion": "tap and add small detail",
+   "pressure": "light",
+   "where": "both sides of the falls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "mist",
+   "action": "tap soft mist at the base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "tap soft areas",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:53",
+   "subject": "rock",
+   "action": "lay light color on the far stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little light color",
+   "motion": "lay on top and pull down a little",
+   "pressure": "light",
+   "where": "far side, into the mist",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "rock",
+   "action": "blend the stone and mist together",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean soft blender",
+   "motion": "blend the rocks and mist together",
+   "pressure": "whisper",
+   "where": "the stone edge and mist",
+   "rule": "so you cannot tell where the mist stops",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "leaf tree",
+   "action": "tap a big tree up in the mist",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "little white on the fan brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "up in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "leaf tree",
+   "action": "highlight the big tree with green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "sap green touch on the brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "on the big tree",
+   "rule": "dark trees show better with a bit of green",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "far trees",
+   "action": "tap dark tree tops with sap green and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "sap green with a little yellow",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "up in the trees",
+   "rule": "keep them dark because too bright looks wrong",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "bush",
+   "action": "dab a little green down low",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "a little sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "down near the base",
+   "rule": "just enough green to flavor it",
+   "new": ""
+  },
+  {
+   "t": "20:16",
+   "subject": "far trees",
+   "action": "tap lighter trees to vary the values",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "lighter version of the dark mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "mist",
+   "action": "tap soft mist between the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "tap softly",
+   "pressure": "light",
+   "where": "between the trees",
+   "rule": "mist separates the layers and makes it look deep",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "far trees",
+   "action": "tap dark trees back in the middle",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "dark mix with a little green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle, back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:31",
+   "subject": "far trees",
+   "action": "highlight the tops of the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "sap green with a little dark",
+   "motion": "tap highlights, darker toward the base",
+   "pressure": "light",
+   "where": "tops of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:55",
+   "subject": "leaf tree",
+   "action": "tap a dark tree up against the mist",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right up against the mist",
+   "rule": "mist lets the dark tree separate on its own",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "stream",
+   "action": "shine the water with white pulled down",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the fan brush",
+   "motion": "pull down then go across",
+   "pressure": "light",
+   "where": "where the river runs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "rock",
+   "action": "paint stones with the filbert",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "thinned blue-black mix with white on one side",
+   "motion": "touch and pull one side through the light color",
+   "pressure": "light",
+   "where": "along the river and in the water",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

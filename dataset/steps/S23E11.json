@@ -1,0 +1,716 @@
+{
+ "ep": "S23E11",
+ "base": "thin coat of liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "phthalo green",
+  "prussian blue",
+  "titanium white",
+  "liquid white",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "start sky with blue, black and a little green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "phthalo green"
+   ],
+   "load": "blue, black and a tiny bit of green mixed",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "a little green changes the flavor without losing the blue",
+   "new": ""
+  },
+  {
+   "t": "00:46",
+   "subject": "sky",
+   "action": "crisscross strokes for sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "crisscross X strokes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "wet canvas blends paint so it does not streak",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "sky",
+   "action": "darken the whole sky with the dark blue mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "dark mix of black, blue and green",
+   "motion": "crisscross strokes",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "darker edges lead the eye to the center",
+   "new": ""
+  },
+  {
+   "t": "02:42",
+   "subject": "sky",
+   "action": "darken canvas corners with prussian blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "prussian blue on brush",
+   "motion": "dabbing into corners",
+   "pressure": "unknown",
+   "where": "four corners",
+   "rule": "darker corners keep the eye on the center",
+   "new": ""
+  },
+  {
+   "t": "03:30",
+   "subject": "sky",
+   "action": "blend the corners with a clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blending",
+   "pressure": "unknown",
+   "where": "corners and across",
+   "rule": "a dry brush keeps the paint thick",
+   "new": ""
+  },
+  {
+   "t": "04:17",
+   "subject": "far trees",
+   "action": "mix dark tree color on the round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "tapped onto round brush",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:09",
+   "subject": "far trees",
+   "action": "tap basic tree shapes in the back",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping from base upward",
+   "pressure": "firm",
+   "where": "back of the canvas",
+   "rule": "getting lighter outward suggests distance",
+   "new": ""
+  },
+  {
+   "t": "06:44",
+   "subject": "trunk/limbs",
+   "action": "paint thin trunks and sticks in the back trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned to ink",
+   "motion": "quiet indications",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "quiet marks keep the trees in the background",
+   "new": ""
+  },
+  {
+   "t": "07:56",
+   "subject": "far trees",
+   "action": "dilute tree color with white highlights",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white tapped into the tree color",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "a few dark spots stay for deep shadows",
+   "new": ""
+  },
+  {
+   "t": "09:05",
+   "subject": "snow",
+   "action": "pull snow into the back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white loaded on 2in",
+   "motion": "pulling",
+   "pressure": "unknown",
+   "where": "middle back",
+   "rule": "picking up tree color makes it read as shadow",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "structure",
+   "action": "scrape out a house shape with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scraping",
+   "pressure": "unknown",
+   "where": "right side of the snow",
+   "rule": "removing excess paint lets the next layer stick",
+   "new": ""
+  },
+  {
+   "t": "10:37",
+   "subject": "structure",
+   "action": "block in the back eave with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown pulled flat",
+   "motion": "blocking in",
+   "pressure": "unknown",
+   "where": "back eave of the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "structure",
+   "action": "block in the roof with brown and sienna",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mix",
+   "motion": "placing",
+   "pressure": "unknown",
+   "where": "house roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "snow",
+   "action": "pull snow across the roof",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pulling across",
+   "pressure": "unknown",
+   "where": "house roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "structure",
+   "action": "add a dark line under the roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark mix on knife",
+   "motion": "placing",
+   "pressure": "unknown",
+   "where": "under the roof edge",
+   "rule": "a dark line shows where roof and shed divide",
+   "new": ""
+  },
+  {
+   "t": "12:11",
+   "subject": "structure",
+   "action": "fill the shed roof with brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "filling in",
+   "pressure": "unknown",
+   "where": "shed",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "structure",
+   "action": "block in shed boards with ochre and sienna",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "ochre and sienna mixed",
+   "motion": "cutting across with a roll",
+   "pressure": "unknown",
+   "where": "shed walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "structure",
+   "action": "darken the house color with small knife",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "darker version of the same mix",
+   "motion": "grazing touches",
+   "pressure": "light",
+   "where": "house walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:20",
+   "subject": "structure",
+   "action": "add weathered boards with brown",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on small knife",
+   "motion": "touching boards",
+   "pressure": "light",
+   "where": "house walls",
+   "rule": "touching brown makes boards look old and weathered",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "snow",
+   "action": "cover unwanted edges with white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on 2in",
+   "motion": "covering",
+   "pressure": "unknown",
+   "where": "around the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "structure",
+   "action": "outline a door in white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light color on 2in",
+   "motion": "outlining",
+   "pressure": "unknown",
+   "where": "house front",
+   "rule": "a door lets the occupant come out",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "structure",
+   "action": "add a chimney",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "placing chimney",
+   "pressure": "unknown",
+   "where": "roof of the house",
+   "rule": "a chimney keeps the occupant warm",
+   "new": ""
+  },
+  {
+   "t": "14:54",
+   "subject": "snow",
+   "action": "slide white touches to break across",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "sliding touches",
+   "pressure": "light",
+   "where": "snow in front of the house",
+   "rule": "broken edges look like things lying in the snow",
+   "new": ""
+  },
+  {
+   "t": "15:18",
+   "subject": "water",
+   "action": "mix pond color and pull a pond shape down",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "dark mix from the original color",
+   "motion": "straight downward pull",
+   "pressure": "unknown",
+   "where": "beside the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "water line",
+   "action": "lightly drag across the pond edge",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light across",
+   "pressure": "light",
+   "where": "pond edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "bush",
+   "action": "add small bushes sticking up from the snow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pushing up",
+   "pressure": "unknown",
+   "where": "around the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:53",
+   "subject": "bush",
+   "action": "add thin weed stems with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "same color thinned with thinner",
+   "motion": "pulling twigs",
+   "pressure": "light",
+   "where": "around the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:14",
+   "subject": "other: shadow",
+   "action": "blend the bush bases into shadows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pulling color down",
+   "pressure": "unknown",
+   "where": "base of the bushes",
+   "rule": "pulled color reads as shadows",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "other: stick",
+   "action": "paint an old stick with brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on fan",
+   "motion": "single stick stroke",
+   "pressure": "unknown",
+   "where": "on the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "snow",
+   "action": "bounce white on the smooth snow with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white loaded on knife",
+   "motion": "bouncing along",
+   "pressure": "light",
+   "where": "top of the smooth snow",
+   "rule": "white on smooth snow gives an interesting effect",
+   "new": ""
+  },
+  {
+   "t": "18:22",
+   "subject": "snow",
+   "action": "touch small snow bits around the edges",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "thinned white mix",
+   "motion": "touching",
+   "pressure": "light",
+   "where": "edges of the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "land",
+   "action": "bring a peninsula of land into the pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bringing in",
+   "pressure": "unknown",
+   "where": "edge of the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "water line",
+   "action": "slide white borders around the pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white lightly on brush",
+   "motion": "whisper light sliding",
+   "pressure": "whisper",
+   "where": "pond edges",
+   "rule": "keeps the pond small so it does not become a river",
+   "new": ""
+  },
+  {
+   "t": "19:55",
+   "subject": "evergreen",
+   "action": "paint a small evergreen with a chisel-edged round brush",
+   "tool": "round",
+   "part": "chisel",
+   "paint": [],
+   "load": "",
+   "motion": "chisel shape",
+   "pressure": "unknown",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "land",
+   "action": "paint a land mass across the right",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "placing land mass",
+   "pressure": "unknown",
+   "where": "across the right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "evergreen",
+   "action": "add a few lighter highlights",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "dark color with white mixed in",
+   "motion": "light dabs",
+   "pressure": "light",
+   "where": "evergreen tree",
+   "rule": "fewer highlights keeps the darkness",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "bush",
+   "action": "thin white and clear for snow bushes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "clear and white thinned to a wash",
+   "motion": "pushing sideways",
+   "pressure": "light",
+   "where": "snow edges, front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:42",
+   "subject": "bush",
+   "action": "add white bush shapes with a bit of dark",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white with a little dark",
+   "motion": "pushing bush shapes out",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:53",
+   "subject": "leaf tree",
+   "action": "paint a big tree with blue-brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "phthalo green",
+    "van dyke brown"
+   ],
+   "load": "dark blue mix with a little brown",
+   "motion": "big wiggle strokes",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:19",
+   "subject": "trunk/limbs",
+   "action": "add a few limbs to the big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "same color",
+   "motion": "limb strokes",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:41",
+   "subject": "bush",
+   "action": "add small snow-covered leaves on the tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "dabbing leaves",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:05",
+   "subject": "bush",
+   "action": "tip tree highlights and shadows with a round brush",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "dark dipped first, then thin white",
+   "motion": "tapping down",
+   "pressure": "light",
+   "where": "trees and bushes",
+   "rule": "a single touch gives highlight and shadow",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "bush",
+   "action": "add small bushes and twigs at the tree base",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small bushes and twigs",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:31",
+   "subject": "leaf tree",
+   "action": "highlight the tree with a tiny bit of white",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny bit of white",
+   "motion": "light highlight",
+   "pressure": "light",
+   "where": "the tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,560 @@
+{
+ "ep": "S02E05",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "van dyke brown",
+  "burnt umber",
+  "sap green",
+  "prussian blue",
+  "magic white",
+  "titanium white",
+  "yellow",
+  "yellow ochre",
+  "cad yellow",
+  "crimson",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "crisscross sky, lighter toward the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "touch of blue with brown",
+   "motion": "crisscross strokes",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "brown dulls the blue a little",
+   "new": ""
+  },
+  {
+   "t": "01:26",
+   "subject": "leaf tree",
+   "action": "block in back of the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "sap green"
+   ],
+   "load": "brown umber and sap green mixed on brush",
+   "motion": "push and bend the bristles",
+   "pressure": "firm",
+   "where": "where the trees will be",
+   "rule": "leave gaps so the sky shows through",
+   "new": ""
+  },
+  {
+   "t": "02:43",
+   "subject": "leaf tree",
+   "action": "darken the tree mass with prussian blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "burnt umber",
+    "sap green"
+   ],
+   "load": "tiny prussian blue added to the mix",
+   "motion": "push into deep shadow",
+   "pressure": "firm",
+   "where": "upper area of the trees",
+   "rule": "darkens it for deep shadows",
+   "new": ""
+  },
+  {
+   "t": "03:06",
+   "subject": "trunk/limbs",
+   "action": "paint distant trunks and limbs",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "magic white"
+   ],
+   "load": "brown with a touch of white on one side",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "way back in the distance",
+   "rule": "white on one side adds a highlight as you go",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "leaf tree",
+   "action": "dab leaves with the large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow",
+    "sap green"
+   ],
+   "load": "thin white and yellow with lots of sap green",
+   "motion": "touch and let leaves jump off",
+   "pressure": "light",
+   "where": "out here, scattered",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "06:09",
+   "subject": "bush",
+   "action": "bush in yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "yellow"
+   ],
+   "load": "yellow ochre on the brush",
+   "motion": "dab in leaves",
+   "pressure": "light",
+   "where": "here, another bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:57",
+   "subject": "leaf tree",
+   "action": "darker background leaves with sap green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on brush",
+   "motion": "lay a few loose leaves",
+   "pressure": "light",
+   "where": "back in the background",
+   "rule": "darker base for what comes next",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "land",
+   "action": "lay a brown land mass and pull it straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "lay down and pull straight down",
+   "pressure": "firm",
+   "where": "back and over here",
+   "rule": "it must come straight down, not at an angle",
+   "new": ""
+  },
+  {
+   "t": "08:41",
+   "subject": "bush",
+   "action": "bushes in the middle",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "magic white on the brush with cad yellow and yellow ochre mixed",
+   "motion": "dab in bushes",
+   "pressure": "light",
+   "where": "middle of the painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:35",
+   "subject": "land",
+   "action": "soft shadows on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "burnt umber"
+   ],
+   "load": "white with a tiny bit of umber",
+   "motion": "dab in soft shading",
+   "pressure": "light",
+   "where": "down the hill, back area",
+   "rule": "keeps the back soft and quiet",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "grass",
+   "action": "soft grassy strokes back in the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "burnt umber"
+   ],
+   "load": "same fan brush",
+   "motion": "dab in soft grass",
+   "pressure": "light",
+   "where": "back of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "water",
+   "action": "dull white water lines for a puddle",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "white dulled with brown",
+   "motion": "draw water lines",
+   "pressure": "light",
+   "where": "the puddle area",
+   "rule": "dulled so it is not too bright",
+   "new": ""
+  },
+  {
+   "t": "11:07",
+   "subject": "reflection",
+   "action": "reflections under each projection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "same dulled mix",
+   "motion": "pull a little color down",
+   "pressure": "light",
+   "where": "under each projection",
+   "rule": "each new projection needs its own reflection",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "land",
+   "action": "darker green on the ground closer to us",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "sap green"
+   ],
+   "load": "white with more sap green",
+   "motion": "lay green along the land",
+   "pressure": "light",
+   "where": "the front, closer to us",
+   "rule": "the closer ground gets darker",
+   "new": ""
+  },
+  {
+   "t": "12:43",
+   "subject": "land",
+   "action": "highlight dirt and stone spots",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "crimson"
+   ],
+   "load": "yellow ochre with a little crimson",
+   "motion": "dab tiny highlights",
+   "pressure": "light",
+   "where": "middle of the land",
+   "rule": "makes it look like dirt and stone",
+   "new": ""
+  },
+  {
+   "t": "13:12",
+   "subject": "trunk/limbs",
+   "action": "dark birch trunks with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "browns mixed on the knife but not too much",
+   "motion": "press on the dark birch trunks",
+   "pressure": "firm",
+   "where": "two birch trees up through here",
+   "rule": "leave the browns unmixed so the highlight picks up both",
+   "new": ""
+  },
+  {
+   "t": "14:06",
+   "subject": "trunk/limbs",
+   "action": "highlight the birch trunks and limbs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "touch and pull around",
+   "pressure": "firm",
+   "where": "the birch trunks and limbs",
+   "rule": "highlight makes the trees stand out",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "leaf tree",
+   "action": "bright leaves with thinned white and crimson",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "crimson"
+   ],
+   "load": "thinned white with a little crimson",
+   "motion": "lay leaves loose",
+   "pressure": "light",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "water line",
+   "action": "water line under the trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "white dulled with a tiny bit of brown",
+   "motion": "lay a thin line",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:03",
+   "subject": "land",
+   "action": "push dark brown into the canvas",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brown and umber",
+   "motion": "push firmly into the canvas",
+   "pressure": "firm",
+   "where": "in here",
+   "rule": "strong paint, not thin, holds up here",
+   "new": ""
+  },
+  {
+   "t": "18:56",
+   "subject": "grass",
+   "action": "grassy areas with yellow ochre and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "yellow ochre",
+    "crimson"
+   ],
+   "load": "yellow mixed with ochre and a little crimson",
+   "motion": "lay grassy areas on top",
+   "pressure": "light",
+   "where": "on top of the dark ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:22",
+   "subject": "rock",
+   "action": "small stone marks in the grass",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "prussian blue and white with a little brown",
+   "motion": "lay small stones randomly",
+   "pressure": "light",
+   "where": "in the grass area",
+   "rule": "keep the dark browns or the front loses its darkness",
+   "new": ""
+  },
+  {
+   "t": "21:09",
+   "subject": "trunk/limbs",
+   "action": "scrape trunks and stems",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape a few trunks",
+   "pressure": "light",
+   "where": "here and there, not too many",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "land",
+   "action": "color and shadow under the birch bases",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the knife",
+   "motion": "press color under the birch base",
+   "pressure": "firm",
+   "where": "under the birch trees",
+   "rule": "so the trees end at the ground",
+   "new": ""
+  },
+  {
+   "t": "22:09",
+   "subject": "trunk/limbs",
+   "action": "small stems with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with oil on the liner",
+   "motion": "sharp point, add a few stems",
+   "pressure": "light",
+   "where": "here and there in the back",
+   "rule": "adds distance in the back",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "leaf tree",
+   "action": "lay in a thick foreground tree",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the knife",
+   "motion": "lay in the tree shape",
+   "pressure": "firm",
+   "where": "foreground, right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "leaf tree",
+   "action": "highlight one side of the tree with crimson",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "crimson"
+   ],
+   "load": "crimson on the knife",
+   "motion": "touch along one side",
+   "pressure": "light",
+   "where": "one side of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:28",
+   "subject": "leaf tree",
+   "action": "reflected light in blue then build with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "blue then thick brown",
+   "motion": "press and pull to build the bark",
+   "pressure": "firm",
+   "where": "on the tree",
+   "rule": "thick paint shows bark texture when dry",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "leaf tree",
+   "action": "crimson light underneath the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "crimson"
+   ],
+   "load": "crimson on the knife",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "underneath, bottom of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:25",
+   "subject": "leaf tree",
+   "action": "leaves with white and yellow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow"
+   ],
+   "load": "white with a little yellow",
+   "motion": "a few indications here and there",
+   "pressure": "light",
+   "where": "top of the composition, mostly off canvas",
+   "rule": "suggests leaves go past the edge",
+   "new": ""
+  },
+  {
+   "t": "25:53",
+   "subject": "grass",
+   "action": "grass at the bottom",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "a little grass",
+   "pressure": "light",
+   "where": "bottom of the painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:53",
+   "subject": "other: signature",
+   "action": "sign with red thinned in oil",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "red thinned with a little oil",
+   "motion": "drop the signature",
+   "pressure": "light",
+   "where": "on the painting",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

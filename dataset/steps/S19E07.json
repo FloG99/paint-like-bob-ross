@@ -1,0 +1,785 @@
+{
+ "ep": "S19E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "yellow ochre",
+  "midnight black",
+  "liquid white",
+  "titanium white",
+  "dark sienna",
+  "Prussian blue",
+  "Van Dyke brown",
+  "alizarin crimson",
+  "bright red",
+  "phthalo blue"
+ ],
+ "steps": [
+  {
+   "t": "00:45",
+   "subject": "sky",
+   "action": "warm yellow touch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "tiny amount",
+   "motion": "lay in small strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "sky",
+   "action": "black blended at top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "tiny amount",
+   "motion": "blend down into yellow",
+   "pressure": "whisper",
+   "where": "top of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "cloud",
+   "action": "tap stringy clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "tap in small strings",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "sky here and there",
+   "new": "too much detail would pull the eye away"
+  },
+  {
+   "t": "01:58",
+   "subject": "bush",
+   "action": "tap far background shrubs",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "tapped into top bristles",
+   "motion": "tap small shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:48",
+   "subject": "far trees",
+   "action": "thin twigs in the distance",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "least amount thinned like ink",
+   "motion": "flick twigs",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "more detail would distract the eye",
+   "new": ""
+  },
+  {
+   "t": "03:55",
+   "subject": "snow",
+   "action": "pull snow across",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "picked up from brush",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "stream",
+   "action": "stroke down for stream",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same white",
+   "motion": "drop down stroke",
+   "pressure": "light",
+   "where": "behind bridge",
+   "rule": "a stream explains why the bridge is there",
+   "new": ""
+  },
+  {
+   "t": "04:47",
+   "subject": "structure",
+   "action": "scrape out bridge outline",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape roof and side outline",
+   "pressure": "light",
+   "where": "bridge area",
+   "rule": "keeps green out of the roof so snow stays white",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "leaf tree",
+   "action": "big full tree push upward",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "full fan load",
+   "motion": "push upward firmly",
+   "pressure": "firm",
+   "where": "tree center line",
+   "rule": "upward pushes make big full branches",
+   "new": ""
+  },
+  {
+   "t": "07:31",
+   "subject": "leaf tree",
+   "action": "second tree push upward",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "firm",
+   "where": "beside first tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:54",
+   "subject": "trunk/limbs",
+   "action": "small trunk marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mixed on brush",
+   "motion": "indicate small trunks",
+   "pressure": "light",
+   "where": "on trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "leaf tree",
+   "action": "dark highlights on trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "yellow ochre",
+    "cad yellow"
+   ],
+   "load": "dark left on fan",
+   "motion": "push upward highlights",
+   "pressure": "light",
+   "where": "on trees",
+   "rule": "keeping green very dark suits winter scenes",
+   "new": ""
+  },
+  {
+   "t": "09:06",
+   "subject": "snow",
+   "action": "shadow under big tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "pull small amount out",
+   "pressure": "light",
+   "where": "base of big tree",
+   "rule": "shadow follows the angle of the snow",
+   "new": ""
+  },
+  {
+   "t": "09:29",
+   "subject": "structure",
+   "action": "block in brown bridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed on brush",
+   "motion": "lay in blocks",
+   "pressure": "light",
+   "where": "bridge body",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:43",
+   "subject": "structure",
+   "action": "pull up to straighten bottom edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "touch and pull upward",
+   "pressure": "light",
+   "where": "bottom of bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:05",
+   "subject": "rock",
+   "action": "dark base under bridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "fill under",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "under bridge",
+   "new": "dark base reflects into the water below"
+  },
+  {
+   "t": "11:54",
+   "subject": "water",
+   "action": "pull water area straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "lower area under bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:21",
+   "subject": "reflection",
+   "action": "marbled reflection",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "dark sienna",
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "marbled roll on knife",
+   "motion": "touch and pull down gently",
+   "pressure": "whisper",
+   "where": "under bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:12",
+   "subject": "structure",
+   "action": "pull up straight bottom",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull upward from bottom",
+   "pressure": "light",
+   "where": "bottom of bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "structure",
+   "action": "highlight old wood",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "touch",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "bridge boards",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "structure",
+   "action": "dull other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "pull down and let it break",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "keeps this side less bright than the other",
+   "new": ""
+  },
+  {
+   "t": "14:22",
+   "subject": "structure",
+   "action": "scrape out doorway",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out opening",
+   "pressure": "light",
+   "where": "bridge front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:47",
+   "subject": "structure",
+   "action": "fill doorway dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "fill in dark",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "doorway",
+   "new": "little light gets in so inside stays dark"
+  },
+  {
+   "t": "15:08",
+   "subject": "structure",
+   "action": "light outline across top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "outline across top",
+   "pressure": "light",
+   "where": "over doorway",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "structure",
+   "action": "pull window opening",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull window opening",
+   "pressure": "light",
+   "where": "back wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "structure",
+   "action": "old board marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch here and there",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "inside bridge",
+   "new": ""
+  },
+  {
+   "t": "15:54",
+   "subject": "structure",
+   "action": "dark side window",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "side wall",
+   "new": "the window is dark inside so no light gets through"
+  },
+  {
+   "t": "16:16",
+   "subject": "other: window light",
+   "action": "light through second window",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small touch",
+   "motion": "dab light",
+   "pressure": "light",
+   "where": "second window",
+   "rule": "viewing angle lets a little light show",
+   "new": ""
+  },
+  {
+   "t": "16:43",
+   "subject": "snow",
+   "action": "pull snow down roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "knife roll",
+   "motion": "follow angles and pull down",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "keeps tree color off the roof so snow stays white",
+   "new": ""
+  },
+  {
+   "t": "18:01",
+   "subject": "leaf tree",
+   "action": "dark fill at roof base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "fill small areas carefully",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "tree base at roof",
+   "new": ""
+  },
+  {
+   "t": "18:01",
+   "subject": "snow",
+   "action": "snow on other roof side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "knife swoop",
+   "pressure": "light",
+   "where": "roof side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "rock",
+   "action": "stone indications",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "mixed on knife",
+   "motion": "drop stones across front",
+   "pressure": "light",
+   "where": "bridge base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:32",
+   "subject": "rock",
+   "action": "tiny light on stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "under bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:02",
+   "subject": "rock",
+   "action": "outline each stone",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "mixed and greyed",
+   "motion": "quick line around each stone",
+   "pressure": "light",
+   "where": "stone faces",
+   "rule": "outlines make stones look built together",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "snow",
+   "action": "shadow then white snow pull",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "least touch then white",
+   "motion": "pull down to water",
+   "pressure": "light",
+   "where": "right side of roof",
+   "rule": "a shadow makes the white stand out",
+   "new": ""
+  },
+  {
+   "t": "21:36",
+   "subject": "land",
+   "action": "road to bridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "begin road line",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lower left toward bridge",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "snow",
+   "action": "recessed shadow in snow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "least touch",
+   "motion": "smooth",
+   "pressure": "whisper",
+   "where": "snow near road",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "snow",
+   "action": "raise snow bank",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "grey mix on knife",
+   "motion": "bring up",
+   "pressure": "light",
+   "where": "side hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:50",
+   "subject": "water line",
+   "action": "white waterline",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull across",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "water edge",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "fence",
+   "action": "thin fence posts",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre",
+    "dark sienna",
+    "liquid white"
+   ],
+   "load": "thin on one side dark on other",
+   "motion": "flick in posts",
+   "pressure": "light",
+   "where": "left of bridge",
+   "rule": "fence keeps people from falling into the water",
+   "new": ""
+  },
+  {
+   "t": "24:28",
+   "subject": "fence",
+   "action": "rails",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "shoom rails",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "snow",
+   "action": "snow on post tops",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "touch",
+   "motion": "tap snow on tops",
+   "pressure": "light",
+   "where": "post tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "leaf tree",
+   "action": "branches behind bridge",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "few branches",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "behind bridge",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "trunk/limbs",
+   "action": "switches and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned paint",
+   "motion": "flow branches",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "thin paint lets limbs flow",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "grass",
+   "action": "weeds at base",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "few weeds",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "bottom",
+   "new": ""
+  },
+  {
+   "t": "26:28",
+   "subject": "fence",
+   "action": "post outside oval",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "tap on top",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "outside oval",
+   "new": ""
+  },
+  {
+   "t": "26:51",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "sign lower corner",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lower corner",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

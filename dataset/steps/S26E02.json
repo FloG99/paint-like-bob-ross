@@ -1,0 +1,633 @@
+{
+ "ep": "S26E02",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "midnight black",
+  "alizarin crimson",
+  "sap green",
+  "bright red",
+  "blue",
+  "white",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "00:29",
+   "subject": "sky",
+   "action": "lay a simple sky wash",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "little indian yellow",
+   "motion": "broad strokes",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:56",
+   "subject": "sky",
+   "action": "blend yellow ochre into the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "little yellow ochre",
+   "motion": "blend",
+   "pressure": "unknown",
+   "where": "above the yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:22",
+   "subject": "sky",
+   "action": "gray the top of the sky with black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "little black",
+   "motion": "blend down",
+   "pressure": "light",
+   "where": "top of sky",
+   "rule": "cleaning between keeps yellow and black from making green",
+   "new": ""
+  },
+  {
+   "t": "02:11",
+   "subject": "cloud",
+   "action": "lay a stringy cloud",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull stringy shapes",
+   "pressure": "light",
+   "where": "left sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "sky",
+   "action": "soften sky with dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush",
+   "pressure": "whisper",
+   "where": "sky and cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "far trees",
+   "action": "scrub brown background",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "brown from knife",
+   "motion": "scrub",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:13",
+   "subject": "land",
+   "action": "darken base with black",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "little black",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "a dark base gives animals a place to hide",
+   "new": ""
+  },
+  {
+   "t": "04:40",
+   "subject": "far trees",
+   "action": "tap far tree indications",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "midnight black",
+    "blue"
+   ],
+   "load": "small amounts",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "far trees",
+   "action": "add bright red to far tree shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "little bright red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:39",
+   "subject": "trunk/limbs",
+   "action": "add small trunks and stems",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "very small amount",
+   "motion": "tap on",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "land",
+   "action": "block in dark ground tone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:02",
+   "subject": "grass",
+   "action": "load thinned sap green for grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "little sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:48",
+   "subject": "grass",
+   "action": "dab grass in yellows and greens",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "sap green",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "dance back and forth",
+   "pressure": "light",
+   "where": "field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "structure",
+   "action": "scrape out barn shape with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "scrape",
+   "pressure": "firm",
+   "where": "barn area",
+   "rule": "removes loose excess paint and shows layout",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "structure",
+   "action": "knife-bounce roof color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "mixed roof color",
+   "motion": "bounce on knife",
+   "pressure": "light",
+   "where": "barn roof",
+   "rule": "keeps the roof from looking solid",
+   "new": ""
+  },
+  {
+   "t": "12:17",
+   "subject": "structure",
+   "action": "add shed block",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown",
+   "motion": "block in shed shape",
+   "pressure": "light",
+   "where": "shed area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "structure",
+   "action": "touch in door and board lines",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "light color on knife",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "barn front",
+   "rule": "cow needs a door to get in and out",
+   "new": ""
+  },
+  {
+   "t": "13:23",
+   "subject": "land",
+   "action": "fill grass around barn with two inch brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "grassy mix",
+   "motion": "sweep",
+   "pressure": "light",
+   "where": "bottom of barn",
+   "rule": "bottom is covered later by grass",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "path",
+   "action": "lay a path from the barn",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "gentle strokes",
+   "pressure": "light",
+   "where": "path from barn to bottom",
+   "rule": "path gives a way in and out",
+   "new": ""
+  },
+  {
+   "t": "14:38",
+   "subject": "fence",
+   "action": "place fence line with light highlight",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "highlight the side facing the light",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "fence",
+   "action": "cut wire lines with knife heel",
+   "tool": "knife",
+   "part": "heel",
+   "paint": [],
+   "load": "",
+   "motion": "cut through",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "keeps the cow from getting out",
+   "new": ""
+  },
+  {
+   "t": "15:40",
+   "subject": "fence",
+   "action": "dab red on fence post tops",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "little bright red",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "fence post tops",
+   "rule": "painted ends keep posts from deteriorating",
+   "new": ""
+  },
+  {
+   "t": "16:04",
+   "subject": "land",
+   "action": "darken base with brown and black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "little more black and brown",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "tapping gives practice with the brush",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "leaf tree",
+   "action": "tap big tree shapes with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "bright red"
+   ],
+   "load": "brown and red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:48",
+   "subject": "leaf tree",
+   "action": "leave holes in tree mass",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree and base",
+   "rule": "holes let sky show and birds fly through",
+   "new": ""
+  },
+  {
+   "t": "17:38",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunks with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown and black",
+   "motion": "pull side through lighter color",
+   "pressure": "light",
+   "where": "big tree trunks",
+   "rule": "light is from the left so left side lighter",
+   "new": ""
+  },
+  {
+   "t": "18:02",
+   "subject": "trunk/limbs",
+   "action": "add small far limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "little paint thinner and brown",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in the trees",
+   "rule": "too far back for much detail",
+   "new": ""
+  },
+  {
+   "t": "18:25",
+   "subject": "leaf tree",
+   "action": "dab big tree in back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "bright red"
+   ],
+   "load": "sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "a little red dulls the green",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "leaf tree",
+   "action": "tap leaves on back tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "bright red"
+   ],
+   "load": "loaded corner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back tree",
+   "rule": "keeping dark areas makes trees look deeper",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "land",
+   "action": "add small grassy hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "grassy mix",
+   "motion": "sweep",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "trunk/limbs",
+   "action": "block in big tree trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from crimson and sap green",
+   "motion": "fan brush strokes",
+   "pressure": "unknown",
+   "where": "left big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "trunk/limbs",
+   "action": "add roots and an arm to big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push down",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "roots help the tree stand strong",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "trunk/limbs",
+   "action": "barely touch light marks with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "bounce lightly",
+   "pressure": "whisper",
+   "where": "tree trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:42",
+   "subject": "leaf tree",
+   "action": "add reflected light on other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "little prussian blue and white",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "other side of tree",
+   "rule": "trees block light so some light gets through",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs and sticks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "thinner and brown",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "path",
+   "action": "fill the path with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "brown",
+   "motion": "pull path out",
+   "pressure": "light",
+   "where": "bottom to barn",
+   "rule": "path gives a way to the old barn",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,564 @@
+{
+ "ep": "S03E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "prussian blue",
+  "alizarin crimson",
+  "sap green",
+  "titanium white",
+  "van dyke brown",
+  "burnt umber",
+  "magic white",
+  "yellow ochre",
+  "cadmium yellow",
+  "yellow",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "sky blend with phthalo blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "beat into brush",
+   "motion": "vary and work around",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "leaves light areas in the sky",
+   "new": ""
+  },
+  {
+   "t": "00:39",
+   "subject": "water",
+   "action": "water strip in blue and green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "tiny bit of green added",
+   "motion": "quick drop in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "sky",
+   "action": "blend sky with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "sky",
+   "rule": "keeping light spots makes the sky lively",
+   "new": ""
+  },
+  {
+   "t": "02:38",
+   "subject": "mountain",
+   "action": "basic mountain shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "pull and drop",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "mountain",
+   "action": "pull mountain shape down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "unknown",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:52",
+   "subject": "mountain",
+   "action": "darker closer foothill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "more paint",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "closer foothill",
+   "rule": "closer things get darker which helps distance",
+   "new": ""
+  },
+  {
+   "t": "05:11",
+   "subject": "far trees",
+   "action": "distant green trees",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "white added",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:30",
+   "subject": "mist",
+   "action": "lift mist at bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift up",
+   "pressure": "whisper",
+   "where": "bottom of distant area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:11",
+   "subject": "water",
+   "action": "pull reflections down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "back water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:48",
+   "subject": "leaf tree",
+   "action": "basic tree shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:27",
+   "subject": "water",
+   "action": "brownish water near land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "wiped across",
+   "motion": "pull out toward water",
+   "pressure": "light",
+   "where": "near land",
+   "rule": "brownish water lets land show through",
+   "new": ""
+  },
+  {
+   "t": "09:10",
+   "subject": "leaf tree",
+   "action": "dark mass behind big tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "blue added to darken",
+   "motion": "drop in dark",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "dark area lets the light show",
+   "new": ""
+  },
+  {
+   "t": "11:03",
+   "subject": "land",
+   "action": "land areas in brown and gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "burnt umber",
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "not overmixing keeps many colors",
+   "new": ""
+  },
+  {
+   "t": "11:59",
+   "subject": "land",
+   "action": "dark bank in brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed",
+   "motion": "bring down",
+   "pressure": "unknown",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:42",
+   "subject": "trunk/limbs",
+   "action": "tree trunks in brown and white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown with a little white",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "trunk spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "leaf tree",
+   "action": "thin yellow and sap green highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green"
+   ],
+   "load": "thinned with thinner",
+   "motion": "touch and drop",
+   "pressure": "light",
+   "where": "small trees",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "13:59",
+   "subject": "leaf tree",
+   "action": "yellow ochre highlights on top tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "yellow",
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "top tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:38",
+   "subject": "bush",
+   "action": "darker lower bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "let fall",
+   "pressure": "light",
+   "where": "lower areas",
+   "rule": "lower areas get less light so darker",
+   "new": ""
+  },
+  {
+   "t": "15:17",
+   "subject": "trunk/limbs",
+   "action": "tree trunk and limbs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "wander",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "trunk/limbs",
+   "action": "highlight on trunk and limbs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "brown and white",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "trunk and limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "leaf tree",
+   "action": "dark green round leaves",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "thin paint",
+   "motion": "touch and drop",
+   "pressure": "light",
+   "where": "limbs",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "17:55",
+   "subject": "leaf tree",
+   "action": "lighter green highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "yellow added",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "leaf tree",
+   "action": "highlight individual leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "water",
+   "action": "water up to land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "magic white thins",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "water",
+   "action": "water with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "other: small indications",
+   "action": "small indications",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "indicate",
+   "pressure": "light",
+   "where": "scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "land",
+   "action": "dark area across lower area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "dark is needed so light shows",
+   "new": ""
+  },
+  {
+   "t": "21:43",
+   "subject": "land",
+   "action": "light touch on land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "mixed",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "bush",
+   "action": "fern highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "lower areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:00",
+   "subject": "bush",
+   "action": "layered highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "layering gives distance",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "trunk/limbs",
+   "action": "scratched twigs with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "scraped",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "various areas",
+   "rule": "lets canvas show through",
+   "new": ""
+  },
+  {
+   "t": "25:07",
+   "subject": "grass",
+   "action": "tiny grass near ground",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "ground level",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

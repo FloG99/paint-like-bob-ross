@@ -1,0 +1,563 @@
+{
+ "ep": "S06E11",
+ "base": "phthalo blue",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "titanium white",
+  "alizarin crimson",
+  "yellow ochre",
+  "permanent red",
+  "cadmium yellow",
+  "sap green",
+  "burnt umber",
+  "van dyke brown",
+  "thalo green",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:36",
+   "subject": "cloud",
+   "action": "knife clouds in sky with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "knife roll",
+   "motion": "drop in clouds following angles",
+   "pressure": "light",
+   "where": "sky, upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "cloud",
+   "action": "add purplish shadow to clouds",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix on knife",
+   "motion": "light drop-ins",
+   "pressure": "light",
+   "where": "cloud shadows",
+   "rule": "a little shadow is enough",
+   "new": ""
+  },
+  {
+   "t": "02:24",
+   "subject": "cloud",
+   "action": "blend purple and white into soft clouds",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "knife",
+   "motion": "let colors mix",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:03",
+   "subject": "sky",
+   "action": "add tiny touch of yellow ochre to sky",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "knife",
+   "motion": "break up the blue",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "a little gold adds warmth",
+   "new": ""
+  },
+  {
+   "t": "05:37",
+   "subject": "mountain",
+   "action": "knife hill with purplish dark color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "knife roll",
+   "motion": "push firmly into canvas",
+   "pressure": "firm",
+   "where": "soft hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "mountain",
+   "action": "highlight hill top with red and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "knife",
+   "motion": "small highlight",
+   "pressure": "light",
+   "where": "hill top",
+   "rule": "light comes from the left",
+   "new": ""
+  },
+  {
+   "t": "07:23",
+   "subject": "mountain",
+   "action": "lighten hill bottom with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same knife",
+   "motion": "touch and blend",
+   "pressure": "light",
+   "where": "hill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "mountain",
+   "action": "far hill in lighter purplish color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "knife roll",
+   "motion": "drop in soft far hill",
+   "pressure": "light",
+   "where": "back hill",
+   "rule": "distant things get lighter",
+   "new": ""
+  },
+  {
+   "t": "08:41",
+   "subject": "mountain",
+   "action": "white at base of far hill and blend",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same knife",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "far hill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:08",
+   "subject": "mountain",
+   "action": "permanent red highlight on hill",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "knife",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "hill top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "other: trees",
+   "action": "far grassy trees with greens and yellows",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "knife",
+   "motion": "barely touch and let fall",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "keep angles varied",
+   "new": ""
+  },
+  {
+   "t": "10:00",
+   "subject": "other: trees",
+   "action": "darken far trees with burnt umber",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "same knife",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "bottom of far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:18",
+   "subject": "other: trees",
+   "action": "lighten far trees with white and pull",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "knife",
+   "motion": "pull strokes",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "angles matter",
+   "new": ""
+  },
+  {
+   "t": "12:23",
+   "subject": "other: trees",
+   "action": "break up far trees with red and yellow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "indian yellow"
+   ],
+   "load": "knife",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:49",
+   "subject": "other: trees",
+   "action": "darken near tree side with sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green"
+   ],
+   "load": "knife",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "near side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:17",
+   "subject": "land",
+   "action": "bank edge where land meets water",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "knife roll",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "waterline bank",
+   "rule": "dark edge sets off water",
+   "new": ""
+  },
+  {
+   "t": "14:49",
+   "subject": "water",
+   "action": "pull light reflections downward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:15",
+   "subject": "water",
+   "action": "pull dark green reflections downward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:50",
+   "subject": "water",
+   "action": "cut white and blue water over reflections",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "knife roll",
+   "motion": "lay across in straight lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "water lines stay straight",
+   "new": ""
+  },
+  {
+   "t": "17:22",
+   "subject": "land",
+   "action": "firm up water edges with dark mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "knife",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "water edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "bush",
+   "action": "small tree with sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green"
+   ],
+   "load": "knife",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "tree site",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "bush",
+   "action": "highlight tree with cadmium yellow",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "knife",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:01",
+   "subject": "other: shadow",
+   "action": "shadow behind tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "light indication",
+   "pressure": "light",
+   "where": "behind tree",
+   "rule": "remember the light direction",
+   "new": ""
+  },
+  {
+   "t": "19:30",
+   "subject": "rock",
+   "action": "dark projection out of water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "pull out of water",
+   "pressure": "firm",
+   "where": "waterline projection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "rock",
+   "action": "blue and white reflection under projection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "under projection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:22",
+   "subject": "rock",
+   "action": "fill projection with dark mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "fill",
+   "pressure": "firm",
+   "where": "projection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:21",
+   "subject": "bush",
+   "action": "sap green and yellow ochre along edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "knife",
+   "motion": "bounce and play",
+   "pressure": "light",
+   "where": "edge of land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "trunk/limbs",
+   "action": "big tree trunks up through sky",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "knife roll",
+   "motion": "pull trunks up",
+   "pressure": "firm",
+   "where": "tree area",
+   "rule": "trees can go off canvas",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "trunk/limbs",
+   "action": "add arm to tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "knife roll",
+   "motion": "arm out",
+   "pressure": "firm",
+   "where": "tree arms",
+   "rule": "trees grow however they like",
+   "new": ""
+  },
+  {
+   "t": "24:04",
+   "subject": "trunk/limbs",
+   "action": "highlight tree trunk on left side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "burnt umber",
+    "yellow ochre"
+   ],
+   "load": "knife",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "left side of trunk",
+   "rule": "light from the left",
+   "new": ""
+  },
+  {
+   "t": "24:54",
+   "subject": "bush",
+   "action": "drop in leaves with dark green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "knife",
+   "motion": "drop basic leaf shapes",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "bush",
+   "action": "yellow green highlight on leaves",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "knife",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "leaves",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[05:07] leave the blue wash showing so thick and thin areas contrast",
+  "[06:14] thin paint sticks to thick paint so layers do not turn to mud",
+  "[12:49] the near side is darker because it is closer",
+  "[16:40] letting the colors mix on the brush keeps the effect natural"
+ ]
+}

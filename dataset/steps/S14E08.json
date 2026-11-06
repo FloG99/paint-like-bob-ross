@@ -1,0 +1,568 @@
+{
+ "ep": "S14E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "bright red",
+  "yellow ochre",
+  "indian yellow",
+  "cad yellow",
+  "prussian blue",
+  "phthalo blue",
+  "midnight black",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sun/glow",
+   "action": "small pinkish spot placed high in the sky",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "titanium white with a touch of crimson",
+   "motion": "small crisscross spot",
+   "pressure": "light",
+   "where": "top of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "sun/glow",
+   "action": "yellow and white ring around the sun",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "titanium white"
+   ],
+   "load": "same brush with yellow and white",
+   "motion": "going around the outside",
+   "pressure": "light",
+   "where": "around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "sun/glow",
+   "action": "yellow ochre and indian yellow blended at the edges",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "yellow ochre added to the same brush",
+   "motion": "blending lightly around the edges",
+   "pressure": "light",
+   "where": "around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:37",
+   "subject": "sun/glow",
+   "action": "bright red and yellow ochre orange ring",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "bright red mixed into yellow ochre",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:16",
+   "subject": "sky",
+   "action": "darker prussian blue and van dyke edges",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "blue added to brown on the same brush",
+   "motion": "crisscross strokes working forward",
+   "pressure": "light",
+   "where": "outer edges of the sky",
+   "rule": "darker at the edges and lighter as it mixes with the base",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "sky",
+   "action": "very dry brush crisscross blend over the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dry brush blending",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "a wet brush would make the blend messy",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "sun/glow",
+   "action": "finger dab of a circle for the sun",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dabbing a small circle",
+   "pressure": "light",
+   "where": "upper sky near the sun",
+   "rule": "blending the wet circle would smear it",
+   "new": ""
+  },
+  {
+   "t": "07:04",
+   "subject": "sun/glow",
+   "action": "knife lifts paint from the sun to set its value",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "lifting and pressing",
+   "pressure": "light",
+   "where": "sun area",
+   "rule": "lifting keeps the light value in place",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "cloud",
+   "action": "cloud floaters with blue crimson and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "blue crimson and white mixed on the fan",
+   "motion": "dabbing small floaters",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "cloud",
+   "action": "blend the clouds lightly with a dry 2in brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tiny blending and knocking off excess",
+   "pressure": "light",
+   "where": "cloud areas",
+   "rule": "no blue in clouds since yellow sky would turn them green",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "mountain",
+   "action": "lavender mix of prussian blue and crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "more crimson than blue",
+   "motion": "mixing",
+   "pressure": "light",
+   "where": "mountain mix",
+   "rule": "blue is much stronger so use more crimson",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "mountain",
+   "action": "knife bump for the mountain base",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender mix on the knife",
+   "motion": "pushing up from the base",
+   "pressure": "light",
+   "where": "middle horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "mountain",
+   "action": "pinkish highlight with white and a touch of bright red",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "flat roll of paint from white and red",
+   "motion": "dragging and sparkling light spots",
+   "pressure": "light",
+   "where": "top of the mountain",
+   "rule": "not over mixing keeps some spots pinker and whiter",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "mountain",
+   "action": "shadow color from white and phthalo blue",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed flat",
+   "motion": "touching and sliding down the slope",
+   "pressure": "whisper",
+   "where": "mountain slope",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:59",
+   "subject": "mountain",
+   "action": "bumps and crevices with highlight color",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "highlight mix",
+   "motion": "dabbing bumps",
+   "pressure": "light",
+   "where": "across the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:37",
+   "subject": "mountain",
+   "action": "a few shadows following the angles",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "shadow mix on the knife",
+   "motion": "touching and following the angles",
+   "pressure": "light",
+   "where": "mountain shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:15",
+   "subject": "mist",
+   "action": "tapping at the base of the mountain for mist",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tapping along the angles",
+   "pressure": "light",
+   "where": "bottom of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:53",
+   "subject": "mountain",
+   "action": "another plane with the shadow color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "shadow color carried over",
+   "motion": "light brushing",
+   "pressure": "light",
+   "where": "mountain face",
+   "rule": "another plane creates a projection on the mountain",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "mountain",
+   "action": "lavender foothills with a turned brush",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender mix on the brush",
+   "motion": "pulling down with brush sideways or upright",
+   "pressure": "light",
+   "where": "lower area behind the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:12",
+   "subject": "reflection",
+   "action": "straight-down reflections then lightly across",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender mix carried over",
+   "motion": "pulling straight down then lightly across",
+   "pressure": "light",
+   "where": "under the foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "water line",
+   "action": "water line with a touch of pink",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "touch of crimson in white",
+   "motion": "cutting straight across",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "a touch of pink adds warmth",
+   "new": ""
+  },
+  {
+   "t": "17:33",
+   "subject": "evergreen",
+   "action": "back and forth fan strokes pushing down for evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "fan brush loaded with dark lavender",
+   "motion": "back and forth then pushing downward",
+   "pressure": "light",
+   "where": "middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "grass",
+   "action": "highlights on grassy areas with white and crimson",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white with white and crimson",
+   "motion": "pushing lightly",
+   "pressure": "light",
+   "where": "grassy areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "snow",
+   "action": "snow line out in the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "laying a line in the water",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:12",
+   "subject": "far trees",
+   "action": "cool blue and white highlights on small trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed",
+   "motion": "dabbing highlights on trees",
+   "pressure": "light",
+   "where": "small trees",
+   "rule": "a cool color balances the many warm colors",
+   "new": ""
+  },
+  {
+   "t": "20:51",
+   "subject": "evergreen",
+   "action": "dark evergreens pushed down with the fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mostly black and crimson on the fan",
+   "motion": "working back and forth then pushing down",
+   "pressure": "light",
+   "where": "right of the middle",
+   "rule": "dark against light shows strong contrast",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "bush",
+   "action": "bushes in the same dark color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same mix on the big brush",
+   "motion": "touching and pushing",
+   "pressure": "light",
+   "where": "right side bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:24",
+   "subject": "reflection",
+   "action": "straight-down reflections under the bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same mix",
+   "motion": "pulling straight down then lightly across",
+   "pressure": "light",
+   "where": "under the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "trunk/limbs",
+   "action": "dark sienna trunk indications",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna with a little white",
+   "motion": "sideways pull to make it look round",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "leaves and twigs in front cover the trunk",
+   "new": ""
+  },
+  {
+   "t": "24:39",
+   "subject": "evergreen",
+   "action": "blue and white highlights on the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed",
+   "motion": "dabbing highlights",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "keeping the dark keeps the contrast strong",
+   "new": ""
+  },
+  {
+   "t": "25:19",
+   "subject": "bush",
+   "action": "bush highlights with white and crimson in layers",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white with white and crimson",
+   "motion": "touching and pushing",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "more liquid white thins the paint so it lifts off",
+   "new": ""
+  },
+  {
+   "t": "26:40",
+   "subject": "trunk/limbs",
+   "action": "scraped sticks and twigs in dark areas",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scraping",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:40",
+   "subject": "water line",
+   "action": "light touch of water line along the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "light touch along the bottom",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

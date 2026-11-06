@@ -1,0 +1,628 @@
+{
+ "ep": "S05E02",
+ "base": "phthalo blue",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "titanium white",
+  "cadmium yellow",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "burnt umber",
+  "alizarin crimson",
+  "van dyke brown",
+  "permanent red",
+  "thalo green"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "bright sky with white worked into blue wash",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap into bristles",
+   "motion": "long strokes and blend",
+   "pressure": "light",
+   "where": "sky, top of canvas",
+   "rule": "keep sky bright by adding white",
+   "new": ""
+  },
+  {
+   "t": "01:37",
+   "subject": "cloud",
+   "action": "drop in small clouds with white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap into bristles",
+   "motion": "small pushes and dabs",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "cloud",
+   "action": "blend cloud base with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tiny circles, do not touch top",
+   "pressure": "light",
+   "where": "cloud base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "cloud",
+   "action": "fluff cloud top gently",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "grass",
+   "action": "lay in background trees with yellow and green",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "load bristles and pull through",
+   "motion": "light dabs",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:46",
+   "subject": "bush",
+   "action": "add yellow ochre and indian yellow to tree dabs",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "burnt umber"
+   ],
+   "load": "play colors on brush",
+   "motion": "light dabs in back",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "bush",
+   "action": "layer background tree dabs with brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "same brush",
+   "motion": "layered dabs",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:23",
+   "subject": "bush",
+   "action": "drop in quick trees and bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "let fall off brush",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:14",
+   "subject": "trunk/limbs",
+   "action": "thin trunk indications",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "burnt umber",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "short upward strokes",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:06",
+   "subject": "trunk/limbs",
+   "action": "add foreground tree with highlight",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same liner",
+   "motion": "drop in limbs then highlight",
+   "pressure": "light",
+   "where": "foreground right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:31",
+   "subject": "trunk/limbs",
+   "action": "highlight foreground tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same liner",
+   "motion": "small highlight",
+   "pressure": "light",
+   "where": "foreground tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "grass",
+   "action": "soft grass tapping with yellows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "mix on brush",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "middle grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:41",
+   "subject": "grass",
+   "action": "scrub ground area with dark brown and ochre",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "burnt umber",
+    "yellow ochre"
+   ],
+   "load": "load fan brush",
+   "motion": "scrub lightly",
+   "pressure": "light",
+   "where": "ground patch",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunk with liner and branches",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "trunk then branches",
+   "pressure": "light",
+   "where": "tree site",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:33",
+   "subject": "trunk/limbs",
+   "action": "highlight tree with white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same liner",
+   "motion": "touch highlight",
+   "pressure": "light",
+   "where": "tree trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "bush",
+   "action": "tap in leaf shapes with big brush",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "burnt umber"
+   ],
+   "load": "mix on brush",
+   "motion": "barely touch canvas",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:20",
+   "subject": "bush",
+   "action": "highlight leaves with yellow",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "tip of brush",
+   "motion": "touch tips",
+   "pressure": "light",
+   "where": "leaf tips",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "bush",
+   "action": "leaf indications on second tree",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "mix on brush",
+   "motion": "same tapping",
+   "pressure": "light",
+   "where": "second tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "grass",
+   "action": "lower foliage with greens and yellows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "mix on brush",
+   "motion": "dry clean brush tapping",
+   "pressure": "light",
+   "where": "foliage base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:47",
+   "subject": "land",
+   "action": "add water pond with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "straight strokes across",
+   "pressure": "light",
+   "where": "pond area",
+   "rule": "keep water lines straight",
+   "new": ""
+  },
+  {
+   "t": "15:22",
+   "subject": "land",
+   "action": "mix dirt color with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "permanent red"
+   ],
+   "load": "knife roll",
+   "motion": "scrub in dirt",
+   "pressure": "firm",
+   "where": "land edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "land",
+   "action": "stone-like land patches with yellow ochre and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "knife roll",
+   "motion": "barely touch and bounce",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:29",
+   "subject": "grass",
+   "action": "bring grass down with thinned brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "bring down",
+   "pressure": "light",
+   "where": "lower grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:54",
+   "subject": "land",
+   "action": "add water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "knife roll",
+   "motion": "cut across to edge",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "water line cleans the edges",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "land",
+   "action": "drop in water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "burnt umber",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "grow trunk down",
+   "pressure": "light",
+   "where": "tree site",
+   "rule": "trees should bend not be straight",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "trunk/limbs",
+   "action": "light brown highlights on trunk",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "same liner",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:55",
+   "subject": "bush",
+   "action": "leaf shapes with sap green and brown",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "cadmium yellow"
+   ],
+   "load": "mix on brush",
+   "motion": "quick leaf shapes",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "keep leaves loose",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "grass",
+   "action": "grass at tree base with thalo green black",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:10",
+   "subject": "trunk/limbs",
+   "action": "big dark trunk with black",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "pull down",
+   "pressure": "firm",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "trunk/limbs",
+   "action": "add big arm to tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "arm out",
+   "pressure": "firm",
+   "where": "tree arm",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:59",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "burnt umber",
+    "permanent red"
+   ],
+   "load": "knife roll",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "tree trunk",
+   "rule": "bark texture from paint ridge",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "trunk/limbs",
+   "action": "reflective blue highlight on trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "knife roll",
+   "motion": "light indication",
+   "pressure": "light",
+   "where": "tree trunk and arm",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:50",
+   "subject": "trunk/limbs",
+   "action": "tap dark over trunk for texture",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "knife roll",
+   "motion": "tapping back and forth",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "trunk/limbs",
+   "action": "tap in grass around trunk base",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "grass",
+   "action": "finish grass tufts",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[05:07] leave the blue wash showing so thick and thin areas contrast",
+  "[06:14] thin paint sticks to thick paint so layers do not turn to mud",
+  "[13:47] dark behind light lets the light show"
+ ]
+}

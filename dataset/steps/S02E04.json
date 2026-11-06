@@ -1,0 +1,740 @@
+{
+ "ep": "S02E04",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "blue",
+  "brown",
+  "titanium white",
+  "firm white",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sky",
+   "action": "sky strokes with the mighty brush",
+   "tool": "other: mighty brush",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "gray, beaten into the bristles",
+   "motion": "big circular patterns, let it play",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sun/glow",
+   "action": "light source in the sky",
+   "tool": "other: mighty brush",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "let it work",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:37",
+   "subject": "sky",
+   "action": "gentle circular blend of the sky",
+   "tool": "other: mighty brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "keep the brush in circles",
+   "pressure": "light",
+   "where": "",
+   "rule": "Otherwise the streaks will appear to rise upward.",
+   "new": ""
+  },
+  {
+   "t": "02:52",
+   "subject": "cloud",
+   "action": "Paint small clouds with a touch of gray using the fan brush.",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "very little gray on the fan brush",
+   "motion": "circular pattern",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:16",
+   "subject": "cloud",
+   "action": "fluff and blend clouds with the big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "a little more gray",
+   "motion": "fluff it out, blend together",
+   "pressure": "light",
+   "where": "just right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:09",
+   "subject": "mountain",
+   "action": "drop big mountain, scrape, pull down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "very little paint, scrape the canvas hard",
+   "motion": "pull it down",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "mountain",
+   "action": "highlight on the mountain",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white",
+   "motion": "a little highlight",
+   "pressure": "unknown",
+   "where": "along this edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:34",
+   "subject": "mountain",
+   "action": "shadow colors pulled down the contour",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "gray and a little white, a little darker",
+   "motion": "pull shadows down the contour",
+   "pressure": "light",
+   "where": "on the contour of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:21",
+   "subject": "mountain",
+   "action": "shadow on one mountain so it stands out",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "bring this some down",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "This makes the figure stand out as a separate object.",
+   "new": ""
+  },
+  {
+   "t": "06:43",
+   "subject": "mist",
+   "action": "tap mist along the base of the mountains",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap the bottom, then lift upward",
+   "pressure": "unknown",
+   "where": "over here, following the angles",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "mountain",
+   "action": "second mountain in front",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "drop in and let him wander",
+   "pressure": "unknown",
+   "where": "right on here down in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:30",
+   "subject": "mountain",
+   "action": "darker second mountain, blended lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "more color than the first one",
+   "motion": "blend it down, not as much",
+   "pressure": "unknown",
+   "where": "down in front",
+   "rule": "This makes the element appear closer.",
+   "new": ""
+  },
+  {
+   "t": "08:01",
+   "subject": "snow",
+   "action": "snow along the mountain contour",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "follow the contour of the mountain",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "On this mountain.",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "mountain",
+   "action": "shadows thrown in on the mountains",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "a little more shadow color",
+   "motion": "touch, make shadows",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "mountain",
+   "action": "tap to diffuse the shadow edges",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently tap",
+   "pressure": "light",
+   "where": "on this",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:25",
+   "subject": "water",
+   "action": "pull water lines level from outside the image",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull up from outside the image",
+   "pressure": "unknown",
+   "where": "from outside the image",
+   "rule": "This keeps the water from appearing to run off the canvas.",
+   "new": ""
+  },
+  {
+   "t": "10:48",
+   "subject": "far trees",
+   "action": "lift up little things far in the distance",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gently lift up, short strokes",
+   "pressure": "light",
+   "where": "back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "evergreen",
+   "action": "drop a little evergreen with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "color very close to the background mountains",
+   "motion": "drop a little evergreen",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "This element looks very distant.",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "evergreen",
+   "action": "darker closer evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "a little darker",
+   "motion": "lay some color right there",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "The figure is now closer, so it is painted darker.",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "reflection",
+   "action": "pull tree color straight down into the water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "the tree color",
+   "motion": "gently pull straight down, then across",
+   "pressure": "light",
+   "where": "into the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:46",
+   "subject": "water line",
+   "action": "cut thinner white to lay water land and a cove",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "magic white mixed with firm white",
+   "motion": "cut through it",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:36",
+   "subject": "leaf tree",
+   "action": "trees laid with the knife tip in blue and brown",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "blue, tiny bit at the point of the knife",
+   "motion": "touch and lay paint on the canvas",
+   "pressure": "unknown",
+   "where": "Add a small area here.",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:21",
+   "subject": "trunk/limbs",
+   "action": "trunk indications cut through with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "cut through",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "Continue upward here.",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "leaf tree",
+   "action": "shadow side of the trees, then snow highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "mountain shadow colors, a little darker",
+   "motion": "touch lightly so paint catches on raised points",
+   "pressure": "whisper",
+   "where": "over here",
+   "rule": "The same basic shadow colors used on the mountain are applied here.",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "snow",
+   "action": "barely touch snow on the high points, other side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "bush",
+   "action": "dark bush shadows with the one-inch brush",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "dark, on the one inch brush",
+   "motion": "throw in little bushes",
+   "pressure": "unknown",
+   "where": "right under here",
+   "rule": "Dark areas are needed to make light areas visible.",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "leaf tree",
+   "action": "bigger trees behind the bushes, farthest first",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "something like so",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "The figure is painted first, then the foreground follows.",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "reflection",
+   "action": "pull dark down into a reflection",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "dark already on the brush",
+   "motion": "pull this down",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "bush",
+   "action": "light leaves sparkle with thinner white",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "magic white with firm white",
+   "motion": "push off the leaves, let them hit",
+   "pressure": "unknown",
+   "where": "Add leaves across this area.",
+   "rule": "Use paint slightly thinner than the existing layer so it adheres.",
+   "new": ""
+  },
+  {
+   "t": "20:01",
+   "subject": "reflection",
+   "action": "whisper light to diffuse the reflections",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gently whisper light",
+   "pressure": "whisper",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:25",
+   "subject": "snow",
+   "action": "snow down on the ground in thin white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "a little of the thin white",
+   "motion": "put some snow down here",
+   "pressure": "unknown",
+   "where": "down here on the ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:58",
+   "subject": "trunk/limbs",
+   "action": "cut little sticks here and there",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just like so",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:58",
+   "subject": "bush",
+   "action": "Add bushes on the other side.",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "thin white mixed with thicker white",
+   "motion": "Place bushes along this line.",
+   "pressure": "unknown",
+   "where": "right along here",
+   "rule": "This ensures adhesion.",
+   "new": ""
+  },
+  {
+   "t": "21:52",
+   "subject": "structure",
+   "action": "house back in dark, front in white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "let it flow down the canvas",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:20",
+   "subject": "structure",
+   "action": "fill the front in dark, white on the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "a bit of white on the knife",
+   "motion": "fill them in the front",
+   "pressure": "unknown",
+   "where": "in the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:44",
+   "subject": "structure",
+   "action": "door outline in magic white, boards",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "touch of Magic White",
+   "motion": "outline it, put some boards in here",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:44",
+   "subject": "snow",
+   "action": "snow on the opposite roof side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "unknown",
+   "where": "whisper",
+   "rule": "On both sides of the roof.",
+   "new": "snow is needed on both sides"
+  },
+  {
+   "t": "23:16",
+   "subject": "snow",
+   "action": "snow on the ground along the land",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch, lay snow",
+   "pressure": "unknown",
+   "where": "whisper",
+   "rule": "On the ground.",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "bush",
+   "action": "dark bush with highlights, push house back into bushes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "titanium white"
+   ],
+   "load": "dark color, then the light color",
+   "motion": "Place a bush at this spot.",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "leaf tree",
+   "action": "throw up a little tree",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "add a small tree through this area",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "Extend upward through this area.",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "leaf tree",
+   "action": "highlight on the tree in thin oil",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little thin oil, thinning the paint down",
+   "motion": "put a little highlight on him",
+   "pressure": "unknown",
+   "where": "on him",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:46",
+   "subject": "leaf tree",
+   "action": "Add leaves on the outside of the tree.",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin oil",
+   "motion": "let them go",
+   "pressure": "unknown",
+   "where": "outside here on this tree",
+   "rule": "A slicker oil medium moves more easily across the surface.",
+   "new": ""
+  },
+  {
+   "t": "25:12",
+   "subject": "trunk/limbs",
+   "action": "little sticks at the bottom",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "blue",
+    "brown"
+   ],
+   "load": "",
+   "motion": "few little sticks",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "At the bottom here.",
+   "new": ""
+  },
+  {
+   "t": "25:12",
+   "subject": "other: signature",
+   "action": "sign the painting in red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "red"
+   ],
+   "load": "thin oil",
+   "motion": "sign him in red",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

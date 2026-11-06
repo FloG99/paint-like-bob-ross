@@ -1,0 +1,405 @@
+{
+ "ep": "S13E04",
+ "base": "alizarin crimson over black gesso",
+ "format": "unknown",
+ "light": "sun strikes the front of the cabin",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "cad yellow",
+  "yellow ochre",
+  "black",
+  "black gesso",
+  "dark sienna",
+  "bright red",
+  "indian yellow",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:36",
+   "subject": "sky",
+   "action": "tap white for the horizon glow and criss-cross outward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tapped white on the brush",
+   "motion": "criss-cross strokes outward from the horizon",
+   "pressure": "unknown",
+   "where": "horizon line",
+   "rule": "the horizon must be the lightest area for a sunset",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "sky",
+   "action": "add cad yellow glow in the bright band",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a small amount on the brush",
+   "motion": "tap and rock back and forth",
+   "pressure": "unknown",
+   "where": "the bright band, away from the blue",
+   "rule": "keeps yellow out of the blue, which would turn green",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "sky",
+   "action": "add yellow ochre to the bright band",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "mixed on the brush",
+   "motion": "rock back and forth",
+   "pressure": "unknown",
+   "where": "the bright band, away from the blue",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "cloud",
+   "action": "dab floater clouds in crimson and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "much more crimson than blue",
+   "motion": "let them float with the same stroke",
+   "pressure": "unknown",
+   "where": "across the sky",
+   "rule": "more crimson so yellow does not turn them green",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "cloud",
+   "action": "rock a dry brush to blend the clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "dry brush",
+   "motion": "small rocking strokes",
+   "pressure": "unknown",
+   "where": "sky clouds",
+   "rule": "a wet brush would mix colors into mud",
+   "new": ""
+  },
+  {
+   "t": "08:14",
+   "subject": "far trees",
+   "action": "tap in distant tree shapes at the horizon",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "load both sides full",
+   "motion": "tap in basic tree shapes",
+   "pressure": "unknown",
+   "where": "along the horizon",
+   "rule": "letting some stay lighter makes it look like light shining through",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "trunk/limbs",
+   "action": "pull light tree trunks on the dark canvas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a tiny bit of white on the brush",
+   "motion": "pull up very lightly",
+   "pressure": "light",
+   "where": "among the distant trees",
+   "rule": "light paint shows strongly on the dark base",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "grass",
+   "action": "tap grassy areas back here with a 2in brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "cad yellow and sap green mixed on the brush",
+   "motion": "tap downward and let it slide",
+   "pressure": "unknown",
+   "where": "back area of the land",
+   "rule": "water sits in a low spot, so a hill shows why",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "land",
+   "action": "tap highlights of yellow ochre and indian yellow on the hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tap in layers",
+   "pressure": "unknown",
+   "where": "the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:18",
+   "subject": "reflection",
+   "action": "pull grassy reflections straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a little tap on the brush",
+   "motion": "touch and pull straight down",
+   "pressure": "unknown",
+   "where": "below the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:35",
+   "subject": "reflection",
+   "action": "add a touch of white so the water sparkles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the brush",
+   "motion": "come straight across lightly",
+   "pressure": "unknown",
+   "where": "the reflected water",
+   "rule": "keep the white light so it does not overdo it",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "land",
+   "action": "scrub a bank along the shore line",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little roll of the mix",
+   "motion": "lightly scrub the bank in",
+   "pressure": "light",
+   "where": "edge of the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "stream",
+   "action": "close the grass into a little stream",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carries the dark mix",
+   "motion": "pull through",
+   "pressure": "unknown",
+   "where": "lower side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:15",
+   "subject": "leaf tree",
+   "action": "paint a big tree that leans off the top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "carried dark mix",
+   "motion": "push the tree out of the brush",
+   "pressure": "unknown",
+   "where": "right side of the canvas",
+   "rule": "tilting the tree leads the eye into the painting",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "land",
+   "action": "add a peninsula with a white highlight and dark shadow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiniest bit of white",
+   "motion": "touch a highlight and set a shadow under it",
+   "pressure": "unknown",
+   "where": "peninsula in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:32",
+   "subject": "water",
+   "action": "sparkle the water with cad yellow and white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "titanium white"
+   ],
+   "load": "a little cad yellow with white",
+   "motion": "dab sparkles in the water",
+   "pressure": "unknown",
+   "where": "the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:14",
+   "subject": "trunk/limbs",
+   "action": "paint a crooked tree trunk through the big tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a roll of brown on the knife, a touch of white",
+   "motion": "pull the outline and dab",
+   "pressure": "unknown",
+   "where": "through the big tree",
+   "rule": "a crooked tree usually has a crooked trunk",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "leaf tree",
+   "action": "add sparkling leaf clumps on the limbs",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed yellows and red on the brush",
+   "motion": "tap clumps and let the sun shine through",
+   "pressure": "unknown",
+   "where": "limbs of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "structure",
+   "action": "block in the cabin front in sunlit colors",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "red, white and yellow ochre on the brush",
+   "motion": "block in and highlight the front",
+   "pressure": "unknown",
+   "where": "front of the cabin",
+   "rule": "the front faces the sun so it is bright",
+   "new": ""
+  },
+  {
+   "t": "25:07",
+   "subject": "structure",
+   "action": "shade the other side of the cabin with brown and white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and a little white",
+   "motion": "make small slabs, dab a door",
+   "pressure": "unknown",
+   "where": "other side of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "structure",
+   "action": "bounce the knife down the cabin side for siding",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "dark sienna",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "small mix of red, sienna, white and ochre",
+   "motion": "bounce the knife down the side",
+   "pressure": "unknown",
+   "where": "side of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "grass",
+   "action": "paint grass around the cabin base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push grass around the base",
+   "pressure": "unknown",
+   "where": "cabin base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "path",
+   "action": "add a little path with brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown on the knife",
+   "motion": "add the path in",
+   "pressure": "unknown",
+   "where": "path in front of the grass",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

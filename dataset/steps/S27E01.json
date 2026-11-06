@@ -1,0 +1,533 @@
+{
+ "ep": "S27E01",
+ "base": "black gesso; liquid clear; alizarin crimson; phthalo blue corner",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "indian yellow",
+  "titanium white",
+  "cad yellow",
+  "bright red",
+  "black gesso",
+  "dark sienna",
+  "van dyke brown",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:29",
+   "subject": "other: base wash",
+   "action": "cover the canvas with crimson, blue in one corner",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson with a little blue",
+   "motion": "blend it out",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:50",
+   "subject": "sky",
+   "action": "criss-cross light area in the center",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "titanium white"
+   ],
+   "load": "tiny indian yellow and a little white",
+   "motion": "little X strokes, blend outward and upward",
+   "pressure": "light",
+   "where": "center of the sky",
+   "rule": "start at the lightest area and work outward",
+   "new": ""
+  },
+  {
+   "t": "03:02",
+   "subject": "sky",
+   "action": "brighter criss-cross above the light area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "more white with a little cad yellow",
+   "motion": "X strokes blending upward",
+   "pressure": "light",
+   "where": "above the light area",
+   "rule": "work from the lightest area so it darkens outward",
+   "new": ""
+  },
+  {
+   "t": "04:16",
+   "subject": "sky",
+   "action": "tap bright red into the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "a little white and red tapped into bristles",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "up in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "other: small lavender accents",
+   "action": "mix crimson and blue and lay in little colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed to a reddish lavender",
+   "motion": "lay in little colors",
+   "pressure": "light",
+   "where": "under the sky accents",
+   "rule": "blue is much stronger, so use more crimson",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "sky",
+   "action": "blend the paint with the blender brush",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean blender brush",
+   "motion": "light go-over",
+   "pressure": "light",
+   "where": "over the background colors",
+   "rule": "more blending melts it into the background colors",
+   "new": ""
+  },
+  {
+   "t": "06:17",
+   "subject": "other: highlight accent",
+   "action": "brighten a spot with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:42",
+   "subject": "evergreen",
+   "action": "push fan upward for evergreen shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "black gesso",
+    "titanium white"
+   ],
+   "load": "fan loaded both sides with grey-blue",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "a little white helps them show on television",
+   "new": ""
+  },
+  {
+   "t": "08:37",
+   "subject": "mist",
+   "action": "tap mist at the base, then lift",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "firm tap, lift upward",
+   "pressure": "firm",
+   "where": "base of the scene",
+   "rule": "lifting softens the tap marks",
+   "new": ""
+  },
+  {
+   "t": "09:22",
+   "subject": "far trees",
+   "action": "second row of trees, darker lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "black gesso"
+   ],
+   "load": "fan loaded both sides",
+   "motion": "push upward into a row",
+   "pressure": "light",
+   "where": "in front of the mist",
+   "rule": "closer things should be darker in value",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "leaf tree",
+   "action": "corner of fan for a bigger tree with detail",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "same darker mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:32",
+   "subject": "mist",
+   "action": "tap bottom lightly, then lift up",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean 2in brush",
+   "motion": "tap lightly, lift upward",
+   "pressure": "whisper",
+   "where": "bottom of the background",
+   "rule": "creates the misty illusion",
+   "new": ""
+  },
+  {
+   "t": "11:54",
+   "subject": "reflection",
+   "action": "pull white straight down, then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the canvas",
+   "motion": "pull straight down, then lightly across",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "straight down picks up the colors underneath",
+   "new": ""
+  },
+  {
+   "t": "12:42",
+   "subject": "snow",
+   "action": "tap white for powdery snow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the 2in brush",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "tapping gives powdery snow",
+   "new": ""
+  },
+  {
+   "t": "13:06",
+   "subject": "snow",
+   "action": "blend the snow softly",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean blender brush",
+   "motion": "graze lightly",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "blending brings the snow together",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "snow",
+   "action": "layer white under the trees, working forward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "tap layers forward",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "work from the most distant object forward",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "reflection",
+   "action": "reinforce the reflection with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "pull down and go across",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "make it brighter so it jumps out",
+   "new": ""
+  },
+  {
+   "t": "15:35",
+   "subject": "water line",
+   "action": "cut a straight water line with liquid white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a little liquid white on the knife",
+   "motion": "cut straight across",
+   "pressure": "light",
+   "where": "right up in here",
+   "rule": "straight water lines keep water from running out",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "leaf tree",
+   "action": "big tree in deep lavender, tapped firmly",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed with no white",
+   "motion": "tap firmly into the paint, then corner",
+   "pressure": "firm",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "trunk/limbs",
+   "action": "thin sienna and white trunks in back",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small trunks and sticks",
+   "pressure": "light",
+   "where": "back in the woods",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "18:17",
+   "subject": "bush",
+   "action": "tap cool white bushes with corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with a little blue",
+   "motion": "tap at 45 degrees",
+   "pressure": "light",
+   "where": "back in there",
+   "rule": "a touch of blue cools it",
+   "new": ""
+  },
+  {
+   "t": "20:19",
+   "subject": "trunk/limbs",
+   "action": "one-stroke trunk in brown mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mixed",
+   "motion": "one stroke",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:03",
+   "subject": "trunk/limbs",
+   "action": "birch bark by barely touching with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "touch and pull around",
+   "pressure": "whisper",
+   "where": "on the birch",
+   "rule": "barely touching leaves gaps like bark",
+   "new": ""
+  },
+  {
+   "t": "21:25",
+   "subject": "trunk/limbs",
+   "action": "dark bark accent down the middle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "brown mix",
+   "motion": "add a little in the middle",
+   "pressure": "light",
+   "where": "middle of the birch",
+   "rule": "it dries to feel like real bark",
+   "new": ""
+  },
+  {
+   "t": "21:52",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small limbs out",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:20",
+   "subject": "bush",
+   "action": "small bush at the base of the trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "trunk/limbs",
+   "action": "touch in a different tree, darker around",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "white, sienna and brown mixed",
+   "motion": "touch, getting darker around the tree",
+   "pressure": "whisper",
+   "where": "around the tree",
+   "rule": "it gets darker and feels like bark",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "trunk/limbs",
+   "action": "thin brown arms on the tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small arms",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "trunk/limbs",
+   "action": "light-colored stick",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "light color already on brush",
+   "motion": "small stick",
+   "pressure": "light",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "trunk/limbs",
+   "action": "scrape through with knife so black shows",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "black canvas shows through as twigs",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "other: contact paper removal",
+   "action": "peel off the contact paper",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull it off",
+   "pressure": "unknown",
+   "where": "the oval",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "other: signature",
+   "action": "sign with bright red on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on the liner",
+   "motion": "write signature",
+   "pressure": "unknown",
+   "where": "in the painting",
+   "rule": "pick one signature and keep it, it becomes your trademark",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

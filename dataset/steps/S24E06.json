@@ -1,0 +1,575 @@
+{
+ "ep": "S24E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "titanium white",
+  "alizarin crimson",
+  "indian yellow",
+  "yellow ochre",
+  "cadmium yellow",
+  "sap green",
+  "bright red",
+  "dark sienna",
+  "van dyke brown",
+  "midnight black"
+ ],
+ "steps": [
+  {
+   "t": "00:29",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a small amount into bristles",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "tapping spreads color evenly through the bristles",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "water",
+   "action": "dark water color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same blue from before",
+   "motion": "pull from outside inward",
+   "pressure": "unknown",
+   "where": "lower canvas",
+   "rule": "leave an unpainted area so light sheens across water",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "other: corner darkening",
+   "action": "darken corners",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "add a little to each corner",
+   "motion": "dab corners and water edges",
+   "pressure": "light",
+   "where": "all four corners",
+   "rule": "darker edges pull the eye toward the center",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "sky",
+   "action": "blend sky outward from light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend from light area toward dark area",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "that keeps the dark on the outside edges",
+   "new": ""
+  },
+  {
+   "t": "03:56",
+   "subject": "cloud",
+   "action": "tap white cloud shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap corner into white",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:41",
+   "subject": "cloud",
+   "action": "big cloud over water",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap corner again",
+   "motion": "tap a large shape",
+   "pressure": "light",
+   "where": "over the water",
+   "rule": "suits big fluffy clouds over seascapes",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "cloud",
+   "action": "sparkle color in cloud",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "alizarin crimson"
+   ],
+   "load": "tap tiny touches of each",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "a little color adds sunlight sparkle",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "cloud",
+   "action": "base of cloud in blue and crimson",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix a very small amount on brush",
+   "motion": "tap at base and blend",
+   "pressure": "light",
+   "where": "base of small cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:06",
+   "subject": "cloud",
+   "action": "tickle cloud with dry brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tiny criss-cross strokes with top corner",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "that softens everything even more",
+   "new": ""
+  },
+  {
+   "t": "07:56",
+   "subject": "mountain",
+   "action": "far blue lavender mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mix mostly blue with a little crimson and white",
+   "motion": "cut a small roll and scrape firmly",
+   "pressure": "firm",
+   "where": "upper back canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "mountain",
+   "action": "pull and blend mountain base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull and blend the base",
+   "pressure": "light",
+   "where": "back mountain base",
+   "rule": "mist at the base keeps the mountain looking far away",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "mountain",
+   "action": "darker lavender mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "more crimson on the roll",
+   "motion": "roll placed on knife edge",
+   "pressure": "unknown",
+   "where": "middle back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "mountain",
+   "action": "pull and brushstroke highlights",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull and use brushstrokes for highlights and shadows",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:36",
+   "subject": "mountain",
+   "action": "darker mountain layer",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "add a little black to the roll",
+   "motion": "place roll on knife",
+   "pressure": "unknown",
+   "where": "taller peak area",
+   "rule": "each layer should get darker",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "mountain",
+   "action": "pull top edge of dark range",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull across the top edge only",
+   "pressure": "light",
+   "where": "top edge of range",
+   "rule": "each layer must get darker or distance is lost",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "mountain",
+   "action": "foreground peak",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "darken mountain color with black",
+   "motion": "pull top edge",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:40",
+   "subject": "far trees",
+   "action": "tree line on mountainside",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "tap into mountain color",
+   "motion": "tap lightly, fuzzy top, blend downward",
+   "pressure": "light",
+   "where": "side of mountain",
+   "rule": "tapping makes distant trees on the slope",
+   "new": ""
+  },
+  {
+   "t": "15:40",
+   "subject": "mountain",
+   "action": "foothill with yellow and green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "sap green",
+    "bright red"
+   ],
+   "load": "tap yellow, green and red into mountain color",
+   "motion": "tap in colors",
+   "pressure": "light",
+   "where": "middle of foothills",
+   "rule": "closer layers show more color",
+   "new": ""
+  },
+  {
+   "t": "16:27",
+   "subject": "mountain",
+   "action": "hint of green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "leftover color on brush",
+   "motion": "tap a hint back in",
+   "pressure": "light",
+   "where": "middle back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "reflection",
+   "action": "reflect range in water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "load fan mostly blue",
+   "motion": "place basic shape",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "reflection",
+   "action": "lavender reflection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "more lavender on fan",
+   "motion": "place basic shape",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:46",
+   "subject": "reflection",
+   "action": "dark reflection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "load fan with dark",
+   "motion": "larger basic shape",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:10",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:06",
+   "subject": "reflection",
+   "action": "pull reflection lines upward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush and pull upward",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "pulling upward keeps the lines from running down into the water",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "land",
+   "action": "distant land bank",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "mix a sand color on the palette",
+   "motion": "cut a tiny roll and dab a hint",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "water",
+   "action": "ripple water lightly",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light pass across",
+   "pressure": "light",
+   "where": "water",
+   "rule": "a light pass ripples the water for a watery look",
+   "new": ""
+  },
+  {
+   "t": "20:18",
+   "subject": "water line",
+   "action": "water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut straight across for water line",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "straight lines keep the water from looking like it runs off the canvas",
+   "new": ""
+  },
+  {
+   "t": "20:48",
+   "subject": "far trees",
+   "action": "dark tree mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix all dark colors on the palette",
+   "motion": "load fan brush full",
+   "pressure": "unknown",
+   "where": "right corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:19",
+   "subject": "far trees",
+   "action": "distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap downward for tree indications",
+   "pressure": "unknown",
+   "where": "back right corner",
+   "rule": "too much detail would ruin the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "22:16",
+   "subject": "reflection",
+   "action": "lift then pull reflections down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward then pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "evergreen",
+   "action": "foreground evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mix greens and yellows with a touch of red",
+   "motion": "indicate small evergreens",
+   "pressure": "light",
+   "where": "foreground right",
+   "rule": "a touch of red dulls the color",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "land",
+   "action": "bank for trees",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "yellow ochre",
+    "van dyke brown"
+   ],
+   "load": "mix bank color",
+   "motion": "gently lay bank line and scratch sticks",
+   "pressure": "light",
+   "where": "back canvas",
+   "rule": "the bank gives the trees something to sit on",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "land",
+   "action": "land area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "thin brown with thinner",
+   "motion": "drop in land",
+   "pressure": "light",
+   "where": "right foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:39",
+   "subject": "rock",
+   "action": "big gray rocks with oval brush",
+   "tool": "other: oval brush",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "pull oval through dark and light",
+   "motion": "pull oval through dark and light colors",
+   "pressure": "light",
+   "where": "foreground land",
+   "rule": "rocks give a place to stand and admire the scene",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

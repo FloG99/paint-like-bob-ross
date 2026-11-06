@@ -1,0 +1,511 @@
+{
+ "ep": "S21E09",
+ "base": "black gesso with a dark wash",
+ "format": "unknown",
+ "light": "from the left",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "dark sienna",
+  "prussian blue",
+  "vandyke brown",
+  "titanium white",
+  "sap green",
+  "cad yellow",
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "01:43",
+   "subject": "other: dark background wash",
+   "action": "spread dark wash across the canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "prussian blue"
+   ],
+   "load": "dark mix of black, sienna and blue",
+   "motion": "spread and dance color across",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:29",
+   "subject": "far trees",
+   "action": "tap basic tree and bush shapes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "prussian blue",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "dark brown-blue mix on oval brush",
+   "motion": "tap very basic shapes",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "very basic shapes first, no detail yet",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "far trees",
+   "action": "tap lighter distant tree shapes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "prussian blue",
+    "dark sienna",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "same mix with white added",
+   "motion": "tap distant shapes",
+   "pressure": "light",
+   "where": "far back, scattered",
+   "rule": "white makes them lighter so they sit back",
+   "new": ""
+  },
+  {
+   "t": "04:43",
+   "subject": "far trees",
+   "action": "yellow-green highlights on far trees",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "tips loaded with yellows and green",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "keep them subdued and dark so they stay far away",
+   "new": ""
+  },
+  {
+   "t": "05:55",
+   "subject": "trunk/limbs",
+   "action": "thin twigs and stems in back",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "prussian blue",
+    "vandyke brown"
+   ],
+   "load": "dark mix thinned with paint thinner",
+   "motion": "flowing thin strokes",
+   "pressure": "light",
+   "where": "back, across the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "bush",
+   "action": "yellow-green leafy highlights",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows and green on the brush, a touch of red",
+   "motion": "dab soft clumps, darker lower down",
+   "pressure": "light",
+   "where": "back bushes",
+   "rule": "red dulls the green into brown",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "bush",
+   "action": "layer more bushes",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "same mix on oval brush",
+   "motion": "layer dabs",
+   "pressure": "light",
+   "where": "middle bush",
+   "rule": "dark spaces between layers give depth",
+   "new": ""
+  },
+  {
+   "t": "09:43",
+   "subject": "trunk/limbs",
+   "action": "thin sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "prussian blue",
+    "vandyke brown"
+   ],
+   "load": "lots of thinner with the dark mix",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "back and over here",
+   "rule": "sticks support the scene and bring it together",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "bush",
+   "action": "dark bush shapes in front",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix tapped on",
+   "motion": "tap nearer bush",
+   "pressure": "light",
+   "where": "front, middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:22",
+   "subject": "bush",
+   "action": "brighter bush spots in back",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellow with a little red",
+   "motion": "tap brighter spots",
+   "pressure": "light",
+   "where": "back, in the dark",
+   "rule": "dark behind them makes the bright parts show",
+   "new": ""
+  },
+  {
+   "t": "12:38",
+   "subject": "evergreen",
+   "action": "block in big tree",
+   "tool": "other: oval brush",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "dark sienna"
+   ],
+   "load": "dark mix wiggled to a chisel edge",
+   "motion": "pull down, wiggle as it comes",
+   "pressure": "unknown",
+   "where": "middle, runs off the top",
+   "rule": "little light makes the tree skinny in places",
+   "new": ""
+  },
+  {
+   "t": "13:50",
+   "subject": "evergreen",
+   "action": "hanging long limbs",
+   "tool": "other: oval brush",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "dark sienna"
+   ],
+   "load": "same chisel load",
+   "motion": "let limbs fall farther down",
+   "pressure": "light",
+   "where": "down toward the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:11",
+   "subject": "evergreen",
+   "action": "second tree with hanging limbs",
+   "tool": "other: oval brush",
+   "part": "chisel",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "dark sienna"
+   ],
+   "load": "same chisel load",
+   "motion": "back and forth strokes",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:00",
+   "subject": "trunk/limbs",
+   "action": "show trunk here and there",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "roll of white and dark sienna on knife",
+   "motion": "touch lightly so trunk peeks out",
+   "pressure": "light",
+   "where": "a few spots in the tree",
+   "rule": "light from one side decides where trunks show",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "evergreen",
+   "action": "yellow-red highlights on trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows and red mixed together",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "brighter on the left",
+   "rule": "light from the left makes the left brighter",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "evergreen",
+   "action": "add shine with clear",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brush dipped in liquid clear",
+   "pressure": "light",
+   "where": "a few spots",
+   "rule": "clear makes it shine when dry",
+   "new": ""
+  },
+  {
+   "t": "17:21",
+   "subject": "evergreen",
+   "action": "touch of sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "touch of green on brush",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "a few spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "leaf tree",
+   "action": "add fall-colored leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "crimson and ochre mixed, then dark sienna",
+   "motion": "dab little things",
+   "pressure": "light",
+   "where": "bright area, fading darker away from it",
+   "rule": "light from that direction gives the look he wants",
+   "new": ""
+  },
+  {
+   "t": "19:18",
+   "subject": "other: bright highlight",
+   "action": "dab bright spot",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on brush",
+   "motion": "dab bright spot",
+   "pressure": "light",
+   "where": "middle of the bright area",
+   "rule": "light fades as it goes behind the trees",
+   "new": ""
+  },
+  {
+   "t": "20:53",
+   "subject": "evergreen",
+   "action": "big tree in brown",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "big roll of brown on knife",
+   "motion": "pull out flat and down",
+   "pressure": "medium",
+   "where": "one side, comes down",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:45",
+   "subject": "trunk/limbs",
+   "action": "white bark streaks",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "brown and white roll on knife",
+   "motion": "touch and let it wander down",
+   "pressure": "whisper",
+   "where": "light side of the tree",
+   "rule": "easy way to show bark texture",
+   "new": ""
+  },
+  {
+   "t": "22:54",
+   "subject": "trunk/limbs",
+   "action": "lay in fallen log",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "white and brown with a touch of ochre on knife",
+   "motion": "touch and let it pull off",
+   "pressure": "light",
+   "where": "across the canvas",
+   "rule": "leave dark on the end so it fades into shadow",
+   "new": ""
+  },
+  {
+   "t": "24:05",
+   "subject": "grass",
+   "action": "fern-like grass over the log",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "color on brush",
+   "motion": "push straight in for fern shapes",
+   "pressure": "medium",
+   "where": "hanging over the log",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "other: dark foreground",
+   "action": "fill foreground with dark marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small dark dabs",
+   "pressure": "light",
+   "where": "foreground, bottom",
+   "rule": "the log blocks light so the foreground stays dark",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "trunk/limbs",
+   "action": "thin dark limb on big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "very thin brown mix",
+   "motion": "wiggle into a loose flowing limb",
+   "pressure": "light",
+   "where": "left side of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:22",
+   "subject": "trunk/limbs",
+   "action": "light highlight on limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light color on brush",
+   "motion": "highlight top edges",
+   "pressure": "light",
+   "where": "top of the limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:45",
+   "subject": "grass",
+   "action": "little grassy things",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "yellow green thinned with paint thinner",
+   "motion": "pull up little grass strokes",
+   "pressure": "light",
+   "where": "wherever they should be in the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:09",
+   "subject": "trunk/limbs",
+   "action": "dead tree with a few limbs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay in trunk and limbs",
+   "pressure": "light",
+   "where": "one spot at the back",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,588 @@
+{
+ "ep": "S17E07",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "liquid clear",
+  "liquid white",
+  "cadmium yellow",
+  "bright red",
+  "dark sienna",
+  "yellow ochre",
+  "indian yellow",
+  "prussian blue",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "00:40",
+   "subject": "sky",
+   "action": "crisscross sky with little phthalo blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "little phthalo blue into bristles",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "Highly transparent, so underlying shapes show through.",
+   "new": ""
+  },
+  {
+   "t": "01:19",
+   "subject": "other: yellow spot at bottom",
+   "action": "blend yellow spot upward",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "corner into titanium white, least cadmium yellow",
+   "motion": "tip to the bottom and blend upward",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "mist",
+   "action": "lavender over dark shapes, flows into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same lavender brush, take a little",
+   "motion": "cover dark shapes, let it flow into sky",
+   "pressure": "unknown",
+   "where": "into the sky here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "mountain",
+   "action": "lavender mountain on knife roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "touch of crimson, roll on knife edge",
+   "motion": "make the first major choice",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "mountain",
+   "action": "scrape excess off, large brush blends downward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "scrape off excess, blend downward",
+   "pressure": "firm",
+   "where": "bottom of the mountain",
+   "rule": "This will look like a lit area.",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "mountain",
+   "action": "highlight: white with bright red and lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "titanium white with least bright red and lavender",
+   "motion": "touch and pull",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "To dull it.",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "mountain",
+   "action": "shadow: more lavender, less white, on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "more lavender, much less white",
+   "motion": "little shadow indication, very small amount",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "mountain",
+   "action": "highlight peaks, then small knife for little places",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "back to highlight color",
+   "motion": "let it float through loosely",
+   "pressure": "whisper",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "mountain",
+   "action": "drop small shadows with small knife",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "little bit of shadow color",
+   "motion": "drop a few little shadows",
+   "pressure": "unknown",
+   "where": "behind here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:21",
+   "subject": "mist",
+   "action": "clean brush tap upward, soft distant base",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap, lift upward",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "far trees",
+   "action": "dark distant tree indications with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "mix dark colors, a little phthalo green",
+   "motion": "make indication of distant trees",
+   "pressure": "unknown",
+   "where": "far far away",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "mist",
+   "action": "light mist at top of the waterfall",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "very light color, tap bristles",
+   "motion": "tap, gently blend",
+   "pressure": "light",
+   "where": "up here on top of it",
+   "rule": "This area will be the waterfall.",
+   "new": ""
+  },
+  {
+   "t": "09:35",
+   "subject": "rock",
+   "action": "basic rock shape with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "van brown, little dark sienna, little crimson",
+   "motion": "basic shape of the rock",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "This will be hard to see because it is very dark.",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "rock",
+   "action": "shape rock with white, crimson and blue mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "a little white, little crimson, little blue",
+   "motion": "touch and begin shaping",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "rock",
+   "action": "skip and bounce dark sienna with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "tiny roll of dark sienna on knife",
+   "motion": "let it skip and bounce, barely touch",
+   "pressure": "whisper",
+   "where": "in the shape of the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "waterfall",
+   "action": "liquid clear and titanium white, waterfall stroke",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "dip 1in in liquid clear then titanium white",
+   "motion": "touch, let it run",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "This thins the paint and smooths it.",
+   "new": ""
+  },
+  {
+   "t": "13:22",
+   "subject": "waterfall",
+   "action": "softer lower waterfall, color up top",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "not a lot of color, let liquid clear slide",
+   "motion": "slide, shape and form",
+   "pressure": "unknown",
+   "where": "down in here",
+   "rule": "The color belongs here where light would strike.",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "rock",
+   "action": "big rock dark color: crimson, blue, white, marbled",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "pile up color on knife",
+   "motion": "drop in, do not over mix",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "This produces many effects automatically.",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "rock",
+   "action": "fan brush basic shapes for big rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "basic little shapes",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "rock",
+   "action": "knife skip and bounce for few highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "skip and bounce, barely touch",
+   "pressure": "whisper",
+   "where": "on the rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:18",
+   "subject": "rock",
+   "action": "Two-inch brush, light strokes following angles.",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "Light brush touch, following the angles.",
+   "pressure": "light",
+   "where": "create a big rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:55",
+   "subject": "rock",
+   "action": "knife lines of dark sienna, yellow ochre, lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "little dark sienna, little yellow ochre, lavender",
+   "motion": "barely touch, whisper",
+   "pressure": "unknown",
+   "where": "right along there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "bush",
+   "action": "sap green tip of 2in for small bush",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "sap green"
+   ],
+   "load": "tap a little color into the tip",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "The waterfall creates various small misty effects.",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "mist",
+   "action": "soft white mist tapped in at base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "large brush with a little white",
+   "motion": "tap in color, knock off excess, soften",
+   "pressure": "light",
+   "where": "bottom here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "water",
+   "action": "liquid clear with titanium white, water hits stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "find fan brush, touch of liquid clear into titanium white",
+   "motion": "water hits and comes out of mist",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "rock",
+   "action": "small highlight on stone with edge of knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white highlight on the stone",
+   "motion": "small edge of the knife, shape and texture",
+   "pressure": "unknown",
+   "where": "on top of the stone",
+   "rule": "A small highlight on the stone makes it stand out.",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "water",
+   "action": "bend brush upward for splashes at bottom",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bend the brush upward, push up",
+   "pressure": "unknown",
+   "where": "all down in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:26",
+   "subject": "leaf tree",
+   "action": "dark tree in front of mountain with corner of fan",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo green",
+    "phthalo blue",
+    "black"
+   ],
+   "load": "mix phthalo green, blue and black",
+   "motion": "come right on down, not a lot of branches",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "Leave an area open so it can be seen through.",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "rock",
+   "action": "cliffs and rocks on other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "mix a little brown, white, lavender",
+   "motion": "make big cliffs and rocks",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "rock",
+   "action": "knife tap with dark color, follow angles",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch, tap, follow the angles",
+   "pressure": "whisper",
+   "where": "right on down",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:59",
+   "subject": "rock",
+   "action": "big brush blends big rock barely touching",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "move the paint, blend",
+   "pressure": "whisper",
+   "where": "big rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "bush",
+   "action": "green and yellow bushes with top corner of 2in",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "green",
+    "yellow",
+    "titanium white"
+   ],
+   "load": "little green, little yellow, little white",
+   "motion": "tap down with top corner",
+   "pressure": "light",
+   "where": "back here on this side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:15",
+   "subject": "leaf tree",
+   "action": "green limbs with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "green"
+   ],
+   "load": "dirty fan brush with same green",
+   "motion": "put out a few little limbs",
+   "pressure": "unknown",
+   "where": "up there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "water",
+   "action": "liquid clear with titanium white, picks up dark sienna and indian yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white",
+    "dark sienna",
+    "indian yellow"
+   ],
+   "load": "liquid clear thins the paint, touch of dark sienna and indian yellow",
+   "motion": "let it ripple and float",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[03:12] Preserve this area; it is most important."
+ ]
+}

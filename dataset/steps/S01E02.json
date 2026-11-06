@@ -1,0 +1,551 @@
+{
+ "ep": "S01E02",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "Prussian blue",
+  "phthalo green",
+  "titanium white",
+  "permanent red",
+  "alizarin crimson",
+  "Van Dyke brown",
+  "brown",
+  "blue",
+  "sap green",
+  "CAD yellow",
+  "magic white",
+  "ochre",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "cloud",
+   "action": "dance in basic cloud shapes with Prussian blue and phthalo green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "Prussian blue, touch of phthalo green",
+   "motion": "let this brush dance and play",
+   "pressure": "light",
+   "where": "basic cloud shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:11",
+   "subject": "sky",
+   "action": "Swirl sky color with the large brush.",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "Use the large brush.",
+   "motion": "drag the color, shift it, drag again",
+   "pressure": "light",
+   "where": "everywhere",
+   "rule": "The sky should look lively and varied.",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "water",
+   "action": "pull water from outside in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "more Prussian blue and phthalo green",
+   "motion": "pull from the outside in",
+   "pressure": "light",
+   "where": "water, leave a little area open here",
+   "rule": "This creates a light sheen across the water surface.",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "cloud",
+   "action": "build clouds with fan, titanium white and permanent red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "faintest touch of permanent red",
+   "motion": "load the brush full of paint",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:26",
+   "subject": "cloud",
+   "action": "blend and fluff clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the big brush",
+   "motion": "gently, gently blend this together",
+   "pressure": "whisper",
+   "where": "this one",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:47",
+   "subject": "cloud",
+   "action": "warm red glow on cloud tops",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little bit more red",
+   "motion": "the sun's playing along the top",
+   "pressure": "light",
+   "where": "top of the clouds",
+   "rule": "Only a slight warm glow is needed on them.",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "mountain",
+   "action": "block in mountain colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "brown",
+    "blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "brown + blue + touch of alizarin crimson + white",
+   "motion": "let's do the basic shape here",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "mountain",
+   "action": "pull big brush down to clear excess paint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the big brush",
+   "motion": "pull that down",
+   "pressure": "light",
+   "where": "over the mountain",
+   "rule": "This removes excess paint so the next layer adheres better.",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "snow",
+   "action": "lay snow down mountain with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pull that paint out real flat, get a little roll of paint",
+   "motion": "apply and let it run downward",
+   "pressure": "light",
+   "where": "down the side of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:15",
+   "subject": "mountain",
+   "action": "lay shadows with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little Prussian blue and white",
+   "motion": "lay these in here",
+   "pressure": "light",
+   "where": "the shadow areas along the peak",
+   "rule": "Each highlight needs its own shadow.",
+   "new": ""
+  },
+  {
+   "t": "11:18",
+   "subject": "mountain",
+   "action": "tap bottom of mountain to diffuse",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "we're just tapping the canvas",
+   "pressure": "light",
+   "where": "bottom of the mountain only",
+   "rule": "This should be more defined at the top than at the bottom.",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "mountain",
+   "action": "darker mountain in front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "alizarin crimson"
+   ],
+   "load": "blue + brown + alizarin mixed in",
+   "motion": "make the same color darker",
+   "pressure": "light",
+   "where": "in front",
+   "rule": "This mountain is placed in the foreground.",
+   "new": ""
+  },
+  {
+   "t": "12:43",
+   "subject": "snow",
+   "action": "pull snow down with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush, drag out",
+   "motion": "let that run",
+   "pressure": "light",
+   "where": "Add snow at this spot.",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:39",
+   "subject": "mountain",
+   "action": "push shadow back into background",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push that one back into the distance, sweep across",
+   "pressure": "light",
+   "where": "through this one",
+   "rule": "This pushes the element into the background.",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "far trees",
+   "action": "dark far trees with 1in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "load up this one-inch brush",
+   "motion": "push in some little dark areas",
+   "pressure": "medium",
+   "where": "way back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "reflection",
+   "action": "pull dark color down for reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the big brush",
+   "motion": "drag some of this color downward",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "Continue downward from the mountain.",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "bush",
+   "action": "orange highlights on bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "Magic White + cadmium yellow",
+   "motion": "sweep back and forth to get an orange tone",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:50",
+   "subject": "reflection",
+   "action": "pull highlight reflection down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the big brush",
+   "motion": "the most delicate, delicate touch possible",
+   "pressure": "unknown",
+   "where": "whisper",
+   "rule": "Extend into the water.",
+   "new": "don't wanna destroy it."
+  },
+  {
+   "t": "16:27",
+   "subject": "evergreen",
+   "action": "tap little evergreen trees far back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix up a lot of dark, load the brush full",
+   "motion": "let's make some little evergreen trees",
+   "pressure": "light",
+   "where": "way back here in the distance",
+   "rule": "This area needs more contrast.",
+   "new": ""
+  },
+  {
+   "t": "18:03",
+   "subject": "water line",
+   "action": "sandy water line back here",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "brown",
+    "yellow"
+   ],
+   "load": "Magic White + brown + touch of yellow",
+   "motion": "lay in a little water line",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:35",
+   "subject": "trunk/limbs",
+   "action": "cut in trunks and sticks with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut in several thin trunks and sticks",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:37",
+   "subject": "leaf tree",
+   "action": "Place a large tree on the right side.",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "Place a large tree at this location.",
+   "pressure": "firm",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "reflection",
+   "action": "pull reflection down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull that down",
+   "pressure": "light",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:25",
+   "subject": "land",
+   "action": "lay land so bushes have a place to sit",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "we'll put some land out here",
+   "pressure": "light",
+   "where": "out here",
+   "rule": "Avoid letting them drop off into the river here.",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "water line",
+   "action": "straight magic white water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "just straight Magic White",
+   "motion": "Paint a waterline here.",
+   "pressure": "whisper",
+   "where": "in here",
+   "rule": "This allows adjusting the top layer without disturbing the layer below.",
+   "new": "thin paint, mostly magic white"
+  },
+  {
+   "t": "24:06",
+   "subject": "leaf tree",
+   "action": "highlight tree on right side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "blue",
+    "yellow"
+   ],
+   "load": "blue + yellow mixed to a fresh green",
+   "motion": "drop some highlights on this tree",
+   "pressure": "light",
+   "where": "right-hand side of this tree",
+   "rule": "Light comes from the right.",
+   "new": ""
+  },
+  {
+   "t": "25:03",
+   "subject": "bush",
+   "action": "highlights on bushes and trees with thin magic white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "more Magic White, thinned slightly",
+   "motion": "Begin adding small trees and bushes.",
+   "pressure": "light",
+   "where": "in here",
+   "rule": "Removing all dark areas makes the painting look flat.",
+   "new": ""
+  },
+  {
+   "t": "25:27",
+   "subject": "reflection",
+   "action": "reflect red into water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "touch of red on top",
+   "motion": "reflect that right on down",
+   "pressure": "light",
+   "where": "into the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:54",
+   "subject": "bush",
+   "action": "bushes with magic white and ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "ochre"
+   ],
+   "load": "more Magic White, ochre tone",
+   "motion": "let 'em flow off your brush",
+   "pressure": "light",
+   "where": "down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:25",
+   "subject": "land",
+   "action": "dirt with straight Van Dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "brown",
+    "titanium white"
+   ],
+   "load": "straight van dyke brown, little brown and white for highlight",
+   "motion": "shape as stones and rocks",
+   "pressure": "light",
+   "where": "along the land here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:58",
+   "subject": "trunk/limbs",
+   "action": "cut sticks in paint with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cut into the paint with the knife tip",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "This conveys depth and separates the different planes.",
+   "new": ""
+  },
+  {
+   "t": "27:21",
+   "subject": "water line",
+   "action": "magic white water line under",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "Magic White beneath this",
+   "motion": "give us a little water line",
+   "pressure": "light",
+   "where": "under here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:51",
+   "subject": "trunk/limbs",
+   "action": "a few more sticks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "a few more sticks",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

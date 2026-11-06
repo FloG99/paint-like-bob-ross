@@ -1,0 +1,442 @@
+{
+ "ep": "S28E07",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "bright red",
+  "cad yellow",
+  "titanium white",
+  "phthalo blue",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "cover canvas with yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:42",
+   "subject": "land",
+   "action": "blend brown up from bottom",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from crimson and green",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:56",
+   "subject": "other: canvas corners",
+   "action": "darken corners",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "dab in corners",
+   "pressure": "light",
+   "where": "corners",
+   "rule": "dark corners make the light area brighter",
+   "new": ""
+  },
+  {
+   "t": "04:09",
+   "subject": "bush",
+   "action": "pick out warm far bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "bright red",
+    "indian yellow",
+    "alizarin crimson"
+   ],
+   "load": "jump between yellows and red",
+   "motion": "tap individual shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "bush",
+   "action": "add sap green bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green"
+   ],
+   "load": "pick up sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "bush",
+   "action": "mix orange highlights",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "bright red",
+    "cad yellow"
+   ],
+   "load": "red with a little cad yellow",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "fall bushes",
+   "rule": "",
+   "new": "orange for fall foliage"
+  },
+  {
+   "t": "07:31",
+   "subject": "structure",
+   "action": "scrape barn shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape excess paint",
+   "pressure": "light",
+   "where": "middle back",
+   "rule": "",
+   "new": "old barn"
+  },
+  {
+   "t": "08:55",
+   "subject": "structure",
+   "action": "block barn front and side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from the mix",
+   "motion": "drop in blocks",
+   "pressure": "light",
+   "where": "barn front and side",
+   "rule": "",
+   "new": "shed on the side"
+  },
+  {
+   "t": "09:44",
+   "subject": "structure",
+   "action": "pull filbert for old boards",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "bright red"
+   ],
+   "load": "gob brown with a touch of red",
+   "motion": "pull down, barely touching",
+   "pressure": "light",
+   "where": "barn wall",
+   "rule": "barely touching lets paint drag and look like wood",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "structure",
+   "action": "bounce roof texture",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "yellow ochre",
+    "bright red",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "marbled colors, not overmixed",
+   "motion": "bounce",
+   "pressure": "light",
+   "where": "barn roofline",
+   "rule": "",
+   "new": "old roof"
+  },
+  {
+   "t": "12:49",
+   "subject": "structure",
+   "action": "divide boards with dark lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "little brown on knife",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "barn wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:14",
+   "subject": "structure",
+   "action": "cut barn outline",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut around the barn",
+   "pressure": "firm",
+   "where": "barn outline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:42",
+   "subject": "structure",
+   "action": "paint barn door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "drop in door",
+   "pressure": "medium",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:07",
+   "subject": "path",
+   "action": "lay path up to barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from the mix",
+   "motion": "lay path line",
+   "pressure": "light",
+   "where": "up to barn",
+   "rule": "gives the cow a way up to the barn",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "grass",
+   "action": "tap grassy areas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "brown first, then yellows and reds",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "grass",
+   "action": "brighten grass with liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "dip into liquid white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "liquid white brightens and thins the color",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "bush",
+   "action": "tap bushes around barn",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "reds and yellows with a little green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "around barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:12",
+   "subject": "path",
+   "action": "highlight path with brown and white",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown then white in a small roll",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "path",
+   "action": "graze path with blue for shadow",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "little blue",
+   "motion": "graze",
+   "pressure": "light",
+   "where": "path",
+   "rule": "graze suggests shadows",
+   "new": ""
+  },
+  {
+   "t": "17:04",
+   "subject": "bush",
+   "action": "tap little bushes around barn",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "around barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:19",
+   "subject": "trunk/limbs",
+   "action": "paint sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "between bushes",
+   "rule": "sticks show depth and distance",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "leaf tree",
+   "action": "paint small tree",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "lot of brown mix",
+   "motion": "comes straight down",
+   "pressure": "medium",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "leaf tree",
+   "action": "highlight tree edge",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white with brown",
+   "motion": "run around edge",
+   "pressure": "light",
+   "where": "tree edge",
+   "rule": "makes the tree stand out",
+   "new": ""
+  },
+  {
+   "t": "20:00",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "very thin, almost like ink",
+   "motion": "turn to fill, then draw",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "other: signature",
+   "action": "sign with bright red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red thinned with paint thinner",
+   "motion": "write name",
+   "pressure": "light",
+   "where": "bottom right",
+   "rule": "",
+   "new": "signature"
+  }
+ ],
+ "rules": [
+  "[01:19] liquid clear lets color slide on a dry canvas",
+  "[22:11] thick and thin areas together make contrast"
+ ]
+}

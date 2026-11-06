@@ -1,0 +1,432 @@
+{
+ "ep": "S30E04",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "midnight black",
+  "prussian blue",
+  "sap green",
+  "van dyke brown",
+  "alizarin crimson",
+  "bright red",
+  "yellow ochre",
+  "indian yellow",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:52",
+   "subject": "other: loose swirls",
+   "action": "dance white swirls",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little color on fan",
+   "motion": "spin and dance loose shapes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "loose work is forgiving so mistakes become accidents",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "other: swirl blend",
+   "action": "gently blend swirls",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "unknown",
+   "motion": "wind and blend gently",
+   "pressure": "light",
+   "where": "same area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:47",
+   "subject": "far trees",
+   "action": "tap far forest shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "a little of each, more crimson",
+   "motion": "tap basic shapes",
+   "pressure": "unknown",
+   "where": "up in here, back",
+   "rule": "far away so basic shapes are enough",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "far trees",
+   "action": "add white separators between tree layers",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on blue",
+   "motion": "tap indications",
+   "pressure": "light",
+   "where": "layers of far trees",
+   "rule": "a touch of white separates the layers",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "trunk/limbs",
+   "action": "knife trunk indications",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "white, sienna and a little van dyke",
+   "motion": "push in a few trunk marks",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "trunk/limbs",
+   "action": "blend trunks back lightly",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "barely touch and blend",
+   "pressure": "whisper",
+   "where": "trunk area",
+   "rule": "pushes trunks back to suggest hidden trunks",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "far trees",
+   "action": "tap dark background trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix with blue and green",
+   "motion": "tap into bristles then tap in",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "dark mix needs blue and green to read dark",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "leaf tree",
+   "action": "drop big dark trees with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "drop in with corner",
+   "pressure": "unknown",
+   "where": "middle of painting",
+   "rule": "dark background lets light color show later",
+   "new": ""
+  },
+  {
+   "t": "09:31",
+   "subject": "trunk/limbs",
+   "action": "fan trunks dark and light",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "one side dark, other light",
+   "motion": "one stroke per trunk",
+   "pressure": "unknown",
+   "where": "trunk spots, unspecified",
+   "rule": "light hits from one side, so keep dark side away",
+   "new": ""
+  },
+  {
+   "t": "10:38",
+   "subject": "leaf tree",
+   "action": "green tree color from yellows with black",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "dirty brush with yellow",
+   "motion": "push a ridge of paint on brush",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "red dulls green since they are opposite colors",
+   "new": ""
+  },
+  {
+   "t": "11:01",
+   "subject": "leaf tree",
+   "action": "pick out individual trees with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried on fan",
+   "motion": "tap with corner, load more",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "leaf tree",
+   "action": "drop in sap green trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "thinned a little",
+   "motion": "drop them in",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "thinned so it is slightly lighter than underneath",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "leaf tree",
+   "action": "more greenery on one side of tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "carried on fan",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "more on this side than the other",
+   "rule": "gives the tree a sense of roundness",
+   "new": ""
+  },
+  {
+   "t": "14:38",
+   "subject": "bush",
+   "action": "tap highlight bushes with liquid white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "liquid white thinned to lighten value",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "dark between bushes separates them, keep it dark",
+   "new": ""
+  },
+  {
+   "t": "17:03",
+   "subject": "land",
+   "action": "marbled land mix",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "marbled mix, cut a roll",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "path",
+   "action": "drag path with roll",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "carried on knife",
+   "motion": "pull a line",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "stays dark because it is deep in the woods",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "path",
+   "action": "light zing down the path",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "zing a line",
+   "pressure": "light",
+   "where": "down the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "bush",
+   "action": "pop bushes over the path",
+   "tool": "other: bush brush",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "a little indian yellow",
+   "motion": "pop in bush shapes",
+   "pressure": "unknown",
+   "where": "over the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:24",
+   "subject": "trunk/limbs",
+   "action": "thin twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thinned with thinner, sharp point",
+   "motion": "draw twigs",
+   "pressure": "light",
+   "where": "mostly in dark areas",
+   "rule": "sticks hold up the bushes",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "leaf tree",
+   "action": "big dark tree with midnight black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a lot of black",
+   "motion": "one long stroke",
+   "pressure": "unknown",
+   "where": "middle, big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:21",
+   "subject": "trunk/limbs",
+   "action": "barely touched white marbled line down tree side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "marbled white and blue on roll",
+   "motion": "barely touch and zip down",
+   "pressure": "whisper",
+   "where": "side of big tree",
+   "rule": "built-up paint dries like real bark",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "trunk/limbs",
+   "action": "black on front tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black mix",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "front of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "trunk/limbs",
+   "action": "thin dead limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned black",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:22",
+   "subject": "trunk/limbs",
+   "action": "highlight with light color and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "light mix on liner",
+   "motion": "unknown",
+   "pressure": "light",
+   "where": "up in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "bush",
+   "action": "bushes around the base",
+   "tool": "other: bush brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried on bush brush",
+   "motion": "tap in small bushes",
+   "pressure": "unknown",
+   "where": "around the base",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

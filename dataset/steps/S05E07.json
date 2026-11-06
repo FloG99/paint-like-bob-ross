@@ -1,0 +1,633 @@
+{
+ "ep": "S05E07",
+ "base": "phthalo blue; sap green",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "titanium white",
+  "magic white",
+  "cad yellow",
+  "Indian yellow",
+  "yellow ochre",
+  "van dyke brown",
+  "burnt umber",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:45",
+   "subject": "sun/glow",
+   "action": "X strokes light spot",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load bristles full",
+   "motion": "crisscross X strokes",
+   "pressure": "light",
+   "where": "spot near middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:33",
+   "subject": "sun/glow",
+   "action": "blend lightest spot outward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "add more white",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "lightest spot",
+   "rule": "lightest area so the rest gets darker",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "far trees",
+   "action": "background foliage touches",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "add paint thinner then load",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "background",
+   "rule": "mostly covered up later",
+   "new": ""
+  },
+  {
+   "t": "04:23",
+   "subject": "far trees",
+   "action": "corner dabs in far background",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "same brush",
+   "motion": "touch with corner",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:11",
+   "subject": "far trees",
+   "action": "tree trunk indications",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "mix on palette",
+   "motion": "drop small trunk marks",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "far things lose detail so keep it simple",
+   "new": ""
+  },
+  {
+   "t": "05:55",
+   "subject": "sun/glow",
+   "action": "highlight spots where light comes through",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load light touch",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:50",
+   "subject": "mountain",
+   "action": "soft hill of yellows and greens",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "tap and barely touch",
+   "pressure": "whisper",
+   "where": "middle background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "mountain",
+   "action": "yellows over blue green base turn green",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "tap and touch",
+   "pressure": "light",
+   "where": "background hills",
+   "rule": "yellow over the blue green base turns green",
+   "new": ""
+  },
+  {
+   "t": "08:32",
+   "subject": "water",
+   "action": "magic white stream line",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "load fan brush",
+   "motion": "push and drop stream",
+   "pressure": "light",
+   "where": "stream from upper area",
+   "rule": "magic white thins the paint so it flows",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "water",
+   "action": "rub water to pick up color",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "push up and rub",
+   "pressure": "light",
+   "where": "stream",
+   "rule": "water reflects colors around it so it is not pure white",
+   "new": ""
+  },
+  {
+   "t": "10:37",
+   "subject": "rock",
+   "action": "stone under water surge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "pull to make surge",
+   "pressure": "light",
+   "where": "water over stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:04",
+   "subject": "grass",
+   "action": "soft grassy areas down",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "same fan brush",
+   "motion": "tap and drop areas",
+   "pressure": "light",
+   "where": "near stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:31",
+   "subject": "water",
+   "action": "bright light spot on stream",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "add titanium white to stream color",
+   "motion": "tap light",
+   "pressure": "light",
+   "where": "stream spots",
+   "rule": "same color just a lighter value",
+   "new": ""
+  },
+  {
+   "t": "12:25",
+   "subject": "grass",
+   "action": "green yellow grass drops",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "load fan brush",
+   "motion": "drop areas in",
+   "pressure": "light",
+   "where": "near stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:15",
+   "subject": "water",
+   "action": "clean stream edges with white",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan brush",
+   "motion": "bend and tap",
+   "pressure": "light",
+   "where": "stream edges",
+   "rule": "try both sides of the fan brush",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "water",
+   "action": "dull front with brown",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "add brown on brush",
+   "motion": "tap to pick up color",
+   "pressure": "light",
+   "where": "front of painting",
+   "rule": "keeps front of painting dark",
+   "new": ""
+  },
+  {
+   "t": "14:27",
+   "subject": "water",
+   "action": "water foam strokes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "foam strokes",
+   "pressure": "light",
+   "where": "stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:56",
+   "subject": "water",
+   "action": "churning water keeping dark",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "let hand go",
+   "motion": "churn and push",
+   "pressure": "light",
+   "where": "stream",
+   "rule": "keeps dark in the water",
+   "new": ""
+  },
+  {
+   "t": "15:22",
+   "subject": "grass",
+   "action": "grassy areas run down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same big brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "over stream edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "land",
+   "action": "dark dirt at edges",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix on brush back and forth",
+   "motion": "dab dirt",
+   "pressure": "light",
+   "where": "edges of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "rock",
+   "action": "stone and dirt drop-in",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "load a lot",
+   "motion": "tap in stone",
+   "pressure": "light",
+   "where": "near stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:03",
+   "subject": "land",
+   "action": "dark dirt pushed back out of sight",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "push dark back",
+   "pressure": "light",
+   "where": "back of stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:28",
+   "subject": "rock",
+   "action": "yellow ochre highlight on stones",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "touch and graze top",
+   "motion": "whisper",
+   "pressure": "unknown",
+   "where": "pressure would mix into brown and lose highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:07",
+   "subject": "leaf tree",
+   "action": "dark brown big tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load a lot of brown",
+   "motion": "tap in tree shape",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:30",
+   "subject": "leaf tree",
+   "action": "add arm to tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "add arm",
+   "pressure": "light",
+   "where": "tree side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "leaf tree",
+   "action": "tree on other side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "shape and place tree",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:45",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "pull highlight",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "so the trunk stands out",
+   "new": ""
+  },
+  {
+   "t": "21:11",
+   "subject": "sun/glow",
+   "action": "light on trunks with quick strokes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan brush",
+   "motion": "quick strokes",
+   "pressure": "light",
+   "where": "back of trunks",
+   "rule": "suggests light coming through the trees",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "leaf tree",
+   "action": "dark sap green tree shapes",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load corner",
+   "motion": "basic shapes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:26",
+   "subject": "leaf tree",
+   "action": "yellow green highlights on dark",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "top of dark tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:53",
+   "subject": "leaf tree",
+   "action": "highlight with yellow ochre",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "add yellow ochre to base",
+   "motion": "drop in indications",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:16",
+   "subject": "trunk/limbs",
+   "action": "clean tree bases with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same big brush",
+   "motion": "clean up base",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:43",
+   "subject": "trunk/limbs",
+   "action": "brown and white highlight down side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "load fan brush",
+   "motion": "come down the side",
+   "pressure": "light",
+   "where": "side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "trunk/limbs",
+   "action": "branches off tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "pull branch",
+   "pressure": "light",
+   "where": "tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:30",
+   "subject": "leaf tree",
+   "action": "highlight branches",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "tap highlights on branches",
+   "pressure": "light",
+   "where": "branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "leaf tree",
+   "action": "red leaves on limb",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "touch small leaves",
+   "pressure": "whisper",
+   "where": "tree branch tips",
+   "rule": "keep red small so it does not get too bright",
+   "new": ""
+  },
+  {
+   "t": "25:21",
+   "subject": "other: signature",
+   "action": "sign with thin oil",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "load thin oil",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

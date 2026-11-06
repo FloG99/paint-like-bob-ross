@@ -1,0 +1,662 @@
+{
+ "ep": "S19E09",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "titanium white",
+  "alizarin crimson",
+  "dark sienna",
+  "van dyke brown",
+  "midnight black",
+  "phthalo green"
+ ],
+ "steps": [
+  {
+   "t": "00:47",
+   "subject": "sky",
+   "action": "sky band in cadmium yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "a little on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:11",
+   "subject": "sun/glow",
+   "action": "yellow ochre sun glow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "sun/glow",
+   "action": "bright red around the sun edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "edges of sun area",
+   "rule": "",
+   "new": "strong color"
+  },
+  {
+   "t": "02:24",
+   "subject": "sky",
+   "action": "blue-red sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "phthalo blue"
+   ],
+   "load": "red with a touch of blue on the brush",
+   "motion": "quick strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "sky",
+   "action": "blend sky smooth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blending across",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:06",
+   "subject": "sun/glow",
+   "action": "light halo around the sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "blending outward",
+   "pressure": "light",
+   "where": "around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "sun/glow",
+   "action": "round sun",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "drawing a circle",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "a round shape reads better",
+   "new": ""
+  },
+  {
+   "t": "04:56",
+   "subject": "cloud",
+   "action": "lavender clouds",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "crimson and blue mixed then lightened",
+   "motion": "tapping and dragging",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:42",
+   "subject": "cloud",
+   "action": "cloud placement",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "upper and lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:33",
+   "subject": "cloud",
+   "action": "stringy clouds",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling the brush",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:27",
+   "subject": "cloud",
+   "action": "blend clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "stirring and blending",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "cloud",
+   "action": "pull stringy clouds into shape",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:26",
+   "subject": "cloud",
+   "action": "light highlights on clouds",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little red",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "cloud tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:44",
+   "subject": "sky",
+   "action": "blend the clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blending outward",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:03",
+   "subject": "sky",
+   "action": "lavender for the lower canvas",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson-heavy mix",
+   "motion": "dragging down",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:49",
+   "subject": "sky",
+   "action": "lavender wash across the lower canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender on the brush",
+   "motion": "covering with broad strokes",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "tape keeps the horizon straight",
+   "new": ""
+  },
+  {
+   "t": "12:43",
+   "subject": "beach",
+   "action": "dark sienna beach at the bottom",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark sienna then van dyke brown",
+   "motion": "blending into lavender",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "ocean/wave",
+   "action": "sketch the major wave shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "sketching a basic shape",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:56",
+   "subject": "ocean/wave",
+   "action": "trough behind the wave",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "gentle sweeping motion",
+   "pressure": "light",
+   "where": "behind the wave",
+   "rule": "creates the trough between waves",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "ocean/wave",
+   "action": "scrub in wave eye",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with a tiny yellow",
+   "motion": "scrubbing",
+   "pressure": "medium",
+   "where": "wave eye",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:08",
+   "subject": "ocean/wave",
+   "action": "smooth the wave with a dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tip rotated to wind up",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "dry brush makes it smooth",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "ocean/wave",
+   "action": "shadow foam under the crest",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender and white on the brush",
+   "motion": "scrubbing in",
+   "pressure": "medium",
+   "where": "foam area",
+   "rule": "shadow shows where foam will curl",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "ocean/wave",
+   "action": "white sparkle behind the wave",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan brush",
+   "motion": "letting the wave crash over",
+   "pressure": "light",
+   "where": "behind the foam",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "ocean/wave",
+   "action": "highlights on foam",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "splashing in",
+   "pressure": "light",
+   "where": "top of the foam",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "ocean/wave",
+   "action": "blend foam together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "gentle blending",
+   "pressure": "light",
+   "where": "foam area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "ocean/wave",
+   "action": "foam patterns in the water",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white from the fan",
+   "motion": "short basic shapes",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "ocean/wave",
+   "action": "blend water flow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "soft blending",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:03",
+   "subject": "ocean/wave",
+   "action": "highlights along the wave top",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white with thinner",
+   "motion": "wiggling",
+   "pressure": "light",
+   "where": "top of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "ocean/wave",
+   "action": "little waves in the distance",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over",
+   "motion": "loops",
+   "pressure": "light",
+   "where": "distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:19",
+   "subject": "ocean/wave",
+   "action": "wave form details",
+   "tool": "other: slider brush",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "small doers",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "ocean/wave",
+   "action": "dark line under the wave",
+   "tool": "other: slider brush",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender slightly darker",
+   "motion": "dragging under",
+   "pressure": "light",
+   "where": "under the wave",
+   "rule": "dark line makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "22:15",
+   "subject": "beach",
+   "action": "flat sand with a small knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll of white on the small knife",
+   "motion": "pushing firmly",
+   "pressure": "firm",
+   "where": "beach area",
+   "rule": "must be flat or it will not look right",
+   "new": ""
+  },
+  {
+   "t": "22:44",
+   "subject": "beach",
+   "action": "pull sand back with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling back gently",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:10",
+   "subject": "beach",
+   "action": "wet reflection on sand",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling reflection down",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "ocean/wave",
+   "action": "small foamy details",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over",
+   "motion": "detail strokes",
+   "pressure": "light",
+   "where": "foam area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:36",
+   "subject": "rock",
+   "action": "stone base with thin light paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "thin paint on the knife",
+   "motion": "dragging across",
+   "pressure": "light",
+   "where": "beach near bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "rock",
+   "action": "dark stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "dark thinned paint",
+   "motion": "drawing the shape",
+   "pressure": "light",
+   "where": "beach near bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "rock",
+   "action": "light outline around stones",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin light paint",
+   "motion": "water mark",
+   "pressure": "light",
+   "where": "around stones",
+   "rule": "water usually floats around stones",
+   "new": ""
+  },
+  {
+   "t": "25:54",
+   "subject": "other: M bird",
+   "action": "M bird",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin black with thinner",
+   "motion": "small M shape",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:43",
+   "subject": "other: M bird",
+   "action": "one more M bird at the edge",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin black with thinner",
+   "motion": "small M shape",
+   "pressure": "light",
+   "where": "top edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:06",
+   "subject": "other: signature",
+   "action": "sign in red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on the brush",
+   "motion": "writing",
+   "pressure": "light",
+   "where": "lower rocks",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

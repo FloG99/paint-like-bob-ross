@@ -1,0 +1,562 @@
+{
+ "ep": "S18E07",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "alizarin crimson",
+  "dark sienna",
+  "titanium white",
+  "van dyke brown",
+  "midnight black",
+  "cad yellow",
+  "indian yellow",
+  "bright red",
+  "sap green",
+  "black gesso"
+ ],
+ "steps": [
+  {
+   "t": "01:10",
+   "subject": "sun/glow",
+   "action": "put yellow ochre into the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount",
+   "motion": "dab and let it blend into the white",
+   "pressure": "unknown",
+   "where": "light area at top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "sun/glow",
+   "action": "add a touch of crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least little amount",
+   "motion": "apply without cleaning the brush",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "Small amount keeps the glow from getting too bright.",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "sun/glow",
+   "action": "blend in dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "little",
+   "motion": "blend right in",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:46",
+   "subject": "sun/glow",
+   "action": "brighten the light area with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "quite a bit",
+   "motion": "blend outward from the dark edge",
+   "pressure": "light",
+   "where": "start against the dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "sun/glow",
+   "action": "add more white in repeated passes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more",
+   "motion": "blend back into the light area",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "Cleaning between passes keeps the glow from dulling.",
+   "new": ""
+  },
+  {
+   "t": "03:56",
+   "subject": "sun/glow",
+   "action": "pull light out lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "pull outward very lightly",
+   "pressure": "whisper",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:20",
+   "subject": "bush",
+   "action": "mix a subdued bush color on the brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "small amounts",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "Close to the sky color makes distant things recede.",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "bush",
+   "action": "push up with brush corner to lay distant bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "bush",
+   "action": "layer a darker mix for more distant bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "a little more",
+   "motion": "push upward in layers",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:14",
+   "subject": "bush",
+   "action": "tap and rub bushes with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "rub in an upstroke",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Pushing outward gives the nice little edges.",
+   "new": ""
+  },
+  {
+   "t": "06:41",
+   "subject": "bush",
+   "action": "darken bushes with van dyke brown",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:30",
+   "subject": "bush",
+   "action": "lighten the mix and add more bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "a lot",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "leaf tree",
+   "action": "paint a small tree with a friend",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "tap and drag upward",
+   "pressure": "medium",
+   "where": "middle back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs and twigs to the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "liner thinned with paint thinner until like ink",
+   "motion": "draw thin lines",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "far trees",
+   "action": "tap little leaf silhouettes in the far background",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "Keeps the soft misty sense of distance.",
+   "new": ""
+  },
+  {
+   "t": "10:08",
+   "subject": "far trees",
+   "action": "mix darker browns and crimson for silhouettes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:32",
+   "subject": "leaf tree",
+   "action": "block in big overhanging trees from the front",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "push brush into the paint",
+   "motion": "push and shape",
+   "pressure": "firm",
+   "where": "top area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:03",
+   "subject": "bush",
+   "action": "load yellows into the dark left on the brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "mixed with the dark on the brush",
+   "motion": "dab",
+   "pressure": "unknown",
+   "where": "back of the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "bush",
+   "action": "highlight the bushes with the yellows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top area",
+   "rule": "Too much highlight would erase the dark areas that make light work.",
+   "new": ""
+  },
+  {
+   "t": "13:38",
+   "subject": "water",
+   "action": "pull titanium white down for water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "drag and pull down",
+   "pressure": "light",
+   "where": "lower background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:33",
+   "subject": "reflection",
+   "action": "lightly flick across for water shimmer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "flick across lightly",
+   "pressure": "whisper",
+   "where": "reflection area",
+   "rule": "Gives the illusion of water reflections and shimmer.",
+   "new": ""
+  },
+  {
+   "t": "14:56",
+   "subject": "bush",
+   "action": "add bright red and indian yellow highlights",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "a little",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "middle bush area",
+   "rule": "Thinning with liquid white makes the bush brighter and pop out.",
+   "new": ""
+  },
+  {
+   "t": "15:45",
+   "subject": "leaf tree",
+   "action": "tap dark sienna and yellow ochre into the big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "tap corner",
+   "pressure": "light",
+   "where": "top right tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "trunk/limbs",
+   "action": "add a light touch to the trunk with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "dark paint already on knife",
+   "motion": "drag and tap",
+   "pressure": "light",
+   "where": "tree trunk",
+   "rule": "",
+   "new": "light color on knife not named"
+  },
+  {
+   "t": "17:01",
+   "subject": "bush",
+   "action": "add bushes at the bottom and leave dark gaps",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "small",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "Dark gaps in the bush give shadow.",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "land",
+   "action": "scrub in land with the fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "dark paint carried over",
+   "motion": "rub in",
+   "pressure": "light",
+   "where": "dark area",
+   "rule": "Leaving the dark along the edge makes a bank.",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "bush",
+   "action": "tap yellow mixes into the back bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "dark sienna",
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:31",
+   "subject": "land",
+   "action": "scrub in land under the trees with the fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "dark paint carried over",
+   "motion": "scrub",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:55",
+   "subject": "land",
+   "action": "add a sandbar with white and brown",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "gentle drag",
+   "pressure": "whisper",
+   "where": "sandbar area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:51",
+   "subject": "bush",
+   "action": "touch sap green into the grass and bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:41",
+   "subject": "leaf tree",
+   "action": "back and forth van dyke brown trees on the fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a lot",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "left trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "trunk/limbs",
+   "action": "add thinned brown limbs to the dead tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "dead tree area",
+   "rule": "dead trees belong to nature too",
+   "new": ""
+  },
+  {
+   "t": "25:09",
+   "subject": "bush",
+   "action": "highlight the trees with light brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "highlight areas",
+   "rule": "Canvas picks up dark paint and darkens the highlight.",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "bush",
+   "action": "tap light highlights where light would strike",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "where light would strike",
+   "rule": "Overdoing it loses its effect.",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

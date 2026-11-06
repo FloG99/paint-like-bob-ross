@@ -1,0 +1,472 @@
+{
+ "ep": "S04E05",
+ "base": "black acrylic",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "phthalo green",
+  "phthalo blue",
+  "burnt umber",
+  "van dyke brown",
+  "permanent red",
+  "cadmium yellow",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "01:19",
+   "subject": "cloud",
+   "action": "paint cloud shapes with white on fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "tight circles",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": "color shows much stronger on black canvas"
+  },
+  {
+   "t": "02:45",
+   "subject": "cloud",
+   "action": "blend the bottom of clouds lightly",
+   "tool": "other: 2.5in brush",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "cloud bottoms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:04",
+   "subject": "rock",
+   "action": "paint big stone with dark mix",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "lots of paint loaded both sides",
+   "motion": "bumps and wiggles",
+   "pressure": "unknown",
+   "where": "big stone in the water",
+   "rule": "",
+   "new": "transparent black mix"
+  },
+  {
+   "t": "08:05",
+   "subject": "evergreen",
+   "action": "paint small trees on the stone",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "touch and lift",
+   "pressure": "light",
+   "where": "on the big stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:36",
+   "subject": "rock",
+   "action": "highlight the stone with brown and gray",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a lot on the brush",
+   "motion": "barely touch and pull out",
+   "pressure": "light",
+   "where": "stone edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:25",
+   "subject": "rock",
+   "action": "pull dark strokes down to form rocks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "same brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "lower right",
+   "rule": "",
+   "new": "brushstrokes form the rocks"
+  },
+  {
+   "t": "10:24",
+   "subject": "mist",
+   "action": "tap a little mist between the two rocks",
+   "tool": "other: 2.5in brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "very little paint",
+   "motion": "tap then lift along the edges",
+   "pressure": "whisper",
+   "where": "between the rocks",
+   "rule": "a little mist separates the rocks",
+   "new": ""
+  },
+  {
+   "t": "11:11",
+   "subject": "water",
+   "action": "fill the water area with dark color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "",
+   "motion": "fill",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lower canvas",
+   "new": "transparent black can run over the water edge"
+  },
+  {
+   "t": "11:40",
+   "subject": "evergreen",
+   "action": "tap a dark tree back and forth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "same dark mix",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:40",
+   "subject": "evergreen",
+   "action": "drop in brown highlights on the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed gray and brown",
+   "motion": "sideways drops",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "rock",
+   "action": "make a big rock projection with dark mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "",
+   "motion": "boom boom taps",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "rock edge",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "rock",
+   "action": "highlight rock edges with thin red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "turn and touch",
+   "pressure": "light",
+   "where": "rock edges",
+   "rule": "it sets the stones off",
+   "new": ""
+  },
+  {
+   "t": "15:41",
+   "subject": "water",
+   "action": "scratch in a small water area with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a small amount",
+   "motion": "scratch straight",
+   "pressure": "light",
+   "where": "between the rocks",
+   "rule": "keeping it straight stops water running out of the picture",
+   "new": ""
+  },
+  {
+   "t": "16:53",
+   "subject": "ocean/wave",
+   "action": "push a white wave at the back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "loaded from palette",
+   "motion": "slide up then push to end",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "rock",
+   "action": "place a dark stone behind the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "same dark mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "behind the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "ocean/wave",
+   "action": "splash water over the stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "a tiny bit thinner",
+   "motion": "splash",
+   "pressure": "unknown",
+   "where": "over the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:11",
+   "subject": "ocean/wave",
+   "action": "short strokes for choppy water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "back of the water",
+   "rule": "",
+   "new": "gives the look of choppy water"
+  },
+  {
+   "t": "19:25",
+   "subject": "ocean/wave",
+   "action": "add blue curl to the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "loaded from palette",
+   "motion": "curl and splash",
+   "pressure": "light",
+   "where": "right side of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "ocean/wave",
+   "action": "add a hint of yellow in the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "tiniest bit",
+   "motion": "play in",
+   "pressure": "whisper",
+   "where": "in the wave",
+   "rule": "",
+   "new": "brown underneath stops the yellow from going green"
+  },
+  {
+   "t": "20:15",
+   "subject": "ocean/wave",
+   "action": "add white foam to the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "top of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:50",
+   "subject": "ocean/wave",
+   "action": "add blue into the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "loaded from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "ocean/wave",
+   "action": "add a dark line to separate the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "a little dark mix",
+   "motion": "draw line",
+   "pressure": "light",
+   "where": "under the wave",
+   "rule": "",
+   "new": "dark color separates the parts"
+  },
+  {
+   "t": "22:06",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down then lightly across",
+   "pressure": "light",
+   "where": "below rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "water line",
+   "action": "paint a flat water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull straight back",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:39",
+   "subject": "rock",
+   "action": "highlight small stones with brown and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little of each",
+   "motion": "drop highlights",
+   "pressure": "light",
+   "where": "on stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:05",
+   "subject": "ocean/wave",
+   "action": "add blue watery lines around the stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "around stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "ocean/wave",
+   "action": "drip blue watery lines over the rock",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "drip",
+   "pressure": "light",
+   "where": "over the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "ocean/wave",
+   "action": "add dark line under the foam edge",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "tiny bit",
+   "motion": "draw line",
+   "pressure": "light",
+   "where": "edge of the foam",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

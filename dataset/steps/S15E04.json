@@ -1,0 +1,708 @@
+{
+ "ep": "S15E04",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "phthalo blue",
+  "van dyke brown",
+  "burnt umber",
+  "titanium white",
+  "sap green",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "criss-cross strokes with indian yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "top background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sky",
+   "action": "alizarin crimson beaten into brush and blended over yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "beat into bristles",
+   "motion": "criss-cross",
+   "pressure": "light",
+   "where": "over the yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "sky",
+   "action": "tiny phthalo blue into crimson at the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny amount",
+   "motion": "criss-cross",
+   "pressure": "light",
+   "where": "top of sky",
+   "rule": "",
+   "new": "crimson keeps the yellow and blue from mixing green"
+  },
+  {
+   "t": "03:25",
+   "subject": "sky",
+   "action": "more crimson back and forth low",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "a little more",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "snow",
+   "action": "blue and crimson shadows laid into snow area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "pick up blue",
+   "motion": "lay in lightly",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:41",
+   "subject": "far trees",
+   "action": "mix van dyke brown and burnt umber for distant trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brush mix very little paint",
+   "motion": "tap with corner",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "other: horizon band",
+   "action": "darker band at horizon than sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap or brush",
+   "pressure": "light",
+   "where": "horizon",
+   "rule": "",
+   "new": "a darker horizon helps create distance"
+  },
+  {
+   "t": "06:20",
+   "subject": "far trees",
+   "action": "very distant basic tree shapes with yellow showing",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "soft shapes",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "other: horizon",
+   "action": "brush out horizon with brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "brush out",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "horizon line",
+   "new": ""
+  },
+  {
+   "t": "07:44",
+   "subject": "trunk/limbs",
+   "action": "small trunks and limbs with liner and thin oil",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "liner with thin oil and sharp point",
+   "motion": "pull lightly",
+   "pressure": "light",
+   "where": "back and upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:32",
+   "subject": "trunk/limbs",
+   "action": "touch indian yellow highlight on trunks",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiniest bit",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "over the trunks",
+   "rule": "",
+   "new": "tiny yellow keeps the trees soft"
+  },
+  {
+   "t": "09:20",
+   "subject": "trunk/limbs",
+   "action": "darker closer trunk",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "medium",
+   "where": "closer tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "trunk/limbs",
+   "action": "tiny limbs with van dyke brown barely touched",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "whisper",
+   "where": "light",
+   "rule": "scattered limbs",
+   "new": ""
+  },
+  {
+   "t": "10:38",
+   "subject": "snow",
+   "action": "fan with titanium white for snow at horizon line",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan with white",
+   "motion": "gentle strokes down",
+   "pressure": "light",
+   "where": "horizon line down through center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "snow",
+   "action": "brush-mixed blue and brown shadows in snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "brush mix a great deal",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "shadow spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "snow",
+   "action": "shadow blend along the lay of the land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blend on brush",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "snow shape along land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:18",
+   "subject": "snow",
+   "action": "blend white over top for contrast",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "blend",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "top of snow",
+   "new": "a touch of white gives contrast"
+  },
+  {
+   "t": "12:44",
+   "subject": "snow",
+   "action": "small crimson hint into snow for lavender shadows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least little amount",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "shadows in snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "water",
+   "action": "pull brush-mixed brown and blue straight down for water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue"
+   ],
+   "load": "tiny brush-mixed amount",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "wherever the water goes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:51",
+   "subject": "water",
+   "action": "go across lightly for water effect",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "go across lightly",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:51",
+   "subject": "land",
+   "action": "dirt along water edges with straight brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "dab edges",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "water edge",
+   "new": ""
+  },
+  {
+   "t": "15:44",
+   "subject": "snow",
+   "action": "pull titanium white down over the dirt and blend",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "blend",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "over the dirt",
+   "new": ""
+  },
+  {
+   "t": "16:11",
+   "subject": "water line",
+   "action": "cut magic white into canvas for water line",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "pull out flat and cut across",
+   "motion": "cut into canvas",
+   "pressure": "firm",
+   "where": "back edge of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "land",
+   "action": "land area laid in on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:25",
+   "subject": "land",
+   "action": "highlight land with titanium white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "graze top",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "top of land",
+   "new": ""
+  },
+  {
+   "t": "17:25",
+   "subject": "land",
+   "action": "bottom of next land area in brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "bottom of next area",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "water line",
+   "action": "little magic white water line with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "cut into canvas",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "water line",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "rock",
+   "action": "big stone in van dyke brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "stone area",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "snow",
+   "action": "snow down over the stone and top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull down over top",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "over the stone",
+   "new": "firm brown paint lets snow go over without mud"
+  },
+  {
+   "t": "19:04",
+   "subject": "evergreen",
+   "action": "big evergreen with blue brown and a little sap green",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "brush mix tiny sap green",
+   "motion": "back and forth",
+   "pressure": "medium",
+   "where": "right here",
+   "rule": "",
+   "new": "too much green would turn the snow green"
+  },
+  {
+   "t": "19:55",
+   "subject": "evergreen",
+   "action": "second small tree beside the first",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "push out",
+   "pressure": "light",
+   "where": "beside first tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:24",
+   "subject": "evergreen",
+   "action": "highlight trees with indian yellow blue and brown mix",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "tiny bits mixed",
+   "motion": "tap and let drop",
+   "pressure": "light",
+   "where": "highlight spots on trees",
+   "rule": "",
+   "new": "too much highlight loses the contrast"
+  },
+  {
+   "t": "21:32",
+   "subject": "bush",
+   "action": "bushes with burnt umber",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "base of trees",
+   "new": ""
+  },
+  {
+   "t": "22:01",
+   "subject": "bush",
+   "action": "frosty leaves over bushes with white and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin with magic white",
+   "motion": "touch push bend up",
+   "pressure": "light",
+   "where": "top of bushes",
+   "rule": "",
+   "new": "thin paint sticks to thick paint"
+  },
+  {
+   "t": "22:26",
+   "subject": "land",
+   "action": "bank of land with brown and blue shadow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue"
+   ],
+   "load": "pick up brown then blue",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:53",
+   "subject": "rock",
+   "action": "tiny brown stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tiny bit",
+   "motion": "bring over",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:17",
+   "subject": "leaf tree",
+   "action": "birch trees with knife brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "pull out flat",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "birch area",
+   "rule": "",
+   "new": "birch trees"
+  },
+  {
+   "t": "24:08",
+   "subject": "leaf tree",
+   "action": "bigger closer birch with knife brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop in fatter",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "right side closer",
+   "new": "a closer fatter birch adds depth"
+  },
+  {
+   "t": "24:31",
+   "subject": "trunk/limbs",
+   "action": "birch bark with knife and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch and pull",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "on birch trunks",
+   "new": ""
+  },
+  {
+   "t": "24:55",
+   "subject": "trunk/limbs",
+   "action": "tiny branch shapes with liner in thin oil",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "wherever",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "trunk/limbs",
+   "action": "edge touches with 2in brown and burnt umber",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "tiny bit",
+   "motion": "touch edges",
+   "pressure": "light",
+   "where": "edges of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:15",
+   "subject": "grass",
+   "action": "tiny weeds highlighted in light color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "weeds",
+   "new": ""
+  },
+  {
+   "t": "26:41",
+   "subject": "grass",
+   "action": "little weeds and sticks in burnt umber",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "around the base",
+   "new": "helps set everything out"
+  }
+ ],
+ "rules": []
+}

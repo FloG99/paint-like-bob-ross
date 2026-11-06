@@ -1,0 +1,900 @@
+{
+ "ep": "S03E09",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "prussian blue",
+  "van dyke brown",
+  "sap green",
+  "yellow",
+  "magic white",
+  "titanium white",
+  "yellow ochre",
+  "indian yellow",
+  "permanent red",
+  "umber"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sky",
+   "action": "lay in crimson at top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "small amount",
+   "motion": "dab in place",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:53",
+   "subject": "sky",
+   "action": "add blue at crimson edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "dab and bring to crimson",
+   "pressure": "unknown",
+   "where": "edges of crimson",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "sky",
+   "action": "blend out pinkish area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:38",
+   "subject": "far trees",
+   "action": "drop in distant tree marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "keeps them looking far away",
+   "new": ""
+  },
+  {
+   "t": "02:05",
+   "subject": "far trees",
+   "action": "drop in dark background trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "leave small marks in place",
+   "new": ""
+  },
+  {
+   "t": "02:29",
+   "subject": "leaf tree",
+   "action": "big background tree and small companions",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same mix",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "middle background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:02",
+   "subject": "trunk/limbs",
+   "action": "quick trunk and twigs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white side by side",
+   "motion": "quick stroke up",
+   "pressure": "unknown",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "leaf tree",
+   "action": "highlights on small trees",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "yellow ochre",
+    "magic white"
+   ],
+   "load": "magic white thins the greens",
+   "motion": "drop highlights",
+   "pressure": "light",
+   "where": "small trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:19",
+   "subject": "leaf tree",
+   "action": "leaves with sap green and yellow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "more paint on brush",
+   "motion": "let leaves flow off brush",
+   "pressure": "light",
+   "where": "side tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:43",
+   "subject": "leaf tree",
+   "action": "add indian yellow to leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "tree areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:05",
+   "subject": "bush",
+   "action": "small red bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:31",
+   "subject": "land",
+   "action": "dark banks and stream bed",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "back of stream",
+   "rule": "dark goes in first",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "land",
+   "action": "grayish highlight on banks",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop on",
+   "pressure": "unknown",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "grass",
+   "action": "grassy strokes down the bank",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "flick",
+   "pressure": "unknown",
+   "where": "down the bank",
+   "rule": "follows slope so land reads as sloping",
+   "new": ""
+  },
+  {
+   "t": "06:49",
+   "subject": "stream",
+   "action": "bubbling water along path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "magic white thins",
+   "motion": "drop in dabs",
+   "pressure": "light",
+   "where": "stream path",
+   "rule": "keeps it uneven so it looks natural",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "structure",
+   "action": "dark base for wheel",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "near stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:44",
+   "subject": "grass",
+   "action": "grassy areas on bank",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "unknown",
+   "motion": "flick",
+   "pressure": "unknown",
+   "where": "bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "structure",
+   "action": "scrape out wheel area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape off loose paint",
+   "pressure": "unknown",
+   "where": "wheel area",
+   "rule": "scraping removes loose paint and gives a guide",
+   "new": ""
+  },
+  {
+   "t": "08:39",
+   "subject": "structure",
+   "action": "tall building base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:37",
+   "subject": "structure",
+   "action": "long boards on building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in off knife",
+   "pressure": "unknown",
+   "where": "building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "structure",
+   "action": "reddish highlight on building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "umber",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed on knife",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "structure",
+   "action": "darker side of building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "touch and drag down",
+   "pressure": "light",
+   "where": "dark side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "structure",
+   "action": "lighter front of mill",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "white added",
+   "motion": "drop down",
+   "pressure": "light",
+   "where": "front of building",
+   "rule": "front faces the light so it is lighter",
+   "new": ""
+  },
+  {
+   "t": "11:45",
+   "subject": "structure",
+   "action": "dark boards on building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:09",
+   "subject": "structure",
+   "action": "small projection, dark fill",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "top of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "structure",
+   "action": "bright board edge",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "come across and cut down",
+   "pressure": "light",
+   "where": "building edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "structure",
+   "action": "scrape loose paint for wheel",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "wheel area",
+   "rule": "lets the inside of the wheel show through",
+   "new": ""
+  },
+  {
+   "t": "13:17",
+   "subject": "structure",
+   "action": "dark wheel base",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "touch and come around",
+   "pressure": "unknown",
+   "where": "wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "structure",
+   "action": "highlight wheel with thinned yellow ochre",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "paint thinner",
+   "motion": "work in",
+   "pressure": "unknown",
+   "where": "wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:12",
+   "subject": "structure",
+   "action": "pull highlight around wheel",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "unknown",
+   "motion": "pull around",
+   "pressure": "light",
+   "where": "wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:39",
+   "subject": "water line",
+   "action": "water on wheel from top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in water",
+   "pressure": "unknown",
+   "where": "top of wheel",
+   "rule": "water goes in one pass instead of between pegs",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "structure",
+   "action": "shaft and spokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "structure",
+   "action": "highlight outer spokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "outer spokes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "structure",
+   "action": "smooth wheel edges",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "smooth",
+   "pressure": "light",
+   "where": "wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "structure",
+   "action": "small projection with highlight",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "right of wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "structure",
+   "action": "boards holding shed, highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "right of wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "structure",
+   "action": "dark shadow under projection",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "projection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:07",
+   "subject": "land",
+   "action": "grassy areas on land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "flick",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "structure",
+   "action": "block holding wheel",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "under wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "rock",
+   "action": "stone base",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "under wheel",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:27",
+   "subject": "structure",
+   "action": "old brick indication",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed on knife",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "stone block",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "trunk/limbs",
+   "action": "tree trunk beside mill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "beside mill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:18",
+   "subject": "leaf tree",
+   "action": "dark leafy shapes on tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "mixed on brush",
+   "motion": "let flow around",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:45",
+   "subject": "leaf tree",
+   "action": "highlights on tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "thin paint",
+   "motion": "drop highlights",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "water",
+   "action": "dark under water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "dark makes water stand out",
+   "new": ""
+  },
+  {
+   "t": "21:56",
+   "subject": "water",
+   "action": "water falling off wheel",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white thins",
+   "motion": "dribble and fall",
+   "pressure": "light",
+   "where": "wheel to water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "land",
+   "action": "grassy areas to water edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:52",
+   "subject": "structure",
+   "action": "gate across stream",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "press and turn",
+   "pressure": "unknown",
+   "where": "stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:19",
+   "subject": "water",
+   "action": "water through gate",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "gate",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "land",
+   "action": "highlight on dirt ground",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "grass",
+   "action": "grassy things down the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "unknown",
+   "motion": "flow down",
+   "pressure": "unknown",
+   "where": "hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "land",
+   "action": "clean up edges with light paint",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "clean up",
+   "pressure": "unknown",
+   "where": "edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "bush",
+   "action": "thin bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

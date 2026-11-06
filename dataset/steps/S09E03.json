@@ -1,0 +1,564 @@
+{
+ "ep": "S09E03",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "midnight black",
+  "dark sienna",
+  "bright red",
+  "yellow ochre",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:15",
+   "subject": "sky",
+   "action": "bright light spot with fan brush, work upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of paint",
+   "motion": "work upward",
+   "pressure": "firm",
+   "where": "bright spot in sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:53",
+   "subject": "sky",
+   "action": "pick up crimson and blue for lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "pick up and drag",
+   "pressure": "firm",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:06",
+   "subject": "sky",
+   "action": "dance brush in lavender and light areas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dance and turn",
+   "pressure": "light",
+   "where": "around the light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:44",
+   "subject": "sky",
+   "action": "add white back into light area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "dance out",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "cloud",
+   "action": "add brighter cloud shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "bounce around",
+   "pressure": "light",
+   "where": "sky above light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "sky",
+   "action": "scrape off excess paint with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape gently",
+   "pressure": "whisper",
+   "where": "light area",
+   "rule": "scraping stops later blending from smearing a line",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "sky",
+   "action": "blend with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend gently",
+   "pressure": "light",
+   "where": "light area and sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "cloud",
+   "action": "add brighter distinct cloud",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "bounce",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "sky",
+   "action": "blend lightly with dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "mountain",
+   "action": "foothill with crimson and black",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch and drop",
+   "pressure": "light",
+   "where": "far back, where foothill lives",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "water",
+   "action": "reflect light into water with white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a tap",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "below land line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "water",
+   "action": "snap brush across water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "snap and pull",
+   "pressure": "firm",
+   "where": "across the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:54",
+   "subject": "water",
+   "action": "water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "a small roll",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:33",
+   "subject": "water",
+   "action": "sparkles on water, yellow under bright area",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow"
+   ],
+   "load": "a touch",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on water and under bright spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "other: tree",
+   "action": "dark tree corner strokes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "a big mixed pile",
+   "motion": "push down and work back and forth",
+   "pressure": "firm",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:39",
+   "subject": "other: tree",
+   "action": "second tree with corner strokes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap out",
+   "pressure": "light",
+   "where": "right of first tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "bush",
+   "action": "pull brush through paint in one direction for bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull one direction, bend bristles",
+   "pressure": "firm",
+   "where": "upper foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:47",
+   "subject": "trunk/limbs",
+   "action": "pull dark sienna trunks with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "a small roll",
+   "motion": "touch and pull out",
+   "pressure": "light",
+   "where": "foreground tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:04",
+   "subject": "trunk/limbs",
+   "action": "highlight trunks with brown, white and bright red",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "a small roll",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "lit side of trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:40",
+   "subject": "bush",
+   "action": "dark red highlights with sharp edge",
+   "tool": "2in",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "mixed dark red",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "highlight areas on trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "other: tree",
+   "action": "left side of trees lit and darker toward bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "darker toward bottom",
+   "pressure": "light",
+   "where": "left side of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:54",
+   "subject": "other: tree",
+   "action": "highlight right side of small tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "right side of small tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "bush",
+   "action": "pull 1in brush through red and yellow for bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "a little paint thinner",
+   "motion": "pull to curve",
+   "pressure": "light",
+   "where": "individual bushes in middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "structure",
+   "action": "block in cabin with brown",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "block in",
+   "pressure": "light",
+   "where": "middle right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "structure",
+   "action": "highlight cabin roof with brown and white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:05",
+   "subject": "structure",
+   "action": "bright red edge along roof line",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little bit",
+   "motion": "bounce down roof line",
+   "pressure": "light",
+   "where": "roof line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "structure",
+   "action": "sparkle roof with white and red",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "sparkle",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "structure",
+   "action": "cut in door and boards",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little",
+   "motion": "cut in",
+   "pressure": "light",
+   "where": "cabin door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "path",
+   "action": "path to cabin with brown and dark sienna",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "make path",
+   "pressure": "light",
+   "where": "from cabin door outward",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:20",
+   "subject": "path",
+   "action": "graze highlight on path with brown and white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "graze",
+   "pressure": "whisper",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:20",
+   "subject": "bush",
+   "action": "bushes behind cabin, red and yellow ochre",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "behind cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:58",
+   "subject": "bush",
+   "action": "bush in front of cabin pushed back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "push upward sideways",
+   "pressure": "light",
+   "where": "in front of cabin over the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "among the bushes",
+   "rule": "scraping adds depth",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "other: signature",
+   "action": "sign with liquid clear and bright red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "liquid clear",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "a corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

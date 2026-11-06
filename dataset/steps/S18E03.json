@@ -1,0 +1,600 @@
+{
+ "ep": "S18E03",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "phthalo blue",
+  "prussian blue",
+  "alizarin crimson",
+  "dark sienna",
+  "midnight black"
+ ],
+ "steps": [
+  {
+   "t": "00:40",
+   "subject": "cloud",
+   "action": "paint cloud dabs",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on brush",
+   "motion": "keep brush moving bounce around",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:32",
+   "subject": "sky",
+   "action": "blend sky",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush blend",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:48",
+   "subject": "mountain",
+   "action": "mix mountain color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "roll paint on knife edge",
+   "motion": "pull flat and cut across",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "mountain",
+   "action": "lay out mountain top edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "same knife roll",
+   "motion": "lay edge",
+   "pressure": "light",
+   "where": "top shape of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "mountain",
+   "action": "scrape off excess",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "mountain",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "mountain",
+   "action": "brush out excess",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brush",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "mountain",
+   "new": ""
+  },
+  {
+   "t": "06:18",
+   "subject": "mountain",
+   "action": "mix light mountain color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix on pallet",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "light from left so pick left side"
+  },
+  {
+   "t": "06:56",
+   "subject": "mountain",
+   "action": "lay ridge down",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same knife roll",
+   "motion": "let knife float",
+   "pressure": "whisper",
+   "where": "ridge down the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:34",
+   "subject": "mountain",
+   "action": "graze light edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same knife roll",
+   "motion": "graze and slide",
+   "pressure": "whisper",
+   "where": "top of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:50",
+   "subject": "mountain",
+   "action": "lavender shadow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "mix dark lavender",
+   "motion": "pull flat",
+   "pressure": "light",
+   "where": "shadow side",
+   "rule": "shadow must be dark to read as shadow",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "mountain",
+   "action": "add few highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light mix on knife",
+   "motion": "lift and place",
+   "pressure": "light",
+   "where": "individual spots on mountain",
+   "rule": "too many highlights get too bright",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "snow",
+   "action": "add cool snow highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "pull flat and touch",
+   "pressure": "light",
+   "where": "mountain upper edge",
+   "rule": "blue gives cold feeling",
+   "new": ""
+  },
+  {
+   "t": "10:43",
+   "subject": "snow",
+   "action": "lay snow bend around",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "same knife roll",
+   "motion": "bend and float",
+   "pressure": "light",
+   "where": "upper slope",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:00",
+   "subject": "mountain",
+   "action": "dark recessed shadows",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on knife",
+   "motion": "pull in and blend",
+   "pressure": "light",
+   "where": "recessed areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:38",
+   "subject": "mist",
+   "action": "tap mist at base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least little touch on brush",
+   "motion": "tiny circles and taps",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:35",
+   "subject": "far trees",
+   "action": "mix distant tree color",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix gray on fan brush",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "far trees",
+   "action": "add distant trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same fan brush",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "misty area back in mountain",
+   "rule": "mist makes trees stand out",
+   "new": ""
+  },
+  {
+   "t": "15:52",
+   "subject": "far trees",
+   "action": "lift tree trunks",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "pick up light paint",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "lift makes many far trunks quickly",
+   "new": ""
+  },
+  {
+   "t": "16:29",
+   "subject": "evergreen",
+   "action": "mix tones of blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mix lighter and darker values",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:09",
+   "subject": "evergreen",
+   "action": "push evergreen trees up",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "load blue with light color",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "middle ground trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "mist",
+   "action": "tap mist at base of trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap firmly",
+   "pressure": "firm",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:28",
+   "subject": "snow",
+   "action": "pull snow down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:07",
+   "subject": "water",
+   "action": "pull river straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "river area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:07",
+   "subject": "reflection",
+   "action": "blend reflection across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "water area",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "evergreen",
+   "action": "mix dark evergreen color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix blue with white",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "dulls the color"
+  },
+  {
+   "t": "20:20",
+   "subject": "evergreen",
+   "action": "push evergreen trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "same brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "big evergreen area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:59",
+   "subject": "land",
+   "action": "lay peninsula into water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch and caress",
+   "pressure": "whisper",
+   "where": "peninsula area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:37",
+   "subject": "structure",
+   "action": "scrape out cabin shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "cabin area",
+   "new": "scraping lays out cabin and removes excess paint"
+  },
+  {
+   "t": "22:18",
+   "subject": "structure",
+   "action": "block in cabin brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll on knife edge",
+   "motion": "drop in color",
+   "pressure": "light",
+   "where": "cabin area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:18",
+   "subject": "structure",
+   "action": "add roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "top of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "structure",
+   "action": "add door and boards",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "color on knife edge",
+   "motion": "cut through",
+   "pressure": "firm",
+   "where": "door area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "path",
+   "action": "add snow and path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mix",
+   "motion": "indicate path",
+   "pressure": "light",
+   "where": "snow at bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "leaf tree",
+   "action": "paint big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark color on brush",
+   "motion": "little upward pushes",
+   "pressure": "light",
+   "where": "left side tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:30",
+   "subject": "leaf tree",
+   "action": "add highlights to big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "touch white and blue",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "few highlights on big tree",
+   "rule": "keep tree dark so highlights stand out",
+   "new": ""
+  },
+  {
+   "t": "26:49",
+   "subject": "other: texture",
+   "action": "rough texture with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "jiggle and wiggle brush",
+   "pressure": "light",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

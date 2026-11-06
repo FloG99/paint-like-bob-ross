@@ -1,0 +1,540 @@
+{
+ "ep": "S31E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "Prussian blue",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "liquid white",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:29",
+   "subject": "sky",
+   "action": "dark blue-black sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mix on brush",
+   "motion": "pop in sky",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "pink warmth into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "touch of crimson to brush",
+   "motion": "dab and blend",
+   "pressure": "light",
+   "where": "sky lower area",
+   "rule": "leaves open spots so the sky feels alive",
+   "new": ""
+  },
+  {
+   "t": "01:43",
+   "subject": "sky",
+   "action": "blend pink edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "blend lightly",
+   "pressure": "light",
+   "where": "edge of pink",
+   "rule": "avoids a flat dead sky",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "other: lower area",
+   "action": "fill lower area with leftover color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "leftover paint",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "unused paint becomes a shadow",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "far trees",
+   "action": "mix drab blue-gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mix on palette",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "far trees",
+   "action": "push up distant trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "load full of color",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "background",
+   "rule": "keep color close to canvas so trees sit back",
+   "new": ""
+  },
+  {
+   "t": "06:08",
+   "subject": "mist",
+   "action": "tap mist at tree base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "tap into bristles",
+   "motion": "tap softly",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "gives cold misty winter feel",
+   "new": ""
+  },
+  {
+   "t": "06:40",
+   "subject": "snow",
+   "action": "paint snow with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load full of white",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:28",
+   "subject": "structure",
+   "action": "scrape out barn shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape basic shape",
+   "pressure": "light",
+   "where": "barn area",
+   "rule": "shape is easy to change later",
+   "new": ""
+  },
+  {
+   "t": "08:40",
+   "subject": "structure",
+   "action": "block in dark barn color",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "load a roll from palette",
+   "motion": "block in with bloops",
+   "pressure": "light",
+   "where": "barn outline",
+   "rule": "dark block now, trim the bottom later",
+   "new": ""
+  },
+  {
+   "t": "09:54",
+   "subject": "structure",
+   "action": "barn wood highlights",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "cut roll from palette",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "barn walls",
+   "rule": "warm tone for the wood",
+   "new": ""
+  },
+  {
+   "t": "10:49",
+   "subject": "structure",
+   "action": "darken one barn side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load from palette",
+   "motion": "darken side",
+   "pressure": "light",
+   "where": "shaded side of barn",
+   "rule": "less light hits this side",
+   "new": ""
+  },
+  {
+   "t": "11:21",
+   "subject": "structure",
+   "action": "board lines on barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load from palette",
+   "motion": "indicate slabs",
+   "pressure": "light",
+   "where": "barn walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "structure",
+   "action": "roof snow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load on knife",
+   "motion": "outline then pull down",
+   "pressure": "light",
+   "where": "barn roof",
+   "rule": "outline first for a straight edge",
+   "new": ""
+  },
+  {
+   "t": "12:30",
+   "subject": "structure",
+   "action": "more roof snow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load on knife",
+   "motion": "outline then pull",
+   "pressure": "light",
+   "where": "barn roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "structure",
+   "action": "door opening",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load on knife",
+   "motion": "swoosh",
+   "pressure": "light",
+   "where": "barn front",
+   "rule": "barn needs a way in",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "structure",
+   "action": "cut off barn bottom",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "bottom of barn",
+   "rule": "trim bottom to fit the barn",
+   "new": ""
+  },
+  {
+   "t": "14:09",
+   "subject": "snow",
+   "action": "snow plane and snow at base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "snow on brush",
+   "motion": "swish snow",
+   "pressure": "light",
+   "where": "around barn base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "evergreen",
+   "action": "mix dark tree color and thin",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "add paint thinner",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "thin paint only when it will not pull",
+   "new": ""
+  },
+  {
+   "t": "15:47",
+   "subject": "evergreen",
+   "action": "small tree beside barn",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "tap then pull shape",
+   "pressure": "light",
+   "where": "right side of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "evergreen",
+   "action": "big evergreen on other side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "pull shape",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:01",
+   "subject": "path",
+   "action": "grey path",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "load gray from earlier",
+   "motion": "swoosh path out",
+   "pressure": "light",
+   "where": "middle to right edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:50",
+   "subject": "evergreen",
+   "action": "highlight evergreens with blue",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "load mix on fan brush",
+   "motion": "touch highlights",
+   "pressure": "light",
+   "where": "evergreen tops",
+   "rule": "phthalo blue stands out against darker trees",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "evergreen",
+   "action": "highlight foreground small tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "same brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "small tree in front",
+   "rule": "paint the back tree first",
+   "new": ""
+  },
+  {
+   "t": "19:01",
+   "subject": "other: blend highlight",
+   "action": "let white pick up color",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load",
+   "motion": "touch and blend",
+   "pressure": "light",
+   "where": "blue highlights",
+   "rule": "lets color mix in for variety",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "land",
+   "action": "pull dark color for small hill",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "pull dark color",
+   "motion": "pull up to make hill",
+   "pressure": "light",
+   "where": "hill near tree",
+   "rule": "pulling color creates a sense of height",
+   "new": ""
+  },
+  {
+   "t": "20:13",
+   "subject": "path",
+   "action": "polish path edges",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "path edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "bush",
+   "action": "weeds and bushes along path",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "lift up",
+   "pressure": "light",
+   "where": "along path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:03",
+   "subject": "leaf tree",
+   "action": "dark bravery tree shapes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "load full",
+   "motion": "swoosh shape",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:57",
+   "subject": "trunk/limbs",
+   "action": "bare limbs",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load thinned with paint thinner",
+   "motion": "pull limbs",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "too cold for leaves so limbs are bare",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "trunk/limbs",
+   "action": "twigs and sticks over here",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "pull twig lines",
+   "pressure": "light",
+   "where": "near ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:28",
+   "subject": "other: signature",
+   "action": "sign with red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "load from palette",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

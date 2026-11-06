@@ -1,0 +1,591 @@
+{
+ "ep": "S02E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "along the peak",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "titanium white",
+  "alizarin crimson",
+  "prussian blue",
+  "van dyke brown",
+  "burnt umber",
+  "sap green",
+  "cadmium yellow",
+  "yellow ochre",
+  "indian yellow",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "02:42",
+   "subject": "other: base coat",
+   "action": "coat canvas with liquid white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "dip brush in liquid white",
+   "motion": "cover canvas with a thin coat",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "liquid white makes the canvas wet so paint blends",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "sky",
+   "action": "crisscross sky at top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "beat small amount into bristles",
+   "motion": "crisscross X strokes across top then blend",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:38",
+   "subject": "cloud",
+   "action": "white fluffy clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan full of white",
+   "motion": "tiny circles with push then move away",
+   "pressure": "firm",
+   "where": "upper sky where clouds float",
+   "rule": "keep moving or it becomes a cotton ball",
+   "new": ""
+  },
+  {
+   "t": "06:28",
+   "subject": "cloud",
+   "action": "blend cloud bottoms",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean big brush",
+   "motion": "gently blend bottoms with tiny circles",
+   "pressure": "whisper",
+   "where": "bottom of the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "mountain",
+   "action": "push mountain outline with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix blue brown and a little crimson",
+   "motion": "push knife into canvas",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:08",
+   "subject": "mountain",
+   "action": "pull brush down to soften mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same large brush",
+   "motion": "pull down the mountain shape",
+   "pressure": "light",
+   "where": "mountain body",
+   "rule": "bottom has mist that diffuses light so top stays distinct",
+   "new": ""
+  },
+  {
+   "t": "08:54",
+   "subject": "snow",
+   "action": "snow paint running down the peak",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load knife with white",
+   "motion": "let paint break down the peak",
+   "pressure": "light",
+   "where": "top of the mountain peak",
+   "rule": "breaking paint makes rocks highlights and shadows",
+   "new": ""
+  },
+  {
+   "t": "09:16",
+   "subject": "snow",
+   "action": "highlight along the peak",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of white on knife",
+   "motion": "light touch along peak and back in",
+   "pressure": "light",
+   "where": "along the peak",
+   "rule": "light hits the peak",
+   "new": ""
+  },
+  {
+   "t": "09:16",
+   "subject": "mountain",
+   "action": "shadow strokes across peak",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "add a little blue to white",
+   "motion": "run shadows across the peak",
+   "pressure": "light",
+   "where": "peak shadow areas",
+   "rule": "shadows run opposite to the highlight",
+   "new": ""
+  },
+  {
+   "t": "10:30",
+   "subject": "mountain",
+   "action": "small peak highlight then shadow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "highlight first then shadow",
+   "motion": "lay a small peak",
+   "pressure": "light",
+   "where": "middle of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "mist",
+   "action": "tap mountain bottom to diffuse",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "large brush",
+   "motion": "tap bottom then lift upward flat",
+   "pressure": "whisper",
+   "where": "bottom of the mountain",
+   "rule": "tapping diffuses without destroying the mountain",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "land",
+   "action": "sap green band at mountain base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load large brush full of sap green",
+   "motion": "touch and push into the canvas",
+   "pressure": "firm",
+   "where": "along the base of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:31",
+   "subject": "land",
+   "action": "darken the front band",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "touch a tiny bit of blue into brush",
+   "motion": "darken the front strip",
+   "pressure": "light",
+   "where": "front of the green band",
+   "rule": "closer things get darker in value",
+   "new": ""
+  },
+  {
+   "t": "13:31",
+   "subject": "evergreen",
+   "action": "evergreen strokes in dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "mix three colors in equal parts",
+   "motion": "turn brush sideways and build tree",
+   "pressure": "light",
+   "where": "back in front of the mountain",
+   "rule": "",
+   "new": "mix should look black on the palette"
+  },
+  {
+   "t": "14:44",
+   "subject": "far trees",
+   "action": "touch for tree indications",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "just touch and let them drop",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:09",
+   "subject": "other: dark accents",
+   "action": "add dark for contrast",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "same fan brush with dark mix",
+   "motion": "dab extra dark in the back",
+   "pressure": "light",
+   "where": "back of the evergreens",
+   "rule": "dark is required to make light visible",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "bush",
+   "action": "bushes down the hill with thinned paint",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "load fan with liquid white medium added",
+   "motion": "let bushes progress down the hill",
+   "pressure": "light",
+   "where": "down the hill in the back",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "16:21",
+   "subject": "trunk/limbs",
+   "action": "knife-scratched small trunks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "knife point",
+   "motion": "scratch a few small trunks",
+   "pressure": "light",
+   "where": "back among the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "evergreen",
+   "action": "bigger evergreen tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "fan with dark evergreen mix",
+   "motion": "drop tree in and let it fall",
+   "pressure": "light",
+   "where": "forward of the back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:08",
+   "subject": "evergreen",
+   "action": "bigger evergreen on other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "drop an big tree in",
+   "pressure": "light",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:33",
+   "subject": "leaf tree",
+   "action": "leafy trees pushed off brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "load 1in with the same color",
+   "motion": "push off brush and bend bristles",
+   "pressure": "medium",
+   "where": "over here by the trees",
+   "rule": "bending bristles gives the leafy action",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "trunk/limbs",
+   "action": "trunks for evergreens",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "load 1in with burnt umber",
+   "motion": "lay small trunks",
+   "pressure": "light",
+   "where": "scattered among the evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "trunk/limbs",
+   "action": "scratch indications through paint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "knife point",
+   "motion": "scratch through the paint",
+   "pressure": "light",
+   "where": "in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:48",
+   "subject": "other: highlights",
+   "action": "bright fall highlights on trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinned bright color mix",
+   "motion": "dab highlights here and there",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": "bright fall colors"
+  },
+  {
+   "t": "19:18",
+   "subject": "bush",
+   "action": "bushes along the bottom",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over mix",
+   "motion": "dab bushes across the bottom",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "killing dark areas makes the painting flat",
+   "new": ""
+  },
+  {
+   "t": "20:09",
+   "subject": "trunk/limbs",
+   "action": "cut twigs and sticks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "scratch twigs",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "sticks add depth by showing planes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "water",
+   "action": "pull down a small pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "add prussian blue to deepen",
+   "motion": "pull brush down across",
+   "pressure": "light",
+   "where": "mid canvas pond spot",
+   "rule": "deeper blue gives the trout room to live",
+   "new": ""
+  },
+  {
+   "t": "21:08",
+   "subject": "water line",
+   "action": "tiny white waterline in pond",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "tiny bit of liquid white on knife",
+   "motion": "scratch a waterline across",
+   "pressure": "light",
+   "where": "edge of the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:36",
+   "subject": "bush",
+   "action": "put back bushes on each side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "knife with carried paint",
+   "motion": "reapply bush shapes on each side",
+   "pressure": "light",
+   "where": "each side of the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:01",
+   "subject": "land",
+   "action": "thin brown bank",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix tiny brown and umber into liquid white",
+   "motion": "pull down a bank shape",
+   "pressure": "light",
+   "where": "bank by the pond",
+   "rule": "gives bushes and trees ground to sit on",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "land",
+   "action": "highlight bank with white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch white onto the knife",
+   "motion": "very gentle touch along the bank top",
+   "pressure": "whisper",
+   "where": "top edge of bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "water line",
+   "action": "waterline under the bank",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "liquid white on knife",
+   "motion": "scratch waterline under the bank",
+   "pressure": "light",
+   "where": "under the bank",
+   "rule": "separates the bank from the water",
+   "new": ""
+  },
+  {
+   "t": "23:15",
+   "subject": "grass",
+   "action": "grassy bits worked down the bank",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "carried knife paint",
+   "motion": "dab small grassy bits",
+   "pressure": "light",
+   "where": "along the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:38",
+   "subject": "land",
+   "action": "dark plane behind bank",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush back into dark color",
+   "motion": "push dark in firmly",
+   "pressure": "firm",
+   "where": "back of the bank",
+   "rule": "need the dark to show the light",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "grass",
+   "action": "highlight grassy areas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "permanent red"
+   ],
+   "load": "mix yellow ochre with cadmium yellow then red",
+   "motion": "let grassy strokes flow with the land",
+   "pressure": "light",
+   "where": "down the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:28",
+   "subject": "trunk/limbs",
+   "action": "cut a few sticks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "knife point",
+   "motion": "cut a few sticks here and there",
+   "pressure": "light",
+   "where": "scattered in the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:54",
+   "subject": "other: signature",
+   "action": "sign the painting with thin paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "liner dipped in thin oil",
+   "motion": "touch and let thin paint flow off",
+   "pressure": "light",
+   "where": "signature spot on canvas",
+   "rule": "very thin paint flows right on top",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[24:54] stop before adding more detail so it does not get overworked"
+ ]
+}

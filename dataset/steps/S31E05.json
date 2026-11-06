@@ -1,0 +1,558 @@
+{
+ "ep": "S31E05",
+ "base": "gray gesso",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "liquid white",
+  "van dyke brown",
+  "dark sienna",
+  "prussian blue",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "01:27",
+   "subject": "sky",
+   "action": "sponge in pale blue-white wash",
+   "tool": "sponge",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "small amount of white with a touch of blue",
+   "motion": "tap with sponge",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "natural sponge gives irregular texture and man-made looks too uniform",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "sun/glow",
+   "action": "add pinkish glow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white with a little crimson",
+   "motion": "let glow spread",
+   "pressure": "light",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "far trees",
+   "action": "highlight tree tops in background",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "tiny ridge of crimson and white",
+   "motion": "tap with brush corner",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "too much color shows so use very little",
+   "new": ""
+  },
+  {
+   "t": "04:22",
+   "subject": "bush",
+   "action": "pick out a few background bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "same mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "background bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "leaf tree",
+   "action": "block in dark tree edges",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mostly crimson with some blue",
+   "motion": "tap and push edges",
+   "pressure": "light",
+   "where": "upper dark tree edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:50",
+   "subject": "far trees",
+   "action": "drop in small tree marks with thinned mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "crimson and white thinned with liquid white",
+   "motion": "dab in marks",
+   "pressure": "light",
+   "where": "small tree area",
+   "rule": "liquid white thins the color so it sticks",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "trunk/limbs",
+   "action": "paint thin tree trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna thinned on liner",
+   "motion": "make thin marks",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "viewer fills in missing detail so indications are enough",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "snow",
+   "action": "pull snow with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "fan brush full of white",
+   "motion": "drag and pick up gesso color",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "gesso underneath makes shadows automatically",
+   "new": ""
+  },
+  {
+   "t": "11:41",
+   "subject": "snow",
+   "action": "drop blue shadow into snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "touch of blue on fan",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:05",
+   "subject": "water",
+   "action": "pull a light water band",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white on two-inch with blue",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "below snow bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:47",
+   "subject": "structure",
+   "action": "block in cabin walls",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "flat roll of brown on knife edge",
+   "motion": "block in",
+   "pressure": "unknown",
+   "where": "cabin back wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:33",
+   "subject": "structure",
+   "action": "graze marbled white and sienna boards",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and sienna mixed loosely on knife",
+   "motion": "graze across",
+   "pressure": "light",
+   "where": "cabin walls",
+   "rule": "marbled streaks make the boards look like old wood",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "snow",
+   "action": "lay snow on the roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife edge",
+   "motion": "lay in shapes",
+   "pressure": "unknown",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "structure",
+   "action": "add board lines to roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife edge",
+   "motion": "lay in board strokes",
+   "pressure": "unknown",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "structure",
+   "action": "outline the door",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "outline shape",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "outlining makes the door stand out",
+   "new": ""
+  },
+  {
+   "t": "16:23",
+   "subject": "snow",
+   "action": "add snow back up on roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "lay in shapes",
+   "pressure": "unknown",
+   "where": "upper roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "trunk/limbs",
+   "action": "paint side tree trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "brown mix with a little white",
+   "motion": "place sticks and twigs",
+   "pressure": "light",
+   "where": "right side of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:29",
+   "subject": "bush",
+   "action": "dab bushes with thinned blue",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "liquid white"
+   ],
+   "load": "blue thinned with liquid white",
+   "motion": "tap the ridge",
+   "pressure": "light",
+   "where": "background bushes and trees",
+   "rule": "liquid white only thins the paint",
+   "new": ""
+  },
+  {
+   "t": "18:48",
+   "subject": "snow",
+   "action": "add snow over bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "pull and push upward",
+   "pressure": "unknown",
+   "where": "bush tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:13",
+   "subject": "fence",
+   "action": "dab fence posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "black"
+   ],
+   "load": "brown and sienna with a touch of black",
+   "motion": "set small upright posts",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "fence",
+   "action": "highlight lit side of posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "dab on light side",
+   "pressure": "unknown",
+   "where": "left side of posts",
+   "rule": "light comes from the left so highlight that side",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "fence",
+   "action": "shade posts with blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "white with a little prussian blue",
+   "motion": "dab on shadow side",
+   "pressure": "unknown",
+   "where": "shadow side of posts",
+   "rule": "prussian blue is very dark so it suits shadows",
+   "new": ""
+  },
+  {
+   "t": "20:00",
+   "subject": "snow",
+   "action": "hang snow along the top",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on liner",
+   "motion": "let it run and hang",
+   "pressure": "light",
+   "where": "top of fence posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:26",
+   "subject": "fence",
+   "action": "run wire strands down the fence",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white pulled flat on knife",
+   "motion": "let it run down",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "bush",
+   "action": "dab bushes on this side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "prussian blue",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "lower side of canvas",
+   "rule": "a darker blue will stand out more",
+   "new": ""
+  },
+  {
+   "t": "21:18",
+   "subject": "other: hanging marks",
+   "action": "dab hanging marks into snowbank",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "prussian blue crimson and white thinned with paint thinner",
+   "motion": "dab in hanging marks",
+   "pressure": "light",
+   "where": "other side lower snowbank",
+   "rule": "thinning and turning the bristles gives a sharp point",
+   "new": ""
+  },
+  {
+   "t": "22:11",
+   "subject": "snow",
+   "action": "dark line under snow edge",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "darker mix on liner",
+   "motion": "pull a thin line along edge",
+   "pressure": "light",
+   "where": "edges of snowbank",
+   "rule": "a dark line under the edge gives depth and thickness",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "rock",
+   "action": "pop in snow-covered stones",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "titanium white thinned with liquid white",
+   "motion": "tap in small shapes",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "reflection",
+   "action": "pull stone color down into water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "same light mix",
+   "motion": "pull down and across",
+   "pressure": "light",
+   "where": "under the stones",
+   "rule": "pulling down and across reads as reflection",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "water line",
+   "action": "add thin line under stones",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "same mix on liner",
+   "motion": "draw thin line",
+   "pressure": "light",
+   "where": "bottom of stones",
+   "rule": "the line gives the stones a base to sit on",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "trunk/limbs",
+   "action": "add thin sticks and twigs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "very thin brown",
+   "motion": "place small sticks",
+   "pressure": "light",
+   "where": "scattered near cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:34",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "thinned red on brush",
+   "motion": "write signature",
+   "pressure": "unknown",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[13:47] blocking in color needs only rough placement at this stage"
+ ]
+}

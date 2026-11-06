@@ -1,0 +1,745 @@
+{
+ "ep": "S01E12",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "van dyke brown",
+  "prussian blue",
+  "magic white",
+  "titanium white",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "lay a gray overcast sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "a little of each",
+   "motion": "throw in and test the color",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:56",
+   "subject": "water",
+   "action": "lay in a little bit of gray water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "same gray mix",
+   "motion": "lay in with a light touch",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:31",
+   "subject": "mountain",
+   "action": "block in mountain ranges with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay in the shapes",
+   "pressure": "unknown",
+   "where": "middle of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:09",
+   "subject": "cloud",
+   "action": "lay titanium white clouds in the sky",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of paint on the knife",
+   "motion": "lay them at angles",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "cloud",
+   "action": "pull the clouds into shape with the big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "firm paint on the brush",
+   "motion": "pull",
+   "pressure": "unknown",
+   "where": "the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "cloud",
+   "action": "add gray under some clouds for an overcast look",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "blue, brown and white",
+   "motion": "touch on here and there",
+   "pressure": "unknown",
+   "where": "under some clouds",
+   "rule": "gives the sky an overcast feeling",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "cloud",
+   "action": "blend the gray into the clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend it in",
+   "pressure": "unknown",
+   "where": "the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:04",
+   "subject": "mountain",
+   "action": "paint a mountain peak with blue, brown and crimson",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "blue, brown and a touch of crimson",
+   "motion": "lay a peak and let it run off",
+   "pressure": "unknown",
+   "where": "center of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "mountain",
+   "action": "pull the mountain down with the big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "unknown",
+   "where": "the peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:58",
+   "subject": "snow",
+   "action": "lay titanium white snow on the peak",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "let the paint break",
+   "pressure": "unknown",
+   "where": "top of the peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:26",
+   "subject": "mountain",
+   "action": "lay light shadows on the peak",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white shadow color",
+   "motion": "barely touch and let it break",
+   "pressure": "whisper",
+   "where": "the peak",
+   "rule": "barely touching lets the paint break as it falls",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "mountain",
+   "action": "add a shadow on the second peak",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same shadow color",
+   "motion": "lay a few shadows and swing the ridge",
+   "pressure": "unknown",
+   "where": "second peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "mountain",
+   "action": "diffuse the peaks by tapping",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap lightly",
+   "pressure": "unknown",
+   "where": "the peaks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "mountain",
+   "action": "add a darker range of mountains in front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same colors, darker",
+   "motion": "let it come over and fall down",
+   "pressure": "unknown",
+   "where": "front of the peaks",
+   "rule": "darker colors make the range look closer",
+   "new": ""
+  },
+  {
+   "t": "07:23",
+   "subject": "snow",
+   "action": "add snow on the front range",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "pull loose paint down onto the peak",
+   "pressure": "unknown",
+   "where": "top of the front range",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:09",
+   "subject": "mountain",
+   "action": "bring the mountain ranges together with highlights and shadows",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white highlight and blue shadow",
+   "motion": "bring the ranges together",
+   "pressure": "unknown",
+   "where": "between the ranges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "mountain",
+   "action": "push a side peak back with a shadow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "shadow mix",
+   "motion": "bring the shadow through the peak",
+   "pressure": "unknown",
+   "where": "side peak",
+   "rule": "the shadow pushes the peak back into the background",
+   "new": ""
+  },
+  {
+   "t": "09:22",
+   "subject": "far trees",
+   "action": "add soft little trees back in the range",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little brown, blue and white mixed",
+   "motion": "tap in soft little trees",
+   "pressure": "unknown",
+   "where": "back of the range",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:45",
+   "subject": "grass",
+   "action": "pull up little grassy areas running back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull up and let them run back",
+   "pressure": "unknown",
+   "where": "running back from the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:45",
+   "subject": "snow",
+   "action": "lay a little snow under the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "gentle touch so the paint breaks",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:33",
+   "subject": "land",
+   "action": "lay small banks along the bottom of the trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "a little of the same mix",
+   "motion": "very gentle touch, let the paint break",
+   "pressure": "light",
+   "where": "bottom of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:01",
+   "subject": "reflection",
+   "action": "pull a touch of reflection down from the bank",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "below the banks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "mist",
+   "action": "tap and lift mist in the distance",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift it",
+   "pressure": "unknown",
+   "where": "back in the distance",
+   "rule": "creates the illusion of distant mist",
+   "new": ""
+  },
+  {
+   "t": "12:57",
+   "subject": "far trees",
+   "action": "add a closer tree with a friend",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "brown and blue mixed, a little white",
+   "motion": "place a tree, then a friend",
+   "pressure": "unknown",
+   "where": "middle distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:22",
+   "subject": "far trees",
+   "action": "darken the closer trees, one in front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "a darker mix",
+   "motion": "place trees, darker as they come closer",
+   "pressure": "unknown",
+   "where": "the front",
+   "rule": "closer trees get darker to show they are nearer",
+   "new": ""
+  },
+  {
+   "t": "13:55",
+   "subject": "grass",
+   "action": "tap little grassy areas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "front of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:55",
+   "subject": "water line",
+   "action": "lay a little magic white water line",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white",
+   "motion": "lay the line and let it wrap the corner",
+   "pressure": "unknown",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:25",
+   "subject": "land",
+   "action": "add another little hill and pull it down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white on the brush",
+   "motion": "pull this one down a little",
+   "pressure": "unknown",
+   "where": "right side hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "far trees",
+   "action": "place a tree on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place a tree",
+   "pressure": "unknown",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "rock",
+   "action": "add a small cliff out on the other side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "shape the cliff",
+   "pressure": "unknown",
+   "where": "out on the other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "snow",
+   "action": "lay snow on top of the cliff",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "lay it on top and let it come out",
+   "pressure": "unknown",
+   "where": "top of the cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:27",
+   "subject": "land",
+   "action": "add a larger hill and pull a little down",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down a little",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:39",
+   "subject": "water line",
+   "action": "add water lines around the cliff with thinned magic white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white thinned with a little white",
+   "motion": "bring the line all the way around",
+   "pressure": "unknown",
+   "where": "around the cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "land",
+   "action": "make a cove with a shadow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay a shadow in",
+   "pressure": "unknown",
+   "where": "the cove",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "far trees",
+   "action": "drop a few more trees in quick",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop them in",
+   "pressure": "unknown",
+   "where": "middle distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "leaf tree",
+   "action": "place an big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put a tall tree in",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "grass",
+   "action": "grassy areas working their way down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "work down",
+   "pressure": "unknown",
+   "where": "lower part of the trees",
+   "rule": "this shields the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "20:24",
+   "subject": "trunk/limbs",
+   "action": "put in thin brown sticks here and there",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown mixed with a little thin oil",
+   "motion": "tap in small sticks",
+   "pressure": "unknown",
+   "where": "back of the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:14",
+   "subject": "trunk/limbs",
+   "action": "cut a few small sticks with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut in here and there",
+   "pressure": "unknown",
+   "where": "the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:11",
+   "subject": "snow",
+   "action": "flip thinned magic white off the fan brush to make snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "fan brush loaded with very loose paint",
+   "motion": "flip the bristles against the brush, palette down",
+   "pressure": "unknown",
+   "where": "over the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "snow",
+   "action": "add more snow with even distribution",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "more loose white",
+   "motion": "flip more snow over the scene",
+   "pressure": "unknown",
+   "where": "whole scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "mist",
+   "action": "work fine snow into a misty area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white thinned to fine globules",
+   "motion": "work the area with very fine globules",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "fine globules make a misty effect",
+   "new": ""
+  },
+  {
+   "t": "24:51",
+   "subject": "snow",
+   "action": "add a little more snow in the sky",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "magic white thinned even thinner with paint thinner",
+   "motion": "flip more snow",
+   "pressure": "unknown",
+   "where": "the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "leaf tree",
+   "action": "add one more tree to fill an open area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place a tree",
+   "pressure": "unknown",
+   "where": "open area in the middle",
+   "rule": "snow over the top makes the tree fit the picture",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "trunk/limbs",
+   "action": "add a few sticks that blend into the mist",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let them go",
+   "pressure": "unknown",
+   "where": "misty background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "leaf tree",
+   "action": "place a small leafless tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place it",
+   "pressure": "unknown",
+   "where": "near the sticks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:00",
+   "subject": "snow",
+   "action": "highlight a little snow on the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "a little magic white",
+   "motion": "touch the highlight on",
+   "pressure": "unknown",
+   "where": "tree branches",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

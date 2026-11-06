@@ -1,0 +1,633 @@
+{
+ "ep": "S30E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "titanium white",
+  "midnight black",
+  "alizarin crimson",
+  "sap green",
+  "phthalo green",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "01:40",
+   "subject": "sky",
+   "action": "crisscross sky from top down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "x crisscross strokes downward",
+   "pressure": "light",
+   "where": "top of canvas down to horizon",
+   "rule": "blue mixes with white so sky lightens toward horizon",
+   "new": ""
+  },
+  {
+   "t": "02:26",
+   "subject": "sky",
+   "action": "darken sky corners",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "blend downward",
+   "pressure": "light",
+   "where": "upper corners",
+   "rule": "darker corners bring eye to center",
+   "new": ""
+  },
+  {
+   "t": "03:40",
+   "subject": "cloud",
+   "action": "tap cloud shape",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap one corner into white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "open area in upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:03",
+   "subject": "cloud",
+   "action": "blend cloud fluffy",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "whisper",
+   "rule": "cloud areas",
+   "new": ""
+  },
+  {
+   "t": "04:54",
+   "subject": "mountain",
+   "action": "tap far hill shape",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "light blue mix on brush",
+   "motion": "tap basic shape",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:18",
+   "subject": "far trees",
+   "action": "lift upward for far trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "far hill",
+   "rule": "upward lifts read as far trees",
+   "new": ""
+  },
+  {
+   "t": "05:40",
+   "subject": "mountain",
+   "action": "layer darker hill",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same color slightly darker",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "in front of far hill",
+   "rule": "closer things should be darker",
+   "new": ""
+  },
+  {
+   "t": "06:03",
+   "subject": "far trees",
+   "action": "lift upward for far trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "far hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "mountain",
+   "action": "mix dark foreground color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mix on brush",
+   "motion": "brush mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "dark needed so light shows on top"
+  },
+  {
+   "t": "06:52",
+   "subject": "mountain",
+   "action": "tap dark foreground",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "foreground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "water",
+   "action": "pull pond straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "pond area",
+   "rule": "still water is flat so lines go straight down",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "grass",
+   "action": "tap far grass",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tap yellows and red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:21",
+   "subject": "leaf tree",
+   "action": "mix dark tree color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo green",
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "throw colors together",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:46",
+   "subject": "leaf tree",
+   "action": "load dark tree color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "load dark color",
+   "motion": "load",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:11",
+   "subject": "leaf tree",
+   "action": "block in dark tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "put in dark color",
+   "pressure": "light",
+   "where": "middle background",
+   "rule": "dark base lets highlights be added later",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "leaf tree",
+   "action": "block in tree other side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "put in dark color",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "reflection",
+   "action": "darken reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "water under dark tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "trunk/limbs",
+   "action": "mix trunk color",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mix on liner",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "trunk/limbs",
+   "action": "indicate tree trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "thin mix on liner",
+   "motion": "draw trunks",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:10",
+   "subject": "trunk/limbs",
+   "action": "scrape trunk marks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "back trees",
+   "new": "scraping gives trunk look with no extra work"
+  },
+  {
+   "t": "12:10",
+   "subject": "leaf tree",
+   "action": "tap highlights on small trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap in color",
+   "pressure": "light",
+   "where": "tops of small trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:45",
+   "subject": "bush",
+   "action": "add thinner to paint",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "",
+   "motion": "go through paint",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "thinner thins paint so it sticks",
+   "new": ""
+  },
+  {
+   "t": "14:07",
+   "subject": "bush",
+   "action": "drop in bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "structure",
+   "action": "scrape out house shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "spot under tree group",
+   "new": "scraping lays out house and removes excess paint"
+  },
+  {
+   "t": "14:51",
+   "subject": "structure",
+   "action": "block in house browns",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "marbled browns on knife",
+   "motion": "block in",
+   "pressure": "light",
+   "where": "house area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:38",
+   "subject": "structure",
+   "action": "add boards",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "titanium white; van dyke brown; yellow ochre",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "house front",
+   "new": ""
+  },
+  {
+   "t": "16:03",
+   "subject": "structure",
+   "action": "add red roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "bright red; dark sienna; titanium white",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "roof of house",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "fence",
+   "action": "indicate fence line",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "draw line over hill",
+   "pressure": "light",
+   "where": "back hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:20",
+   "subject": "land",
+   "action": "indicate land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark sienna; titanium white",
+   "motion": "mix on pallet",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "through middle",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "water line",
+   "action": "add light water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "pull flat",
+   "pressure": "light",
+   "where": "back of pond",
+   "rule": "light area separates two darks",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "water",
+   "action": "fill pond with dark colors",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "pond area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "grass",
+   "action": "paint grassy area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "sap green; yellow ochre",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "grass area",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "leaf tree",
+   "action": "add few leaves",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap leaves",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "trunk/limbs",
+   "action": "scrape trunk marks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "big tree",
+   "new": ""
+  },
+  {
+   "t": "21:28",
+   "subject": "grass",
+   "action": "paint closer grass",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "van dyke brown"
+   ],
+   "load": "load fan brush",
+   "motion": "upward push adjusting brush straight",
+   "pressure": "light",
+   "where": "closer grass area",
+   "rule": "bigger upward strokes make grass look closer",
+   "new": ""
+  },
+  {
+   "t": "22:32",
+   "subject": "land",
+   "action": "scrape soil",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mix on knife",
+   "motion": "scrape gently",
+   "pressure": "whisper",
+   "where": "soil area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "trunk/limbs",
+   "action": "paint stump",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "fan load",
+   "motion": "put in",
+   "pressure": "light",
+   "where": "back of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "trunk/limbs",
+   "action": "highlight stump",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "knife load",
+   "motion": "highlight",
+   "pressure": "light",
+   "where": "stump",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:36",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner on liner",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "corner",
+   "rule": "",
+   "new": "call finished"
+  }
+ ],
+ "rules": []
+}

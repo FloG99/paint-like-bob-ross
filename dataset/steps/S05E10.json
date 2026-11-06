@@ -1,0 +1,499 @@
+{
+ "ep": "S05E10",
+ "base": "black",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "prussian blue",
+  "phthalo green",
+  "magic white",
+  "van dyke brown",
+  "permanent red",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:45",
+   "subject": "sky",
+   "action": "criss-cross white sky, blend upward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "small amount of white on brush",
+   "motion": "criss-cross strokes then blend up",
+   "pressure": "light",
+   "where": "upper canvas, along horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "mountain",
+   "action": "tap dark distant hill along horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "mixed very dark brown on palette",
+   "motion": "tap along horizon line",
+   "pressure": "light",
+   "where": "horizon line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:46",
+   "subject": "structure",
+   "action": "dark house shape far back",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "flat roll on knife edge",
+   "motion": "cut across canvas in a small block",
+   "pressure": "light",
+   "where": "far back on horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:34",
+   "subject": "structure",
+   "action": "light edge on house",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "grayed light brown on small knife edge",
+   "motion": "lay light edge along side",
+   "pressure": "light",
+   "where": "house edge",
+   "rule": "lighter edge so it stands out",
+   "new": ""
+  },
+  {
+   "t": "06:47",
+   "subject": "structure",
+   "action": "cut door and boards into paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none, cut into wet paint",
+   "motion": "cut lines through paint",
+   "pressure": "medium",
+   "where": "front of house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:14",
+   "subject": "structure",
+   "action": "dark second far building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "dark mix on knife",
+   "motion": "pull color down to fill",
+   "pressure": "firm",
+   "where": "right of first house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:57",
+   "subject": "structure",
+   "action": "shingles on roof with highlight",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "red-brown mix on knife tip",
+   "motion": "touch and work up from bottom",
+   "pressure": "light",
+   "where": "barn roof",
+   "rule": "shingles overlap so work from bottom up",
+   "new": ""
+  },
+  {
+   "t": "08:50",
+   "subject": "structure",
+   "action": "cut big barn door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "smooth paint into door edges",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:15",
+   "subject": "structure",
+   "action": "add small shed on barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "roof color on knife",
+   "motion": "lay in boards and roof",
+   "pressure": "light",
+   "where": "side of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "structure",
+   "action": "white highlights on barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount of white on knife",
+   "motion": "tap and lift",
+   "pressure": "light",
+   "where": "barn and ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "path",
+   "action": "brown path across lower ground",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "dark mix on knife",
+   "motion": "lay path around",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:13",
+   "subject": "grass",
+   "action": "grassy areas and bushes in back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "small amount white and brown on fan",
+   "motion": "tap small indications",
+   "pressure": "light",
+   "where": "back near path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:51",
+   "subject": "structure",
+   "action": "scratch windmill circles",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "none, scratched into canvas",
+   "motion": "scratch circles with back of liner",
+   "pressure": "firm",
+   "where": "canvas center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:14",
+   "subject": "structure",
+   "action": "windmill blades",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "small roll of dark mix",
+   "motion": "touch and bloop out blades",
+   "pressure": "light",
+   "where": "around the circle",
+   "rule": "do four blades first so the rest line up",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "structure",
+   "action": "cover scratched circle with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull across scratch",
+   "pressure": "light",
+   "where": "windmill center",
+   "rule": "a connector holds the blades together or they fall off",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "structure",
+   "action": "red-brown highlight on blade corners",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "touch on blade corner",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "blade corners",
+   "rule": "highlight so edges show clearly",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "structure",
+   "action": "two large wind-catching blades",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "permanent red"
+   ],
+   "load": "dark mix on knife tip",
+   "motion": "bloop out and add small highlight",
+   "pressure": "light",
+   "where": "top of windmill",
+   "rule": "windmills turn into the wind so blades guide it",
+   "new": ""
+  },
+  {
+   "t": "17:23",
+   "subject": "structure",
+   "action": "cross bar and highlight on hub",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "cross bar with small highlight",
+   "pressure": "light",
+   "where": "top hub",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:54",
+   "subject": "structure",
+   "action": "platform and four legs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "dark mix on knife",
+   "motion": "lay platform then legs",
+   "pressure": "light",
+   "where": "windmill base",
+   "rule": "legs keep it from falling over",
+   "new": ""
+  },
+  {
+   "t": "19:09",
+   "subject": "structure",
+   "action": "platform supports and steps",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "carried dark mix",
+   "motion": "drop in supports and steps",
+   "pressure": "light",
+   "where": "under the platform",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:55",
+   "subject": "structure",
+   "action": "tiny highlights to separate parts",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "red-brown highlight on knife",
+   "motion": "touch and lay",
+   "pressure": "light",
+   "where": "windmill parts",
+   "rule": "highlights separate the parts and read better",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "structure",
+   "action": "dark support brackets",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "dark mix thinned with paint thinner",
+   "motion": "pull lines for brackets",
+   "pressure": "light",
+   "where": "windmill frame",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "far trees",
+   "action": "one small far tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "carried thinned dark mix",
+   "motion": "short tapping strokes",
+   "pressure": "light",
+   "where": "far back right",
+   "rule": "far away so it stays small",
+   "new": ""
+  },
+  {
+   "t": "22:04",
+   "subject": "fence",
+   "action": "thin fence line across background",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "carried on liner",
+   "motion": "pull thin line across",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:38",
+   "subject": "bush",
+   "action": "dab leaf clusters around base",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "pulled through dark brown",
+   "motion": "touch and drop leaves",
+   "pressure": "light",
+   "where": "around windmill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "structure",
+   "action": "highlight on chain strap",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "strap on windmill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:55",
+   "subject": "path",
+   "action": "lightly complete the path",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on fan",
+   "motion": "light drag along path",
+   "pressure": "whisper",
+   "where": "path to the door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:56",
+   "subject": "grass",
+   "action": "weeds and tiny sticks around base",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over",
+   "motion": "dab little strokes, smaller further back",
+   "pressure": "light",
+   "where": "base of windmill",
+   "rule": "weeds grow higher here",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "other: signature",
+   "action": "sign with thinned red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "red thinned with thin oil",
+   "motion": "sign name with flowing strokes",
+   "pressure": "light",
+   "where": "on canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

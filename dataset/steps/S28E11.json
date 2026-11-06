@@ -1,0 +1,512 @@
+{
+ "ep": "S28E11",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "Indian yellow",
+  "yellow ochre",
+  "bright red",
+  "liquid white",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "phthalo green",
+  "sap green",
+  "midnight black",
+  "cad yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:49",
+   "subject": "sky",
+   "action": "warm yellow base strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "tiny load",
+   "motion": "run along and blend upward",
+   "pressure": "light",
+   "where": "lower sky band",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:12",
+   "subject": "sky",
+   "action": "bright red into base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "small amount",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "lower sky band",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "sky",
+   "action": "white over bright band",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "brightest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:40",
+   "subject": "cloud",
+   "action": "big cloud dabs",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "fan loaded by back and forth",
+   "motion": "dab cloud shapes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:28",
+   "subject": "cloud",
+   "action": "smaller clouds with less paint",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap cloud shapes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "less paint on the brush makes clouds lighter",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "cloud",
+   "action": "blend clouds softly",
+   "tool": "other: blender brush",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "blends clouds without mixing the colors together",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "water",
+   "action": "lay in phthalo blue and green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "mixed on brush",
+   "motion": "cover lower area strokes",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:13",
+   "subject": "water",
+   "action": "transparent brown band",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "fill bottom area",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "land",
+   "action": "headland into water",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "mixed on brush",
+   "motion": "dab headland shape",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "water",
+   "action": "pull white back in waves",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "pull back with rocking strokes",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:39",
+   "subject": "water",
+   "action": "transparent eye of wave",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "from brush",
+   "motion": "scratch in and press",
+   "pressure": "firm",
+   "where": "eye of wave",
+   "rule": "wash between passes so each starts fresh",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "water",
+   "action": "blend eye smooth",
+   "tool": "other: blender brush",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tiny circles with barely moving bristles",
+   "pressure": "whisper",
+   "where": "eye of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "water",
+   "action": "lavender shadow under crash",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "lay shadow line",
+   "pressure": "light",
+   "where": "under crash line",
+   "rule": "shadow makes foam jump out when added",
+   "new": ""
+  },
+  {
+   "t": "13:31",
+   "subject": "water",
+   "action": "white crash foam on top",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "small crash strokes",
+   "pressure": "light",
+   "where": "crash line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "water",
+   "action": "soften crash edge",
+   "tool": "other: blender brush",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch edge",
+   "pressure": "whisper",
+   "where": "crash edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "water",
+   "action": "thin white for waves and foam",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "pick out waves",
+   "pressure": "light",
+   "where": "back in distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:37",
+   "subject": "rock",
+   "action": "big stone at crash",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "more brown mixed",
+   "motion": "block in stone",
+   "pressure": "light",
+   "where": "crash area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "rock",
+   "action": "red lavender highlight on stone",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix",
+   "motion": "form basic rocks",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "lavender dulls the red a little",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "beach",
+   "action": "pale beach band",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "small touch of cad yellow",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "water",
+   "action": "knife ripple lines",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "roll of paint on knife",
+   "motion": "bend blade firmly",
+   "pressure": "firm",
+   "where": "beach edge",
+   "rule": "bent blade gives the look of ripples",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "water",
+   "action": "soft backward pull",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "light backward pull",
+   "pressure": "whisper",
+   "where": "beach line",
+   "rule": "tilting lines down shows water running down",
+   "new": ""
+  },
+  {
+   "t": "18:55",
+   "subject": "water",
+   "action": "foam patterns with filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "little foam patterns",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "water",
+   "action": "angled foam lines",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "follow angles",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "angles make or break the water shapes",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "rock",
+   "action": "second stone on side",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown from before",
+   "motion": "tap stone",
+   "pressure": "light",
+   "where": "side of beach",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "rock",
+   "action": "highlight stone",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "small touch",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "water",
+   "action": "water lines around stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "on knife",
+   "motion": "cut water lines",
+   "pressure": "light",
+   "where": "around stone",
+   "rule": "makes the rock part of the water scene",
+   "new": ""
+  },
+  {
+   "t": "21:34",
+   "subject": "leaf tree",
+   "action": "gnarly tree on rock",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown on liner",
+   "motion": "wiggly limbs",
+   "pressure": "light",
+   "where": "on rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "water",
+   "action": "dark line under wave",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thin like ink",
+   "motion": "draw dark line",
+   "pressure": "light",
+   "where": "under wave",
+   "rule": "dark line separates parts so the wave looks clear",
+   "new": ""
+  },
+  {
+   "t": "23:13",
+   "subject": "water",
+   "action": "bright highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "brightest wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:04",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner",
+   "motion": "sign lower corner",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

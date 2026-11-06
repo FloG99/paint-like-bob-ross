@@ -1,0 +1,619 @@
+{
+ "ep": "S26E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid white",
+  "midnight black",
+  "Prussian blue",
+  "titanium white",
+  "alizarin crimson",
+  "Van Dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "thin dark background wash",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mostly black with a little blue",
+   "motion": "graze the canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:18",
+   "subject": "water",
+   "action": "pull the dark wash outward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "still loaded with the dark wash",
+   "motion": "pull from outside inward",
+   "pressure": "light",
+   "where": "across the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:45",
+   "subject": "cloud",
+   "action": "tap in big basic cloud shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mostly black with a little blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:01",
+   "subject": "sky",
+   "action": "blend over the clouds",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "soft blender, wiped on a towel",
+   "motion": "blend lightly over the clouds",
+   "pressure": "light",
+   "where": "over the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:49",
+   "subject": "sun/glow",
+   "action": "smoosh white into the canvas for a bright spot",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure titanium white on the knife",
+   "motion": "press firmly into the canvas",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "a bright spot to suggest sun behind a dark cloud",
+   "new": ""
+  },
+  {
+   "t": "04:12",
+   "subject": "cloud",
+   "action": "soft fluffy clouds with the blender",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "corner of the blender tapped into white",
+   "motion": "spin the brush and blend",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:43",
+   "subject": "sun/glow",
+   "action": "pull soft rays out of the bright spot",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with white",
+   "motion": "pull outward",
+   "pressure": "light",
+   "where": "around the bright spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:05",
+   "subject": "mountain",
+   "action": "drop a big mountain shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "dark mix, mostly blue, rolled on the knife edge",
+   "motion": "drop it onto the canvas",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:29",
+   "subject": "mountain",
+   "action": "pull the mountain paint into place",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull across the canvas",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "the wet liquid white lets the color move",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "mountain",
+   "action": "knife highlights along the mountain top",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white rolled on the knife edge",
+   "motion": "cut across and drop it in",
+   "pressure": "unknown",
+   "where": "top of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "mountain",
+   "action": "shadow strokes along the peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with a little blue rolled on the knife",
+   "motion": "touch lightly and let it flow",
+   "pressure": "whisper",
+   "where": "peak of the mountain",
+   "rule": "a light touch lets the paint break into holes",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "mountain",
+   "action": "break up the straight edge with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "still loaded with white",
+   "pressure": "light",
+   "where": "light",
+   "rule": "straight mountain edge",
+   "new": "a straight edge looks wrong, so break it up"
+  },
+  {
+   "t": "07:08",
+   "subject": "mist",
+   "action": "tap the mountain base and lift upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap and lift upward following the angles",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "mountain",
+   "action": "second, larger range placed behind",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "drop the shape in",
+   "pressure": "unknown",
+   "where": "behind the first range",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "mountain",
+   "action": "pull the base downward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "pull downward",
+   "pressure": "unknown",
+   "where": "base of the mountains",
+   "rule": "removes excess paint and softens the base",
+   "new": ""
+  },
+  {
+   "t": "08:45",
+   "subject": "mountain",
+   "action": "tap white highlights onto the peaks",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "upper mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:23",
+   "subject": "mist",
+   "action": "tap clean dry brush at the base and lift",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "base of the mountains",
+   "rule": "creates the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "far trees",
+   "action": "lift little tree shapes up the mountain side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mountain color with a little white",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "side of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:42",
+   "subject": "reflection",
+   "action": "pull color straight down, then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across",
+   "pressure": "unknown",
+   "where": "under the mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "reflection",
+   "action": "sparkle highlights with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the brush",
+   "motion": "pull across lightly",
+   "pressure": "light",
+   "where": "reflection area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "water line",
+   "action": "cut a thin water line with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife edge",
+   "motion": "cut back and forth",
+   "pressure": "unknown",
+   "where": "between the dark areas",
+   "rule": "a light area between darks separates them",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "evergreen",
+   "action": "paint evergreen tree shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "fan brush heavy with dark mix",
+   "motion": "lift and push to shape the tree",
+   "pressure": "unknown",
+   "where": "on the canvas",
+   "rule": "thin paint sticks better over thick paint",
+   "new": "thinner added to the brush"
+  },
+  {
+   "t": "15:05",
+   "subject": "reflection",
+   "action": "backwards shape for a reflection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with dark mix",
+   "motion": "tap a basic shape backwards",
+   "pressure": "light",
+   "where": "water under the trees",
+   "rule": "suggests something reflected in the water",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "reflection",
+   "action": "lightly blend the reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush, one hair and some air",
+   "motion": "very light blend across",
+   "pressure": "light",
+   "where": "over the reflection",
+   "rule": "a big brush will soften a rough reflection",
+   "new": ""
+  },
+  {
+   "t": "15:52",
+   "subject": "evergreen",
+   "action": "big evergreen on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded with dark mix",
+   "motion": "lift and push tree shape",
+   "pressure": "unknown",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "trunk/limbs",
+   "action": "tap little trunks in blue and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white mix",
+   "motion": "tap in trunks",
+   "pressure": "light",
+   "where": "inside the evergreens",
+   "rule": "keeps the painting cold instead of brown",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "evergreen",
+   "action": "highlights on the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white thinned with liquid white, a little blue",
+   "motion": "tap a few highlights in",
+   "pressure": "light",
+   "where": "on the evergreens",
+   "rule": "contrast makes the painting pretty, so keep trees dark",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "bush",
+   "action": "snow-covered bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "one-inch brush",
+   "motion": "tap bushes in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "bush",
+   "action": "snow highlights pulled onto the bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "liquid white thins the white",
+   "motion": "pull in one direction, then turn over",
+   "pressure": "light",
+   "where": "on the bushes",
+   "rule": "liquid white only thins the white so it sticks",
+   "new": ""
+  },
+  {
+   "t": "20:36",
+   "subject": "structure",
+   "action": "scrape out a basic house shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape the shape out",
+   "pressure": "unknown",
+   "where": "middle of the canvas",
+   "rule": "scraping removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "structure",
+   "action": "block in the back and front of the roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "Van Dyke and dark sienna mixed",
+   "motion": "block in color",
+   "pressure": "unknown",
+   "where": "house roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:25",
+   "subject": "snow",
+   "action": "marbled white highlights on the house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "white, dark sienna and Van Dyke marbled",
+   "motion": "cut across and barely touch",
+   "pressure": "whisper",
+   "where": "house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:48",
+   "subject": "structure",
+   "action": "dark boards and a door outline",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark brown and light outline",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:15",
+   "subject": "snow",
+   "action": "snow along the roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "touch and drop",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "bush",
+   "action": "tap bushes around the front door",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "liquid white with titanium white",
+   "motion": "tap bushes in",
+   "pressure": "light",
+   "where": "around the front door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "path",
+   "action": "blue and white path out from the house",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white",
+   "motion": "tap a path in",
+   "pressure": "light",
+   "where": "out from the house",
+   "rule": "gives the house a way to walk out",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "trunk/limbs",
+   "action": "scrape a few sticks into the paint",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through the paint",
+   "pressure": "unknown",
+   "where": "scattered across the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "water line",
+   "action": "cut a water line with liquid white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife edge",
+   "motion": "saw back and forth",
+   "pressure": "unknown",
+   "where": "water area below the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,640 @@
+{
+ "ep": "S20E09",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "liquid white",
+  "midnight black",
+  "prussian blue",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sky",
+   "action": "crisscross pink glow in sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "little alizarin crimson on the 2in",
+   "motion": "criss-cross X strokes",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "sky",
+   "action": "phthalo blue into crimson bristles, blend down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little blue into bristles",
+   "motion": "blend a little color downward",
+   "pressure": "light",
+   "where": "top and downward",
+   "rule": "The brush need not be cleaned, since alizarin crimson is weak.",
+   "new": ""
+  },
+  {
+   "t": "03:25",
+   "subject": "water",
+   "action": "touch of blue at bottom for water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little down here at the bottom",
+   "motion": "blend",
+   "pressure": "unknown",
+   "where": "bottom part",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:52",
+   "subject": "sky",
+   "action": "blend crimson and blue, lavender where they meet",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush, blend it out",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "where the two come together",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:41",
+   "subject": "cloud",
+   "action": "titanium white cloud with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "good titanium white on the fan corner",
+   "motion": "Suggest a small cloud.",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:09",
+   "subject": "cloud",
+   "action": "lavender in cloud with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "little blue, little alizarin crimson, little white",
+   "motion": "adjust back and forth",
+   "pressure": "unknown",
+   "where": "in the cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "cloud",
+   "action": "fluff cloud with clean dry 2in corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "fluff, lift, tease, go across gently",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "The two-inch brush has many bristles.",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "cloud",
+   "action": "dark under the cloud base with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "Use a light brush touch to stir and blend.",
+   "pressure": "light",
+   "where": "under the base",
+   "rule": "This indicates light coming from above.",
+   "new": ""
+  },
+  {
+   "t": "07:43",
+   "subject": "mountain",
+   "action": "dark lavender from midnight black and alizarin crimson on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "black and crimson, cut off a little roll",
+   "motion": "go right up here",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:36",
+   "subject": "mountain",
+   "action": "pull mountain down with 2in, blend",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "grab it and pull it",
+   "pressure": "unknown",
+   "where": "the misty area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "mountain",
+   "action": "knife white with least crimson for warm highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "titanium white, least alizarin crimson, pull out flat",
+   "motion": "cut across, get very small paint on edge",
+   "pressure": "unknown",
+   "where": "edge of the knife",
+   "rule": "This adds slight warmth.",
+   "new": ""
+  },
+  {
+   "t": "09:51",
+   "subject": "mountain",
+   "action": "highlight mountain with light from the right",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on edge of knife",
+   "motion": "see there, a little snow right there",
+   "pressure": "whisper",
+   "where": "right there",
+   "rule": "This is typically easier for right-handed painters.",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "mountain",
+   "action": "highlights on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "make all these little highlights",
+   "pressure": "light",
+   "where": "on the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:12",
+   "subject": "mountain",
+   "action": "knife shadows, barely graze canvas",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue + black, cut roll",
+   "motion": "no pressure, barely graze, touch",
+   "pressure": "whisper",
+   "where": "right here",
+   "rule": "This causes the breaking effect; small gaps are desired.",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "mountain",
+   "action": "shadow areas with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "touch, shadow indication",
+   "pressure": "whisper",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "mountain",
+   "action": "dark accents with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pick up a little dark, lay indication here and there",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "mountain",
+   "action": "clean dry brush taps along angles, lifts",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift, follow the angles",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:20",
+   "subject": "mountain",
+   "action": "white reflected light and shadow tap down the side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white, reflected light",
+   "motion": "let it go down the side",
+   "pressure": "unknown",
+   "where": "down the side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:46",
+   "subject": "mountain",
+   "action": "shadow under small peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "shadow color under white, a new peak",
+   "motion": "put a shadow under it",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:12",
+   "subject": "evergreen",
+   "action": "lavender mix for evergreens, fan load",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mix lavender, more to the crimson side",
+   "motion": "load it full of color",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:59",
+   "subject": "evergreen",
+   "action": "push evergreen tree upward with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push upward, a little crook",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:16",
+   "subject": "reflection",
+   "action": "reflection pull straight down, across",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull it straight down, go across",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "water line",
+   "action": "cut in water line with liquid white and crimson",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white with a little crimson, pull it flat",
+   "motion": "cut across, cut it in",
+   "pressure": "unknown",
+   "where": "just cut it in",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "evergreen",
+   "action": "dark mix black, prussian blue, crimson on fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "mix black, prussian blue, crimson",
+   "motion": "wipe excess off the brush",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:54",
+   "subject": "evergreen",
+   "action": "tree with blueish upward push",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "fan fully loaded",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "At this exact spot.",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "reflection",
+   "action": "pull reflections under with 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull it straight down, go across",
+   "pressure": "unknown",
+   "where": "under there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "bush",
+   "action": "dark bushes with 1in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark color on 1in",
+   "motion": "pop in a couple little bushes",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:27",
+   "subject": "trunk/limbs",
+   "action": "knife cut trunks and sticks through bushes",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut right through there",
+   "pressure": "unknown",
+   "where": "through there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "snow",
+   "action": "snow covered bush with white and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "a little color: titanium white with little crimson",
+   "motion": "let's just put this in",
+   "pressure": "unknown",
+   "where": "right out here on the edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:35",
+   "subject": "water",
+   "action": "reversed brush, little doers in water, reflections",
+   "tool": "other: reversed brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "reverse the brush, little doers down in the water",
+   "motion": "barely touch, go down, go across",
+   "pressure": "light",
+   "where": "down in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:56",
+   "subject": "water",
+   "action": "snow with titanium white, water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white, what the heck",
+   "motion": "come right along here, bit of snow",
+   "pressure": "unknown",
+   "where": "along here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:22",
+   "subject": "trunk/limbs",
+   "action": "knife edge scratch stick and twig",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scratch in a stick and twig",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "leaf tree",
+   "action": "big tree with number six fan, pushing upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark color on the number six fan",
+   "motion": "push upward, let him gaze at the sunlight",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "It should be larger.",
+   "new": ""
+  },
+  {
+   "t": "23:50",
+   "subject": "bush",
+   "action": "bush under the tree's foot to slow it down",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark color on the 1in brush",
+   "motion": "add a bush under his foot",
+   "pressure": "unknown",
+   "where": "under his foot",
+   "rule": "This tree must be stopped at this point.",
+   "new": ""
+  },
+  {
+   "t": "24:36",
+   "subject": "trunk/limbs",
+   "action": "white and dark sienna trunks, indication",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna mixed",
+   "motion": "make the indication of a little trunk",
+   "pressure": "unknown",
+   "where": "in these trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "leaf tree",
+   "action": "highlights on big tree with fan, phthalo blue and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "phthalo blue and white",
+   "motion": "add highlights on this big tree",
+   "pressure": "light",
+   "where": "on this big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "bush",
+   "action": "highlights on little bushes with liquid white and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white and a little crimson",
+   "motion": "drop them in",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:17",
+   "subject": "path",
+   "action": "path with white, a way back to the big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "take a little white",
+   "motion": "A path is placed right there.",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "A route back to this large tree is needed.",
+   "new": ""
+  },
+  {
+   "t": "26:41",
+   "subject": "bush",
+   "action": "two bushes on the side to push path back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "liquid white, titanium white",
+   "motion": "put a bush over here",
+   "pressure": "unknown",
+   "where": "on this side",
+   "rule": "This pushes the path into the background.",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[12:55] Always follow the angles."
+ ]
+}

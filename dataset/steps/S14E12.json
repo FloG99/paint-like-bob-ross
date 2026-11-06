@@ -1,0 +1,589 @@
+{
+ "ep": "S14E12",
+ "base": "alizarin crimson and phthalo blue wash over black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid white",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "midnight black",
+  "dark sienna",
+  "cad yellow",
+  "yellow ochre",
+  "Indian yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:38",
+   "subject": "sky",
+   "action": "blend liquid white outward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small amount",
+   "motion": "criss-cross strokes outward",
+   "pressure": "light",
+   "where": "lightest area where light lives",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "sky",
+   "action": "brighten with liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small touch",
+   "motion": "light blend outward",
+   "pressure": "light",
+   "where": "brightest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:51",
+   "subject": "sky",
+   "action": "lightly blend and check",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "light blend across",
+   "pressure": "whisper",
+   "where": "sky area",
+   "rule": "fix problems now rather than halfway through",
+   "new": ""
+  },
+  {
+   "t": "01:51",
+   "subject": "bush",
+   "action": "tap far bushes and trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "tapped into bristles",
+   "motion": "tap soft shapes",
+   "pressure": "light",
+   "where": "upper background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "bush",
+   "action": "darker far shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "added blue",
+   "motion": "tap more blue in",
+   "pressure": "light",
+   "where": "away from light area",
+   "rule": "darker away from the light builds depth",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "bush",
+   "action": "background shrubs other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap small shapes",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:21",
+   "subject": "trunk/limbs",
+   "action": "thin twigs and stems",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "flick in twigs and stems",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:18",
+   "subject": "leaf tree",
+   "action": "bigger strong tree on other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put in bigger shape",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "bigger strong shapes on one side push depth back",
+   "new": ""
+  },
+  {
+   "t": "06:57",
+   "subject": "bush",
+   "action": "faint foliage far back",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "least touch thinned",
+   "motion": "barely dab foliage",
+   "pressure": "whisper",
+   "where": "far back",
+   "rule": "faint because it is far away and keeps the mist",
+   "new": ""
+  },
+  {
+   "t": "08:14",
+   "subject": "bush",
+   "action": "tiny marks other side",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "dab small marks",
+   "pressure": "whisper",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "grass",
+   "action": "small things along bottom",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "dab small things",
+   "pressure": "whisper",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "grass",
+   "action": "soft grass taps",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap soft grass",
+   "pressure": "whisper",
+   "where": "lower grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "grass",
+   "action": "darker grass toward back",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same brush",
+   "motion": "tap darker grass",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "back areas are shadow so they get darker",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "other: light through trees",
+   "action": "highlight light spot",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "light area",
+   "rule": "too much white kills the highlight",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "rock",
+   "action": "flat rock and dirt roll",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "flat roll",
+   "motion": "pull flat and cut across",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:32",
+   "subject": "rock",
+   "action": "broken white and sienna stones",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "marbled on knife not overmixed",
+   "motion": "bounce and graze",
+   "pressure": "whisper",
+   "where": "rock area",
+   "rule": "broken paint lets dark show through as dirt and stones",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "land",
+   "action": "push dirt into painting",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push down with brush",
+   "pressure": "light",
+   "where": "front of rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "leaf tree",
+   "action": "dark tree mass",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "lots of paint both sides",
+   "motion": "push tree shape down",
+   "pressure": "light",
+   "where": "upper tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:43",
+   "subject": "trunk/limbs",
+   "action": "draw thin limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "thin paint must flow off the brush",
+   "new": ""
+  },
+  {
+   "t": "16:41",
+   "subject": "grass",
+   "action": "layered grassy areas",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "layer tap grass",
+   "pressure": "light",
+   "where": "front grass",
+   "rule": "dark behind makes light areas jump out",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "leaf tree",
+   "action": "dark silhouetted leaves",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dab with corner",
+   "pressure": "light",
+   "where": "over tree area",
+   "rule": "thin paint sticks to thick paint below",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "bush",
+   "action": "push dark bush color",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "loaded brush",
+   "motion": "push in bush",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "bush",
+   "action": "bushes with yellows and sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "least touch then yellows",
+   "motion": "gentle push one direction",
+   "pressure": "whisper",
+   "where": "bush shapes",
+   "rule": "a loaded brush needs only a gentle touch",
+   "new": ""
+  },
+  {
+   "t": "20:27",
+   "subject": "bush",
+   "action": "layer small bushes with dark gaps",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "layer bushes",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:04",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs through bushes",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": "black shows as sticks and twigs"
+  },
+  {
+   "t": "21:43",
+   "subject": "leaf tree",
+   "action": "pull tree forward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull up toward foreground",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "moving tree forward adds depth",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "trunk/limbs",
+   "action": "light on trunks",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "tiny roll",
+   "motion": "pull roll onto trunks",
+   "pressure": "light",
+   "where": "tree edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "trunk/limbs",
+   "action": "mute highlight with clean knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap with clean knife",
+   "pressure": "whisper",
+   "where": "tree edges",
+   "rule": "tapping calms the highlight but keeps sparkle",
+   "new": ""
+  },
+  {
+   "t": "23:01",
+   "subject": "trunk/limbs",
+   "action": "big thick trunk and limbs",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "big roll",
+   "motion": "pull limb down tree",
+   "pressure": "firm",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:38",
+   "subject": "trunk/limbs",
+   "action": "thick limb down",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll of paint",
+   "motion": "pull down",
+   "pressure": "firm",
+   "where": "tree limb area",
+   "rule": "heavy paint dries with bark texture",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "trunk/limbs",
+   "action": "root at tree base",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll",
+   "motion": "pull root out",
+   "pressure": "firm",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:16",
+   "subject": "trunk/limbs",
+   "action": "gentle highlight down trunk",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "flat roll",
+   "motion": "slide down barely touching",
+   "pressure": "whisper",
+   "where": "light side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:56",
+   "subject": "trunk/limbs",
+   "action": "cool reflected light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "dab reflected light",
+   "pressure": "light",
+   "where": "other side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "trunk/limbs",
+   "action": "few dead-looking limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "dab few limbs",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "dead tree",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "sign lower area",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lower area",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,500 @@
+{
+ "ep": "S28E13",
+ "base": "phthalo blue",
+ "format": "unknown",
+ "light": "behind the cloud",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "bright red",
+  "cadmium yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "other: whole canvas",
+   "action": "thin stain of blue over canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "thin amount of paint",
+   "motion": "scrub back and forth",
+   "pressure": "firm",
+   "where": "entire canvas",
+   "rule": "keeps the blue showing through later",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "cloud",
+   "action": "block in dark cloud",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dip one corner into paint",
+   "motion": "dab and spread",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "sun/glow",
+   "action": "soften light behind the cloud",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount tapped into blender",
+   "motion": "soft gentle blending",
+   "pressure": "whisper",
+   "where": "behind the cloud",
+   "rule": "keeps the glow soft",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "cloud",
+   "action": "tighten cloud edges",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend lightly",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "far trees",
+   "action": "dark basic tree shapes in background",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix brown pile and tap brush into it",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:52",
+   "subject": "bush",
+   "action": "orange bushes back and forth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mix orange on brush",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "upper back area",
+   "rule": "orange looks strong against blue",
+   "new": ""
+  },
+  {
+   "t": "08:03",
+   "subject": "land",
+   "action": "underpaint brown ground",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown already on brush",
+   "motion": "scrub in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "keeps blue showing through",
+   "new": ""
+  },
+  {
+   "t": "09:39",
+   "subject": "leaf tree",
+   "action": "block in big tree mass",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tap more brown into brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "grass",
+   "action": "dab in soft grassy patches",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tap a little onto brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:23",
+   "subject": "grass",
+   "action": "highlight grass with gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix gray on palette",
+   "motion": "dab and touch",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "gray serves as occasional highlight color",
+   "new": ""
+  },
+  {
+   "t": "12:37",
+   "subject": "far trees",
+   "action": "highlight tree tops with orange",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mix orange pile and tap brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper edges of background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:38",
+   "subject": "leaf tree",
+   "action": "tap in tree shapes with brown",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "pick up brown on filbert",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "beside big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "trunk/limbs",
+   "action": "thin indication of limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "little brown on liner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "leaves will cover most limbs",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "fence",
+   "action": "faint gray fence line",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray with paint thinner",
+   "motion": "thin indication",
+   "pressure": "whisper",
+   "where": "far back area",
+   "rule": "too far away to be distinct",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "leaf tree",
+   "action": "dab a few leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "paint thinner on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "outer edge of tree",
+   "rule": "covers what is behind the tree",
+   "new": ""
+  },
+  {
+   "t": "16:19",
+   "subject": "leaf tree",
+   "action": "orange highlights on top leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "pick up orange with thinned brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "upper tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "structure",
+   "action": "lay out cabin shape by scraping",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out basic shape",
+   "pressure": "firm",
+   "where": "unknown",
+   "rule": "removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "17:29",
+   "subject": "structure",
+   "action": "block in cabin with brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix brown and take some",
+   "motion": "block in shape",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:19",
+   "subject": "structure",
+   "action": "lighter siding color for cabin",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "mix lighter brown with white and black",
+   "motion": "pull down the wall",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "structure",
+   "action": "scrape shingle marks on roof",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "carried over from mix",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "roof of cabin",
+   "rule": "most shingles blown off, a few remain",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "structure",
+   "action": "add porch post and edge highlight",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "touch along edge",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "keeps the edge standing out",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:00",
+   "subject": "structure",
+   "action": "streak brown board slabs",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "touch brown on knife",
+   "motion": "streak by touching",
+   "pressure": "light",
+   "where": "house face",
+   "rule": "this part will be cut off later",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "structure",
+   "action": "paint big window",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "mix cadmium yellow with a little yellow ochre",
+   "motion": "fix window shape",
+   "pressure": "light",
+   "where": "window area",
+   "rule": "so someone inside can see out",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "grass",
+   "action": "fill in grassy areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "all colors on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:20",
+   "subject": "grass",
+   "action": "highlight grass with gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray mix on brush",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:43",
+   "subject": "grass",
+   "action": "blend blue hint into grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "touch of blue and gray",
+   "motion": "mix together",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "blue underpainting makes the blue hint show",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "land",
+   "action": "darken lower area with brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "scrub in",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "wants the bottom darker",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "bush",
+   "action": "dab in weeds and bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "mix yellow and red with thinner",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "gives an impression of bushes",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner with a little red",
+   "motion": "write name",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

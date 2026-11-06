@@ -1,0 +1,904 @@
+{
+ "ep": "S01E07",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "prussian blue",
+  "magic white",
+  "van dyke brown",
+  "permanent red",
+  "titanium white",
+  "sap green",
+  "phthalo green",
+  "cad yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "lavender mix on canvas",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "small amount",
+   "motion": "lay in lavender sky",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:34",
+   "subject": "sky",
+   "action": "prussian blue sky strip",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "sky strip below lavender",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:08",
+   "subject": "water",
+   "action": "dark water with phthalo green",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "sky",
+   "action": "blend sky and water with clean dry brush",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "sky and water boundary",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:26",
+   "subject": "cloud",
+   "action": "pinkish cloud shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "fan brush loaded",
+   "motion": "push in cloud shapes",
+   "pressure": "firm",
+   "where": "sky",
+   "rule": "a faint hue keeps the clouds from looking on fire",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "cloud",
+   "action": "gently blend clouds",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "gentle blending",
+   "pressure": "whisper",
+   "where": "clouds",
+   "rule": "clouds overwork easily so keep the touch light",
+   "new": ""
+  },
+  {
+   "t": "03:26",
+   "subject": "mountain",
+   "action": "drop mountain peaks into canvas",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "magic white"
+   ],
+   "load": "mixed on palette, marbled",
+   "motion": "drop and push into canvas",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:21",
+   "subject": "mountain",
+   "action": "clear excess with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "only the value should stay in the canvas",
+   "new": ""
+  },
+  {
+   "t": "04:21",
+   "subject": "mountain",
+   "action": "highlight mix grayed down",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay highlights",
+   "pressure": "light",
+   "where": "upper mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "mountain",
+   "action": "peak highlight rolling down",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "lay peak down",
+   "pressure": "light",
+   "where": "upper peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:25",
+   "subject": "mountain",
+   "action": "shadow strokes under highlights",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "magic white"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay in shadows",
+   "pressure": "light",
+   "where": "under highlights",
+   "rule": "each highlight needs its own shadow",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "mountain",
+   "action": "tap and diffuse mountain bottom",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap, then pull",
+   "pressure": "light",
+   "where": "mountain bottom",
+   "rule": "pulling removes the tap marks",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "cloud",
+   "action": "cloud over the mountain",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "mixed with paint",
+   "motion": "lay cloud across",
+   "pressure": "light",
+   "where": "over the mountain",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "06:56",
+   "subject": "cloud",
+   "action": "super light cloud blend",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "cloud on mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:27",
+   "subject": "mountain",
+   "action": "foreground peak shadows",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "magic white"
+   ],
+   "load": "mixed on palette",
+   "motion": "few shadows",
+   "pressure": "light",
+   "where": "foreground peak",
+   "rule": "shadows make the peak stand out as its own",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "mist",
+   "action": "diffuse mist in middle",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "diffuse",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "cloud",
+   "action": "another cloud layer with thin white",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "thinned with more magic white",
+   "motion": "lay cloud",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "more thinner keeps the paint thin",
+   "new": ""
+  },
+  {
+   "t": "08:31",
+   "subject": "cloud",
+   "action": "cloud drops out of sky to bottom",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "carried over",
+   "motion": "lay and tap",
+   "pressure": "light",
+   "where": "around the bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "rock",
+   "action": "darker stone with highlights",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "magic white"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay in and highlight",
+   "pressure": "light",
+   "where": "stone in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "rock",
+   "action": "break paint to show dark through",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "carried over",
+   "motion": "break the paint",
+   "pressure": "light",
+   "where": "stone",
+   "rule": "letting dark show through creates holes",
+   "new": ""
+  },
+  {
+   "t": "10:19",
+   "subject": "mist",
+   "action": "misty areas floating in middle",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "carried over",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "misty areas create distance",
+   "new": ""
+  },
+  {
+   "t": "11:12",
+   "subject": "mountain",
+   "action": "foothill color mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed on palette",
+   "motion": "mix",
+   "pressure": "light",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:41",
+   "subject": "far trees",
+   "action": "upward sweep for distant trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "carried over",
+   "motion": "upward sweep",
+   "pressure": "light",
+   "where": "back foothills",
+   "rule": "an upward sweep suggests far trees",
+   "new": ""
+  },
+  {
+   "t": "11:41",
+   "subject": "mist",
+   "action": "tap mist between foothills",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "between foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:03",
+   "subject": "mountain",
+   "action": "darker foothill ridge in front",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "carried over",
+   "motion": "lay ridge with upward swirl",
+   "pressure": "light",
+   "where": "front foothills",
+   "rule": "darker color makes it look in front",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "far trees",
+   "action": "dirty green distant trees",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "cad yellow"
+   ],
+   "load": "mixed on palette",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "water",
+   "action": "pull water edges down",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull down and leave alone",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "yellow on blue water turns it bright green",
+   "new": ""
+  },
+  {
+   "t": "13:52",
+   "subject": "far trees",
+   "action": "little trunks cut through paint",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "cut through paint",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "far trees",
+   "action": "sparkle highlights on trees",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mixed on palette",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "tops of back trees",
+   "rule": "sunlight sparkles on the tops",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "land",
+   "action": "dirt and gravel in van dyke",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on brush",
+   "motion": "lay dirt",
+   "pressure": "light",
+   "where": "bottom of land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "water line",
+   "action": "straight magic white water line",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "pulled flat",
+   "motion": "lay straight line",
+   "pressure": "light",
+   "where": "under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:44",
+   "subject": "leaf tree",
+   "action": "tall tree and bush closer",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "closer middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:19",
+   "subject": "bush",
+   "action": "bush on the other side",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:14",
+   "subject": "trunk/limbs",
+   "action": "little trunks on bush",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay trunks",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "bush",
+   "action": "little bushes under the bigger one",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "under bigger bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:19",
+   "subject": "reflection",
+   "action": "red reflection dabs",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "under bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "leaf tree",
+   "action": "highlights on tree",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "on brush",
+   "motion": "highlight",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "reflection",
+   "action": "reflection color layered on top",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay color then layer",
+   "pressure": "light",
+   "where": "water near trees",
+   "rule": "dark areas create the shadows needed",
+   "new": ""
+  },
+  {
+   "t": "19:39",
+   "subject": "land",
+   "action": "shore bank with brown",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on brush",
+   "motion": "draw line",
+   "pressure": "light",
+   "where": "shore",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:08",
+   "subject": "land",
+   "action": "highlight on top of bank",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "on brush",
+   "motion": "lay highlight",
+   "pressure": "light",
+   "where": "top of bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "other: upper fill",
+   "action": "fill open space with dark",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:53",
+   "subject": "trunk/limbs",
+   "action": "big tree pulled sideways",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on knife",
+   "motion": "pull sideways",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "let the paint pull off the knife",
+   "new": ""
+  },
+  {
+   "t": "21:26",
+   "subject": "trunk/limbs",
+   "action": "little arms on tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "add arms",
+   "pressure": "light",
+   "where": "tree sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:55",
+   "subject": "leaf tree",
+   "action": "leaf highlights",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "on brush",
+   "motion": "touch and bend bristles",
+   "pressure": "light",
+   "where": "leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:22",
+   "subject": "trunk/limbs",
+   "action": "bark marks on trunk",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "trunk/limbs",
+   "action": "dead tree with tired arm",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on knife",
+   "motion": "lay arm",
+   "pressure": "light",
+   "where": "upper right, dead tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "trunk/limbs",
+   "action": "stick here and there",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay stick",
+   "pressure": "light",
+   "where": "dead tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:56",
+   "subject": "trunk/limbs",
+   "action": "red highlight on dead tree",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "on brush",
+   "motion": "run down",
+   "pressure": "light",
+   "where": "dead tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "trunk/limbs",
+   "action": "few branches with thin oil",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with thin oil",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "dead tree",
+   "rule": "most branches have already fallen off",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "bush",
+   "action": "cover base of tree",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mixed on palette",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "pushes the tree back into the picture",
+   "new": ""
+  },
+  {
+   "t": "25:36",
+   "subject": "bush",
+   "action": "highlights on front shape",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "carried over",
+   "motion": "highlight",
+   "pressure": "light",
+   "where": "front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:08",
+   "subject": "water line",
+   "action": "magic white water line",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "magic white"
+   ],
+   "load": "on brush",
+   "motion": "lay under the tree",
+   "pressure": "light",
+   "where": "bottom of picture",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:08",
+   "subject": "trunk/limbs",
+   "action": "sticks here and there",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay sticks",
+   "pressure": "light",
+   "where": "bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:03",
+   "subject": "other: signature",
+   "action": "sign name",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil mixed",
+   "motion": "write signature",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

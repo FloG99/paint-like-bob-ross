@@ -1,0 +1,416 @@
+{
+ "ep": "S23E02",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "sap green",
+  "cad yellow",
+  "titanium white",
+  "liquid clear",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "prussian blue",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "01:13",
+   "subject": "other: wash",
+   "action": "scrub a thin sap green wash over the canvas",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "liquid clear"
+   ],
+   "load": "thin liquid green",
+   "motion": "scrub in a thin even coat",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "the transparent green lets the gesso show through",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "other: light glow",
+   "action": "swirl white with a touch of cad yellow over the green",
+   "tool": "other: brush",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "white with a touch of cad yellow",
+   "motion": "swirl in small patterns",
+   "pressure": "light",
+   "where": "middle, among the green",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:01",
+   "subject": "other: light glow",
+   "action": "blend the white glow with a dry brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "gently blend",
+   "pressure": "light",
+   "where": "the white area",
+   "rule": "paint dulls as it dries, so keep it brighter",
+   "new": ""
+  },
+  {
+   "t": "05:59",
+   "subject": "trunk/limbs",
+   "action": "thin dark branches far back in the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "black and sap green thinned to ink",
+   "motion": "let them wiggle and jiggle",
+   "pressure": "light",
+   "where": "far back in the trees",
+   "rule": "thin paint flows over the thick white underneath",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "leaf tree",
+   "action": "tap in a small leaf tree and its friend",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "dark base mix on the round brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "middle left, tree and its friend",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:56",
+   "subject": "bush",
+   "action": "tap small bushes in the dark area",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "dark base on the round brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "the black gesso already gives the dark",
+   "new": ""
+  },
+  {
+   "t": "10:46",
+   "subject": "leaf tree",
+   "action": "highlight tree edges with light green thinned with liquid clear",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "liquid clear"
+   ],
+   "load": "light green thinned with liquid clear",
+   "motion": "push and drag along the edges",
+   "pressure": "light",
+   "where": "middle, light source side",
+   "rule": "thin paint sticks to thick paint underneath",
+   "new": ""
+  },
+  {
+   "t": "13:38",
+   "subject": "bush",
+   "action": "layer varied greens with yellows and a little red",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mixed greens and yellows on the brush",
+   "motion": "layer back and forth",
+   "pressure": "light",
+   "where": "bush layers, middle and left",
+   "rule": "bright red turns the green brownish, which dulls it",
+   "new": ""
+  },
+  {
+   "t": "14:22",
+   "subject": "path",
+   "action": "marbled brown path, wider toward the front",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "marbled brown mix on the knife edge",
+   "motion": "lay the path, wider toward you",
+   "pressure": "light",
+   "where": "middle, from back to front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:00",
+   "subject": "bush",
+   "action": "tap highlight on bushes beside the path",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "highlight mix on the round brush",
+   "motion": "tap, less pressure toward the base",
+   "pressure": "light",
+   "where": "beside the path, toward the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "leaf tree",
+   "action": "quiet tree in the shadows at the back",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "dark base on the round brush",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "back, in the shadows",
+   "rule": "it sits back in the shadows, so it stays quiet",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "bush",
+   "action": "soften the bush edges with a fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gently soften",
+   "pressure": "whisper",
+   "where": "bottom of the bushes",
+   "rule": "softening brings the parts together",
+   "new": ""
+  },
+  {
+   "t": "18:31",
+   "subject": "trunk/limbs",
+   "action": "thin midnight black tree trunk line",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "midnight black with paint thinner",
+   "motion": "pull a trunk line",
+   "pressure": "light",
+   "where": "middle, the tree trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:16",
+   "subject": "leaf tree",
+   "action": "fill in the big tree in dark",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "midnight black on the fan brush",
+   "motion": "fill in dark",
+   "pressure": "light",
+   "where": "big tree, over the gesso shape",
+   "rule": "the gesso already gives the basic shape",
+   "new": ""
+  },
+  {
+   "t": "19:40",
+   "subject": "trunk/limbs",
+   "action": "gnarly edges and a root toward the path",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "midnight black",
+   "motion": "bump the edges, draw the root",
+   "pressure": "light",
+   "where": "tree edges, root toward the path",
+   "rule": "a root gives a tired walker a place to sit",
+   "new": ""
+  },
+  {
+   "t": "21:00",
+   "subject": "trunk/limbs",
+   "action": "thin dripping branches with the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "liner loaded with lots of thinner",
+   "motion": "let the branches drip off",
+   "pressure": "light",
+   "where": "hanging from the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "trunk/limbs",
+   "action": "float marbled bark on the tree with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "marbled brown on the knife edge",
+   "motion": "float down the tree with no pressure",
+   "pressure": "whisper",
+   "where": "down the tree limbs",
+   "rule": "no pressure lets the paint break up like bark",
+   "new": ""
+  },
+  {
+   "t": "23:50",
+   "subject": "trunk/limbs",
+   "action": "dark blue on limbs with a hint of reflected light",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "dark blue mix on the knife",
+   "motion": "pull limbs over the others",
+   "pressure": "light",
+   "where": "right side limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:38",
+   "subject": "grass",
+   "action": "tap in little grass around the trunk feet",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "highlight mix on the round brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "around the tree feet",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "grass",
+   "action": "dark grass behind the tree",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "dark base on the round brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "behind the tree",
+   "rule": "it sits behind the tree, so it is in shadow",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "trunk/limbs",
+   "action": "highlight on the larger limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on the liner",
+   "motion": "touch a highlight",
+   "pressure": "light",
+   "where": "larger limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "other: squirrel",
+   "action": "paint a small squirrel silhouette with a bushy tail",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dark on the liner",
+   "motion": "draw a silhouette",
+   "pressure": "light",
+   "where": "up in the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on the liner",
+   "motion": "sign it",
+   "pressure": "light",
+   "where": "bottom, right",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

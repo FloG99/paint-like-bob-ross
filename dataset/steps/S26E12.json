@@ -1,0 +1,680 @@
+{
+ "ep": "S26E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "sun behind the big cloud (direction not stated)",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "prussian blue",
+  "black",
+  "van dyke brown",
+  "sap green",
+  "cad yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:21",
+   "subject": "sky",
+   "action": "start sky with a little indian yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tap a small amount into bristles",
+   "motion": "criss-cross strokes, letting it run out",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:46",
+   "subject": "sky",
+   "action": "add ochre and a touch of bright red without cleaning",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "add each color without cleaning",
+   "motion": "criss-cross strokes, light blend",
+   "pressure": "light",
+   "where": "upper sky, blended around",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:32",
+   "subject": "sky",
+   "action": "mix lavender for the rest of the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson-heavy lavender on the brush",
+   "motion": "dance the lavender around the sky",
+   "pressure": "light",
+   "where": "rest of the sky",
+   "rule": "crimson is weaker than blue, so use more crimson",
+   "new": ""
+  },
+  {
+   "t": "02:19",
+   "subject": "sky",
+   "action": "touch phthalo blue toward the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "touch a little phthalo blue on the brush",
+   "motion": "dab here and there near the top",
+   "pressure": "light",
+   "where": "top of the sky",
+   "rule": "blue next to yellow or green turns green",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "sky",
+   "action": "blend the sky colors together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend across the colors",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "liquid white below lets the color move and blend",
+   "new": ""
+  },
+  {
+   "t": "03:29",
+   "subject": "cloud",
+   "action": "lay in a big cloud with white and bright red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little bright red",
+   "motion": "sparkler-style strokes, pulled a little down",
+   "pressure": "unknown",
+   "where": "upper sky, big cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:41",
+   "subject": "cloud",
+   "action": "blend the cloud base out",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend, fluff the base",
+   "pressure": "whisper",
+   "where": "base of the cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:26",
+   "subject": "cloud",
+   "action": "paint small floaters with the blender",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "least touch of bright red with a little white",
+   "motion": "tap in little shapes",
+   "pressure": "light",
+   "where": "in the cloud area",
+   "rule": "the soft blender can both paint and blend",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "cloud",
+   "action": "add a touch of lavender with the blender",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "a least touch of lavender",
+   "motion": "place shapes without blending",
+   "pressure": "light",
+   "where": "in the cloud area",
+   "rule": "the blender keeps colors apart unless worked long",
+   "new": ""
+  },
+  {
+   "t": "06:14",
+   "subject": "sky",
+   "action": "add a touch of phthalo blue",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "least touch of phthalo blue",
+   "motion": "add a small touch",
+   "pressure": "light",
+   "where": "upper sky, away from the yellow",
+   "rule": "touching the yellow would make the sky green",
+   "new": ""
+  },
+  {
+   "t": "06:35",
+   "subject": "cloud",
+   "action": "add a small bright red and white cloud",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "bright red and white on the blender",
+   "motion": "float a small cloud in place",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "cloud",
+   "action": "scatter little floaters across the sky",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "same blender",
+   "motion": "dab a few floaters",
+   "pressure": "light",
+   "where": "upper sky, scattered",
+   "rule": "a few floaters break up the sky",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "cloud",
+   "action": "dark lavender cloud with a fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender loaded on the fan brush",
+   "motion": "shape a wild cloud with a bump",
+   "pressure": "light",
+   "where": "upper sky, middle",
+   "rule": "the dark cloud contrast will make the others sparkle",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "cloud",
+   "action": "blend the dark cloud softly",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soft gentle blend, not much",
+   "pressure": "whisper",
+   "where": "dark cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:22",
+   "subject": "cloud",
+   "action": "dull the cloud with light bright red and white",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "bright red and white on the blender",
+   "motion": "very light touches",
+   "pressure": "whisper",
+   "where": "a few spots along the cloud",
+   "rule": "dulling keeps the cloud from looking too distinct",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "sun/glow",
+   "action": "push white for the sun behind the big cloud",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white on the knife",
+   "motion": "push forcibly into place",
+   "pressure": "hard",
+   "where": "behind the big cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:40",
+   "subject": "sun/glow",
+   "action": "blend the sun spot in gently",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very gentle blend",
+   "pressure": "whisper",
+   "where": "sun spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "cloud",
+   "action": "lavender cloud in front, very soft",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender on the blender",
+   "motion": "very soft touches",
+   "pressure": "whisper",
+   "where": "a spot near the other clouds",
+   "rule": "paint the farthest shape first so nearer shapes sit in front",
+   "new": ""
+  },
+  {
+   "t": "11:51",
+   "subject": "cloud",
+   "action": "vary bright red and white clouds",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "vary bright red and white back and forth",
+   "motion": "dab several small clouds",
+   "pressure": "light",
+   "where": "several spots across the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:03",
+   "subject": "sky",
+   "action": "blend the whole sky together",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend across the whole sky",
+   "pressure": "unknown",
+   "where": "entire sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "land",
+   "action": "lavender band across the bottom",
+   "tool": "other: soft blender brush",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "a little of the lavender",
+   "motion": "sweep across the bottom",
+   "pressure": "unknown",
+   "where": "bottom of the canvas, across",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:24",
+   "subject": "mountain",
+   "action": "knife a far mountain of lavender and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender mixed with white, cut a little roll",
+   "motion": "drop the mountain shape on",
+   "pressure": "unknown",
+   "where": "far back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "mountain",
+   "action": "pull the far mountain and blend its base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "firmly pull it, then blend the base out",
+   "pressure": "firm",
+   "where": "far mountain",
+   "rule": "a far mountain stays a simple silhouette because it is far away",
+   "new": ""
+  },
+  {
+   "t": "15:33",
+   "subject": "mountain",
+   "action": "closer dark mountain with a knife roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "black",
+    "van dyke brown"
+   ],
+   "load": "mix prussian blue with more crimson, a little black and van dyke brown, cut a roll",
+   "motion": "drop a mountain shape",
+   "pressure": "unknown",
+   "where": "nearer on the canvas",
+   "rule": "keeping it small keeps the mountain from growing out of the painting",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "mountain",
+   "action": "add sun highlight line across the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "bright red with a little white",
+   "motion": "zing a thin line across, then blend down",
+   "pressure": "light",
+   "where": "across the mountain ridge",
+   "rule": "just enough highlight to show a sun line",
+   "new": ""
+  },
+  {
+   "t": "17:28",
+   "subject": "land",
+   "action": "small hill below the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "black",
+    "van dyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "right below the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "reflection",
+   "action": "pull reflections of the mountain down",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "black",
+    "van dyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "pull straight down, then go gently across",
+   "pressure": "light",
+   "where": "below the mountain and hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "water line",
+   "action": "add a water line in pinkish white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "little white with a little bright red",
+   "motion": "set a straight line across",
+   "pressure": "light",
+   "where": "along the water line",
+   "rule": "a little red warms the white so it stands out",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "leaf tree",
+   "action": "dark tree silhouettes from a full fan load",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "load the fan full of the dark mix",
+   "motion": "touch in one tree shape at a time",
+   "pressure": "unknown",
+   "where": "various spots across the land",
+   "rule": "dark silhouettes contrast well with the sky",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "reflection",
+   "action": "pull tree reflections straight down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "pull straight down, then go across",
+   "pressure": "light",
+   "where": "water under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "leaf tree",
+   "action": "add trees on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "put in the tops with a few indications",
+   "pressure": "light",
+   "where": "other side of the land, a few trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "leaf tree",
+   "action": "big tree in the upper area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "one big tree in a single stroke",
+   "pressure": "unknown",
+   "where": "upper area of the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:21",
+   "subject": "leaf tree",
+   "action": "background trees behind",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "a couple of small trees hidden behind",
+   "pressure": "unknown",
+   "where": "behind the other trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:44",
+   "subject": "bush",
+   "action": "block in bushy areas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "block in the bushes",
+   "pressure": "unknown",
+   "where": "background bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:06",
+   "subject": "bush",
+   "action": "light lavender-white highlight on the background",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "white with a little lavender",
+   "motion": "fill in with light touches",
+   "pressure": "light",
+   "where": "background bushes",
+   "rule": "a little light pulls the bush out so it shows",
+   "new": ""
+  },
+  {
+   "t": "22:52",
+   "subject": "leaf tree",
+   "action": "dark green on the trees",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "black"
+   ],
+   "load": "mix a dark green on the brush",
+   "motion": "dab in here and there, small highlights",
+   "pressure": "light",
+   "where": "both sides of the trees",
+   "rule": "a dark green stays dark so it does not look bright and shiny",
+   "new": ""
+  },
+  {
+   "t": "23:13",
+   "subject": "water line",
+   "action": "liquid white waterline under the trees",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "a little liquid white",
+   "motion": "indicate a waterline",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "leaf tree",
+   "action": "fan highlights on the green trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "a little green on the fan brush",
+   "motion": "dab here and there, light highlights",
+   "pressure": "light",
+   "where": "trees, darker toward the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "path",
+   "action": "tap a little path, then fill in green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "same green on the fan brush",
+   "motion": "tap a little path, then fill in green",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

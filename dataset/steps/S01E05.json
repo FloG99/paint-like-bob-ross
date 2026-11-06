@@ -1,0 +1,596 @@
+{
+ "ep": "S01E05",
+ "base": "sap green",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "sap green",
+  "prussian blue",
+  "cadmium yellow",
+  "yellow",
+  "blue",
+  "phthalo green",
+  "van dyke brown",
+  "permanent red",
+  "titanium white",
+  "firm white"
+ ],
+ "steps": [
+  {
+   "t": "00:02",
+   "subject": "other: base coat",
+   "action": "sap green base, prussian blue at the bottom worked upward",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "prussian blue"
+   ],
+   "load": "prussian blue on the bottom",
+   "motion": "begin low, move upward",
+   "pressure": "unknown",
+   "where": "bottom of canvas",
+   "rule": "The area becomes progressively lighter toward the top.",
+   "new": ""
+  },
+  {
+   "t": "00:26",
+   "subject": "stream",
+   "action": "work blue back and forth for the stream's value",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "work this blue back and forth",
+   "pressure": "unknown",
+   "where": "running through the woods here",
+   "rule": "The value graduates gradually as it rises.",
+   "new": ""
+  },
+  {
+   "t": "00:55",
+   "subject": "sun/glow",
+   "action": "little X patterns for the light source",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "a little cadmium yellow",
+   "motion": "little X patterns, around and round",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "It gets progressively darker moving outward from the center.",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "sun/glow",
+   "action": "blend the light outward with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gently hypnotize, blend outward",
+   "pressure": "light",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:42",
+   "subject": "leaf tree",
+   "action": "push basic tree shapes in sap green",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "",
+   "motion": "push the paint into the canvas",
+   "pressure": "hard",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "trunk/limbs",
+   "action": "trunks with the knife in van dyke brown and white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "van dyke brown and white mixed",
+   "motion": "touch and sort of pull",
+   "pressure": "unknown",
+   "where": "On these large trees.",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "trunk/limbs",
+   "action": "highlight the trunks with plain white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "just a little here and there",
+   "pressure": "light",
+   "where": "on the trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:30",
+   "subject": "leaf tree",
+   "action": "push out little leaves with 1in in yellow and phthalo green",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow",
+    "phthalo green"
+   ],
+   "load": "thin paint thinned with a little magic white",
+   "motion": "push out little leaves",
+   "pressure": "unknown",
+   "where": "all over these trees",
+   "rule": "A thin paint adheres to an underlying thick paint.",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "bush",
+   "action": "Add small bushes.",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow",
+    "phthalo green"
+   ],
+   "load": "",
+   "motion": "they come",
+   "pressure": "unknown",
+   "where": "right down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:46",
+   "subject": "leaf tree",
+   "action": "highlights on the little tree, sap green mixed with yellow",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "sap green with the yellow",
+   "motion": "highlights on this little tree",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "The area darkens progressively toward the back.",
+   "new": ""
+  },
+  {
+   "t": "07:35",
+   "subject": "waterfall",
+   "action": "fan pulled over to let it drop",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "magic white and firm white",
+   "motion": "drag over, let it fall",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:24",
+   "subject": "stream",
+   "action": "push fan to bend upward, foam on top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "",
+   "motion": "push the fan so it bends upward",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:48",
+   "subject": "rock",
+   "action": "build a little stone in van dyke brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "build a little stone",
+   "pressure": "unknown",
+   "where": "back in the distance and out here",
+   "rule": "Stones can be placed at any location in the scene.",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "rock",
+   "action": "highlight stones in a gray mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "blue"
+   ],
+   "load": "brown and white with the least touch of blue",
+   "motion": "just touch on the highlight",
+   "pressure": "unknown",
+   "where": "on the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:35",
+   "subject": "rock",
+   "action": "dark edge under the stone, splash water up on the stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "splash water up on the stones",
+   "pressure": "unknown",
+   "where": "on the stones",
+   "rule": "Leave space between the water and the stone.",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "waterfall",
+   "action": "small waterfall falls over, foamy areas where it hits",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let it fall over",
+   "pressure": "unknown",
+   "where": "right along here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:33",
+   "subject": "bush",
+   "action": "dark bushes in sap green and prussian blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "Add more bushes.",
+   "pressure": "unknown",
+   "where": "back here",
+   "rule": "Dark areas are needed to make light areas visible.",
+   "new": ""
+  },
+  {
+   "t": "12:27",
+   "subject": "bush",
+   "action": "highlight bushes with cadmium yellow, phthalo and sap green",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "phthalo green",
+    "sap green"
+   ],
+   "load": "cadmium yellow with a little phthalo and sap green",
+   "motion": "push the highlight on the bushes",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:01",
+   "subject": "rock",
+   "action": "little stone and gravel for the bushes to sit on",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "put a little stone, gravel out here",
+   "pressure": "unknown",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:33",
+   "subject": "rock",
+   "action": "highlight the stones with gray",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "just a little highlight",
+   "pressure": "unknown",
+   "where": "on the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:04",
+   "subject": "rock",
+   "action": "stone in the water, water splashes around it",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "",
+   "motion": "let it come around, sort of fall over and splash",
+   "pressure": "unknown",
+   "where": "around the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "water",
+   "action": "stream picks up the blue underneath, darker closer to you",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "darken the water toward the foreground",
+   "pressure": "unknown",
+   "where": "closer to you",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:28",
+   "subject": "bush",
+   "action": "bushes up through here, more green than blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "let these drip downward",
+   "pressure": "unknown",
+   "where": "up through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "bush",
+   "action": "highlight and vary bush tones with yellow and sap green",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "highlight these",
+   "pressure": "unknown",
+   "where": "on these bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs through the dark with clean knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through the dark areas",
+   "pressure": "unknown",
+   "where": "through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:11",
+   "subject": "trunk/limbs",
+   "action": "dead tree laid in with knife in van dyke brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay this in, very thick paint",
+   "pressure": "unknown",
+   "where": "right across the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:09",
+   "subject": "trunk/limbs",
+   "action": "highlight the bark in yellow and permanent red with oil",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow",
+    "permanent red"
+   ],
+   "load": "yellow with a little permanent red, thin oil",
+   "motion": "streak down the side",
+   "pressure": "unknown",
+   "where": "down the side of it here",
+   "rule": "This area needs a bright accent.",
+   "new": ""
+  },
+  {
+   "t": "19:37",
+   "subject": "trunk/limbs",
+   "action": "old branches with thin oil and van dyke brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil",
+   "motion": "a few old branches hanging",
+   "pressure": "unknown",
+   "where": "on this tree",
+   "rule": "Paint thinner tends to cause colors to bleed.",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "trunk/limbs",
+   "action": "old limbs here and there, turn the brush to a point",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "a few old limbs",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "trunk/limbs",
+   "action": "highlight major limbs in yellow and permanent red with oil",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow",
+    "permanent red"
+   ],
+   "load": "yellow + touch of permanent red, in oil",
+   "motion": "let the brush glide down the branch",
+   "pressure": "unknown",
+   "where": "on the major limbs here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "rock",
+   "action": "cliff stone, very dark",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "lay this on very gently, let the paint break",
+   "pressure": "whisper",
+   "where": "a little cliff right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "bush",
+   "action": "little bushes protruding over the stone, grassy areas at the trees' feet",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "magic white",
+    "sap green",
+    "yellow"
+   ],
+   "load": "Magic White + green + yellow mixed",
+   "motion": "form small bushes rising over the stone",
+   "pressure": "light",
+   "where": "over the stone",
+   "rule": "A thin paint is needed to cover this thick layer.",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "rock",
+   "action": "splash water back up onto the stone",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "firm white"
+   ],
+   "load": "",
+   "motion": "splash back up against the stone",
+   "pressure": "unknown",
+   "where": "on the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "trunk/limbs",
+   "action": "highlight the little dead tree and sticks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brighter color",
+   "pressure": "unknown",
+   "where": "one directly before the stone",
+   "rule": "Use a slightly brighter color so they are visible.",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "other: signature",
+   "action": "sign the painting in thin oil and permanent red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin oil and permanent red",
+   "motion": "sign this painting",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

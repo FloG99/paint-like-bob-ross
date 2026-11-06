@@ -1,0 +1,392 @@
+{
+ "ep": "S08E10",
+ "base": "alizarin crimson over black",
+ "format": "unknown",
+ "light": "moon over here or the sun",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "titanium white",
+  "alizarin crimson",
+  "midnight black",
+  "yellow ochre",
+  "indian yellow",
+  "dark sienna",
+  "permanent red",
+  "phthalo blue",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "01:20",
+   "subject": "sun/glow",
+   "action": "start the sun in bright yellow-white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "a little white in the yellow, load the brush full",
+   "motion": "begin doing this and work outward",
+   "pressure": "unknown",
+   "where": "from here",
+   "rule": "",
+   "new": "crimson underneath picks up through the yellow"
+  },
+  {
+   "t": "02:35",
+   "subject": "sun/glow",
+   "action": "big shapes coming out from the sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "clean brush, back into the white and cad yellow",
+   "motion": "Form these shapes.",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "cloud",
+   "action": "stringy and fluffy clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "yellow and white",
+   "motion": "Add small floating shapes.",
+   "pressure": "unknown",
+   "where": "right along in here",
+   "rule": "Place them wherever desired.",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "other: remove excess paint",
+   "action": "zip off the heavy paint with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "knife lightly slices off some of the thicker areas",
+   "pressure": "light",
+   "where": "some of the heavier areas",
+   "rule": "Blending all of this would likely muddy the result.",
+   "new": ""
+  },
+  {
+   "t": "04:28",
+   "subject": "sky",
+   "action": "blend the sky out from the light area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend softly from the light zone outward",
+   "pressure": "light",
+   "where": "the light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:06",
+   "subject": "sun/glow",
+   "action": "lift the contact paper to reveal the sun",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pick up the edge, grab it",
+   "pressure": "unknown",
+   "where": "the circle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "cloud",
+   "action": "a few more stringy clouds close to the horizon",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "same color on the fan brush",
+   "motion": "let it just floats across, a little stringy",
+   "pressure": "unknown",
+   "where": "close to the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "sky",
+   "action": "blend the yellow clouds into the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry 2in brush, very gently blend",
+   "pressure": "light",
+   "where": "the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:04",
+   "subject": "mountain",
+   "action": "basic small mountain shape",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "dark colors, load the fan brush full",
+   "motion": "fan brush corner for the basic shape",
+   "pressure": "unknown",
+   "where": "far far away",
+   "rule": "It should appear very distant.",
+   "new": ""
+  },
+  {
+   "t": "10:24",
+   "subject": "reflection",
+   "action": "pull the yellowish color down as a reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "the same yellowish color",
+   "motion": "pull it straight down, pull hard",
+   "pressure": "hard",
+   "where": "under there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:04",
+   "subject": "mountain",
+   "action": "rock formations on the mountain",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "permanent red",
+    "yellow ochre",
+    "indian yellow",
+    "dark sienna"
+   ],
+   "load": "a multitude of colors on the brush",
+   "motion": "touch and create rock formations with the corner",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "The light source is here, so this area is touched.",
+   "new": ""
+  },
+  {
+   "t": "13:39",
+   "subject": "mountain",
+   "action": "light touches where light would strike",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "same color used to highlight the mountain",
+   "motion": "some of that here and there",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:41",
+   "subject": "mountain",
+   "action": "dark hill slope coming down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark color",
+   "motion": "dropping that in",
+   "pressure": "unknown",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:20",
+   "subject": "path",
+   "action": "path lines in the dark area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark color",
+   "motion": "work back and forth",
+   "pressure": "light",
+   "where": "right up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:59",
+   "subject": "mountain",
+   "action": "planes of hills with tapped colors",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow"
+   ],
+   "load": "yellow ochre, indian yellow, cad yellow on the dirty brush",
+   "motion": "tap it",
+   "pressure": "unknown",
+   "where": "next hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "other: cactus",
+   "action": "small cactus arms far back",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dip the liner brush in liquid black",
+   "motion": "give him a little arm",
+   "pressure": "unknown",
+   "where": "way back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:34",
+   "subject": "other: cactus",
+   "action": "tiny cactus with an arm",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "liner brush",
+   "motion": "add a small arm there",
+   "pressure": "unknown",
+   "where": "right in front of the moon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:12",
+   "subject": "other: cactus",
+   "action": "big cactus arms and base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "straight midnight black",
+   "motion": "a big arm comes right down and bends",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "A large arm shape stands out and curves outward.",
+   "new": ""
+  },
+  {
+   "t": "22:12",
+   "subject": "other: cactus",
+   "action": "green cactus color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "cadmium yellow"
+   ],
+   "load": "a touch of the yellow",
+   "motion": "tap the brush to remove the excess paint",
+   "pressure": "unknown",
+   "where": "the cactus",
+   "rule": "This makes it more visible.",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "other: cactus",
+   "action": "tap roundness into the cactus edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same green",
+   "motion": "tap, tap, tap",
+   "pressure": "light",
+   "where": "start at the bright edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:46",
+   "subject": "other: cactus",
+   "action": "highlight on top of the round cactus",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "most highlight right on the top, then gently down the side",
+   "pressure": "light",
+   "where": "top of the round cactus",
+   "rule": "It darkens as it curves around.",
+   "new": ""
+  },
+  {
+   "t": "26:04",
+   "subject": "other: highlights",
+   "action": "sharpen the highlights here and there",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "a touch of yellow ochre and indian yellow, a touch of red",
+   "motion": "just sharpen those up",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:41",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little red",
+   "motion": "sign this one",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,659 @@
+{
+ "ep": "S19E03",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "van dyke brown",
+  "prussian blue",
+  "sap green",
+  "yellow ochre",
+  "cad yellow",
+  "dark sienna",
+  "bright red",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "lay indian yellow band across middle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "lay across",
+   "pressure": "unknown",
+   "where": "middle band of canvas",
+   "rule": "transparent yellow works well here",
+   "new": ""
+  },
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "add a little crimson into yellow band",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "blend in",
+   "pressure": "unknown",
+   "where": "middle band",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "lay lavender at top and bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix",
+   "motion": "lay on",
+   "pressure": "unknown",
+   "where": "top and bottom bands",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:43",
+   "subject": "sky",
+   "action": "load white on big brush and set horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white loaded both sides",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "horizon area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:08",
+   "subject": "sky",
+   "action": "criss-cross lightest area and blend outward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "criss-cross then blend outward",
+   "pressure": "unknown",
+   "where": "lightest area off center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:00",
+   "subject": "sky",
+   "action": "blend brighter white glow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white reloaded",
+   "motion": "load same way and blend outward",
+   "pressure": "unknown",
+   "where": "off-center light spot",
+   "rule": "clean brush each time so dark color does not dull the glow",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "cloud",
+   "action": "start cloud mix with crimson and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "cloud",
+   "action": "shape a cloud with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "reddish lavender mix",
+   "motion": "shape basic cloud",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "cloud",
+   "action": "stringy clouds by folding brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "lavender mix",
+   "motion": "fold back and forth barely touching",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:45",
+   "subject": "cloud",
+   "action": "add redder cloud lower down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "barely graze canvas",
+   "pressure": "light",
+   "where": "lower cloud",
+   "rule": "lower cloud gets more light so it should shine",
+   "new": ""
+  },
+  {
+   "t": "07:10",
+   "subject": "cloud",
+   "action": "gently blend cloud with clean dry brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tight little round circles",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "circles lift loose paint off the canvas",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "cloud",
+   "action": "fluff clouds and blend lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "lift and fluff then light cross strokes",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "light cross strokes remove brush marks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:26",
+   "subject": "cloud",
+   "action": "pull thin clouds with clean brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "go across and pull",
+   "pressure": "light",
+   "where": "thin clouds low in sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "land",
+   "action": "mix dark lavender for far ground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "dark lavender mix",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:11",
+   "subject": "land",
+   "action": "tap ridge of paint for horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown to dull mix",
+   "motion": "tap and push a ridge",
+   "pressure": "unknown",
+   "where": "horizon",
+   "rule": "brown dulls the mix so it is not too bright",
+   "new": ""
+  },
+  {
+   "t": "09:55",
+   "subject": "land",
+   "action": "lay basic horizon ideas with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "place general shapes",
+   "pressure": "light",
+   "where": "where colors meet",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:23",
+   "subject": "leaf tree",
+   "action": "block in basic tree shape",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap basic shape with corner",
+   "pressure": "unknown",
+   "where": "big tree spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:11",
+   "subject": "leaf tree",
+   "action": "add tree high up and a friend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "place basic shapes",
+   "pressure": "unknown",
+   "where": "up near clouds",
+   "rule": "do not cover the nice part of the cloud",
+   "new": ""
+  },
+  {
+   "t": "11:36",
+   "subject": "trunk/limbs",
+   "action": "add thin trunks and branches with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "thin paint with thinner",
+   "motion": "draw thin lines",
+   "pressure": "unknown",
+   "where": "inside trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:38",
+   "subject": "leaf tree",
+   "action": "layer sap green and yellow mix into tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "black"
+   ],
+   "load": "green yellow mix",
+   "motion": "push with ridge of paint",
+   "pressure": "unknown",
+   "where": "on tree",
+   "rule": "thick dry paint lets layers stack without mud",
+   "new": ""
+  },
+  {
+   "t": "14:27",
+   "subject": "leaf tree",
+   "action": "highlight tree on light side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "green yellow mix",
+   "motion": "come slightly above dark and push",
+   "pressure": "unknown",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "leaf tree",
+   "action": "add bright red touch to tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "touch in",
+   "pressure": "unknown",
+   "where": "on tree",
+   "rule": "thinner helps paint stick when it resists",
+   "new": ""
+  },
+  {
+   "t": "16:03",
+   "subject": "leaf tree",
+   "action": "highlight other side of tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "other side of tree",
+   "rule": "light source makes that side brighter",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "leaf tree",
+   "action": "add bright red for warm tint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "touch in",
+   "pressure": "unknown",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "bush",
+   "action": "add underbrush bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push in small shapes",
+   "pressure": "unknown",
+   "where": "under tree",
+   "rule": "leaving dark areas creates depth and covering them flattens",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "grass",
+   "action": "darken yellow to a dark green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "black"
+   ],
+   "load": "dark green mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "grass",
+   "action": "soft grass with clean brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark green mix",
+   "motion": "tap softly",
+   "pressure": "light",
+   "where": "grassy areas",
+   "rule": "keeps grass from getting too bright",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "land",
+   "action": "change angles to set land planes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "change angles",
+   "pressure": "unknown",
+   "where": "land areas",
+   "rule": "changing angles changes how the land flows",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "grass",
+   "action": "add yellow ochre on the other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "place on other side",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:46",
+   "subject": "path",
+   "action": "mix dark sienna brown for path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:09",
+   "subject": "path",
+   "action": "work path back and forth",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "brown mix",
+   "motion": "work back and forth small in back",
+   "pressure": "unknown",
+   "where": "path in middle",
+   "rule": "path reads as ground worn by walking",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "path",
+   "action": "graze white highlight along path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "graze lightly",
+   "pressure": "light",
+   "where": "path",
+   "rule": "light grazing suggests light through the path",
+   "new": ""
+  },
+  {
+   "t": "22:17",
+   "subject": "path",
+   "action": "darken path toward foreground",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "brown mix",
+   "motion": "darker toward foreground",
+   "pressure": "unknown",
+   "where": "foreground path",
+   "rule": "darkening toward foreground creates distance",
+   "new": ""
+  },
+  {
+   "t": "22:17",
+   "subject": "leaf tree",
+   "action": "mix very dark color for big tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "van dyke brown"
+   ],
+   "load": "very dark mix",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:42",
+   "subject": "leaf tree",
+   "action": "zoom in big tree with arms",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix",
+   "motion": "zoom strokes",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:07",
+   "subject": "trunk/limbs",
+   "action": "add limbs with liner and thinner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix with thinner",
+   "motion": "thin lines",
+   "pressure": "unknown",
+   "where": "tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:56",
+   "subject": "other: edge sparkle",
+   "action": "add thinned bright red along edges",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thinned bright red",
+   "motion": "go around edges lightly",
+   "pressure": "light",
+   "where": "edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "leaf tree",
+   "action": "drop a few silhouette leaves",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "dark mix",
+   "motion": "drop in a few",
+   "pressure": "unknown",
+   "where": "top of tree",
+   "rule": "too many leaves would hide the clouds behind",
+   "new": ""
+  },
+  {
+   "t": "24:47",
+   "subject": "leaf tree",
+   "action": "add dulled bright red leaf hint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "black"
+   ],
+   "load": "dulled red",
+   "motion": "touch in",
+   "pressure": "unknown",
+   "where": "leaves",
+   "rule": "black dulls the red so it stays muted",
+   "new": ""
+  },
+  {
+   "t": "25:13",
+   "subject": "land",
+   "action": "tap feet at tree bases",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap with big brush",
+   "pressure": "unknown",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "other: signature",
+   "action": "sign with thin bright red",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thin like water",
+   "motion": "write name",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

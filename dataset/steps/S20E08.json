@@ -1,0 +1,546 @@
+{
+ "ep": "S20E08",
+ "base": "black gesso with liquid clear",
+ "format": "unknown",
+ "light": "behind",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "phthalo blue",
+  "alizarin crimson",
+  "midnight black",
+  "cadmium yellow",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:22",
+   "subject": "other: glaze base",
+   "action": "glaze tiny blue on wet clear",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tiny bit on wet clear",
+   "motion": "glaze lightly",
+   "pressure": "light",
+   "where": "entire canvas",
+   "rule": "clear lets you lay a very thin glaze of color",
+   "new": ""
+  },
+  {
+   "t": "00:45",
+   "subject": "sun/glow",
+   "action": "backlit glow through back trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load a little white on the 2in",
+   "motion": "criss-cross strokes outward",
+   "pressure": "light",
+   "where": "behind the trees",
+   "rule": "light from behind makes a glowing effect",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "sun/glow",
+   "action": "more light on the other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more white",
+   "motion": "blend light in",
+   "pressure": "light",
+   "where": "other side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:07",
+   "subject": "far trees",
+   "action": "mix lavender for back trees",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix more crimson than blue on the palette",
+   "motion": "mix only",
+   "pressure": "unknown",
+   "where": "mix area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:35",
+   "subject": "far trees",
+   "action": "tap back tree branches",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "tap a little color into bristles",
+   "motion": "tap branches with the corner",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "leave light areas so the glow shows through the trees",
+   "new": ""
+  },
+  {
+   "t": "04:47",
+   "subject": "trunk/limbs",
+   "action": "thin sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thin with thinner until inky",
+   "motion": "indicate twigs and sticks",
+   "pressure": "light",
+   "where": "inside the trees",
+   "rule": "sticks hold the trees together",
+   "new": ""
+  },
+  {
+   "t": "05:43",
+   "subject": "leaf tree",
+   "action": "light highlights on trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "load lavender with white",
+   "motion": "push brush for a ridge of paint",
+   "pressure": "medium",
+   "where": "up here",
+   "rule": "light coming through makes highlights sparkle",
+   "new": ""
+  },
+  {
+   "t": "07:01",
+   "subject": "leaf tree",
+   "action": "next darker layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "add a little more blue to the mix",
+   "motion": "push for a ridge of paint",
+   "pressure": "medium",
+   "where": "next layer of trees",
+   "rule": "blue makes it darker so less light seems to hit it",
+   "new": ""
+  },
+  {
+   "t": "08:36",
+   "subject": "bush",
+   "action": "hanging bushes from behind tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender from before",
+   "motion": "tap hanging limbs",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "trunk/limbs",
+   "action": "thin individual branches",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thin lavender with thinner",
+   "motion": "pick out small individual things",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:48",
+   "subject": "trunk/limbs",
+   "action": "arms across front and back of tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same thin lavender",
+   "motion": "add arms across front and behind",
+   "pressure": "light",
+   "where": "large tree",
+   "rule": "arms across the front keep the tree from looking cut in two",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "leaf tree",
+   "action": "trees on other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lighter lavender",
+   "motion": "tap individual shapes",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:31",
+   "subject": "trunk/limbs",
+   "action": "small trunks and limbs on other side",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "small trunk marks",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:04",
+   "subject": "leaf tree",
+   "action": "white highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pick up white",
+   "motion": "small highlights on tree",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "highlights make the limbs sparkle",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "leaf tree",
+   "action": "next darker layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "load a darker mix",
+   "motion": "another darker layer",
+   "pressure": "medium",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:50",
+   "subject": "bush",
+   "action": "few bush tips",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little blue",
+   "motion": "few small tips sticking out",
+   "pressure": "light",
+   "where": "front bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:36",
+   "subject": "bush",
+   "action": "yellow-green bush tops",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "phthalo blue"
+   ],
+   "load": "cadmium yellow touch with blue already on brush",
+   "motion": "tap in yellow-green",
+   "pressure": "light",
+   "where": "tops of bushes",
+   "rule": "blue on the brush makes a light yellow-green",
+   "new": ""
+  },
+  {
+   "t": "15:26",
+   "subject": "bush",
+   "action": "dull greens",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "add sap green then black",
+   "motion": "dull the color",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "black dulls the green into a very dark deep green",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "trunk/limbs",
+   "action": "trunks and sticks in foreground",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin paint and indicate trunks and sticks",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "foreground sticks push the rest of the scene back",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "leaf tree",
+   "action": "darker green bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "cadmium yellow"
+   ],
+   "load": "load dark green by pushing",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs in dark bottom",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "cadmium yellow"
+   ],
+   "load": "pick up dark paint",
+   "motion": "indicate small sticks and twigs",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "bush",
+   "action": "lighter bushes back in",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "lighter mix dulled with blue",
+   "motion": "place a few lighter bushes",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "blue dulls the white because it is too bright",
+   "new": ""
+  },
+  {
+   "t": "18:22",
+   "subject": "bush",
+   "action": "darker green bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "add yellow ochre and indian yellow",
+   "motion": "place bush in deeper shadow",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "leaf tree",
+   "action": "big tree base in dark",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix both on brush and load both sides",
+   "motion": "go over the gesso",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "the dark gesso hides any misses",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "trunk/limbs",
+   "action": "lighter trunk texture",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "add a little white and sienna",
+   "motion": "wiggle and tap texture",
+   "pressure": "light",
+   "where": "big tree trunk",
+   "rule": "the trunk stays dark because light is behind it",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "grass",
+   "action": "grassy tap at tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mix green and yellows with a tiny red",
+   "motion": "tap grassy area",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "red acts as a duller because it is opposite green",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "land",
+   "action": "darken ground and hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "more black on the brush",
+   "motion": "tap to darken and shape hill",
+   "pressure": "light",
+   "where": "ground by roots",
+   "rule": "tapping picks up color underneath so it darkens",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "bush",
+   "action": "background bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender brush",
+   "motion": "tap little bushes",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:29",
+   "subject": "path",
+   "action": "cool path tint",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "little white with a touch of blue",
+   "motion": "touch up path",
+   "pressure": "light",
+   "where": "path area",
+   "rule": "a cool color keeps the path cooler",
+   "new": ""
+  },
+  {
+   "t": "23:57",
+   "subject": "trunk/limbs",
+   "action": "dead tree arms",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black thinned with thinner",
+   "motion": "add arms and limbs",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "dead trees make the scene look more natural",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "leaf tree",
+   "action": "dark leaves on big tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "load dark green",
+   "motion": "pick out small limbs and shapes",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "must stay very dark or it loses its effect",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

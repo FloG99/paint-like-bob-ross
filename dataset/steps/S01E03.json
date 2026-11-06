@@ -1,0 +1,605 @@
+{
+ "ep": "S01E03",
+ "base": "alizarin crimson",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "van dyke brown",
+  "cad yellow",
+  "titanium white",
+  "permanent red",
+  "prussian blue",
+  "phthalo green"
+ ],
+ "steps": [
+  {
+   "t": "00:33",
+   "subject": "other: canvas edges",
+   "action": "brown around corners over crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "work into edges",
+   "pressure": "light",
+   "where": "canvas corners and edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:19",
+   "subject": "sky",
+   "action": "glow around sun with cad yellow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "alizarin crimson"
+   ],
+   "load": "load 1in with cad yellow",
+   "motion": "work around and around from center",
+   "pressure": "light",
+   "where": "center of sun area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:45",
+   "subject": "sky",
+   "action": "work glow outward, darker at edges",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "work outward, get darker at edges",
+   "pressure": "light",
+   "where": "outward from center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:11",
+   "subject": "sky",
+   "action": "little X patterns to blend glow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "little X patterns, back and forth",
+   "pressure": "light",
+   "where": "sky glow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "sky",
+   "action": "blend X patterns, take out brush strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "big brush",
+   "motion": "gently work the canvas",
+   "pressure": "light",
+   "where": "sky glow",
+   "rule": "just enough to take out brush strokes",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "mountain",
+   "action": "foothill with alizarin and brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mix alizarin and brown on brush",
+   "motion": "let brush bounce along and play",
+   "pressure": "light",
+   "where": "back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "mountain",
+   "action": "highlights on distant foothills",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "alizarin crimson"
+   ],
+   "load": "take little yellow, green, red",
+   "motion": "push small highlights down",
+   "pressure": "light",
+   "where": "distant foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "other: swirl",
+   "action": "upward swirl with clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "barely touch, lift upward",
+   "pressure": "whisper",
+   "where": "over foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:55",
+   "subject": "water",
+   "action": "lake reflections pulled down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix yellow and permanent red",
+   "motion": "lay color on, pull down",
+   "pressure": "light",
+   "where": "back lake area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:18",
+   "subject": "water",
+   "action": "ripple lake reflection",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "ripple lightly",
+   "pressure": "light",
+   "where": "lake reflection",
+   "rule": "gives a watery effect",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "leaf tree",
+   "action": "back tree with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "mix alizarin and brown on brush, load a lot",
+   "motion": "fill in tree, tap dark",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:16",
+   "subject": "leaf tree",
+   "action": "second tree in back",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "fill tree shape",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:47",
+   "subject": "leaf tree",
+   "action": "third small tree and shadow",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "darken tree, add shadow behind",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "water line",
+   "action": "waterline with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "drag knife across",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "leaf tree",
+   "action": "big tree with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "load big brush",
+   "motion": "push paint into canvas, general shape",
+   "pressure": "firm",
+   "where": "right of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "leaf tree",
+   "action": "big limbs flying out from tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "hit canvas, push paint",
+   "pressure": "firm",
+   "where": "top right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:02",
+   "subject": "trunk/limbs",
+   "action": "tree trunks with dark paint",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "mix brown and white for trunk highlight",
+   "motion": "tap trunks where visualized",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "trunk/limbs",
+   "action": "trunk highlight on one edge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "touch highlight on trunk",
+   "pressure": "light",
+   "where": "one trunk near center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "leaf tree",
+   "action": "bright leaves on little bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow",
+    "phthalo green"
+   ],
+   "load": "mix white, yellow, phthalo green",
+   "motion": "tap leaves on bushes",
+   "pressure": "light",
+   "where": "little bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:01",
+   "subject": "bush",
+   "action": "little things growing down low",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow",
+    "phthalo green"
+   ],
+   "load": "same mix",
+   "motion": "tap in small things",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "trunk/limbs",
+   "action": "big tree, bend and work upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load big brush with brown",
+   "motion": "push and bend up",
+   "pressure": "firm",
+   "where": "upper area of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "trunk/limbs",
+   "action": "limb coming down with knife swirl",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife swirl",
+   "motion": "pull knife in a swirl",
+   "pressure": "light",
+   "where": "tree middle",
+   "rule": "swirl gives a round look",
+   "new": ""
+  },
+  {
+   "t": "13:33",
+   "subject": "leaf tree",
+   "action": "highlights on small leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "load highlight colors",
+   "motion": "tap highlights on leaves",
+   "pressure": "light",
+   "where": "out on leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "path",
+   "action": "path running through canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "mix blue and brown",
+   "motion": "run path through canvas",
+   "pressure": "light",
+   "where": "middle of picture",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:47",
+   "subject": "path",
+   "action": "highlight on path, let paint break",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "add a little white",
+   "motion": "let paint break",
+   "pressure": "light",
+   "where": "path",
+   "rule": "leaves dark areas in path",
+   "new": ""
+  },
+  {
+   "t": "15:11",
+   "subject": "bush",
+   "action": "bushes hanging over path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thin paint with white",
+   "motion": "push bushes out over path",
+   "pressure": "light",
+   "where": "sides of path",
+   "rule": "thin paint sticks on top of others",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "trunk/limbs",
+   "action": "big tree up through the middle",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load big brush",
+   "motion": "push tree up",
+   "pressure": "firm",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "leaf tree",
+   "action": "highlights on top of tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin with white",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "rock",
+   "action": "little stone by tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "mix highlight color",
+   "motion": "lay in stone",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:28",
+   "subject": "rock",
+   "action": "highlight on stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "mix highlight",
+   "motion": "lay highlight",
+   "pressure": "light",
+   "where": "stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:01",
+   "subject": "bush",
+   "action": "bushes from loaded round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "pull brush to load one direction",
+   "motion": "tilt down and push, bend bristles",
+   "pressure": "light",
+   "where": "bush area around stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:25",
+   "subject": "other: stems",
+   "action": "cut stems with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "cut through paint",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "trunk/limbs",
+   "action": "sticks and trunk marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "add paint",
+   "motion": "sticks show planes",
+   "pressure": "light",
+   "where": "background",
+   "rule": "sticks show different planes",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "other: signature",
+   "action": "sign with thin paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin paint to water-like",
+   "motion": "curl brush and pull to a point",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "trunk/limbs",
+   "action": "more small sticks across the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "scattered small strokes",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "22:56",
+   "subject": "trunk/limbs",
+   "action": "final small sticks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "a stroke or two",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

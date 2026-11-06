@@ -1,0 +1,668 @@
+{
+ "ep": "S09E04",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "bright red",
+  "midnight black",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "cad yellow",
+  "yellow ochre",
+  "sap green",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "tap a little pink into upper sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny amount tapped on brush",
+   "motion": "light touch in upper sky",
+   "pressure": "light",
+   "where": "top of sky",
+   "rule": "just enough for a pinkish glow",
+   "new": ""
+  },
+  {
+   "t": "01:02",
+   "subject": "sky",
+   "action": "crisscross blue strokes into the pink",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "blue tapped on same brush",
+   "motion": "crisscross X strokes from top down",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "sky",
+   "action": "blend the seam with a clean dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "light crisscross blend",
+   "pressure": "light",
+   "where": "where pink and blue meet",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:16",
+   "subject": "cloud",
+   "action": "make cloud puffs with small circles",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint pulled through, rounded corner",
+   "motion": "small circles, keep moving",
+   "pressure": "light",
+   "where": "sky, both sides",
+   "rule": "keeps clouds soft instead of cotton-ball shapes",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "cloud",
+   "action": "blend cloud bottoms, keep top edges crisp",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend of bottoms",
+   "pressure": "whisper",
+   "where": "cloud bottoms",
+   "rule": "saves the nice cloud edges",
+   "new": ""
+  },
+  {
+   "t": "04:38",
+   "subject": "sky",
+   "action": "lightly blend the whole sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "very light sweep over sky",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "blends out brush marks",
+   "new": ""
+  },
+  {
+   "t": "04:38",
+   "subject": "mountain",
+   "action": "lay in peak shape with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "black and blue roll on knife edge",
+   "motion": "lay in and shape",
+   "pressure": "unknown",
+   "where": "mountain location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:36",
+   "subject": "mountain",
+   "action": "tap and pull down a distant peak",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "color tapped from knife",
+   "motion": "tap then pull down",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:06",
+   "subject": "mountain",
+   "action": "second distant peak",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "borrowed from the first peak",
+   "motion": "tap then pull down",
+   "pressure": "light",
+   "where": "other side, far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:43",
+   "subject": "mountain",
+   "action": "blend peak base down to nothing",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "same mix",
+   "motion": "bring peak over then blend out",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:43",
+   "subject": "snow",
+   "action": "float titanium white snow down from peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "flat roll of white on knife",
+   "motion": "float down the slope",
+   "pressure": "whisper",
+   "where": "peak down the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:49",
+   "subject": "mountain",
+   "action": "pull dark shadows down into the snow",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "shadow mix on small knife",
+   "motion": "touch and pull down",
+   "pressure": "firm",
+   "where": "shadow spots on mountain",
+   "rule": "soupy paint turns muddy, so keep it firm",
+   "new": ""
+  },
+  {
+   "t": "09:25",
+   "subject": "mountain",
+   "action": "add another peak with white",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on small knife",
+   "motion": "tap and pull down",
+   "pressure": "light",
+   "where": "new peak area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:25",
+   "subject": "mountain",
+   "action": "dark shadows between peaks",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "dark tapped from knife",
+   "motion": "play dark here and there",
+   "pressure": "light",
+   "where": "between peaks",
+   "rule": "dark pushes bright back and makes deep shadows",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "mist",
+   "action": "tap downward to make mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "clean dry brush picks up color",
+   "motion": "tap downward",
+   "pressure": "whisper",
+   "where": "lower mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:27",
+   "subject": "far trees",
+   "action": "tiny strokes for distant tree tops",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "quarter-inch lifted strokes",
+   "pressure": "light",
+   "where": "up mountain sides",
+   "rule": "big strokes would ruin the distance illusion",
+   "new": ""
+  },
+  {
+   "t": "12:34",
+   "subject": "mountain",
+   "action": "foothill with corner of brush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "black, blue and a little white",
+   "motion": "tap in and pull down",
+   "pressure": "light",
+   "where": "lower left foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "mist",
+   "action": "tap mist at base of foothill",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap base",
+   "pressure": "whisper",
+   "where": "base of foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "mountain",
+   "action": "darker closer foothill",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "same dirty mix with a bit of brown",
+   "motion": "tap and pull up",
+   "pressure": "light",
+   "where": "next foothill up",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "mist",
+   "action": "mist between layers",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "between layers",
+   "rule": "mist is the only thing separating the layers",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "mountain",
+   "action": "closer hill with corner of brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix with a bit of green",
+   "motion": "barely touch and tap upward",
+   "pressure": "light",
+   "where": "closer foothill",
+   "rule": "closer things show more color",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "other: dark base",
+   "action": "cover lower canvas with dark base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and dark sienna mixed",
+   "motion": "cover whole lower area",
+   "pressure": "firm",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:47",
+   "subject": "grass",
+   "action": "touch yellow-green into foreground",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow mixed with sap green",
+   "motion": "just touch",
+   "pressure": "whisper",
+   "where": "foreground",
+   "rule": "yellows are thinner so they stick easier",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "evergreen",
+   "action": "tap evergreens back and forth",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "dark mix loaded on fan",
+   "motion": "tap back and forth",
+   "pressure": "light",
+   "where": "mid ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "trunk/limbs",
+   "action": "tiny trunk indications",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna on brush",
+   "motion": "tiny dab",
+   "pressure": "light",
+   "where": "on evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "evergreen",
+   "action": "pull dark down under evergreens",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "dark on brush corner",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "below evergreens",
+   "rule": "pulling dark down makes a shadow",
+   "new": ""
+  },
+  {
+   "t": "18:54",
+   "subject": "mountain",
+   "action": "small red and yellow hills",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "cad yellow"
+   ],
+   "load": "tiny red with a little yellow",
+   "motion": "tap and drop on top",
+   "pressure": "light",
+   "where": "mid right hill",
+   "rule": "yellow makes the hill stand out",
+   "new": ""
+  },
+  {
+   "t": "19:30",
+   "subject": "evergreen",
+   "action": "tap a taller evergreen with 1in corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "dark mix pulled through 1in",
+   "motion": "tap back and forth",
+   "pressure": "light",
+   "where": "mid ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:35",
+   "subject": "evergreen",
+   "action": "make the evergreen taller",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "pull up taller",
+   "pressure": "light",
+   "where": "same evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "leaf tree",
+   "action": "big tree on the other side",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "let fall down from the top",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:51",
+   "subject": "leaf tree",
+   "action": "bushy tree lower area",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "same dark mix",
+   "motion": "tap and let it work down",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "trunk/limbs",
+   "action": "tree trunk indications",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna on brush",
+   "motion": "tap trunk indications",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "smaller brush is too slow for this",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "other: scraped details",
+   "action": "scrape small marks with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "evergreen",
+   "action": "highlight evergreens lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow and green loaded full",
+   "motion": "dab lightly on tree tops",
+   "pressure": "light",
+   "where": "evergreens",
+   "rule": "evergreens are usually darker, so keep it dark",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "leaf tree",
+   "action": "touch highlights on back trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same mix",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "bush",
+   "action": "layer small bushes in one direction",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "thin yellow-green mix",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "thin paint is needed to stick",
+   "new": ""
+  },
+  {
+   "t": "24:40",
+   "subject": "grass",
+   "action": "tap grassy areas with bouncing strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same mix",
+   "motion": "bounce back and forth",
+   "pressure": "light",
+   "where": "lower front and sides",
+   "rule": "layers push things back and create depth",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "path",
+   "action": "back-and-forth path strokes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix on fan",
+   "motion": "back and forth strokes",
+   "pressure": "light",
+   "where": "across the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:17",
+   "subject": "trunk/limbs",
+   "action": "small sticks and smooth the path",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap in sticks",
+   "pressure": "light",
+   "where": "on path and dark areas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,637 @@
+{
+ "ep": "S11E08",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "black",
+  "titanium white",
+  "liquid white",
+  "bright red",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "lay indian yellow X strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small touch of indian yellow",
+   "motion": "criss-cross X strokes",
+   "pressure": "unknown",
+   "where": "top of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:38",
+   "subject": "sky",
+   "action": "add yellow ochre to sky and lower area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on same brush",
+   "motion": "tap then sweep around",
+   "pressure": "unknown",
+   "where": "sky and lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:19",
+   "subject": "sky",
+   "action": "dance crimson up into sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "crimson tapped into bristles",
+   "motion": "dancing strokes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "sky",
+   "action": "fill sky gaps with lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "crimson with a touch of blue mixed on brush",
+   "motion": "fill small gaps",
+   "pressure": "unknown",
+   "where": "sky gaps",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:34",
+   "subject": "water",
+   "action": "fill water with lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same lavender on brush",
+   "motion": "let it work into water",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "sky",
+   "action": "blend sky colors outward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean brush",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "sky",
+   "new": "blend light colors outward so dark does not spread inward"
+  },
+  {
+   "t": "04:29",
+   "subject": "water",
+   "action": "blend water area flat across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull across flat",
+   "pressure": "unknown",
+   "where": "lower water area",
+   "rule": "water is flat so blend across",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "cloud",
+   "action": "add cloud with 1in and white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "full load of white",
+   "motion": "pull through and dab",
+   "pressure": "unknown",
+   "where": "upper corner sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "cloud",
+   "action": "soften cloud edges with dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "cloud edges",
+   "new": ""
+  },
+  {
+   "t": "07:01",
+   "subject": "mountain",
+   "action": "mix purple mountain color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "black"
+   ],
+   "load": "blue and crimson with a little black",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "mountain mix",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "mountain",
+   "action": "place outer mountain edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "black",
+    "titanium white"
+   ],
+   "load": "purple mix on brush",
+   "motion": "push paint firmly into canvas",
+   "pressure": "firm",
+   "where": "top outer edge of mountain",
+   "rule": "only the outer edge of the mountain matters at this stage",
+   "new": ""
+  },
+  {
+   "t": "08:16",
+   "subject": "mountain",
+   "action": "pull mountain paint down and blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull toward base",
+   "pressure": "unknown",
+   "where": "mountain body",
+   "rule": "wet paint can be moved so blend while wet",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "mountain",
+   "action": "highlight right side with red-white roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "tiny touch of red in white on knife",
+   "motion": "lay light stroke down mountain",
+   "pressure": "whisper",
+   "where": "right side of mountain",
+   "rule": "light comes from the right so highlight the right side",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "mountain",
+   "action": "shadow stroke on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "blue and white roll on knife",
+   "motion": "pull opposite direction",
+   "pressure": "unknown",
+   "where": "mountain shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "mist",
+   "action": "tap mist at mountain base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush",
+   "pressure": "light",
+   "where": "light",
+   "rule": "base of mountain",
+   "new": "haze makes the top of mountains crisper than the base"
+  },
+  {
+   "t": "12:43",
+   "subject": "leaf tree",
+   "action": "mix dark tree color on fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "black",
+    "van dyke brown",
+    "dark sienna",
+    "sap green"
+   ],
+   "load": "dark mix loaded full on fan",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "back area of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "leaf tree",
+   "action": "build small trees with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap with corner",
+   "pressure": "unknown",
+   "where": "back and middle trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "reflection",
+   "action": "pull reflection straight down from tree bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across",
+   "pressure": "unknown",
+   "where": "under tree bottom",
+   "rule": "pulling straight down gives instant reflections",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "water line",
+   "action": "cut in water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "liquid white with smallest bit of red",
+   "motion": "cut across firmly",
+   "pressure": "firm",
+   "where": "horizontal line across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "trunk/limbs",
+   "action": "scratch in tree trunks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scratch",
+   "pressure": "unknown",
+   "where": "various spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:18",
+   "subject": "leaf tree",
+   "action": "paint big tree from top down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "press harder going down",
+   "pressure": "firm",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "bush",
+   "action": "pop in bushes with dark sienna and van dyke",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark sienna and van dyke brown",
+   "motion": "dab in bushes",
+   "pressure": "unknown",
+   "where": "tree base area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "reflection",
+   "action": "reverse brush and drop bush reflections into water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop with reversed brush",
+   "pressure": "unknown",
+   "where": "water area under bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "touch and pull straight down",
+   "pressure": "unknown",
+   "where": "under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "trunk/limbs",
+   "action": "place evergreen trunks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "van dyke brown",
+    "phthalo blue"
+   ],
+   "load": "dark sienna with white brown and blue",
+   "motion": "place trunk shapes",
+   "pressure": "unknown",
+   "where": "evergreen area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:13",
+   "subject": "bush",
+   "action": "tap bushes with thinned mix",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "yellow ochre",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "liquid white with yellow ochre dark sienna and red",
+   "motion": "tap into bushes",
+   "pressure": "unknown",
+   "where": "middle right bushes",
+   "rule": "thin paint sticks to thick paint so thin it",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "reflection",
+   "action": "reflect bush into water",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop into water",
+   "pressure": "unknown",
+   "where": "water under bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:11",
+   "subject": "leaf tree",
+   "action": "layer clumps on big tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "thin bright red and yellow ochre",
+   "motion": "tap clumps in layers",
+   "pressure": "unknown",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "reflection",
+   "action": "pull gentle reflections down from tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down with gentle touch",
+   "pressure": "whisper",
+   "where": "under big tree",
+   "rule": "a gentle touch makes clean mirror reflections",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "path",
+   "action": "paint curved path around",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "curve around in a C shape",
+   "pressure": "unknown",
+   "where": "middle ground",
+   "rule": "the path gives a place to walk",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "bush",
+   "action": "hang bushes over path edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab along path",
+   "pressure": "unknown",
+   "where": "sides of path",
+   "rule": "overlap pushes the path back into the painting",
+   "new": ""
+  },
+  {
+   "t": "23:04",
+   "subject": "land",
+   "action": "drop land touches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little of each on brush",
+   "motion": "pop in small touches",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "water line",
+   "action": "add liquid white water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white",
+   "motion": "lay in line",
+   "pressure": "unknown",
+   "where": "bottom of land",
+   "rule": "the water line is what makes the scene work",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "grass",
+   "action": "break up waterline with grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab grassy areas",
+   "pressure": "unknown",
+   "where": "water line edge",
+   "rule": "grass breaks up the straight line",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "leaf tree",
+   "action": "paint big tree with crook",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on fan brush",
+   "motion": "tap tree shape",
+   "pressure": "unknown",
+   "where": "left side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "leaf tree",
+   "action": "highlight tree with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little red on knife",
+   "motion": "pop in highlights",
+   "pressure": "unknown",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:01",
+   "subject": "trunk/limbs",
+   "action": "add limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "add limbs",
+   "pressure": "unknown",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:39",
+   "subject": "trunk/limbs",
+   "action": "scrape out sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out",
+   "pressure": "unknown",
+   "where": "middle of painting",
+   "rule": "sticks and twigs create the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "26:18",
+   "subject": "leaf tree",
+   "action": "highlight tree with yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre",
+   "motion": "light highlight",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "a light touch keeps the tree dark",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[09:30] too much pressure mushes the paint so keep pressure very light"
+ ]
+}

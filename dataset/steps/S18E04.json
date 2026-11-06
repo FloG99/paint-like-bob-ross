@@ -1,0 +1,509 @@
+{
+ "ep": "S18E04",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "middle",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "cad yellow",
+  "titanium white",
+  "black",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "indian yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:28",
+   "subject": "sky",
+   "action": "lightest area at the horizon",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "tap color into bristles",
+   "motion": "criss-cross x strokes",
+   "pressure": "light",
+   "where": "off-center horizon line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sky",
+   "action": "blend outward from light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "pick up crimson on bristles",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "from lightest area outward",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:44",
+   "subject": "sky",
+   "action": "brighten the light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "add white then yellow to bristles",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "brightest area at the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "sky",
+   "action": "blend outward from brightest area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "same loaded brush",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "brightest area outward",
+   "rule": "keep dirty brush out of light area or it loses brightness",
+   "new": ""
+  },
+  {
+   "t": "02:30",
+   "subject": "other: thin liquid clear coat",
+   "action": "apply thin coat of liquid clear first",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin coat over canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "firm dry paint is hard to rub on black, so clear helps",
+   "new": ""
+  },
+  {
+   "t": "02:55",
+   "subject": "sky",
+   "action": "blend out lightly across canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dry brush",
+   "motion": "blend across",
+   "pressure": "light",
+   "where": "whole sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "bush",
+   "action": "block in bush shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "tap into bristles",
+   "motion": "dab shapes",
+   "pressure": "medium",
+   "where": "lower area of canvas",
+   "rule": "work bottom up so the bush lightens as it rises",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "leaf tree",
+   "action": "basic tree shape",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same loaded brush",
+   "motion": "tap and push",
+   "pressure": "medium",
+   "where": "lower middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:05",
+   "subject": "far trees",
+   "action": "small subdued trees in background",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same brush nearly dry",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:30",
+   "subject": "leaf tree",
+   "action": "darker front tree to stand out",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "add more blue to brush",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "front of canvas",
+   "rule": "darker so it stands out",
+   "new": ""
+  },
+  {
+   "t": "06:45",
+   "subject": "trunk/limbs",
+   "action": "paint thin trunks and stems",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thin with paint thinner to ink consistency",
+   "motion": "flick trunks and stems up",
+   "pressure": "light",
+   "where": "scattered through the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:26",
+   "subject": "trunk/limbs",
+   "action": "bend trunks and add twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same liner brush",
+   "motion": "wiggle stroke",
+   "pressure": "light",
+   "where": "larger trees",
+   "rule": "straight trunks look boring, so bend them",
+   "new": ""
+  },
+  {
+   "t": "09:41",
+   "subject": "leaf tree",
+   "action": "add highlights on trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lighten the mix with white and tap",
+   "motion": "dab light sparkles",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "leaf tree",
+   "action": "darker cool side of tree away from light",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "add phthalo blue to the mix",
+   "motion": "blend into darker side",
+   "pressure": "light",
+   "where": "side away from the light",
+   "rule": "away from light, go darker and cooler",
+   "new": ""
+  },
+  {
+   "t": "13:33",
+   "subject": "grass",
+   "action": "tap green from yellow and black with ochre and red",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "black",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap into bristles",
+   "motion": "tap grass shapes",
+   "pressure": "light",
+   "where": "grass area up high",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "land",
+   "action": "lay dark ground for stream bed",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "cut roll on knife edge",
+   "motion": "lay in stream bed area",
+   "pressure": "medium",
+   "where": "middle of canvas",
+   "rule": "dark ground so the water has room to run",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "land",
+   "action": "highlight the ground with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "cut roll across knife",
+   "motion": "barely graze the ground",
+   "pressure": "whisper",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:56",
+   "subject": "rock",
+   "action": "pull dark down to shape rocks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "same knife",
+   "motion": "pull down short",
+   "pressure": "light",
+   "where": "on the dark ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "water",
+   "action": "pull waterfalls down with thin white and blue",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin with liquid white, least phthalo blue",
+   "motion": "pull and fall down",
+   "pressure": "light",
+   "where": "from the back down over rocks",
+   "rule": "thin paint sticks to thick paint, not the reverse",
+   "new": ""
+  },
+  {
+   "t": "18:28",
+   "subject": "grass",
+   "action": "tap green and yellow grass higher than water",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "black",
+    "yellow ochre"
+   ],
+   "load": "tap into bristles",
+   "motion": "push back toward top",
+   "pressure": "light",
+   "where": "behind the water",
+   "rule": "placed higher so the water looks like it comes from behind",
+   "new": ""
+  },
+  {
+   "t": "19:42",
+   "subject": "water",
+   "action": "pull titanium white straight down for shimmer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pick up canvas color",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "across the water",
+   "rule": "keep lines straight or the painting feels wrong",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "leaf tree",
+   "action": "dark backdrop for big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "tap into bristles",
+   "motion": "dab dark area",
+   "pressure": "medium",
+   "where": "peninsula area",
+   "rule": "dark so the light shows",
+   "new": ""
+  },
+  {
+   "t": "21:34",
+   "subject": "land",
+   "action": "green and ochre peninsula pulled down along angles",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "black",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap into bristles",
+   "motion": "pull down along angles",
+   "pressure": "light",
+   "where": "peninsula from the water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:03",
+   "subject": "bush",
+   "action": "push in a few bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push in",
+   "pressure": "medium",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "bush",
+   "action": "yellow-green bushes with dark gaps",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "phthalo blue",
+    "yellow ochre"
+   ],
+   "load": "tap yellow through the blue",
+   "motion": "tap in bushes",
+   "pressure": "medium",
+   "where": "between the dark bushes",
+   "rule": "leave dark gaps so bushes separate",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "trunk/limbs",
+   "action": "birch trunk up through the tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "cut to edge of knife",
+   "motion": "pull up the trunk",
+   "pressure": "medium",
+   "where": "up top",
+   "rule": "",
+   "new": "birch trunk leaves the oval"
+  },
+  {
+   "t": "24:45",
+   "subject": "trunk/limbs",
+   "action": "highlight the trunk with light roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "cut roll across knife, pull around",
+   "motion": "pull around the trunk",
+   "pressure": "light",
+   "where": "on the trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:37",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs on big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "paint thinner to ink consistency",
+   "motion": "pull limbs up and out",
+   "pressure": "light",
+   "where": "into the sky and out of oval",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:51",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on brush",
+   "motion": "sign with brush",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

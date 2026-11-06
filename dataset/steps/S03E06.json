@@ -1,0 +1,622 @@
+{
+ "ep": "S03E06",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "prussian blue",
+  "cad yellow",
+  "yellow ochre",
+  "permanent red",
+  "sap green",
+  "van dyke brown",
+  "umber",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "other: background wash",
+   "action": "apply background wash",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "crimson with a little blue",
+   "motion": "loose sweep",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:50",
+   "subject": "far trees",
+   "action": "lay in distant tree shapes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "warm yellows with a touch of red",
+   "motion": "tap and pull down",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:21",
+   "subject": "far trees",
+   "action": "add green to distant shapes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "permanent red",
+    "sap green"
+   ],
+   "load": "little sap green added",
+   "motion": "barely touch and pull down",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "back area still needs some green",
+   "new": ""
+  },
+  {
+   "t": "02:45",
+   "subject": "far trees",
+   "action": "soften distant shapes by lifting",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "gentle upward lift",
+   "pressure": "whisper",
+   "where": "far background",
+   "rule": "lifting makes distant shapes look farther away",
+   "new": ""
+  },
+  {
+   "t": "02:45",
+   "subject": "leaf tree",
+   "action": "drop in dark background shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "dark mix of green, crimson and brown",
+   "motion": "push in and let shapes fall",
+   "pressure": "firm",
+   "where": "upper background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:13",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunk",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "umber"
+   ],
+   "load": "brown with a little umber",
+   "motion": "upright stroke",
+   "pressure": "unknown",
+   "where": "near center",
+   "rule": "",
+   "new": "most of it gets covered later"
+  },
+  {
+   "t": "04:44",
+   "subject": "trunk/limbs",
+   "action": "highlight the trunk",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "umber",
+    "titanium white"
+   ],
+   "load": "white mixed into brown and umber",
+   "motion": "light touch on trunk",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "leaf tree",
+   "action": "highlight background trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow and green mix",
+   "motion": "touch and push upward",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "keep it quiet, brighten later in front",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "grass",
+   "action": "grassy strokes in layers",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow ochre added",
+   "motion": "brush sideways, bend upward",
+   "pressure": "unknown",
+   "where": "back to front in layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "leaf tree",
+   "action": "dab leaves on the old big tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "thinned yellow-green mix",
+   "motion": "dab in leaf shapes",
+   "pressure": "unknown",
+   "where": "old big tree",
+   "rule": "thinning helps the paint stick",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "bush",
+   "action": "drop in bush shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same mix",
+   "motion": "drop on",
+   "pressure": "unknown",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "path",
+   "action": "dark base for the road",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown",
+   "motion": "laid in behind bushes",
+   "pressure": "unknown",
+   "where": "back of canvas, around corner",
+   "rule": "dark base first so the light shows",
+   "new": ""
+  },
+  {
+   "t": "08:47",
+   "subject": "path",
+   "action": "highlight the road",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "brown and white with a touch of blue",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "road",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:11",
+   "subject": "bush",
+   "action": "bushes overlap the road",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "a little more yellow and green",
+   "motion": "let bushes come up over road",
+   "pressure": "light",
+   "where": "road edge",
+   "rule": "overlap creates illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "09:11",
+   "subject": "other: dark background mass",
+   "action": "throw very dark mass",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "dark mix, mostly green",
+   "motion": "push in",
+   "pressure": "firm",
+   "where": "both sides",
+   "rule": "prussian blue added to darken the mix",
+   "new": ""
+  },
+  {
+   "t": "10:06",
+   "subject": "structure",
+   "action": "scrape out bridge shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle scrape",
+   "pressure": "whisper",
+   "where": "center of canvas",
+   "rule": "scraping clears loose paint so the next layer sticks",
+   "new": ""
+  },
+  {
+   "t": "11:46",
+   "subject": "structure",
+   "action": "fill bridge with van dyke brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "lay in and firm up the edge",
+   "pressure": "firm",
+   "where": "bridge area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:43",
+   "subject": "structure",
+   "action": "fill back of bridge first",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "drop brown in",
+   "pressure": "firm",
+   "where": "back of bridge",
+   "rule": "back section first so the bridge reads see-through",
+   "new": ""
+  },
+  {
+   "t": "13:09",
+   "subject": "structure",
+   "action": "faint light on back of bridge",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown with a little white",
+   "motion": "faint indications",
+   "pressure": "light",
+   "where": "back of bridge",
+   "rule": "front goes on so the light shows better",
+   "new": ""
+  },
+  {
+   "t": "14:05",
+   "subject": "structure",
+   "action": "boards on bridge front",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "umber",
+    "titanium white"
+   ],
+   "load": "brown, umber and white mixed marbly",
+   "motion": "pull boards down with gaps",
+   "pressure": "light",
+   "where": "bridge front",
+   "rule": "makes it look like old hanging boards",
+   "new": ""
+  },
+  {
+   "t": "16:14",
+   "subject": "structure",
+   "action": "dark interior shadows",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "pull down in shadow area",
+   "pressure": "unknown",
+   "where": "inside bridge",
+   "rule": "the area is in shadow so it stays dark",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "structure",
+   "action": "add beam and straighten bridge edge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "straight line across",
+   "pressure": "firm",
+   "where": "bridge edge",
+   "rule": "adds depth to the bridge",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "structure",
+   "action": "plank marks",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "lightly touch to make planks",
+   "pressure": "light",
+   "where": "bridge front",
+   "rule": "creates the illusion of wooden planks",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "water",
+   "action": "very dark recessed area with water",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "fill dark, darkest at bottom",
+   "pressure": "firm",
+   "where": "bottom of bridge area",
+   "rule": "makes it look like a recessed area with water",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "other: upper background",
+   "action": "fill upper canvas with green",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green",
+   "motion": "fill",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:11",
+   "subject": "other: cattails",
+   "action": "thin brown stems and cattail heads",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned to an ink-like wash",
+   "motion": "stems then push down for heads",
+   "pressure": "firm",
+   "where": "near water edge",
+   "rule": "suggests water without painting any",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "grass",
+   "action": "grassy areas in the front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "thinned yellow-green mix",
+   "motion": "drag down into the front",
+   "pressure": "unknown",
+   "where": "front, near road",
+   "rule": "bridge is little used so grass takes the road back",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "trunk/limbs",
+   "action": "block in big tree trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "drop in trunk shape",
+   "pressure": "unknown",
+   "where": "big tree location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:26",
+   "subject": "trunk/limbs",
+   "action": "large limb reaching over the bridge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "limb out over bridge",
+   "pressure": "unknown",
+   "where": "upper right",
+   "rule": "limb shades the bridge",
+   "new": ""
+  },
+  {
+   "t": "22:16",
+   "subject": "trunk/limbs",
+   "action": "highlight tree limbs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "brown and white with a touch of red",
+   "motion": "light highlight strokes",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:43",
+   "subject": "fence",
+   "action": "drop in fence posts",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "short upright posts",
+   "pressure": "unknown",
+   "where": "front of road",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:42",
+   "subject": "fence",
+   "action": "highlight the posts",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "tap highlight on posts",
+   "pressure": "light",
+   "where": "fence posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "leaf tree",
+   "action": "dark leaf indications",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "green and brown mix",
+   "motion": "dab indications",
+   "pressure": "unknown",
+   "where": "big tree",
+   "rule": "dark first, highlights come after",
+   "new": ""
+  },
+  {
+   "t": "24:32",
+   "subject": "leaf tree",
+   "action": "bright leaf highlights",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow with a little green",
+   "motion": "let leaves fall off brush",
+   "pressure": "unknown",
+   "where": "upper tree leaves",
+   "rule": "needs to be bright enough to stand out",
+   "new": ""
+  },
+  {
+   "t": "25:24",
+   "subject": "grass",
+   "action": "grass around base of big tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small grass strokes",
+   "pressure": "unknown",
+   "where": "base of big tree",
+   "rule": "hides the base of the tree",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "red thinned with oil",
+   "motion": "small signature",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

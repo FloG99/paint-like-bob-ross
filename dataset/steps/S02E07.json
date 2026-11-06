@@ -1,0 +1,796 @@
+{
+ "ep": "S02E07",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "phthalo green",
+  "alizarin crimson",
+  "van dyke brown",
+  "titanium white",
+  "permanent red",
+  "burnt umber",
+  "cad yellow",
+  "yellow ochre",
+  "sap green",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:30",
+   "subject": "sky",
+   "action": "X strokes across top with prussian blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "tiny bit",
+   "motion": "little X strokes",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:01",
+   "subject": "water",
+   "action": "pull water from outside toward center",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "phthalo green"
+   ],
+   "load": "more blue and a little phthalo green",
+   "motion": "pull from outside toward center, bottom to top",
+   "pressure": "unknown",
+   "where": "lower canvas",
+   "rule": "leaving an open center makes a light sheen",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "sky",
+   "action": "blend sky out from light area upward with clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "keeping some strokes keeps the sky from going dull",
+   "new": ""
+  },
+  {
+   "t": "02:24",
+   "subject": "cloud",
+   "action": "mix dark clouds from prussian blue van dyke and crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "small circular patterns",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:48",
+   "subject": "cloud",
+   "action": "sunlit cloud tops with fan corner tiny circles",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "smallest bit of red",
+   "motion": "tiny circles with corner",
+   "pressure": "unknown",
+   "where": "tops of clouds",
+   "rule": "to show sunlight on top of the clouds",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "cloud",
+   "action": "blend cloud bottoms with large brush and fluff",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend bottom then fluff",
+   "pressure": "light",
+   "where": "cloud bottoms",
+   "rule": "stringies disappear once blended together",
+   "new": ""
+  },
+  {
+   "t": "06:14",
+   "subject": "mountain",
+   "action": "push van dyke brown peak onto canvas with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a lot of paint on knife",
+   "motion": "push paint onto canvas",
+   "pressure": "firm",
+   "where": "upper center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:41",
+   "subject": "mountain",
+   "action": "blend mountain bottom and lift upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend bottom then lift up",
+   "pressure": "light",
+   "where": "mountain bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:09",
+   "subject": "mountain",
+   "action": "mix burnt umber cad yellow and yellow ochre for highlights",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "mixed on brush",
+   "motion": "mix marbly",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "do not mix it until dead so variety stays",
+   "new": ""
+  },
+  {
+   "t": "07:32",
+   "subject": "mountain",
+   "action": "touch highlights on mountain and hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "let the paint flow",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "mountain and hill",
+   "new": ""
+  },
+  {
+   "t": "08:49",
+   "subject": "mountain",
+   "action": "mix shadow color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "mixed",
+   "motion": "mix",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:14",
+   "subject": "mountain",
+   "action": "place shadows along highlights",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "place shadows leaving open spots",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "mountain highlights",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "mountain",
+   "action": "shadow right behind each highlight",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "highlight edges",
+   "new": "every highlight needs its own shadow"
+  },
+  {
+   "t": "10:24",
+   "subject": "rock",
+   "action": "more highlight color for rocks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "mountain rocks",
+   "new": ""
+  },
+  {
+   "t": "10:52",
+   "subject": "snow",
+   "action": "lay in snow along contour",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "mountain shadows",
+   "new": ""
+  },
+  {
+   "t": "11:16",
+   "subject": "mountain",
+   "action": "bring shadows together with clean knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull together",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "mountain shadows",
+   "new": ""
+  },
+  {
+   "t": "11:40",
+   "subject": "land",
+   "action": "drop sap green into bottom area",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "tiny bit",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:01",
+   "subject": "grass",
+   "action": "lift sap green in layers up mountain side",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "",
+   "motion": "lift upward in layers",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "mountain side",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "grass",
+   "action": "pop yellow highlights on grass",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "a little cad yellow",
+   "motion": "bend bristles and pop",
+   "pressure": "unknown",
+   "where": "grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:50",
+   "subject": "rock",
+   "action": "add little rock with highlight color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "dab rock",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "grass area",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "grass",
+   "action": "lift to bring together",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift",
+   "pressure": "light",
+   "where": "grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:47",
+   "subject": "far trees",
+   "action": "small evergreen indications",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "mixed equal parts",
+   "motion": "fan indications",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "less detail shows distance",
+   "new": ""
+  },
+  {
+   "t": "14:36",
+   "subject": "far trees",
+   "action": "bring tree tops together with 1in brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:02",
+   "subject": "far trees",
+   "action": "fan little trees on hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "touch and tap trees",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "hill",
+   "new": "fan makes many trees quickly"
+  },
+  {
+   "t": "15:37",
+   "subject": "evergreen",
+   "action": "build closer evergreen with touches",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "touch and build",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "middle hill",
+   "new": ""
+  },
+  {
+   "t": "16:29",
+   "subject": "grass",
+   "action": "grass up hill with thinned green and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "magic white"
+   ],
+   "load": "tiniest magic white to thin",
+   "motion": "run up hill",
+   "pressure": "unknown",
+   "where": "back hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "reflection",
+   "action": "pull down under hill with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across",
+   "pressure": "firm",
+   "where": "under hill",
+   "rule": "reflection look comes from pulling down",
+   "new": ""
+  },
+  {
+   "t": "17:25",
+   "subject": "water line",
+   "action": "magic white and van dyke water lines",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "small amount of van dyke",
+   "motion": "lines across",
+   "pressure": "unknown",
+   "where": "back water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:50",
+   "subject": "evergreen",
+   "action": "evergreen with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "load a lot",
+   "motion": "press and pull",
+   "pressure": "unknown",
+   "where": "side of canvas",
+   "rule": "big brush does fantastic things",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "evergreen",
+   "action": "another tree with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "bounce and drop",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "right side",
+   "new": ""
+  },
+  {
+   "t": "19:06",
+   "subject": "evergreen",
+   "action": "big tree on other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "lot of paint",
+   "motion": "press and pull",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "land",
+   "action": "bring dark land mass down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "middle, down",
+   "new": ""
+  },
+  {
+   "t": "20:00",
+   "subject": "reflection",
+   "action": "pull straight down with dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "trunk/limbs",
+   "action": "tree trunk marks with burnt umber and white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lay trunk marks",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "tree bases",
+   "new": ""
+  },
+  {
+   "t": "20:59",
+   "subject": "far trees",
+   "action": "little trees here and there",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "let them fall in",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "around canvas",
+   "new": ""
+  },
+  {
+   "t": "21:23",
+   "subject": "evergreen",
+   "action": "highlights on big trees with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow first then green on top",
+   "motion": "bounce and play",
+   "pressure": "light",
+   "where": "big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:17",
+   "subject": "reflection",
+   "action": "pop reflections into water with yellow and green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "pop in",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "water",
+   "new": ""
+  },
+  {
+   "t": "22:38",
+   "subject": "grass",
+   "action": "bend fan upward to bring together",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "touch and bend upward",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "grass",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "land",
+   "action": "create bank with brown and burnt umber",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "create bank",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "right side bank",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "land",
+   "action": "bank highlight with brown white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "least touch of blue",
+   "motion": "highlight",
+   "pressure": "unknown",
+   "where": "bank",
+   "rule": "a touch of blue adds flavor",
+   "new": ""
+  },
+  {
+   "t": "23:31",
+   "subject": "reflection",
+   "action": "pull a few things down with clean dry brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "thinned with magic white",
+   "motion": "lightly across",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "grass",
+   "action": "grassy things up on hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "small grass strokes",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "upper hill",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "rock",
+   "action": "stone highlight with mountain highlight color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "stone",
+   "new": "a little grass underneath makes it come together"
+  },
+  {
+   "t": "25:00",
+   "subject": "trunk/limbs",
+   "action": "sticks with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "small roll",
+   "motion": "touch sticks",
+   "pressure": "unknown",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "bush",
+   "action": "one more bush between two",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "",
+   "motion": "dab bush",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "between two bushes",
+   "new": ""
+  },
+  {
+   "t": "25:26",
+   "subject": "rock",
+   "action": "rock highlight and little dirt bits",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "touch in rock bits",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "rocky area",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

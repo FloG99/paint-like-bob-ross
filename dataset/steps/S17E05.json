@@ -1,0 +1,647 @@
+{
+ "ep": "S17E05",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "black",
+  "Prussian blue",
+  "sap green",
+  "alizarin crimson",
+  "titanium white",
+  "dark sienna",
+  "bright red",
+  "yellow ochre",
+  "Indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:51",
+   "subject": "sky",
+   "action": "blend blue sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount tapped into bristles",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:30",
+   "subject": "water",
+   "action": "add water across bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same color with a little more blue",
+   "motion": "come across from the other side",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "leave a gap open so light sheens across the water",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "water",
+   "action": "blend water area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "washed brush",
+   "motion": "blend across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "cloud",
+   "action": "paint small dark clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "prussian blue"
+   ],
+   "load": "very little paint, mostly black",
+   "motion": "small round circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:27",
+   "subject": "cloud",
+   "action": "add cloud highlights",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of white loaded on fan",
+   "motion": "tiny circular strokes",
+   "pressure": "light",
+   "where": "upper cloud edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:04",
+   "subject": "far trees",
+   "action": "tap in background tree shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "sap green",
+    "van dyke brown",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mixed on round brush",
+   "motion": "tap firmly in basic shapes",
+   "pressure": "firm",
+   "where": "back of canvas",
+   "rule": "dark base so light shapes show when added later",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "mist",
+   "action": "soften base of trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap base to soften",
+   "pressure": "light",
+   "where": "base of background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:06",
+   "subject": "trunk/limbs",
+   "action": "add thin tree trunks and sticks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "thin mix with paint thinner",
+   "motion": "tap in thin lines",
+   "pressure": "light",
+   "where": "background tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "bush",
+   "action": "tap in yellow highlights above dark",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "sap green"
+   ],
+   "load": "liquid white to thin, tapped into bristles",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "slightly above the dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:41",
+   "subject": "structure",
+   "action": "block in sea wall shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll of paint on knife edge",
+   "motion": "touch and pull down",
+   "pressure": "unknown",
+   "where": "back, behind water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:19",
+   "subject": "reflection",
+   "action": "pull reflection under wall",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean large brush",
+   "motion": "pull down, then go lightly across",
+   "pressure": "light",
+   "where": "under the wall",
+   "rule": "clear medium keeps color from distorting, unlike liquid white",
+   "new": ""
+  },
+  {
+   "t": "11:57",
+   "subject": "structure",
+   "action": "scrape out boards with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "push to remove paint",
+   "pressure": "firm",
+   "where": "front of structure",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:35",
+   "subject": "structure",
+   "action": "scrape out building shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out basic shape",
+   "pressure": "firm",
+   "where": "old building spot",
+   "rule": "scraping away excess keeps later color firm",
+   "new": ""
+  },
+  {
+   "t": "12:35",
+   "subject": "structure",
+   "action": "block in roof line and edges",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "roll of paint on knife edge",
+   "motion": "block in firmly",
+   "pressure": "firm",
+   "where": "top of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:15",
+   "subject": "reflection",
+   "action": "pull reflection under building",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down, then go lightly across",
+   "pressure": "light",
+   "where": "under the building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "structure",
+   "action": "tilt knife to scrape boards",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "tilt knife and scrape",
+   "pressure": "firm",
+   "where": "front of building",
+   "rule": "weathered, uneven boards give the building character",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "structure",
+   "action": "scrape out doors and windows",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out shapes",
+   "pressure": "firm",
+   "where": "across building front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:47",
+   "subject": "structure",
+   "action": "lay in walkway with dark line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black"
+   ],
+   "load": "",
+   "motion": "scrape walkway, dark line under",
+   "pressure": "firm",
+   "where": "building front",
+   "rule": "dark line underneath makes the walkway stand out",
+   "new": ""
+  },
+  {
+   "t": "15:47",
+   "subject": "water line",
+   "action": "cut in water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "small roll of paint",
+   "motion": "scrape in water line",
+   "pressure": "firm",
+   "where": "across the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "structure",
+   "action": "add posts and their reflections",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "phthalo blue"
+   ],
+   "load": "a little black",
+   "motion": "touch, pull down and across",
+   "pressure": "light",
+   "where": "under the walkway",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "water",
+   "action": "add water behind posts",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "liquid white with a little blue",
+   "motion": "water line behind",
+   "pressure": "light",
+   "where": "behind the posts",
+   "rule": "paint the farthest part first so water sits behind it",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "structure",
+   "action": "scrape highlight along posts",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape along posts",
+   "pressure": "light",
+   "where": "along the posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "structure",
+   "action": "block in big dark building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "van dyke brown"
+   ],
+   "load": "mostly black",
+   "motion": "block in roof and body",
+   "pressure": "firm",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:26",
+   "subject": "reflection",
+   "action": "pull reflection under building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "pull down under building",
+   "pressure": "light",
+   "where": "under the building",
+   "rule": "without a reflection the object looks like it floats",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "structure",
+   "action": "scrape random spots for stone look",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pick off little spots",
+   "pressure": "firm",
+   "where": "building face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "structure",
+   "action": "add red roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "dark sienna and bright red mixed, roll on knife",
+   "motion": "lay roof down",
+   "pressure": "firm",
+   "where": "top of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:21",
+   "subject": "structure",
+   "action": "add black window",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black"
+   ],
+   "load": "",
+   "motion": "lay in window",
+   "pressure": "firm",
+   "where": "building front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:00",
+   "subject": "structure",
+   "action": "scrape window highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape around window",
+   "pressure": "firm",
+   "where": "around window",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:38",
+   "subject": "structure",
+   "action": "lay walkway and top rail",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black"
+   ],
+   "load": "",
+   "motion": "lay in walkway, scrape top",
+   "pressure": "firm",
+   "where": "top of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "structure",
+   "action": "scrape rail and post highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape along rail and posts",
+   "pressure": "firm",
+   "where": "rail area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "structure",
+   "action": "scrape ledge highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape a little paint off",
+   "pressure": "firm",
+   "where": "ledge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "leaf tree",
+   "action": "block in big tree shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "basic shape",
+   "pressure": "light",
+   "where": "big tree, right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "reflection",
+   "action": "pull reflection under tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down, then across",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:51",
+   "subject": "trunk/limbs",
+   "action": "drop in tree trunk",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "little white and dark sienna on fan",
+   "motion": "drop in trunk",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "leaf tree",
+   "action": "highlight big tree form",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "build form and shape",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "bush",
+   "action": "drop in individual bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "varied colors",
+   "motion": "drop in shapes",
+   "pressure": "light",
+   "where": "back, middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:46",
+   "subject": "water line",
+   "action": "cut in water line",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small amount",
+   "motion": "draw water line",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:46",
+   "subject": "land",
+   "action": "add land mass",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown with a little white",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "right side, below trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:46",
+   "subject": "bush",
+   "action": "pop in small items",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "pop in small items",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,696 @@
+{
+ "ep": "S08E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "midnight black",
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "liquid white",
+  "yellow ochre",
+  "cad yellow",
+  "dark sienna",
+  "lavender"
+ ],
+ "steps": [
+  {
+   "t": "00:02",
+   "subject": "sky",
+   "action": "crisscross indian yellow near horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiniest bit tapped onto brush",
+   "motion": "crisscross strokes where horizon will be",
+   "pressure": "light",
+   "where": "horizon area",
+   "rule": "",
+   "new": "over the wet liquid white base"
+  },
+  {
+   "t": "00:40",
+   "subject": "sky",
+   "action": "add alizarin crimson above yellow and blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "indian yellow"
+   ],
+   "load": "small amount of crimson, brush not cleaned",
+   "motion": "crisscross strokes and blend together",
+   "pressure": "light",
+   "where": "sky above yellow",
+   "rule": "",
+   "new": "colors reflect in the snow below"
+  },
+  {
+   "t": "01:21",
+   "subject": "sky",
+   "action": "add midnight black and phthalo blue to sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "very small black and a tiny bit of blue",
+   "motion": "crisscross strokes, sky shapes with arms",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": "strong colors, use sparingly"
+  },
+  {
+   "t": "02:37",
+   "subject": "sky",
+   "action": "blend sky with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend with crisscross strokes",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "mountain",
+   "action": "lay foothill shapes with corner of brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "black, blue and white mixed on brush",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "back foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "mist",
+   "action": "tap base of foothills, lift upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush, no new paint",
+   "motion": "tap base firmly, then lift upward",
+   "pressure": "firm",
+   "where": "base of foothills",
+   "rule": "misty area is the only separator between layers",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "mountain",
+   "action": "lay second foothill layer, darker",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "same colors, a little more black",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "front foothills",
+   "rule": "things closer to you should get darker",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "mist",
+   "action": "soften base of second layer, lift upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush, no new paint",
+   "motion": "tap base, lift upward",
+   "pressure": "light",
+   "where": "base of foothills",
+   "rule": "misty area is the separator, do not kill it",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "bush",
+   "action": "pop thin bushes with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "thin liquid white with a little blue",
+   "motion": "touch and pop upward",
+   "pressure": "light",
+   "where": "near foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "snow",
+   "action": "load fan for snow with white and bright red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "fan loaded full with white and least touch of red",
+   "motion": "load both sides, then move to canvas",
+   "pressure": "unknown",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:03",
+   "subject": "snow",
+   "action": "pull snow shapes for lay of the land",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "same fan with occasional blue",
+   "motion": "pull and shape shadows and highlights",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": "occasional blue adds cool spots"
+  },
+  {
+   "t": "07:40",
+   "subject": "snow",
+   "action": "add indian yellow to make snow shine",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "little indian yellow tapped in",
+   "motion": "tap here and there",
+   "pressure": "light",
+   "where": "snow areas",
+   "rule": "snow reflects the sky, so yellow makes it shine",
+   "new": ""
+  },
+  {
+   "t": "09:02",
+   "subject": "evergreen",
+   "action": "paint evergreens with corner of fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "fan loaded full with dark mix",
+   "motion": "back and forth with corner, bristles bending",
+   "pressure": "unknown",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:20",
+   "subject": "snow",
+   "action": "add snow on evergreen branches",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "fan with white and a little blue",
+   "motion": "tap a little snow onto branches",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "keeping dark contrast helps trees stand out",
+   "new": ""
+  },
+  {
+   "t": "10:58",
+   "subject": "land",
+   "action": "pull lay of the land out from under tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "snow colors left on fan",
+   "motion": "pull shape out and up",
+   "pressure": "light",
+   "where": "hill behind tree",
+   "rule": "tree sits on a little hill, where it is happy",
+   "new": ""
+  },
+  {
+   "t": "12:13",
+   "subject": "bush",
+   "action": "paint basic tree shapes, darkest at bottom",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mixed on round brush",
+   "motion": "tap basic shapes, starting at bottom",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "darker bottom gives deeper shadows",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "trunk/limbs",
+   "action": "add small trunks with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned brown on liner",
+   "motion": "drop in trunks here and there",
+   "pressure": "whisper",
+   "where": "between trees",
+   "rule": "trunks hold up the trees and shrubs",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "bush",
+   "action": "add yellow highlights on tops",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "round brush with yellows and least touch of red",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "tops of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:47",
+   "subject": "bush",
+   "action": "tap bush with corner of brush",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "cad yellow"
+   ],
+   "load": "yellows thinned slightly",
+   "motion": "tap just barely",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "yellow paints are thinner so they stick",
+   "new": ""
+  },
+  {
+   "t": "15:24",
+   "subject": "land",
+   "action": "pull brown shadows out of snow with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on fan from before",
+   "motion": "pull down to make shadow",
+   "pressure": "light",
+   "where": "snow edges",
+   "rule": "",
+   "new": "brown in snow is fine"
+  },
+  {
+   "t": "16:02",
+   "subject": "bush",
+   "action": "add yellow highlights on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "same yellows on fan",
+   "motion": "tap a few highlights",
+   "pressure": "light",
+   "where": "other side bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "structure",
+   "action": "lay back eave of cabin with brown on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown roll on knife",
+   "motion": "pull straight across",
+   "pressure": "unknown",
+   "where": "cabin back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "structure",
+   "action": "lay front and side of cabin",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "pull front and side in place",
+   "pressure": "unknown",
+   "where": "cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:55",
+   "subject": "structure",
+   "action": "shade cabin side with light gray",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "phthalo blue"
+   ],
+   "load": "light gray on knife",
+   "motion": "touch and let paint break",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:35",
+   "subject": "structure",
+   "action": "scrape out basic roof shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "scrape out the basic shape",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "scraping removes loose paint underneath",
+   "new": ""
+  },
+  {
+   "t": "19:19",
+   "subject": "structure",
+   "action": "cut door shape with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "cut door shape",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:19",
+   "subject": "structure",
+   "action": "highlight boards with dark sienna and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna with white on knife",
+   "motion": "touch and lay highlight",
+   "pressure": "light",
+   "where": "cabin boards",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "path",
+   "action": "paint path with lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson and blue mixed on knife",
+   "motion": "touch and draw path",
+   "pressure": "light",
+   "where": "path to cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "bush",
+   "action": "tap bushes around cabin edge with round brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "round brush with yellows and touch of red",
+   "motion": "tap in bushes around cabin",
+   "pressure": "light",
+   "where": "cabin edge",
+   "rule": "bushes set the cabin back into the painting",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "fence",
+   "action": "pull fence with liner dipped in liquid black",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liner loaded with liquid black",
+   "motion": "pull down and let it go",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "snow",
+   "action": "lay snow on fence with liquid white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liner with liquid white",
+   "motion": "lay a little snow on top",
+   "pressure": "light",
+   "where": "fence top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:55",
+   "subject": "leaf tree",
+   "action": "paint big tree with same brown brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same round brush, not cleaned",
+   "motion": "block in basic big tree shape",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "leaf tree",
+   "action": "pull brown limbs, turning brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "turn brush while pulling down",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "turning the brush keeps the tree from looking stiff",
+   "new": ""
+  },
+  {
+   "t": "23:13",
+   "subject": "bush",
+   "action": "tap warm highlights on tree",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows with a touch of red",
+   "motion": "tap warm highlights",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:52",
+   "subject": "bush",
+   "action": "add cold blue-white accents",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed",
+   "motion": "tap one or more",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "a cold note balances the warm colors",
+   "new": ""
+  },
+  {
+   "t": "24:32",
+   "subject": "land",
+   "action": "change plane angle with blue and pink mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "little blue and pink on fan",
+   "motion": "pull plane at a new angle",
+   "pressure": "light",
+   "where": "overlap area",
+   "rule": "changing angles makes planes overlap",
+   "new": ""
+  },
+  {
+   "t": "25:09",
+   "subject": "bush",
+   "action": "tap small bushes and weeds down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on fan",
+   "motion": "tap down",
+   "pressure": "light",
+   "where": "lower edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "leaf tree",
+   "action": "paint big tree with brown and midnight black",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "brown and black mixed on brush",
+   "motion": "tap basic big tree shape",
+   "pressure": "light",
+   "where": "right area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "leaf tree",
+   "action": "add dark sienna and white highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna with white",
+   "motion": "tap a few highlights",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "fence",
+   "action": "add fence posts with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "lay small post lines",
+   "pressure": "light",
+   "where": "fence area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:04",
+   "subject": "trunk/limbs",
+   "action": "paint limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "tap a few limbs here and there",
+   "pressure": "whisper",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

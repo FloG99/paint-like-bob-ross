@@ -1,0 +1,440 @@
+{
+ "ep": "S09E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "sap green",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "drop in sky color with X strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "tap firmly, add midnight black",
+   "motion": "little X strokes going down",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:18",
+   "subject": "sky",
+   "action": "blend out background strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same dirty brush",
+   "motion": "back and forth blend",
+   "pressure": "light",
+   "where": "background",
+   "rule": "keeps background quick to save time for foreground",
+   "new": ""
+  },
+  {
+   "t": "01:18",
+   "subject": "mountain",
+   "action": "lavender far hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mix lavender on brush",
+   "motion": "tap in, lighter as it moves down",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:39",
+   "subject": "mountain",
+   "action": "dark base for far hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same dirty brush, load browns",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "back of hill",
+   "rule": "dark base lets later lighter color show",
+   "new": ""
+  },
+  {
+   "t": "03:17",
+   "subject": "mountain",
+   "action": "yellow-green hill layer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow",
+    "sap green"
+   ],
+   "load": "same dirty brush, load yellows and sap green",
+   "motion": "tap firmly, barely touch",
+   "pressure": "light",
+   "where": "on hill line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:13",
+   "subject": "mountain",
+   "action": "dark layer toward front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same dirty brush, reload browns",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "closer things are darker",
+   "new": ""
+  },
+  {
+   "t": "05:50",
+   "subject": "land",
+   "action": "fill rest of canvas dark",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "drop in big strokes",
+   "pressure": "light",
+   "where": "rest of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:30",
+   "subject": "mountain",
+   "action": "another hill layer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same dirty brush, reload yellows and sap green",
+   "motion": "tap and touch, let it wander",
+   "pressure": "light",
+   "where": "middle hill line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "structure",
+   "action": "scrape basic house outline",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "take a little paint",
+   "motion": "scrape basic shape",
+   "pressure": "unknown",
+   "where": "middle right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:03",
+   "subject": "structure",
+   "action": "fill house with dark brown",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "load fan brush with browns",
+   "motion": "push hard into canvas",
+   "pressure": "hard",
+   "where": "house outline",
+   "rule": "blocking in color, separate later",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "structure",
+   "action": "block in small shed",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brush",
+   "motion": "push and pull",
+   "pressure": "hard",
+   "where": "beside house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "structure",
+   "action": "knife roll for shingles",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mix reddish brown on palette",
+   "motion": "pull edge across back roof",
+   "pressure": "light",
+   "where": "back of house roof",
+   "rule": "can be cut off when the other building goes on",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "structure",
+   "action": "gray board lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix gray on palette",
+   "motion": "clean knife, pull down lightly",
+   "pressure": "light",
+   "where": "building face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:34",
+   "subject": "structure",
+   "action": "darker gray shadow side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mix darker gray",
+   "motion": "pull boards down",
+   "pressure": "light",
+   "where": "shadow side of house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:14",
+   "subject": "structure",
+   "action": "window with light gray edges",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mix gray for edges",
+   "motion": "touch and clean edges",
+   "pressure": "light",
+   "where": "front of house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:32",
+   "subject": "structure",
+   "action": "bottom-row shingles on roof",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "pop in marks with knife edge",
+   "motion": "tap in short marks, bottom up",
+   "pressure": "light",
+   "where": "roof side",
+   "rule": "bottom row first so rain does not slip under",
+   "new": ""
+  },
+  {
+   "t": "16:08",
+   "subject": "structure",
+   "action": "white highlight on roof edge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "take a little white",
+   "motion": "tap and pull across",
+   "pressure": "light",
+   "where": "roof edge",
+   "rule": "makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "16:47",
+   "subject": "land",
+   "action": "tap grass at base of house",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same brush with grass color",
+   "motion": "tap in grass at base",
+   "pressure": "light",
+   "where": "base of house",
+   "rule": "thin only a touch so paint does not drip",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dip in liquid clear and midnight black",
+   "motion": "pull up trunk",
+   "pressure": "medium",
+   "where": "right of house",
+   "rule": "thin paint so it slides on canvas",
+   "new": ""
+  },
+  {
+   "t": "20:02",
+   "subject": "trunk/limbs",
+   "action": "thin liner limbs across tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin with liquid clear to near water",
+   "motion": "pull to sharp point, drop in limbs",
+   "pressure": "light",
+   "where": "all over tree",
+   "rule": "keep limbs crossing trunk so tree is not split in half",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "leaf tree",
+   "action": "tap in leaf clusters",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "load old brush with browns",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "second tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "leaf tree",
+   "action": "highlight leaves with yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "no cleaning brush, go into yellow ochre",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "left side of leaves",
+   "rule": "light from the left so left side is brighter",
+   "new": ""
+  },
+  {
+   "t": "25:14",
+   "subject": "fence",
+   "action": "block in fence line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "load gray and white",
+   "motion": "paint post line with shadows",
+   "pressure": "light",
+   "where": "across middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:52",
+   "subject": "fence",
+   "action": "posts closer are bigger and farther apart",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown with white highlight",
+   "motion": "pull shadow out",
+   "pressure": "light",
+   "where": "fence posts",
+   "rule": "spacing creates illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "26:33",
+   "subject": "fence",
+   "action": "leave one gap for gate",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

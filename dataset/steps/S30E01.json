@@ -1,0 +1,345 @@
+{
+ "ep": "S30E01",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "alizarin crimson",
+  "sap green",
+  "titanium white",
+  "midnight black",
+  "van dyke brown",
+  "cad yellow",
+  "indian yellow",
+  "bright red",
+  "phthalo blue",
+  "liquid white",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "01:50",
+   "subject": "sky",
+   "action": "cover sky with yellow ochre",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "little yellow ochre on brush",
+   "motion": "paint over gesso",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "ochre is transparent, so gesso designs still show",
+   "new": ""
+  },
+  {
+   "t": "03:02",
+   "subject": "other: outer edges",
+   "action": "blend dark brown inward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown from sap green and crimson",
+   "motion": "crisscross strokes from outside in",
+   "pressure": "light",
+   "where": "outer edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "sun/glow",
+   "action": "place light spot with white",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "corner of brush",
+   "motion": "work outward",
+   "pressure": "light",
+   "where": "light spot up in sky",
+   "rule": "the brightest spot is where to start",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "leaf tree",
+   "action": "paint dark foliage clusters",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "push and tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "dark gesso areas already give shadows",
+   "new": ""
+  },
+  {
+   "t": "08:47",
+   "subject": "trunk/limbs",
+   "action": "paint thin tree trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dab in trunks",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "10:04",
+   "subject": "leaf tree",
+   "action": "paint foliage with greens",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "cad yellow",
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "black into yellow for green, then sap green",
+   "motion": "push upward and tap",
+   "pressure": "light",
+   "where": "across bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "bush",
+   "action": "tap lacy bush highlights",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin with liquid white",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "waterfall",
+   "action": "zip waterfall down",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "zip down",
+   "pressure": "light",
+   "where": "right of the bushes",
+   "rule": "",
+   "new": "splash at base"
+  },
+  {
+   "t": "16:09",
+   "subject": "rock",
+   "action": "mix ledge colors",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed on palette",
+   "motion": "clean off a spot to work",
+   "pressure": "light",
+   "where": "ledge spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "rock",
+   "action": "thin ledge color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dip in thinner",
+   "pressure": "light",
+   "where": "ledge spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "rock",
+   "action": "rocks with filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "liquid white"
+   ],
+   "load": "dark on both sides, light on one side",
+   "motion": "one stroke",
+   "pressure": "light",
+   "where": "ledge area",
+   "rule": "rocks hold the waterfall in place",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "leaf tree",
+   "action": "paint big gnarly tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "black and brown mixed",
+   "motion": "push up",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": "big root and arms"
+  },
+  {
+   "t": "19:14",
+   "subject": "trunk/limbs",
+   "action": "pick out thin arms and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "thinned to ink with paint thinner",
+   "motion": "turn bristles, then draw",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "enough thinner lets it slide over thick paint",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "trunk/limbs",
+   "action": "highlight tree edge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray from white and black",
+   "motion": "lay along edge, blend back",
+   "pressure": "light",
+   "where": "edge of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "leaf tree",
+   "action": "tap leaves on tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "black and sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:02",
+   "subject": "leaf tree",
+   "action": "tap dark highlights on tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "quite a bit of sap green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of tree",
+   "rule": "stay dark so the eye does not drift to the top",
+   "new": ""
+  },
+  {
+   "t": "23:00",
+   "subject": "grass",
+   "action": "tap grassy area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "scattered in tree",
+   "rule": "sticks show different planes",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "other: signature",
+   "action": "sign with thinned bright red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "write",
+   "pressure": "light",
+   "where": "bottom corner",
+   "rule": "",
+   "new": "signature"
+  }
+ ],
+ "rules": [
+  "[05:41] thin white lets the trees show through"
+ ]
+}

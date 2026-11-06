@@ -1,0 +1,436 @@
+{
+ "ep": "S06E01",
+ "base": "black",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "prussian blue",
+  "magic white",
+  "titanium white",
+  "van dyke brown",
+  "permanent red",
+  "cadmium yellow",
+  "indian yellow",
+  "sap green",
+  "yellow ochre",
+  "burnt umber"
+ ],
+ "steps": [
+  {
+   "t": "01:28",
+   "subject": "sky",
+   "action": "blend sky with liquid white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "thin white on brush",
+   "motion": "criss-cross strokes then light horizontal pass",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:38",
+   "subject": "land",
+   "action": "tap in dark brown land mass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "heavy dark brown mix on brush",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "along horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "far trees",
+   "action": "tap distant tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "still loaded",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:13",
+   "subject": "bush",
+   "action": "tap in small bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "along the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:36",
+   "subject": "evergreen",
+   "action": "paint dark evergreen and a small friend",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "full fan brush of dark brown",
+   "motion": "play corner back and forth",
+   "pressure": "unknown",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:31",
+   "subject": "land",
+   "action": "highlight along the land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "follow the lay of the land",
+   "pressure": "light",
+   "where": "over land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:48",
+   "subject": "trunk/limbs",
+   "action": "add trunk indications",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thin blue and white mixed on palette",
+   "motion": "tap in dabs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "leaf tree",
+   "action": "highlight trees with corner of brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "still loaded",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:41",
+   "subject": "evergreen",
+   "action": "highlight evergreens",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "water",
+   "action": "pull white into water area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "pull down and mix into colors",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "keeping strokes straight stops water running off the canvas",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "land",
+   "action": "add small peninsulas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded",
+   "motion": "drop down along water edge",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "water line",
+   "action": "add straight water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "phthalo blue"
+   ],
+   "load": "flat roll of paint cut across the knife",
+   "motion": "touch and drag lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "leaf tree",
+   "action": "block in huge tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "quite a bit of dark brown",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:15",
+   "subject": "leaf tree",
+   "action": "add big limbs on the other side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "dark brown mix",
+   "motion": "drop in limbs",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:42",
+   "subject": "bush",
+   "action": "add bush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "still loaded",
+   "motion": "drag down",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:09",
+   "subject": "trunk/limbs",
+   "action": "paint thin white trunk lines",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin white with paint thinner",
+   "motion": "turn brush while pulling",
+   "pressure": "unknown",
+   "where": "middle of tree",
+   "rule": "turning the stroke keeps trunks from looking stiff and straight",
+   "new": ""
+  },
+  {
+   "t": "19:00",
+   "subject": "leaf tree",
+   "action": "highlight trees with thinned greens and yellows",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "thinned with paint thinner mixed on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "over tree shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:41",
+   "subject": "bush",
+   "action": "add orange-tinted bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "tapped in with thinned paint",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "near large tree",
+   "rule": "leaving a dark area under the tree pushes the scene back",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "reflection",
+   "action": "add reflections in water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "very light strokes across",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:52",
+   "subject": "land",
+   "action": "scrub in dirt areas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on brush",
+   "motion": "scrub",
+   "pressure": "light",
+   "where": "lower land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:18",
+   "subject": "land",
+   "action": "highlight dirt areas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop highlights",
+   "pressure": "light",
+   "where": "dirt areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:44",
+   "subject": "trunk/limbs",
+   "action": "scrape in stick marks with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife, no new paint",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "over dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:44",
+   "subject": "water line",
+   "action": "add thin water line",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "pull line",
+   "pressure": "light",
+   "where": "under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "bush",
+   "action": "drop in leaves on bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "indian yellow",
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "mixed on brush",
+   "motion": "barely touch and overlap",
+   "pressure": "whisper",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:21",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "magic white"
+   ],
+   "load": "very thin with paint thinner",
+   "motion": "turn brush and stroke out limbs",
+   "pressure": "light",
+   "where": "around tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

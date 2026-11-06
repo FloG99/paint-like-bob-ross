@@ -1,0 +1,497 @@
+{
+ "ep": "S30E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "prussian blue",
+  "titanium white",
+  "liquid white",
+  "phthalo blue",
+  "alizarin crimson",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "00:46",
+   "subject": "sky",
+   "action": "criss-cross strokes across the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "small amount of each mixed on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas, over the tape",
+   "rule": "the window bars would sit in front of the view anyway",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "sky",
+   "action": "brighten a few spots with titanium white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little on the brush",
+   "motion": "dab in place",
+   "pressure": "light",
+   "where": "a few spots up top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "far trees",
+   "action": "mix a light blue for far evergreens",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "mixed on the knife",
+   "motion": "mix by feel",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "far trees",
+   "action": "push upward for small far evergreens",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "full load on the fan brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "right of center, over the tape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:57",
+   "subject": "bush",
+   "action": "push upward for bushy shapes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "near the far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:06",
+   "subject": "snow",
+   "action": "pull a little snow across the low area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "low, across the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:50",
+   "subject": "evergreen",
+   "action": "push upward for a larger dark tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix with no white",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "middle left, over the tape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:15",
+   "subject": "trunk/limbs",
+   "action": "scratch in a trunk with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "bottom of the dark tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:39",
+   "subject": "evergreen",
+   "action": "highlight the small tree with blue and white",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "blue and white thinned with liquid white",
+   "motion": "tap and dab",
+   "pressure": "light",
+   "where": "on the small tree",
+   "rule": "makes the tree stand out",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "bush",
+   "action": "push in a basic bush shape",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark color on the brush",
+   "motion": "push in",
+   "pressure": "light",
+   "where": "middle, one bush",
+   "rule": "leaving background helps create depth",
+   "new": ""
+  },
+  {
+   "t": "07:30",
+   "subject": "bush",
+   "action": "pull snow-covered bushes under the tree",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "liquid white and titanium white",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "the paint must be thinner than the canvas so it sticks",
+   "new": ""
+  },
+  {
+   "t": "08:39",
+   "subject": "snow",
+   "action": "pull down a bluish shadow under the snow",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "thin white with a touch of blue",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "under the snow bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:03",
+   "subject": "evergreen",
+   "action": "push upward a big dark tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "full load of dark mix",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back center, big tree",
+   "rule": "branches give squirrels a place to nest",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "evergreen",
+   "action": "darker blue spruce trees toward the bottom",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "loaded on both sides, thinned",
+   "motion": "push darker toward the bottom",
+   "pressure": "light",
+   "where": "right side, darker at the bottom",
+   "rule": "phthalo blue stands out against the prussian blue sky",
+   "new": ""
+  },
+  {
+   "t": "11:46",
+   "subject": "far trees",
+   "action": "quiet small tree far back",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "push",
+   "pressure": "light",
+   "where": "far back, quiet",
+   "rule": "it is too far back to matter much",
+   "new": ""
+  },
+  {
+   "t": "12:09",
+   "subject": "trunk/limbs",
+   "action": "block in a dark birch trunk from the bottom",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "roll of paint from the knife edge",
+   "motion": "pull up across the tape",
+   "pressure": "unknown",
+   "where": "bottom, up to the top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:47",
+   "subject": "trunk/limbs",
+   "action": "round white highlight on the birch",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight titanium white",
+   "motion": "touch and pull round",
+   "pressure": "light",
+   "where": "on the birch trunk",
+   "rule": "a round pull makes the trunk look round",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "trunk/limbs",
+   "action": "thin arms off the little trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "very thin paint with thinner",
+   "motion": "let the arms flow out",
+   "pressure": "light",
+   "where": "on the trees, branches over the tape",
+   "rule": "thin paint flows, and the branches look real once the tape is off",
+   "new": ""
+  },
+  {
+   "t": "17:33",
+   "subject": "trunk/limbs",
+   "action": "arm reaching over the other tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin paint from before",
+   "motion": "lay the arm over the back tree",
+   "pressure": "light",
+   "where": "front tree, over the back tree",
+   "rule": "makes the front tree look like it is in front",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "snow",
+   "action": "dab snow on the branches",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the liner",
+   "motion": "dab on",
+   "pressure": "light",
+   "where": "spots on the branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:25",
+   "subject": "snow",
+   "action": "snow at the bottom with a shadow color",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "white with the color for shadow",
+   "motion": "tap and drag",
+   "pressure": "light",
+   "where": "bottom, by the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:50",
+   "subject": "bush",
+   "action": "small bush at the bottom",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap in a small bush",
+   "pressure": "light",
+   "where": "bottom, near the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "fence",
+   "action": "paint the old fence from brown and dark sienna",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed brown on the brush",
+   "motion": "press and drag",
+   "pressure": "light",
+   "where": "low, right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "bush",
+   "action": "snow-covered bush low by the fence",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white and titanium white with a little blue",
+   "motion": "pull into place",
+   "pressure": "light",
+   "where": "low, by the fence",
+   "rule": "a little blue separates it from the white behind",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "snow",
+   "action": "snow collected on the window supports",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "mixed white on the brush",
+   "motion": "dab and drag",
+   "pressure": "light",
+   "where": "window supports, up top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:22",
+   "subject": "snow",
+   "action": "snow over the branches up front",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "thin white on the brush",
+   "motion": "pull over the branches",
+   "pressure": "light",
+   "where": "up front, over the branches",
+   "rule": "it is up front, so it goes over the branches",
+   "new": ""
+  },
+  {
+   "t": "20:46",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs with thin paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "flick sticks and twigs",
+   "pressure": "light",
+   "where": "around the tree and fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:34",
+   "subject": "fence",
+   "action": "highlight the fence so it stands out",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "roll of paint from the knife",
+   "motion": "highlight along the fence",
+   "pressure": "light",
+   "where": "on the fence",
+   "rule": "makes the fence pop out more",
+   "new": ""
+  },
+  {
+   "t": "21:58",
+   "subject": "trunk/limbs",
+   "action": "more sticks and twigs with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in twigs",
+   "pressure": "light",
+   "where": "scattered up through the snow",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

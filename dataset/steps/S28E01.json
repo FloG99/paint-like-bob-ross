@@ -1,0 +1,401 @@
+{
+ "ep": "S28E01",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "sap green",
+  "titanium white",
+  "van dyke brown",
+  "prussian blue",
+  "black",
+  "dark sienna",
+  "yellow ochre",
+  "cadmium yellow",
+  "indian yellow",
+  "bright red",
+  "thalo blue",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "02:30",
+   "subject": "other: wood boards",
+   "action": "streak the brown mix up and down for old wood",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown with a little white",
+   "motion": "streaks up and down",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "changing the white changes the value",
+   "new": ""
+  },
+  {
+   "t": "03:41",
+   "subject": "other: wood boards",
+   "action": "streak wood boards into the wet clear with crimson and black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "titanium white"
+   ],
+   "load": "brown with a touch of black",
+   "motion": "streak into the wet clear",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "looks like old boards nailed together",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "other: wood boards",
+   "action": "add paint thinner with a fan brush and lightly work through",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thinner on the fan brush",
+   "pressure": "whisper",
+   "where": "wood surface",
+   "rule": "thinner and liquid clear react to form the grain",
+   "new": ""
+  },
+  {
+   "t": "07:05",
+   "subject": "mountain",
+   "action": "paint a small mountain in a roll of dark mix",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull flat then fade off the edges",
+   "pressure": "medium",
+   "where": "back of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:01",
+   "subject": "mountain",
+   "action": "pull the paint down with a dry 2in brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward lightly",
+   "pressure": "light",
+   "where": "mountain bottom",
+   "rule": "makes the bottom of the mountain misty",
+   "new": ""
+  },
+  {
+   "t": "08:52",
+   "subject": "mountain",
+   "action": "highlight the peak with white and a touch of bright red",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "roll the highlight on",
+   "pressure": "medium",
+   "where": "mountain peaks",
+   "rule": "red warms the white",
+   "new": ""
+  },
+  {
+   "t": "10:35",
+   "subject": "mountain",
+   "action": "add a bump on the mountain and let light drip down",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull down the edge",
+   "pressure": "light",
+   "where": "mountain edge",
+   "rule": "it happens automatically",
+   "new": ""
+  },
+  {
+   "t": "10:57",
+   "subject": "mist",
+   "action": "tap a soft mist at the base of the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap following the angles then lift upward",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "makes a nice soft misty area at the base",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "evergreen",
+   "action": "paint a small evergreen with the dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "load a lot of the dark mix",
+   "motion": "build the tree shape",
+   "pressure": "medium",
+   "where": "front of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:43",
+   "subject": "evergreen",
+   "action": "bigger evergreen on the other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tap the tree shape",
+   "pressure": "medium",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "evergreen",
+   "action": "big tall tree on this side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "build the tree shape",
+   "pressure": "firm",
+   "where": "this side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "trunk/limbs",
+   "action": "scratch trunks with a roll of white and dark sienna",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "roll of mix on the knife",
+   "motion": "indicate trunks with the edge",
+   "pressure": "light",
+   "where": "way back among the trees",
+   "rule": "only indications are needed for distant trunks",
+   "new": ""
+  },
+  {
+   "t": "14:46",
+   "subject": "leaf tree",
+   "action": "add yellow greens on the right side of the trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "dab greens onto the trees",
+   "pressure": "light",
+   "where": "right side of the trees",
+   "rule": "light comes from the right so the right side gets more",
+   "new": ""
+  },
+  {
+   "t": "16:22",
+   "subject": "reflection",
+   "action": "pull a reflection straight down under the trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "pulling straight down reads as water",
+   "new": ""
+  },
+  {
+   "t": "16:43",
+   "subject": "bush",
+   "action": "add bushes at the base of the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "dab bushes",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:33",
+   "subject": "water line",
+   "action": "cut in a thin water line with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "thin paint on the knife edge",
+   "motion": "cut in and let it float",
+   "pressure": "light",
+   "where": "between dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:18",
+   "subject": "bush",
+   "action": "push in leafy bushes with the small brush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "push in without sliding",
+   "pressure": "firm",
+   "where": "back of the scene",
+   "rule": "the bristles bend to make a leafy look",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "bush",
+   "action": "layer thin green bushes over the dark ones",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "liquid white"
+   ],
+   "load": "liquid white first then sap green",
+   "motion": "pull one way and bend",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "thin paint sticks to the dry thick layers",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "path",
+   "action": "lay a path with van dyke brown and dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thin brown",
+   "motion": "barely touch and graze",
+   "pressure": "whisper",
+   "where": "up through the trees",
+   "rule": "a way up to the water for the canoe",
+   "new": ""
+  },
+  {
+   "t": "21:22",
+   "subject": "bush",
+   "action": "push bushes over the path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push bushes down over the path",
+   "pressure": "light",
+   "where": "over the path",
+   "rule": "pushes the path down into the painting",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs through the bushes with the knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape right through the paint",
+   "pressure": "firm",
+   "where": "through the bushes",
+   "rule": "shows different layers which creates depth",
+   "new": ""
+  },
+  {
+   "t": "23:07",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs with the liner brush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "very thin loaded liner",
+   "motion": "add hanging limbs and sticks",
+   "pressure": "light",
+   "where": "dark areas of the evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "trunk/limbs",
+   "action": "light twigs with the liner in the dark areas",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "use a lighter color",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "a light color shows up against the dark",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

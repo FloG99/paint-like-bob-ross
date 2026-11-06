@@ -1,0 +1,487 @@
+{
+ "ep": "S05E01",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "titanium white",
+  "magic white",
+  "permanent red",
+  "van dyke brown",
+  "alizarin crimson",
+  "burnt umber",
+  "yellow ochre",
+  "cadmium yellow",
+  "sap green",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "criss-cross sky with blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "beat paint into bristles",
+   "motion": "criss-cross then bounce",
+   "pressure": "light",
+   "where": "patchy across sky",
+   "rule": "leaving spots open lets clouds show later",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "water",
+   "action": "add straight water with blue-green mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "phthalo blue"
+   ],
+   "load": "small amounts mixed on brush",
+   "motion": "straight strokes across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "water is always level so strokes stay straight",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "sky",
+   "action": "blend sky lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "quick blend",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "cloud",
+   "action": "add clouds with fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "lot of paint in bristles",
+   "motion": "bounce and keep moving",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "keeping the brush moving stops a cloud becoming a cotton ball",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "cloud",
+   "action": "blend cloud bottoms",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "very light caress then fluff",
+   "pressure": "whisper",
+   "where": "cloud bottoms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:47",
+   "subject": "mountain",
+   "action": "build mountain with dark mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "pull flat and cut across for small roll",
+   "motion": "push into canvas and pull out",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "mist and pollution diffuse light so the bottom softens",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "mountain",
+   "action": "add snow highlights on peaks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "flat roll of white on knife",
+   "motion": "touch with no pressure",
+   "pressure": "whisper",
+   "where": "farthest peak first",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "mountain",
+   "action": "add blue-white shadows",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "marbled mix on knife",
+   "motion": "lay in shadows in opposite direction",
+   "pressure": "light",
+   "where": "shadow side",
+   "rule": "brown is added to dull the blue and white",
+   "new": ""
+  },
+  {
+   "t": "12:11",
+   "subject": "mist",
+   "action": "soften mountain base with mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried-over paint",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:57",
+   "subject": "cloud",
+   "action": "add thin white cloud across mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "magic white"
+   ],
+   "load": "thinned white on brush",
+   "motion": "barely touch and let drift across",
+   "pressure": "whisper",
+   "where": "across mountain",
+   "rule": "thinner paint sticks on top of thick paint",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "cloud",
+   "action": "blend cloud at bottom of mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried-over paint",
+   "motion": "blend and fluff",
+   "pressure": "light",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:32",
+   "subject": "mist",
+   "action": "soften mountain side with mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried-over paint",
+   "motion": "soften along angles",
+   "pressure": "light",
+   "where": "mountain side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:54",
+   "subject": "evergreen",
+   "action": "add dark green tree line up mountain side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mountain color mixed with sap green",
+   "motion": "lay on and tap",
+   "pressure": "light",
+   "where": "side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:40",
+   "subject": "evergreen",
+   "action": "lift up to soften tree line",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "lift straight up very lightly",
+   "pressure": "whisper",
+   "where": "tree line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:56",
+   "subject": "far trees",
+   "action": "add distant trees in back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same dark color",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "back of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "trunk/limbs",
+   "action": "add a few trunk marks in back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "fan brush with a little white",
+   "motion": "lift upward very lightly",
+   "pressure": "whisper",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "grass",
+   "action": "add bright grass highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "mixed on fan brush",
+   "motion": "touch push and bend upward",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:25",
+   "subject": "reflection",
+   "action": "add reflections with blue and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "magic white"
+   ],
+   "load": "small amount of blue mixed in",
+   "motion": "lightly brush across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "rock",
+   "action": "add rock base and stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "yellow ochre",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "mixed on fan brush",
+   "motion": "drop in and blend",
+   "pressure": "light",
+   "where": "back stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:17",
+   "subject": "grass",
+   "action": "add grassy areas down through rocks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "highlight color on brush",
+   "motion": "drop in grassy strokes",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "water line",
+   "action": "add thin water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "very thin magic white",
+   "motion": "straight line",
+   "pressure": "whisper",
+   "where": "back of painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "stream",
+   "action": "add small stream with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "thin white on brush",
+   "motion": "drop down and let it flow",
+   "pressure": "light",
+   "where": "back of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "evergreen",
+   "action": "block in foreground dark mass",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "big brush with dark mix sharpened to chisel edge",
+   "motion": "back and forth and push out",
+   "pressure": "firm",
+   "where": "foreground",
+   "rule": "dark areas let the light show",
+   "new": ""
+  },
+  {
+   "t": "24:39",
+   "subject": "trunk/limbs",
+   "action": "add tree trunks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "burnt umber on brush",
+   "motion": "tap in trunks",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "leaf tree",
+   "action": "add dark-to-light tree highlights",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "bush",
+   "action": "drop in bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "bush",
+   "action": "highlight bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,594 @@
+{
+ "ep": "S09E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "yellow ochre",
+  "bright red",
+  "midnight black",
+  "sap green",
+  "dark sienna",
+  "indian yellow",
+  "liquid white",
+  "liquid black"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "lay in dark sky base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "much more crimson than blue",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "water",
+   "action": "lay water base from outside in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same brush, a little more added",
+   "motion": "pull from outside in",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "darker water at the bottom creates depth",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "blend sky, keep light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend upward",
+   "pressure": "light",
+   "where": "light area of sky",
+   "rule": "gentle strokes keep the light area",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "cloud",
+   "action": "lay yellow ochre shadows into clouds",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "white, then mostly ochre with a little red",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "cloud shadow areas",
+   "rule": "yellow over lavender sky makes a brown shadow",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "cloud",
+   "action": "dab white clouds with tiny circles",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lot of paint in bristles",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:06",
+   "subject": "cloud",
+   "action": "lightly blend clouds with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "barely touching",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "cloud",
+   "action": "fluff clouds in big circles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "big circular strokes",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "pulling straight up would look like rain falling up",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "other: distant rain",
+   "action": "pull rain streaks down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull strokes down",
+   "pressure": "light",
+   "where": "far distance",
+   "rule": "creates the illusion of distant rain",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "mountain",
+   "action": "lay far mountain shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush, loaded full",
+   "motion": "pull up a peak",
+   "pressure": "light",
+   "where": "back, in the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "mountain",
+   "action": "blend far mountain into clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light, float and blend",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "far mountain should soften into the clouds",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "mountain",
+   "action": "lay darker mountain with black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "firm paint, no white",
+   "motion": "shape",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "thin paint turns to mud, so use firm paint",
+   "new": ""
+  },
+  {
+   "t": "08:16",
+   "subject": "mountain",
+   "action": "shape darker front mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same dark mix",
+   "motion": "let it go",
+   "pressure": "light",
+   "where": "front of first mountain",
+   "rule": "darker tone helps show distance",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "mountain",
+   "action": "dab highlights with browns and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "lot of paint on fan brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "mountain highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:54",
+   "subject": "mountain",
+   "action": "dab lavender shadows and highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender with more blue",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "mountain face",
+   "rule": "light strikes the same areas as with a knife",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "mist",
+   "action": "tap soft mist, lift upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush, tap",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "tapping creates the illusion of mist",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "bush",
+   "action": "dab sap green bushes up the mountain side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "dirty brush, a little brown added",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "mountain side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "mist",
+   "action": "tap mist and lift upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush, tap",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:15",
+   "subject": "mountain",
+   "action": "lay in small green-lavender hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "sap green with a little crimson and lavender",
+   "motion": "dab then pull",
+   "pressure": "light",
+   "where": "left of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:55",
+   "subject": "grass",
+   "action": "tap in soft meadow patches",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "bright red"
+   ],
+   "load": "a little yellow added",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "red dulls a bright green",
+   "new": ""
+  },
+  {
+   "t": "16:07",
+   "subject": "far trees",
+   "action": "dab small far trees following the land",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "lot of paint in brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "back, following the land",
+   "rule": "many trees show depth",
+   "new": ""
+  },
+  {
+   "t": "16:45",
+   "subject": "evergreen",
+   "action": "lay dark base for larger tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "sap green with yellow and yellow ochre",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "dark base lets light show later",
+   "new": ""
+  },
+  {
+   "t": "17:22",
+   "subject": "bush",
+   "action": "layer highlights on bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "layer after layer",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "leave dark areas so layers show depth",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "reflection",
+   "action": "pull dark color straight down",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:17",
+   "subject": "land",
+   "action": "lay shoreline bank with knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "a roll of the brown mix on knife",
+   "motion": "graze the canvas",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "bush",
+   "action": "push bent strokes for leaf texture",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix of browns, black, crimson and sap green",
+   "motion": "push and bend upward",
+   "pressure": "light",
+   "where": "middle, through the bushes",
+   "rule": "bending up makes many small leaves",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "reflection",
+   "action": "pull shadows straight down into water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down, go across",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "trunk/limbs",
+   "action": "scrape in tree trunk",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "tree area",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "leaf tree",
+   "action": "push bent leaves on tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "sap green"
+   ],
+   "load": "liquid white with yellow and sap green",
+   "motion": "push and bend",
+   "pressure": "light",
+   "where": "tree, front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:28",
+   "subject": "bush",
+   "action": "layer bushes, keep dark between",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "bright red"
+   ],
+   "load": "touch of bright red",
+   "motion": "layer after layer",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "leave dark between so bushes stay separate",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "leaf tree",
+   "action": "layer leaf patterns on tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap layers",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "patterns make the tree stand out",
+   "new": ""
+  },
+  {
+   "t": "24:26",
+   "subject": "reflection",
+   "action": "tap reflections down into water",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap down",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:05",
+   "subject": "land",
+   "action": "dab dirt bank with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "brown with a little liquid white",
+   "motion": "barely touch and pull across",
+   "pressure": "light",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:05",
+   "subject": "water line",
+   "action": "add water lines with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on knife",
+   "motion": "pull out flat and cut across",
+   "pressure": "light",
+   "where": "across the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "leaf tree",
+   "action": "quick tree shape with filbert",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "lots of brown",
+   "motion": "make a quick tree shape",
+   "pressure": "light",
+   "where": "mid canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "leaf tree",
+   "action": "add dark leaves and limbs",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liquid black",
+   "motion": "dab in leaves",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:21",
+   "subject": "leaf tree",
+   "action": "add bright red leaves",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of red, yellow mixed in",
+   "motion": "tap leaves",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

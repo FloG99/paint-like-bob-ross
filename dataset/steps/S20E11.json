@@ -1,0 +1,587 @@
+{
+ "ep": "S20E11",
+ "base": "liquid black below and liquid white above",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "alizarin crimson",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "00:28",
+   "subject": "sky",
+   "action": "block in yellow glow at the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "blend out",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:51",
+   "subject": "sky",
+   "action": "add yellow ochre and blend",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre added to the yellow",
+   "motion": "blend out",
+   "pressure": "light",
+   "where": "yellow area",
+   "rule": "liquid black grays colors into a misty look",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "add bright red and blend",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red on the brush",
+   "motion": "blend together",
+   "pressure": "light",
+   "where": "middle sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "sky",
+   "action": "mix lavender and fill the top sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson with a little blue mixed on the brush",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:27",
+   "subject": "sky",
+   "action": "blend with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "mountain",
+   "action": "block in dark mountain with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "black and crimson mixed on the knife",
+   "motion": "pull out flat and cut across",
+   "pressure": "medium",
+   "where": "upper area of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:34",
+   "subject": "mountain",
+   "action": "pull mountain top edge down into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "pull down and blend",
+   "pressure": "light",
+   "where": "top edge of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:27",
+   "subject": "mountain",
+   "action": "add brown highlights on the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "brown from sap green and crimson, a little white",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "mountain highlights",
+   "rule": "leaving the colors marbled gives varied shades",
+   "new": ""
+  },
+  {
+   "t": "06:41",
+   "subject": "mountain",
+   "action": "drop in lavender shadows",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix on the knife",
+   "motion": "drop in lightly",
+   "pressure": "light",
+   "where": "upper mountain shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:28",
+   "subject": "mountain",
+   "action": "add small highlight projections on peaks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "highlight brown",
+   "motion": "small projections",
+   "pressure": "light",
+   "where": "peaks",
+   "rule": "projections add a plane that gives depth",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "mist",
+   "action": "tap mist at the base with clean dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap, then lift upward",
+   "pressure": "whisper",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:31",
+   "subject": "far trees",
+   "action": "block in tree shapes with the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown from sap green and crimson",
+   "motion": "tap, harder for bigger shapes",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:33",
+   "subject": "trunk/limbs",
+   "action": "draw thin trunks with thinned lavender",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "lavender thinned to ink",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "trunks keep the trees standing",
+   "new": ""
+  },
+  {
+   "t": "12:05",
+   "subject": "leaf tree",
+   "action": "tap colored tree shapes with the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "varied yellows and greens with a little red",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "varied forms avoid a random look",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "bush",
+   "action": "tap front bushes at the bottom",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "stacking forward shapes creates distance",
+   "new": ""
+  },
+  {
+   "t": "13:56",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "dark mix left on canvas",
+   "motion": "scrape through",
+   "pressure": "medium",
+   "where": "dark background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "land",
+   "action": "block in dark land strip",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown from van dyke and dark sienna",
+   "motion": "block in",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:54",
+   "subject": "land",
+   "action": "highlight the land with brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "bright red"
+   ],
+   "load": "brown and white with a little red",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "land highlight",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "grass",
+   "action": "tap grassy bits along the land edge",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellow greens with a touch of red",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "breaks up the straight line and brings it together",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "leaf tree",
+   "action": "drop in big tree basic shape",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix",
+   "motion": "basic shape",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:54",
+   "subject": "trunk/limbs",
+   "action": "add wiggly trunk lines",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "lavender-gray thinned",
+   "motion": "wiggle strokes",
+   "pressure": "light",
+   "where": "big tree trunk",
+   "rule": "wiggles make the trunk more interesting",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "leaf tree",
+   "action": "add reddish yellow leaves on big tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "red and yellow mixed, more red",
+   "motion": "dab leaves",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:12",
+   "subject": "bush",
+   "action": "add yellow ochre bush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "left of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:59",
+   "subject": "stream",
+   "action": "paint stream with pale blue-white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thinned pale blue-white",
+   "motion": "push for ripples",
+   "pressure": "light",
+   "where": "stream running off canvas",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "20:31",
+   "subject": "far trees",
+   "action": "basic tree shapes on the other side",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix",
+   "motion": "basic shape",
+   "pressure": "light",
+   "where": "other side of stream",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "bush",
+   "action": "add leaves and bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed greens and yellows",
+   "motion": "tap, then leaves",
+   "pressure": "light",
+   "where": "tree edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "land",
+   "action": "fill bank along the stream",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "stream bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:22",
+   "subject": "grass",
+   "action": "tap grass on the stream edge",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "greens and yellows",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "stream edge",
+   "rule": "grass keeps the stream from running off",
+   "new": ""
+  },
+  {
+   "t": "22:54",
+   "subject": "leaf tree",
+   "action": "paint two-sided tree, dark and light",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "bright red"
+   ],
+   "load": "one side dark brown, other side light",
+   "motion": "pull one side through the light",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:53",
+   "subject": "trunk/limbs",
+   "action": "add limbs with thin brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix thinned",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "upper trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:11",
+   "subject": "trunk/limbs",
+   "action": "tap reflected light on trunk backs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "prussian blue with a little white",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "back of trunks low down",
+   "rule": "tapping gives a bark feel",
+   "new": ""
+  },
+  {
+   "t": "26:12",
+   "subject": "trunk/limbs",
+   "action": "tap branches with black and prussian blue",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "black with a little prussian blue",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper area over mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:37",
+   "subject": "leaf tree",
+   "action": "tap yellow highlights on the green",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "yellow tapped over blue-green",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

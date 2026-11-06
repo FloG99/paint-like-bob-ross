@@ -1,0 +1,625 @@
+{
+ "ep": "S11E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "bright red",
+  "dark sienna",
+  "van dyke brown",
+  "sap green",
+  "yellow ochre",
+  "cad yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "crisscross sky strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "tap blue into the bristles, add a little black",
+   "motion": "small crisscross strokes",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:04",
+   "subject": "cloud",
+   "action": "make a cloud",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "load lots of white, add a touch of red",
+   "motion": "small circular strokes",
+   "pressure": "unknown",
+   "where": "in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "far trees",
+   "action": "tap distant bush and tree shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "midnight black",
+    "sap green"
+   ],
+   "load": "tap firmly to load, pick up a little black and green",
+   "motion": "tap basic shapes",
+   "pressure": "firm",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:00",
+   "subject": "bush",
+   "action": "tap leaf highlights with the top bristles",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "mix yellow with green and cad yellow, leave old color on",
+   "motion": "tap small highlights",
+   "pressure": "unknown",
+   "where": "on the bushes",
+   "rule": "keeps leftover color to dull the greens",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "water",
+   "action": "sweep pond water color",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "reuse the blue and black on the brush",
+   "motion": "sweep across",
+   "pressure": "unknown",
+   "where": "pond, background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:32",
+   "subject": "reflection",
+   "action": "tap reflections below the bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "turn brush upside down, tap down",
+   "pressure": "unknown",
+   "where": "below the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "reflection",
+   "action": "pull reflection lines down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down, barely touching",
+   "pressure": "whisper",
+   "where": "under the bushes, in the water",
+   "rule": "",
+   "new": "barely touching with a few bristles"
+  },
+  {
+   "t": "06:18",
+   "subject": "land",
+   "action": "scrub in a back land strip",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "roll browns flat on the knife",
+   "motion": "scrub across",
+   "pressure": "unknown",
+   "where": "back, behind the trees",
+   "rule": "gives the trees something to sit on",
+   "new": ""
+  },
+  {
+   "t": "06:18",
+   "subject": "water line",
+   "action": "cut a waterline",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "mix white with a little brown to dull it",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "back, along the land",
+   "rule": "keeps it dull since it sits far back",
+   "new": ""
+  },
+  {
+   "t": "06:54",
+   "subject": "leaf tree",
+   "action": "block in dark tree masses",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "prussian blue",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "mix browns, blue, green and black",
+   "motion": "tap from the base upward",
+   "pressure": "unknown",
+   "where": "back, behind the pond",
+   "rule": "keeps the base darkest so paint lightens upward",
+   "new": ""
+  },
+  {
+   "t": "09:16",
+   "subject": "trunk/limbs",
+   "action": "paint thin tree trunks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "load full with very thin paint",
+   "motion": "thin strokes",
+   "pressure": "unknown",
+   "where": "among the bushes",
+   "rule": "most will be covered later, so save detail for the foreground",
+   "new": ""
+  },
+  {
+   "t": "09:45",
+   "subject": "bush",
+   "action": "block in yellow-green leaf clumps",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "tap full with yellow and green",
+   "motion": "tap leaves above the dark",
+   "pressure": "unknown",
+   "where": "above the dark bases",
+   "rule": "patterns should follow limbs that project every which way",
+   "new": "thinner only if paint will not stick"
+  },
+  {
+   "t": "11:07",
+   "subject": "bush",
+   "action": "touch bright red accents on one bush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch the brush into red",
+   "motion": "tap a small touch",
+   "pressure": "unknown",
+   "where": "on one bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "trunk/limbs",
+   "action": "scratch twigs through the paint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape with the knife point",
+   "pressure": "unknown",
+   "where": "tree and bush clumps",
+   "rule": "",
+   "new": "white shows through the scratches"
+  },
+  {
+   "t": "13:31",
+   "subject": "land",
+   "action": "tap dark base for the land",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "mix brown, green and black",
+   "motion": "tap downward",
+   "pressure": "unknown",
+   "where": "lower half",
+   "rule": "dark underneath lets the later grass highlights stand out",
+   "new": ""
+  },
+  {
+   "t": "15:28",
+   "subject": "structure",
+   "action": "scrape out a rough barn shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out the general shape",
+   "pressure": "unknown",
+   "where": "middle of the canvas",
+   "rule": "keeps the building uncommitted, so it can change",
+   "new": ""
+  },
+  {
+   "t": "16:16",
+   "subject": "structure",
+   "action": "fill barn with brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll brown onto the knife",
+   "motion": "drop in and pull down",
+   "pressure": "unknown",
+   "where": "inside the barn outline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:13",
+   "subject": "structure",
+   "action": "highlight the roof edge",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "mix sienna, red and white without over-mixing",
+   "motion": "touch along the roof edge",
+   "pressure": "unknown",
+   "where": "along the roof edge",
+   "rule": "suggests light on the far side of the roof",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "structure",
+   "action": "bounce bluish gray shadow onto the barn",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "mix blue, brown and white, then black",
+   "motion": "bounce the roll of paint",
+   "pressure": "unknown",
+   "where": "along the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:27",
+   "subject": "structure",
+   "action": "sparkle light onto the roof line",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load a little light color",
+   "motion": "sparkle lightly",
+   "pressure": "unknown",
+   "where": "along the roof line",
+   "rule": "makes the roof line stand out",
+   "new": ""
+  },
+  {
+   "t": "18:56",
+   "subject": "structure",
+   "action": "touch in old weathered boards",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "roll dark sienna onto the knife",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "barn front",
+   "rule": "aims for an old, worn look",
+   "new": ""
+  },
+  {
+   "t": "19:23",
+   "subject": "structure",
+   "action": "darken the shaded side of the barn",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mix sienna, brown and a tiny bit of white",
+   "motion": "lay in color",
+   "pressure": "unknown",
+   "where": "side away from the light",
+   "rule": "less light strikes that side, so it stays dark",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "structure",
+   "action": "add white board sparkles",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch white on the knife",
+   "motion": "tiny touches",
+   "pressure": "unknown",
+   "where": "on the old boards",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "structure",
+   "action": "pull a door shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load a little brown on the knife",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "center of the barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "structure",
+   "action": "pull out a lighter shed",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "lay in lighter color on the knife",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "beside the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:58",
+   "subject": "structure",
+   "action": "add shed boards and roof highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "load roof color on the knife",
+   "motion": "tap in board lines, touch highlight",
+   "pressure": "unknown",
+   "where": "shed and roof edge",
+   "rule": "the roof color separates the roof so it stands out",
+   "new": ""
+  },
+  {
+   "t": "21:25",
+   "subject": "structure",
+   "action": "darken under the overhang",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load brown",
+   "motion": "cut off the top, darken the underside",
+   "pressure": "unknown",
+   "where": "under the roof overhang",
+   "rule": "gives the illusion of an overhang",
+   "new": ""
+  },
+  {
+   "t": "21:47",
+   "subject": "structure",
+   "action": "add post highlights",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "just touch",
+   "pressure": "unknown",
+   "where": "on the posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "fence",
+   "action": "drop in a fence line",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull a line across",
+   "pressure": "unknown",
+   "where": "off into the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "grass",
+   "action": "dab in grassy clumps",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "thin paint with thinner, load yellow and green",
+   "motion": "drop clumps in",
+   "pressure": "unknown",
+   "where": "lower half of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "path",
+   "action": "pull a road across the land",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load a little van dyke brown",
+   "motion": "pull a line",
+   "pressure": "unknown",
+   "where": "across the lower land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:38",
+   "subject": "land",
+   "action": "fill the lower canvas with brown and white",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "load brown with a little white",
+   "motion": "touch and pull",
+   "pressure": "unknown",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "grass",
+   "action": "tap grass beside the path",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap with the big brush",
+   "pressure": "unknown",
+   "where": "other side of the path",
+   "rule": "brings the whole scene together",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "fence",
+   "action": "add a fence line with a highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cut across the fence",
+   "pressure": "unknown",
+   "where": "across the grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "fence",
+   "action": "string wire along the fence",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull a wire line",
+   "pressure": "unknown",
+   "where": "along the fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "leaf tree",
+   "action": "block in a birch trunk",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load a little brown",
+   "motion": "pull up a trunk",
+   "pressure": "unknown",
+   "where": "in front of the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:45",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs on the birch",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load thin paint with thinner",
+   "motion": "small limb strokes",
+   "pressure": "unknown",
+   "where": "here and there on the birch",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

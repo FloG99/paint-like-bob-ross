@@ -1,0 +1,564 @@
+{
+ "ep": "S18E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "sap green",
+  "van dyke brown",
+  "midnight black",
+  "black",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "sky",
+   "action": "criss-cross small cad yellow strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "small amount",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sky",
+   "action": "add yellow ochre touch next to the yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "brush not cleaned",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "sky next to yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:06",
+   "subject": "cloud",
+   "action": "dab tiny circles for cloud shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender mix, little paint",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:54",
+   "subject": "cloud",
+   "action": "add clouds on the other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same lavender",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:18",
+   "subject": "cloud",
+   "action": "add other colors to cloud shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "other colors from the mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "cloud area out right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:31",
+   "subject": "cloud",
+   "action": "blend clouds together with clean dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend over the top with tiny circles",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "Wet canvas lets paint move for blending.",
+   "new": ""
+  },
+  {
+   "t": "08:10",
+   "subject": "sun/glow",
+   "action": "add light spot under cloud and blend",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "under the cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "mountain",
+   "action": "mix mountain color close to the clouds",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mix lightened to match clouds",
+   "motion": "dab points",
+   "pressure": "light",
+   "where": "back in the sky",
+   "rule": "Close to the cloud color so the mountain hides back in.",
+   "new": ""
+  },
+  {
+   "t": "10:16",
+   "subject": "mountain",
+   "action": "pull 2in strokes to form mountain shape",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried from fan mix",
+   "motion": "pull",
+   "pressure": "medium",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:05",
+   "subject": "far trees",
+   "action": "add little dark details on mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "darker mix from earlier",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back in mountain",
+   "rule": "Too much detail loses the sense of distance.",
+   "new": ""
+  },
+  {
+   "t": "11:05",
+   "subject": "mist",
+   "action": "tap mist at base of mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "liquid white on canvas",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "Tapping into wet white base creates the mist look.",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "mountain",
+   "action": "add another layer with a touch more blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same color with a touch of blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:52",
+   "subject": "mountain",
+   "action": "add peaks with fan brush corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "middle mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:44",
+   "subject": "mountain",
+   "action": "pull firm strokes for distant mountains",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried",
+   "motion": "pull firmly",
+   "pressure": "firm",
+   "where": "distant mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "mountain",
+   "action": "add more detail on closer mountain",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mix with extra blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "closer mountain",
+   "rule": "Closer mountain gets more detail.",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "mountain",
+   "action": "tap and blend lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried",
+   "motion": "tap and blend",
+   "pressure": "whisper",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "mountain",
+   "action": "add farthest faint range with more blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mix with more blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "farthest back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "mountain",
+   "action": "pull firmly down to move paint",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried",
+   "motion": "pull down",
+   "pressure": "firm",
+   "where": "mountain base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "far trees",
+   "action": "paint fan details over the mountain",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same color",
+   "motion": "pick out",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:53",
+   "subject": "mountain",
+   "action": "blend gently to bring together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:09",
+   "subject": "land",
+   "action": "mix brown from crimson and sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed equal parts on palette",
+   "motion": "paint ground area",
+   "pressure": "medium",
+   "where": "bottom ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:23",
+   "subject": "path",
+   "action": "start road with van dyke brown",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little van dyke brown on fan",
+   "motion": "stroke back",
+   "pressure": "light",
+   "where": "road toward mountains",
+   "rule": "Wider toward front so it reads as going away.",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "path",
+   "action": "blend road edges with rocking strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried",
+   "motion": "rocking strokes",
+   "pressure": "light",
+   "where": "road area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:53",
+   "subject": "far trees",
+   "action": "tap basic smoke tree shapes in dark",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "tapped small amounts",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Dark base lets the light show later.",
+   "new": ""
+  },
+  {
+   "t": "21:45",
+   "subject": "leaf tree",
+   "action": "block in big tree and small things",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "center area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:12",
+   "subject": "far trees",
+   "action": "tap light highlights on far trees",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "dipped in liquid white then tapped",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "Let them fade back into nothing so distance reads.",
+   "new": ""
+  },
+  {
+   "t": "24:15",
+   "subject": "far trees",
+   "action": "dab lavender smoke trees here and there",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "scattered back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:37",
+   "subject": "land",
+   "action": "pull dark bottom edge of trees down to road",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "edge of road",
+   "rule": "Shows where the road and everything comes together.",
+   "new": ""
+  },
+  {
+   "t": "25:02",
+   "subject": "path",
+   "action": "add dark line right under the trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark touch on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "under tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:02",
+   "subject": "other: small figure",
+   "action": "tap a little figure",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "black"
+   ],
+   "load": "little black",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:28",
+   "subject": "other: yucca plant",
+   "action": "paint sticking-out arms with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black",
+    "sap green",
+    "yellow"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:18",
+   "subject": "other: yucca plant",
+   "action": "add more arms on the plant",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black",
+    "sap green",
+    "yellow"
+   ],
+   "load": "thinned",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:40",
+   "subject": "trunk/limbs",
+   "action": "paint little dead tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black"
+   ],
+   "load": "",
+   "motion": "stroke limbs",
+   "pressure": "light",
+   "where": "right side area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

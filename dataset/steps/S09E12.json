@@ -1,0 +1,813 @@
+{
+ "ep": "S09E12",
+ "base": "liquid white; liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "bright red",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "phthalo green",
+  "cad yellow",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "sap green",
+  "liquid black",
+  "liquid white",
+  "liquid clear"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "small amount on brush",
+   "motion": "criss-cross strokes top to bottom",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:58",
+   "subject": "cloud",
+   "action": "mix dark shadow color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "bright red"
+   ],
+   "load": "mixed on the brush",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "brush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:31",
+   "subject": "cloud",
+   "action": "shadow under the cloud",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "bright red"
+   ],
+   "load": "carried over",
+   "motion": "lay in the shadow",
+   "pressure": "light",
+   "where": "upper canvas where cloud sits",
+   "rule": "shadow goes in first so highlights can follow",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "cloud",
+   "action": "highlight cloud shapes with tiny circles",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "lot of paint in bristles",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:26",
+   "subject": "cloud",
+   "action": "fluff cloud with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tiny circles then lift",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:27",
+   "subject": "mountain",
+   "action": "block in mountain shape",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "little roll of paint",
+   "motion": "push and drop in",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "mountain",
+   "action": "scrape off excess paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape off",
+   "pressure": "hard",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:15",
+   "subject": "mountain",
+   "action": "blend mountain into liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pull lightly into liquid white",
+   "pressure": "light",
+   "where": "mountain edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:54",
+   "subject": "mountain",
+   "action": "light highlight strokes",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pulled flat",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "upper mountain",
+   "rule": "a light touch lets the paint break up",
+   "new": ""
+  },
+  {
+   "t": "05:21",
+   "subject": "mountain",
+   "action": "highlight dabs where light would strike",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little on knife",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "mountain, light side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "mountain",
+   "action": "mix dull shadow color",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mixed on palette",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "black dulls the bright mix into a shadow tone",
+   "new": ""
+  },
+  {
+   "t": "06:08",
+   "subject": "mountain",
+   "action": "shadow pulls on mountain",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "right of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:36",
+   "subject": "mountain",
+   "action": "lift misty edge upward",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "mountain lower edge",
+   "rule": "following the angles of the mountain matters most",
+   "new": ""
+  },
+  {
+   "t": "07:13",
+   "subject": "water",
+   "action": "dark water color",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "carried over",
+   "motion": "lay in across lower area",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "a straight water line keeps the water from running off",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "ocean/wave",
+   "action": "sketch wave shape",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "a little on brush",
+   "motion": "sketch in",
+   "pressure": "light",
+   "where": "upper right crash area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:28",
+   "subject": "ocean/wave",
+   "action": "leave clear area and fill dark",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "carried over",
+   "motion": "fill in dark around clear area",
+   "pressure": "light",
+   "where": "rest of canvas around crash",
+   "rule": "the clear medium keeps the light area transparent",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "ocean/wave",
+   "action": "block in dark with phthalo green",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "block in dark color",
+   "pressure": "light",
+   "where": "rest of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:39",
+   "subject": "ocean/wave",
+   "action": "white swells with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load brush full",
+   "motion": "barely touch canvas back and forth",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "leaving dark spots lets them show through",
+   "new": ""
+  },
+  {
+   "t": "10:21",
+   "subject": "ocean/wave",
+   "action": "wipe and pull swell",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "wipe excess and pull",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "pulling picks up the color underneath",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:58",
+   "subject": "ocean/wave",
+   "action": "light area of white and cad yellow",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "lot of paint on brush",
+   "motion": "drop in and pull down",
+   "pressure": "light",
+   "where": "transparent area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "ocean/wave",
+   "action": "shape wave by pulling down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush blend, then pull down",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:52",
+   "subject": "ocean/wave",
+   "action": "dark under the crash",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "on brush",
+   "motion": "lay in dark",
+   "pressure": "light",
+   "where": "crash area",
+   "rule": "the dark lets the light color show",
+   "new": ""
+  },
+  {
+   "t": "13:29",
+   "subject": "ocean/wave",
+   "action": "smooth top ridge highlight",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "carried over",
+   "motion": "smooth, leave bright ridge",
+   "pressure": "light",
+   "where": "top of wave",
+   "rule": "a bright ridge on top makes the highlight",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "ocean/wave",
+   "action": "lavender shadow for crash",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "crash area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "ocean/wave",
+   "action": "crash shadow first",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "upper crash",
+   "rule": "shadow goes in before the bright area",
+   "new": ""
+  },
+  {
+   "t": "14:51",
+   "subject": "ocean/wave",
+   "action": "laid-on highlight on crash",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "carried over",
+   "motion": "push and bend brush",
+   "pressure": "medium",
+   "where": "crash area",
+   "rule": "lay it on first, smooth it later with a clean brush",
+   "new": ""
+  },
+  {
+   "t": "15:32",
+   "subject": "ocean/wave",
+   "action": "dry brush blend",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [],
+   "load": "rub and bring together",
+   "motion": "light",
+   "pressure": "light",
+   "where": "a dry brush is needed for this blend",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "ocean/wave",
+   "action": "soft foam patterns up the wave",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "gentle mixing and little patterns",
+   "pressure": "whisper",
+   "where": "wave",
+   "rule": "making it all bright white does not work well",
+   "new": ""
+  },
+  {
+   "t": "17:19",
+   "subject": "rock",
+   "action": "stone shape at wave base",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "little roll on knife",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "base of wave",
+   "rule": "stones give the crashing wave something to hit",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "rock",
+   "action": "bright highlight on stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "carried over",
+   "motion": "graze across",
+   "pressure": "light",
+   "where": "stone top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "water",
+   "action": "water around stone base",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "bring together",
+   "pressure": "light",
+   "where": "stone base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:19",
+   "subject": "beach",
+   "action": "sand strip lighter toward water",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay in and lighten toward water",
+   "pressure": "light",
+   "where": "shore right up to water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:43",
+   "subject": "beach",
+   "action": "crimson touch on sand",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "little on knife",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "sand near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "water",
+   "action": "sparkle flecks on water",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned on brush",
+   "motion": "small flicks",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "water",
+   "action": "bright sparkles down the water",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "thinned on brush",
+   "motion": "flick down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "too many sparkles lose their effect",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "water",
+   "action": "dark line under water edge",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "pick up dark and pull",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "a dark line sets the water edge off",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:35",
+   "subject": "far trees",
+   "action": "mix dark green-brown",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "mixed on palette",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:11",
+   "subject": "far trees",
+   "action": "tap distant trees downward",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "far things show little detail",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "rock",
+   "action": "brown cliffs laid in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tapped on brush",
+   "motion": "lay in then highlight",
+   "pressure": "light",
+   "where": "under the far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:18",
+   "subject": "land",
+   "action": "yellow ochre and dark sienna highlights",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:56",
+   "subject": "land",
+   "action": "grassy yellow strokes down hills",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "lot of paint",
+   "motion": "strokes down",
+   "pressure": "light",
+   "where": "hills to water",
+   "rule": "grass shows the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "23:21",
+   "subject": "water",
+   "action": "thin wet sand wash",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thin as water",
+   "motion": "pull down and across",
+   "pressure": "light",
+   "where": "sand",
+   "rule": "thin paint makes the sand look wet",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "water",
+   "action": "ripple lines at edges",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "short ripple strokes",
+   "pressure": "light",
+   "where": "edges by the sand",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:15",
+   "subject": "leaf tree",
+   "action": "dark bushes and tree shape",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "mixed on palette",
+   "motion": "shape tree and bush",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:37",
+   "subject": "leaf tree",
+   "action": "highlight tree and leaves",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "tap and touch",
+   "pressure": "light",
+   "where": "tree and leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "trunk/limbs",
+   "action": "tree arms with filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "on brush",
+   "motion": "pull out arms",
+   "pressure": "light",
+   "where": "tree trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:41",
+   "subject": "trunk/limbs",
+   "action": "tired arms with thinned liquid black",
+   "tool": "liner",
+   "part": "edge",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "thinned on liner",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "leaf tree",
+   "action": "few leaves on tired trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "tap indication",
+   "pressure": "light",
+   "where": "tree arms",
+   "rule": "most leaves already fell off",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

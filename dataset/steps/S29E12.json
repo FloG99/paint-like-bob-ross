@@ -1,0 +1,492 @@
+{
+ "ep": "S29E12",
+ "base": "black gesso with liquid clear",
+ "format": "unknown",
+ "light": "from the northern lights above",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "titanium white",
+  "liquid white",
+  "black",
+  "black gesso",
+  "van dyke brown",
+  "dark sienna",
+  "red",
+  "phthalo green",
+  "liquid clear"
+ ],
+ "steps": [
+  {
+   "t": "01:12",
+   "subject": "sky",
+   "action": "tap white over the color for light curtains",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "over the colored base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:06",
+   "subject": "far trees",
+   "action": "paint little trees along the back",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "full of blue and white on both sides",
+   "motion": "back and forth",
+   "pressure": "unknown",
+   "where": "back of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "evergreen",
+   "action": "highlight little trees with light blue-white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "full of thinned blue-white",
+   "motion": "dab a few spots",
+   "pressure": "unknown",
+   "where": "tips of the little trees",
+   "rule": "so trees stand out against the glow behind them",
+   "new": ""
+  },
+  {
+   "t": "08:34",
+   "subject": "sky",
+   "action": "add white curtains higher up",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of color in the bristles",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:47",
+   "subject": "structure",
+   "action": "scrape out a basic cabin layout",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape away paint",
+   "pressure": "unknown",
+   "where": "where the cabin will sit",
+   "rule": "lays out the shape and removes extra paint so the next layer sticks",
+   "new": ""
+  },
+  {
+   "t": "10:11",
+   "subject": "structure",
+   "action": "block in the cabin back eave",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "a little roll of paint",
+   "motion": "block in full of color",
+   "pressure": "unknown",
+   "where": "back eave of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:55",
+   "subject": "structure",
+   "action": "barely touch for weathered wood",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "a small roll of the mix",
+   "motion": "barely touch and graze",
+   "pressure": "whisper",
+   "where": "cabin walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:20",
+   "subject": "structure",
+   "action": "indicate boards on the shaded side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little on the knife",
+   "motion": "touch the canvas to make boards",
+   "pressure": "unknown",
+   "where": "shaded side of the cabin",
+   "rule": "the side away from the lights gets less light so it stays darker",
+   "new": ""
+  },
+  {
+   "t": "11:47",
+   "subject": "structure",
+   "action": "fill a door and outline it in light color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little dark brown",
+   "motion": "dab in a door shape",
+   "pressure": "unknown",
+   "where": "front of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "snow",
+   "action": "lay snow on the roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white",
+   "motion": "pull down gently in swoops",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "leaving it rough mimics snow melting from inside heat",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "snow",
+   "action": "dab icicles off the roof edge",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "dip in liquid white",
+   "motion": "hang lines down the edge",
+   "pressure": "unknown",
+   "where": "roof edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "snow",
+   "action": "re-lay snow on the roof",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "the fan brush from before",
+   "motion": "lay snow in soft swoops",
+   "pressure": "unknown",
+   "where": "cabin roof",
+   "rule": "the earlier cut messed up the snow so it is redone",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "land",
+   "action": "add a small hill of snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same white on the brush",
+   "motion": "swoop snow on",
+   "pressure": "unknown",
+   "where": "small hill by the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "leaf tree",
+   "action": "paint a dark tree on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue"
+   ],
+   "load": "a lot of paint on the brush",
+   "motion": "straight in, work back and forth",
+   "pressure": "unknown",
+   "where": "hill beside the little evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "grass",
+   "action": "flick upward for grassy tufts",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "push upward, bend the tips",
+   "pressure": "unknown",
+   "where": "around the little cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "trunk/limbs",
+   "action": "indicate small tree trunks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little of the blue and white",
+   "motion": "touch in lightly",
+   "pressure": "unknown",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:51",
+   "subject": "leaf tree",
+   "action": "highlight the small tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "full of color on both sides",
+   "motion": "pop in highlights along the tips",
+   "pressure": "unknown",
+   "where": "small tree near the cabin",
+   "rule": "highlight so the tree stands out from the dark",
+   "new": ""
+  },
+  {
+   "t": "17:57",
+   "subject": "grass",
+   "action": "pop tiny snow-covered highlights on grass",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "the smallest amount of liquid white",
+   "motion": "pop in little dabs",
+   "pressure": "unknown",
+   "where": "scattered grassy areas",
+   "rule": "the dark underneath makes light touches show",
+   "new": ""
+  },
+  {
+   "t": "18:21",
+   "subject": "trunk/limbs",
+   "action": "paint thin sticks and twigs against the tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "paint thinner and a touch of blue-white",
+   "motion": "pull in thin strokes",
+   "pressure": "unknown",
+   "where": "against the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:33",
+   "subject": "water",
+   "action": "turn the pond area into a reflection",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "pull straight down, then across",
+   "pressure": "unknown",
+   "where": "pond area",
+   "rule": "reflections must go straight down or they look wrong",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "water line",
+   "action": "cut in a small water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a small roll on top of the blade",
+   "motion": "pull out flat and cut across",
+   "pressure": "unknown",
+   "where": "across the pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "rock",
+   "action": "paint a snow-covered rock with a reflection below",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of white on the brush",
+   "motion": "pull the reflection straight down and across",
+   "pressure": "unknown",
+   "where": "out in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "water line",
+   "action": "cut a water line around the rock",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife",
+   "motion": "cut around the rock",
+   "pressure": "unknown",
+   "where": "around the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "trunk/limbs",
+   "action": "cut through paint so black canvas shows as sticks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cut through in places",
+   "pressure": "unknown",
+   "where": "in the water and by the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "fence",
+   "action": "paint a few old fence posts",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on the brush",
+   "motion": "dab posts in a line",
+   "pressure": "unknown",
+   "where": "out on the open ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "fence",
+   "action": "highlight one side of the posts",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "touch highlights on one side",
+   "pressure": "unknown",
+   "where": "posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "snow",
+   "action": "lay liquid white snow over the fence top",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "straight liquid white on the brush",
+   "motion": "let it hang down like icicles",
+   "pressure": "unknown",
+   "where": "top of the fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:34",
+   "subject": "fence",
+   "action": "clean up the bottom of the fence",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean up the edges",
+   "pressure": "unknown",
+   "where": "bottom of the posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "a little red with paint thinner",
+   "motion": "write the signature",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

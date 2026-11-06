@@ -1,0 +1,646 @@
+{
+ "ep": "S08E03",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "bright red",
+  "titanium white",
+  "alizarin crimson",
+  "dark sienna",
+  "phthalo blue",
+  "liquid black",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sun/glow",
+   "action": "little circle for the sun",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "tiniest little amount of bright red",
+   "motion": "little circle",
+   "pressure": "unknown",
+   "where": "right about there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "crisscross blend crimson and white into sky",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "touch of alizarin crimson on white",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "right up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "sky",
+   "action": "warm brown crisscross into sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "dark sienna"
+   ],
+   "load": "add a little dark sienna to the crimson",
+   "motion": "little crisscross strokes",
+   "pressure": "light",
+   "where": "right around here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "sky",
+   "action": "crisscross van dyke brown into sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "liquid white"
+   ],
+   "load": "van dyke brown on the brush",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:48",
+   "subject": "sky",
+   "action": "dab brown, blue and crimson in patches",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "least little touch of phthalo blue, no cleaning",
+   "motion": "lay a little here and there",
+   "pressure": "unknown",
+   "where": "just here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "sky",
+   "action": "blend outward, dark kept out of center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "little crisscross strokes",
+   "pressure": "light",
+   "where": "right up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:03",
+   "subject": "sun/glow",
+   "action": "rub white sun in with finger",
+   "tool": "other: finger",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "rub in small circle",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:42",
+   "subject": "sun/glow",
+   "action": "knife lifts paint off the sun",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "take it right off",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "Blending this would cause smearing.",
+   "new": ""
+  },
+  {
+   "t": "05:42",
+   "subject": "leaf tree",
+   "action": "dark base of the tree tapped on round",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix on the brush by tapping",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "begin at the foot of this tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:57",
+   "subject": "land",
+   "action": "pull dark down for snow shadows",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark already on the brush",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "bottom",
+   "rule": "This will become the shadows in the snow.",
+   "new": ""
+  },
+  {
+   "t": "07:36",
+   "subject": "trunk/limbs",
+   "action": "indicate trunks and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liquid black with a little paint thinner",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "Pulling downward is typically easier to see.",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "leaf tree",
+   "action": "tap highlights on the trees",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "dip in liquid white, touch of bright red",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "up here on these trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "land",
+   "action": "pull in basic shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "from the brush",
+   "motion": "pull it in",
+   "pressure": "unknown",
+   "where": "lay of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "snow",
+   "action": "lay in snow in shadows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "little white, then tiny phthalo blue and brown",
+   "motion": "work in",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "grass",
+   "action": "push in a grassy area down the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "structure",
+   "action": "cabin front and side, roll of brown on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little roll of paint on the knife edge",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "structure",
+   "action": "light touch of highlight on cabin",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "little white and brown pulled out flat",
+   "motion": "caress the canvas",
+   "pressure": "whisper",
+   "where": "on the cabin",
+   "rule": "Light comes from here, so this side is brighter.",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "structure",
+   "action": "lay roof on both halves",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "roll of white and brown",
+   "motion": "lay on",
+   "pressure": "unknown",
+   "where": "give him a roof",
+   "rule": "The house has no roof.",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "structure",
+   "action": "white outline around door",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "go around edges there",
+   "pressure": "unknown",
+   "where": "there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "structure",
+   "action": "blue and white window",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little blue and white",
+   "motion": "put a little window right there",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "structure",
+   "action": "small chimney in bright red",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "bright red"
+   ],
+   "load": "tiniest touch of bright red",
+   "motion": "put a little chimney",
+   "pressure": "unknown",
+   "where": "chimney",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:16",
+   "subject": "fence",
+   "action": "old fence rails straight in liquid black",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "straight liquid black",
+   "motion": "straight there it goes",
+   "pressure": "unknown",
+   "where": "right off into the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:55",
+   "subject": "snow",
+   "action": "little white snow on fence and on top",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a little liquid white",
+   "motion": "little snow",
+   "pressure": "unknown",
+   "where": "up here on his fence and on top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "snow",
+   "action": "blend in and cut foot of cabin",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend it in",
+   "pressure": "unknown",
+   "where": "foot of this cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "snow",
+   "action": "bunch of snow along the path, pinker mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "little white, tiny phthalo blue, pinker colors",
+   "motion": "build it in",
+   "pressure": "unknown",
+   "where": "right along in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "land",
+   "action": "dark land on the other side from the bottom up",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark sienna and van dyke brown",
+   "motion": "work it up",
+   "pressure": "unknown",
+   "where": "other side, starting from the bottom",
+   "rule": "The bottom is darker than the top.",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "bush",
+   "action": "push up leaves on the dead bush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "On this side.",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "land",
+   "action": "pull brown down to separate land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "some of that brown",
+   "motion": "pull it down",
+   "pressure": "unknown",
+   "where": "in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:21",
+   "subject": "trunk/limbs",
+   "action": "quick tree trunk and limbs with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little brown, a tiny white highlight",
+   "motion": "doop doop, scrape through",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:37",
+   "subject": "leaf tree",
+   "action": "warm red and yellow tips on the tree",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "small amount of each, bright red first",
+   "motion": "tap with top corner",
+   "pressure": "unknown",
+   "where": "tree here",
+   "rule": "This adds warmth to the painting.",
+   "new": ""
+  },
+  {
+   "t": "23:29",
+   "subject": "grass",
+   "action": "blue and white grassy areas in the foreground",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "drop in few little areas",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "At this spot.",
+   "new": ""
+  },
+  {
+   "t": "23:29",
+   "subject": "fence",
+   "action": "old fence post, brown and white highlight",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "put one there",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "At this exact spot.",
+   "new": ""
+  },
+  {
+   "t": "24:08",
+   "subject": "leaf tree",
+   "action": "big dark tree with old fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "van dyke brown and dark sienna",
+   "motion": "push the tree",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "trunk/limbs",
+   "action": "old limbs up and across tree with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "liquid black, sometimes a little paint thinner",
+   "motion": "limbs going out to the side",
+   "pressure": "unknown",
+   "where": "come right on around there",
+   "rule": "To allow the paint to flow easily.",
+   "new": ""
+  },
+  {
+   "t": "25:22",
+   "subject": "leaf tree",
+   "action": "touch of highlight on tree with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "a little white and brown, roll of paint",
+   "motion": "give it a little pull",
+   "pressure": "whisper",
+   "where": "on this tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:02",
+   "subject": "snow",
+   "action": "snow down at the tree foot with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "put a little snow down",
+   "pressure": "unknown",
+   "where": "down here on his foots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:02",
+   "subject": "snow",
+   "action": "liner highlights for snow",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a little liquid white",
+   "motion": "add highlights here and there",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "To suggest a light dusting of snow.",
+   "new": ""
+  },
+  {
+   "t": "26:41",
+   "subject": "other: signature",
+   "action": "sign the painting in bright red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red on the liner",
+   "motion": "sign it",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

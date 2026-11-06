@@ -1,0 +1,551 @@
+{
+ "ep": "S17E04",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "center",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow ochre",
+  "bright red",
+  "titanium white",
+  "phthalo blue",
+  "midnight black",
+  "alizarin crimson",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "big yellow mass in the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "a little cadmium yellow",
+   "motion": "tap into the sky",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "sky",
+   "action": "yellow ochre at the base of the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little yellow ochre",
+   "motion": "tap and blend",
+   "pressure": "unknown",
+   "where": "base of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "sky",
+   "action": "bright red blended into the base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little bright red",
+   "motion": "blend in",
+   "pressure": "unknown",
+   "where": "base of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "bright white highlight in the sky",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "corner of the brush",
+   "motion": "blend outward",
+   "pressure": "unknown",
+   "where": "brightest spot in sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "sky",
+   "action": "blue and black crisscross strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue and black loaded",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "sky",
+   "action": "blend the sky together",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "beat off excess then blend",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "cloud",
+   "action": "loose lavender cloud shapes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender loaded",
+   "motion": "light loose strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "lavender stays neutral next to yellow and blue",
+   "new": ""
+  },
+  {
+   "t": "06:30",
+   "subject": "cloud",
+   "action": "knock off excess and soften clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "knock off then blend",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:09",
+   "subject": "cloud",
+   "action": "highlight the cloud tops",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a touch of bright red",
+   "motion": "dab and lightly blend",
+   "pressure": "light",
+   "where": "cloud tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "cloud",
+   "action": "tiny circles on cloud edges",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "same loaded paint",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "cloud edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "cloud",
+   "action": "blend clouds softly",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush corner",
+   "motion": "fluff and lift",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "overworking mushes the colors together",
+   "new": ""
+  },
+  {
+   "t": "10:57",
+   "subject": "water line",
+   "action": "fan load and rocking strokes at the horizon",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on both sides of the bristles",
+   "motion": "rocking strokes",
+   "pressure": "light",
+   "where": "horizon",
+   "rule": "rocking strokes suggest far waves",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "water",
+   "action": "blend the dark area back with a clean fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry fan brush",
+   "motion": "angled blend back",
+   "pressure": "light",
+   "where": "dark area by horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "ocean/wave",
+   "action": "wave crest base in white with yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with a touch of yellow",
+   "motion": "let it work out",
+   "pressure": "unknown",
+   "where": "crest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:52",
+   "subject": "ocean/wave",
+   "action": "blend the wave softly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry large brush",
+   "motion": "barely touch and wind",
+   "pressure": "whisper",
+   "where": "wave area",
+   "rule": "keeping the wave small",
+   "new": ""
+  },
+  {
+   "t": "13:31",
+   "subject": "ocean/wave",
+   "action": "light trough between the waves",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white along the edge",
+   "motion": "blend back",
+   "pressure": "light",
+   "where": "edge of wave",
+   "rule": "blending back creates the trough",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "ocean/wave",
+   "action": "big white wave crest with yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "lots of white with a touch of yellow",
+   "motion": "let it zing over",
+   "pressure": "unknown",
+   "where": "wave crest",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:46",
+   "subject": "ocean/wave",
+   "action": "dark foam shadows",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender-white on the fan",
+   "motion": "churn and wiggle",
+   "pressure": "unknown",
+   "where": "splash area",
+   "rule": "shadows first so lights can go on after",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "ocean/wave",
+   "action": "white foam splashes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "splash area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "ocean/wave",
+   "action": "touch wave tops for small waves",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same loaded fan",
+   "motion": "touch the top of the wave",
+   "pressure": "whisper",
+   "where": "wave tops",
+   "rule": "that is how small waves form",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "water",
+   "action": "blend the light area gently",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry corner",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "water near sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:57",
+   "subject": "reflection",
+   "action": "pull color straight down as reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "below light spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "water line",
+   "action": "ridge of white and blue on the knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with least phthalo blue",
+   "motion": "push hard across",
+   "pressure": "hard",
+   "where": "water line in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:19",
+   "subject": "water",
+   "action": "blend ridge back with clean fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "clean fan",
+   "motion": "grab and blend back",
+   "pressure": "light",
+   "where": "water line area",
+   "rule": "flat strokes make the water lie down",
+   "new": ""
+  },
+  {
+   "t": "19:56",
+   "subject": "rock",
+   "action": "block in brown rock shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown with a little dark sienna",
+   "motion": "fill in shape",
+   "pressure": "unknown",
+   "where": "left rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "rock",
+   "action": "second rock blocked in with black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "black added to the brown",
+   "motion": "block in",
+   "pressure": "unknown",
+   "where": "right side rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:11",
+   "subject": "land",
+   "action": "light beach patch on the rocks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "dab upward",
+   "pressure": "light",
+   "where": "top of the rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "reflection",
+   "action": "pull rock colors down and across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under the rocks",
+   "rule": "makes the rocks look wet",
+   "new": ""
+  },
+  {
+   "t": "22:28",
+   "subject": "rock",
+   "action": "highlight marks on the rocks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "lavender and white",
+   "motion": "tap in marks",
+   "pressure": "light",
+   "where": "rock highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:07",
+   "subject": "rock",
+   "action": "blend rock marks lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry large brush",
+   "motion": "bare angled touch",
+   "pressure": "whisper",
+   "where": "rock area",
+   "rule": "keeps the marks while blending",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "water",
+   "action": "blue ripple with the knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on the small knife",
+   "motion": "lay in and blend back",
+   "pressure": "light",
+   "where": "water in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "water line",
+   "action": "firm up edge with thin paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin paint on liner",
+   "motion": "little lines",
+   "pressure": "light",
+   "where": "edge of water",
+   "rule": "firm edge stands apart",
+   "new": ""
+  },
+  {
+   "t": "25:43",
+   "subject": "ocean/wave",
+   "action": "little foamy lines and details",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin paint",
+   "motion": "small lines",
+   "pressure": "light",
+   "where": "around the rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:23",
+   "subject": "water line",
+   "action": "dark line under the rock",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin dark line",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "helps the rock stand up",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

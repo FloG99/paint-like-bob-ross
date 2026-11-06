@@ -1,0 +1,666 @@
+{
+ "ep": "S17E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "dark sienna",
+  "alizarin crimson",
+  "cadmium yellow",
+  "phthalo blue",
+  "dark cyan",
+  "black",
+  "titanium white",
+  "bright red",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "01:18",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "mixed on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "upper sky, top center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:03",
+   "subject": "sky",
+   "action": "brighter center of sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "more yellow ochre on brush",
+   "motion": "blend outward",
+   "pressure": "unknown",
+   "where": "center of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "sky",
+   "action": "alizarin crimson warm tint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap a small amount into bristles",
+   "motion": "blend and tap",
+   "pressure": "unknown",
+   "where": "upper sky, middle",
+   "rule": "tapping spreads color evenly through the brush",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "sun/glow",
+   "action": "yellow streak as sun area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "touch of cad yellow on brush",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "center, sun area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "sky",
+   "action": "dark sienna side tone pulled down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "little yellow ochre and dark sienna",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "one side of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:00",
+   "subject": "sun/glow",
+   "action": "lightest center area with titanium white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white on brush",
+   "motion": "pull straight down, lightly across",
+   "pressure": "light",
+   "where": "center light area",
+   "rule": "makes the light area stronger",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "sun/glow",
+   "action": "sun circle made with finger",
+   "tool": "other: finger",
+   "part": "unknown",
+   "paint": [],
+   "load": "finger on canvas",
+   "motion": "small circle",
+   "pressure": "unknown",
+   "where": "upper area, sun location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "sun/glow",
+   "action": "lift sun from canvas with knife and blend",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "lift off and blend a little",
+   "pressure": "light",
+   "where": "sun spot",
+   "rule": "the value stays in the canvas after lifting",
+   "new": ""
+  },
+  {
+   "t": "05:38",
+   "subject": "leaf tree",
+   "action": "push trees with both sides of big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "alizarin crimson"
+   ],
+   "load": "both sides loaded with mix",
+   "motion": "touch and push",
+   "pressure": "unknown",
+   "where": "upper left and right, tree line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:01",
+   "subject": "leaf tree",
+   "action": "second tree beside first",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "let bristles work",
+   "pressure": "unknown",
+   "where": "beside the first tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "leaf tree",
+   "action": "more trees on the right",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "drop trees in",
+   "pressure": "unknown",
+   "where": "right side, lower",
+   "rule": "trees out here give the birds a place to sit",
+   "new": ""
+  },
+  {
+   "t": "07:17",
+   "subject": "far trees",
+   "action": "tap back trees and bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "alizarin crimson"
+   ],
+   "load": "tap into corner of brush",
+   "motion": "tap downward gently",
+   "pressure": "light",
+   "where": "back in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:03",
+   "subject": "trunk/limbs",
+   "action": "thin ink-like trunks in back",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinner on liner, ink consistency",
+   "motion": "turn brush and place trunks",
+   "pressure": "light",
+   "where": "back, here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:27",
+   "subject": "bush",
+   "action": "lavender bushes with corner wiggle",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender mixed with knife, loaded on fan",
+   "motion": "wiggle corner of fan",
+   "pressure": "unknown",
+   "where": "back bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:31",
+   "subject": "mist",
+   "action": "tap clean brush at base of bushes",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "tap base",
+   "pressure": "light",
+   "where": "base of bushes",
+   "rule": "mist separates the layers",
+   "new": ""
+  },
+  {
+   "t": "12:05",
+   "subject": "mist",
+   "action": "tap mist across base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "tap all the way across",
+   "pressure": "light",
+   "where": "across the base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:54",
+   "subject": "trunk/limbs",
+   "action": "small sticks and trunks in back",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "same color thinned with thinner",
+   "motion": "turn brush for sticks",
+   "pressure": "light",
+   "where": "back bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "land",
+   "action": "land back here with dark sienna",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna on knife",
+   "motion": "pull flat, cut across, scrub on",
+   "pressure": "unknown",
+   "where": "back land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:25",
+   "subject": "reflection",
+   "action": "straight-down reflection under the bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender on large brush",
+   "motion": "touch and pull straight down",
+   "pressure": "unknown",
+   "where": "under the bushes and land",
+   "rule": "straight pulls keep the water from looking like it drips off the side",
+   "new": ""
+  },
+  {
+   "t": "15:11",
+   "subject": "land",
+   "action": "peninsula of land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender on brush",
+   "motion": "bring down, peninsula shape",
+   "pressure": "unknown",
+   "where": "peninsula out to the right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "reflection",
+   "action": "more reflection straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "same lavender",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "under peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "grass",
+   "action": "grassy bits pushed up with fan",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "bright red",
+    "dark cyan"
+   ],
+   "load": "mix yellows with red, dulled with dark cyan",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back along the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:56",
+   "subject": "leaf tree",
+   "action": "far tree silhouette with trunk and few leaves",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender on fan",
+   "motion": "tap trunk, then leaves with corner",
+   "pressure": "light",
+   "where": "far back, silhouette",
+   "rule": "leave some trunk showing so it stands out",
+   "new": ""
+  },
+  {
+   "t": "17:24",
+   "subject": "water",
+   "action": "water lily with thin white-blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white with least touch of blue",
+   "motion": "float lily shape",
+   "pressure": "unknown",
+   "where": "back, in the water",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "water",
+   "action": "straight water lines in lower areas",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "keep lines straight",
+   "pressure": "light",
+   "where": "lower areas of the water",
+   "rule": "straight lines stop water looking like it runs off",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "land",
+   "action": "land across the other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll of brown on knife",
+   "motion": "pull across and block in",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:59",
+   "subject": "reflection",
+   "action": "dark reflection under land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender on brush",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:28",
+   "subject": "reflection",
+   "action": "light lavender across reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "very lightly across in one direction",
+   "pressure": "light",
+   "where": "under the land",
+   "rule": "going one direction avoids a visible straight line",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "grass",
+   "action": "grassy areas with yellows and red",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "fan loaded with yellows and red",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "on the land, out front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "rock",
+   "action": "rock with white highlight",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "little white and van dyke brown",
+   "motion": "highlight on rock",
+   "pressure": "light",
+   "where": "small rock on the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:04",
+   "subject": "land",
+   "action": "another peninsula dropped in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown on fan",
+   "motion": "drop in shape",
+   "pressure": "unknown",
+   "where": "other side, peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:43",
+   "subject": "waterfall",
+   "action": "waterfall pulled over and down",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin paint in corner of fan",
+   "motion": "over and down, then splashes",
+   "pressure": "unknown",
+   "where": "over the land edge",
+   "rule": "thin paint works over thick without turning to mud",
+   "new": ""
+  },
+  {
+   "t": "23:34",
+   "subject": "leaf tree",
+   "action": "dark tree silhouette in lavender",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "lavender on fan",
+   "motion": "tap in silhouette",
+   "pressure": "unknown",
+   "where": "middle left, far tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "trunk/limbs",
+   "action": "hanging limbs with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "same lavender",
+   "motion": "indicate limbs hanging",
+   "pressure": "light",
+   "where": "edges of the tree",
+   "rule": "few limbs so the background stays visible",
+   "new": ""
+  },
+  {
+   "t": "25:07",
+   "subject": "leaf tree",
+   "action": "big dark tree in front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "phthalo blue",
+    "black"
+   ],
+   "load": "heavy dark mix on fan",
+   "motion": "bring down in one motion",
+   "pressure": "unknown",
+   "where": "front, center-left tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:32",
+   "subject": "leaf tree",
+   "action": "white highlight on tree edge",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan edge",
+   "motion": "tap along edge, then blend inward",
+   "pressure": "light",
+   "where": "left edge of dark tree",
+   "rule": "edge highlight gives the tree roundness",
+   "new": ""
+  },
+  {
+   "t": "26:25",
+   "subject": "trunk/limbs",
+   "action": "limbs with dark mix and small spaces",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "phthalo blue",
+    "black"
+   ],
+   "load": "same dark mix",
+   "motion": "indicate limbs here and there",
+   "pressure": "light",
+   "where": "middle of tree",
+   "rule": "leave big spaces so background shows",
+   "new": ""
+  },
+  {
+   "t": "26:25",
+   "subject": "other: neon glow",
+   "action": "thin red neon-style accent",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thin paint on liner",
+   "motion": "indicate small line",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:52",
+   "subject": "other: signature",
+   "action": "sign with thinned red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with thinner",
+   "motion": "write",
+   "pressure": "unknown",
+   "where": "bottom corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

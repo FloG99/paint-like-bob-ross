@@ -1,0 +1,553 @@
+{
+ "ep": "S24E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "midnight black",
+  "phthalo blue",
+  "prussian blue",
+  "phthalo green",
+  "alizarin crimson",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "criss-cross strokes in the top sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:09",
+   "subject": "sky",
+   "action": "touch of pink into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tiny bits on the same brush",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "sky, small glow",
+   "rule": "keeps the color subtle so it does not overpower",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "cloud",
+   "action": "dark cloud shapes at the top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "small amount, excess knocked off",
+   "motion": "criss-cross, then tap downward",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "keeps the clouds quite dark",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "cloud",
+   "action": "more dark cloud shapes on the other side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "same brush, excess knocked off",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "right side, scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:23",
+   "subject": "far trees",
+   "action": "tap in distant tree indications",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "mostly black with a little blue",
+   "motion": "side of brush, light tapping",
+   "pressure": "light",
+   "where": "back, far away",
+   "rule": "far away, so keep them vague and quiet",
+   "new": ""
+  },
+  {
+   "t": "06:12",
+   "subject": "mist",
+   "action": "tap and lift at the base to soften distant shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "base of distant trees",
+   "rule": "creates an illusion of mist at the base",
+   "new": ""
+  },
+  {
+   "t": "07:01",
+   "subject": "bush",
+   "action": "small dark bush shapes near the far trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "little black on the brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "the detail comes later in the foreground",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "structure",
+   "action": "paint the bridge rail and deck",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll of paint from knife edge",
+   "motion": "press and pull",
+   "pressure": "light",
+   "where": "middle back, over the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:47",
+   "subject": "structure",
+   "action": "add bridge posts underneath",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same roll of paint",
+   "motion": "small tap",
+   "pressure": "light",
+   "where": "under the bridge deck",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "structure",
+   "action": "highlight the top of the bridge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "roll of mixed highlight",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of bridge and posts",
+   "rule": "light hits the top, so the highlight goes there",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "structure",
+   "action": "add a larger post to hold up the bridge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "highlight mix from before",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "under the bridge",
+   "rule": "without a post the bridge would fall into the water",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "reflection",
+   "action": "pull the bridge reflection down into the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "paint carried from the bridge",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under the bridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:49",
+   "subject": "water",
+   "action": "thin white ripple around the bridge foot",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "liquid white mixed with titanium white",
+   "motion": "short ripple strokes",
+   "pressure": "light",
+   "where": "foot of the bridge",
+   "rule": "makes the water look like it moves slowly",
+   "new": ""
+  },
+  {
+   "t": "12:46",
+   "subject": "bush",
+   "action": "block in dark bushes behind the bridge ends",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "knife loaded with dark mix",
+   "motion": "press and drag",
+   "pressure": "firm",
+   "where": "big bushes behind the bridge ends",
+   "rule": "the bridge ends sit in the bushes, so no worry about them",
+   "new": ""
+  },
+  {
+   "t": "13:45",
+   "subject": "land",
+   "action": "highlight the bank with brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on the knife edge",
+   "motion": "tap here and there",
+   "pressure": "light",
+   "where": "bank at the water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:33",
+   "subject": "evergreen",
+   "action": "tap dark evergreen trees with the brush corner",
+   "tool": "other: brush",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "tap down, bristles bending",
+   "pressure": "firm",
+   "where": "middle, near the bushes",
+   "rule": "",
+   "new": "blue spruce look from the phthalo green"
+  },
+  {
+   "t": "17:33",
+   "subject": "trunk/limbs",
+   "action": "tap in a dark limb coming down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix from earlier",
+   "motion": "tap and bring it down",
+   "pressure": "light",
+   "where": "left tree, from the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "reflection",
+   "action": "pull the tree down into the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "grab and pull down",
+   "pressure": "light",
+   "where": "tree base at the water edge",
+   "rule": "the reflection sets the tree into the water",
+   "new": ""
+  },
+  {
+   "t": "18:26",
+   "subject": "evergreen",
+   "action": "highlight trees, background first then front",
+   "tool": "1in",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "dark green mix with yellow added",
+   "motion": "tap, bristles bending downward",
+   "pressure": "light",
+   "where": "background trees, then front trees",
+   "rule": "the middle tree goes in front so it reads as closer",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "grass",
+   "action": "tap in grassy base in layers",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "indian yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "loaded on the bristles",
+   "motion": "tap, layer after layer",
+   "pressure": "light",
+   "where": "bottom, under the trees and at the sides",
+   "rule": "",
+   "new": "tapping in layers gives soft grass"
+  },
+  {
+   "t": "21:15",
+   "subject": "land",
+   "action": "soil at the water edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "brown mix lightened with white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom, at the water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "bush",
+   "action": "pop in little bushes at the bottom edge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "the brown and white from before",
+   "motion": "pop in, pushing up",
+   "pressure": "light",
+   "where": "bottom edge by the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:11",
+   "subject": "water",
+   "action": "watery line at the water edge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "liquid white with titanium white",
+   "motion": "one stroke across",
+   "pressure": "light",
+   "where": "water edge, across",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:11",
+   "subject": "path",
+   "action": "path toward the little bridge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix from earlier",
+   "motion": "thin line",
+   "pressure": "light",
+   "where": "back, toward the bridge",
+   "rule": "the path has to reach the little bridge in back",
+   "new": ""
+  },
+  {
+   "t": "22:36",
+   "subject": "path",
+   "action": "graze a light highlight across the path",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "light touch on the brush",
+   "motion": "barely touch and graze across",
+   "pressure": "whisper",
+   "where": "across the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:01",
+   "subject": "bush",
+   "action": "push grassy bushes up to the edges",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "grassy colors from earlier",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "edges, nearer bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:25",
+   "subject": "bush",
+   "action": "highlight the bushes, far to near",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "sap green"
+   ],
+   "load": "white and green mix",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "across the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "trunk/limbs",
+   "action": "paint the big tree in both browns",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "both browns on the fan brush",
+   "motion": "press and pull",
+   "pressure": "firm",
+   "where": "middle, the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:51",
+   "subject": "trunk/limbs",
+   "action": "touch a highlight to the tree edges",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned paint on the liner",
+   "motion": "touch along the edges",
+   "pressure": "light",
+   "where": "edges of the small trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:13",
+   "subject": "trunk/limbs",
+   "action": "thin branches and limbs over the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "very thin paint with thinner",
+   "motion": "run the paint over the shapes",
+   "pressure": "light",
+   "where": "over the trees and bushes",
+   "rule": "thin paint slides over the top",
+   "new": ""
+  },
+  {
+   "t": "26:01",
+   "subject": "trunk/limbs",
+   "action": "scrape in sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "dry knife",
+   "motion": "scrape in short strokes",
+   "pressure": "light",
+   "where": "scattered through the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

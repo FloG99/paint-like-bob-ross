@@ -1,0 +1,602 @@
+{
+ "ep": "S21E13",
+ "base": "liquid white top, liquid clear bottom, sprayed light blue canvas under contact paper",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "dark sienna",
+  "van dyke brown",
+  "prussian blue",
+  "sap green",
+  "cad yellow",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "00:47",
+   "subject": "sky",
+   "action": "add yellow glow low in the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:09",
+   "subject": "sky",
+   "action": "add crimson and blend upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "above the yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "sky",
+   "action": "blend lavender along the water line",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mixed on the brush",
+   "motion": "blend along the line",
+   "pressure": "light",
+   "where": "water line area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "cloud",
+   "action": "load lavender on fan for clouds",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender on fan",
+   "motion": "tap cloud shapes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:50",
+   "subject": "cloud",
+   "action": "blend cloud layers across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried-over lavender",
+   "motion": "pull paint across",
+   "pressure": "light",
+   "where": "sky clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:20",
+   "subject": "cloud",
+   "action": "add darker lower clouds with bluer lavender",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "bluer lavender",
+   "motion": "tap darker shapes",
+   "pressure": "light",
+   "where": "lower clouds",
+   "rule": "closer shapes should be darker",
+   "new": ""
+  },
+  {
+   "t": "06:32",
+   "subject": "ocean/wave",
+   "action": "sketch the major wave shape",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "sweep up and over",
+   "pressure": "light",
+   "where": "middle of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:56",
+   "subject": "ocean/wave",
+   "action": "roll white to mark the breaker",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "roll and turn",
+   "pressure": "light",
+   "where": "breaker location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:48",
+   "subject": "water line",
+   "action": "outline far horizon and lines",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "float into nothing",
+   "pressure": "light",
+   "where": "far horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:34",
+   "subject": "ocean/wave",
+   "action": "pull color across the breaker",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "breaker",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "water",
+   "action": "block in dark water under breaker",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue-leaning mix",
+   "motion": "block in",
+   "pressure": "light",
+   "where": "under the breaker",
+   "rule": "a dark area under light makes the light show",
+   "new": ""
+  },
+  {
+   "t": "09:21",
+   "subject": "beach",
+   "action": "lay in dark beach base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "brown mix",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "water line",
+   "action": "lay thin shoreline with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with least blue",
+   "motion": "lay thin line",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:36",
+   "subject": "water",
+   "action": "pull shoreline water straight back with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried-over",
+   "motion": "pull straight back",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "straight strokes keep the water flat",
+   "new": ""
+  },
+  {
+   "t": "11:09",
+   "subject": "ocean/wave",
+   "action": "add foam and ripples with thinned blue-white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned blue-white",
+   "motion": "ripple dabs",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "ocean/wave",
+   "action": "brighten foam",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "wave foam",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:59",
+   "subject": "water line",
+   "action": "add another water line",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "pale blue-white",
+   "motion": "pull lightly",
+   "pressure": "light",
+   "where": "wet area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:28",
+   "subject": "beach",
+   "action": "add wet sand edge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "carried-over",
+   "motion": "touch base and pull lightly across",
+   "pressure": "whisper",
+   "where": "water edge",
+   "rule": "makes the sand look wet",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "beach",
+   "action": "lay lighter sand",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and a little dark sienna",
+   "motion": "sneak up",
+   "pressure": "light",
+   "where": "above wet sand",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "water",
+   "action": "add dark line under the white line",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix",
+   "motion": "thin dark line",
+   "pressure": "light",
+   "where": "under the white line",
+   "rule": "a dark line makes depth",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "land",
+   "action": "lay in sand dune",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna",
+   "motion": "blend down lightly",
+   "pressure": "light",
+   "where": "dune on the beach",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "bush",
+   "action": "block in dark weeds along the dune edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "very dark green mix",
+   "motion": "let weeds travel down the edge",
+   "pressure": "light",
+   "where": "dune edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:03",
+   "subject": "bush",
+   "action": "lift thin weeds and sticks with thinned green",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "dark green thinned",
+   "motion": "lift up",
+   "pressure": "light",
+   "where": "dune edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "bush",
+   "action": "highlight weeds with yellow ochre",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on liner",
+   "motion": "lift and highlight",
+   "pressure": "light",
+   "where": "dune edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "grass",
+   "action": "push grass upward with fan",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "tiny bit of cad yellow and yellow ochre",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "dune top",
+   "rule": "pushing up pushes the dune back so grass shows",
+   "new": ""
+  },
+  {
+   "t": "18:17",
+   "subject": "bush",
+   "action": "add sea oats",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "dark green",
+   "motion": "flip strokes up",
+   "pressure": "light",
+   "where": "dune grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "grass",
+   "action": "highlight sea oats with yellow ochre",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on liner",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "sea oats",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "other: seabird",
+   "action": "add black seabird marks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "thin black pulled through white",
+   "motion": "flick small marks",
+   "pressure": "light",
+   "where": "sky above water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:51",
+   "subject": "other: palm tree",
+   "action": "lay brown palm trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix",
+   "motion": "pull trunk",
+   "pressure": "light",
+   "where": "palm area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:43",
+   "subject": "other: palm fronds",
+   "action": "pull thin black palm fronds",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black"
+   ],
+   "load": "very thin black",
+   "motion": "touch then pull",
+   "pressure": "whisper",
+   "where": "upper canvas",
+   "rule": "fronds form only with very thin paint",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "other: palm tree",
+   "action": "add gray highlight with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "gray and white mix",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "trunk side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:05",
+   "subject": "beach",
+   "action": "lay sand base under palm",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna",
+   "motion": "let fade into nothing",
+   "pressure": "light",
+   "where": "base of palm",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:33",
+   "subject": "bush",
+   "action": "add green bushes around palm base",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "dark green",
+   "motion": "pop in",
+   "pressure": "light",
+   "where": "palm base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "grass",
+   "action": "lift thin dark green strokes",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "dark green",
+   "motion": "lift",
+   "pressure": "light",
+   "where": "around bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:48",
+   "subject": "other: palm fronds",
+   "action": "highlight palm fronds with dark green",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "black"
+   ],
+   "load": "dark green",
+   "motion": "highlight strokes",
+   "pressure": "light",
+   "where": "upper palms",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,461 @@
+{
+ "ep": "S18E13",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid black",
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "dark sienna",
+  "sap green",
+  "indian yellow",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:51",
+   "subject": "far trees",
+   "action": "tap basic distant shapes with liquid black",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "a little",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "far back area",
+   "rule": "Shapes show through later and look far away.",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "sun/glow",
+   "action": "tap yellow ochre into the 2in and start the light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "sun/glow",
+   "action": "add alizarin crimson around the yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "a little",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "around the yellow",
+   "rule": "Criss-cross strokes blend easier than one solid line.",
+   "new": ""
+  },
+  {
+   "t": "04:03",
+   "subject": "sky",
+   "action": "mix crimson with a touch of phthalo blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mostly crimson",
+   "motion": "mix on brush",
+   "pressure": "unknown",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:28",
+   "subject": "sky",
+   "action": "bring the crimson and blue mix around the light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "bring around the crimson",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:20",
+   "subject": "sky",
+   "action": "blend from the yellow outward with a clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "Blend outward from the yellow, the weakest color.",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "sun/glow",
+   "action": "brighten the crimson area with titanium white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot",
+   "motion": "blend around",
+   "pressure": "light",
+   "where": "crimson area",
+   "rule": "Makes this area stand out as an eye grabber.",
+   "new": ""
+  },
+  {
+   "t": "08:05",
+   "subject": "sun/glow",
+   "action": "place a round sun with a finger and blend",
+   "tool": "other: finger",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "small circle then blend",
+   "pressure": "whisper",
+   "where": "upper area",
+   "rule": "Round suns look better than square ones.",
+   "new": ""
+  },
+  {
+   "t": "09:46",
+   "subject": "far trees",
+   "action": "add little color over the liquid black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "a little",
+   "motion": "blend up into nothing",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:09",
+   "subject": "bush",
+   "action": "add basic bush shapes with brush corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "basic shapes",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "trunk/limbs",
+   "action": "indicate little tree trunks with lavender thinned on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "draw trunks",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:55",
+   "subject": "leaf tree",
+   "action": "add tree leaves with sap green and brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:20",
+   "subject": "leaf tree",
+   "action": "add a small tree with yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:04",
+   "subject": "leaf tree",
+   "action": "sparkle the foliage with indian yellow and bright red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "foliage area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "grass",
+   "action": "tap grassy areas with greens and yellows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "tap down",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Liquid black keeps the greens soft and subdued.",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "stream",
+   "action": "pull a light stream color through the brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "least little touch",
+   "motion": "pull the brush through",
+   "pressure": "light",
+   "where": "stream area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "waterfall",
+   "action": "push water upward for the waterfall",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "stream edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:07",
+   "subject": "rock",
+   "action": "pile thin light brown paint for stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "thin",
+   "motion": "pile up",
+   "pressure": "light",
+   "where": "stone area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:31",
+   "subject": "rock",
+   "action": "wipe thin paint across filbert for stone highlight and shadow",
+   "tool": "other: filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin paint",
+   "motion": "wipe through",
+   "pressure": "light",
+   "where": "stone area",
+   "rule": "One stroke gives both the highlight and shadow of stones.",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "waterfall",
+   "action": "splash water with fan brush and push upward",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "push upward into a splash",
+   "pressure": "light",
+   "where": "waterfall area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "bush",
+   "action": "add dark bushes over the waterfall with 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "a little",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "waterfall area",
+   "rule": "A dark plane pushes the waterfall back into the distance.",
+   "new": ""
+  },
+  {
+   "t": "21:40",
+   "subject": "bush",
+   "action": "tap yellow ochre highlights into the bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "Highlights past the dark keep shadows inside the bush.",
+   "new": ""
+  },
+  {
+   "t": "23:18",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "none",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "bush",
+   "action": "add leaves with highlight color on brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "shake leaves out",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "leaf tree",
+   "action": "drop in dark base color for a big tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "top area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "trunk/limbs",
+   "action": "paint a tree trunk with brown on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "draw trunk",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:42",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs with thinned paint on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "trunk/limbs",
+   "action": "highlight the branches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "branches",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

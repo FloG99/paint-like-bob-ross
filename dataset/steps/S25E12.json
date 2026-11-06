@@ -1,0 +1,475 @@
+{
+ "ep": "S25E12",
+ "base": "white canvas; liquid white; contact paper oval",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "yellow ochre",
+  "alizarin crimson",
+  "dark sienna",
+  "bright red",
+  "cad yellow",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "criss-cross the sky with blue and black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "a little blue and black on the brush",
+   "motion": "little X strokes",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "cloud",
+   "action": "tap yellow ochre and titanium white clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "yellow ochre loaded into white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "sky, here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:52",
+   "subject": "cloud",
+   "action": "graze and blend the clouds softly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean brush",
+   "pressure": "light",
+   "where": "whisper",
+   "rule": "the clouds",
+   "new": "you can always add pressure, so start light"
+  },
+  {
+   "t": "04:30",
+   "subject": "mountain",
+   "action": "lay a far mountain edge with lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender toward the blue side",
+   "motion": "lay the top edge",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "keep it far away with no detail, detail makes it look close",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "mountain",
+   "action": "blend the far mountains softly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "far mountains",
+   "rule": "keeps the far mountains soft and far away",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "mist",
+   "action": "rub white with yellow ochre low down with the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "white with a touch of yellow ochre on the knife",
+   "motion": "rub it around",
+   "pressure": "light",
+   "where": "down low in the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "mountain",
+   "action": "far background mountain in the same lavender",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "same lavender cut off the knife",
+   "motion": "lay in a small far ridge",
+   "pressure": "light",
+   "where": "back right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:39",
+   "subject": "mountain",
+   "action": "foreground mountain with more detail",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "same mix",
+   "motion": "lay in a big shape",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "because he is closer, more detail fits",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "mountain",
+   "action": "mix a highlight color from sienna, red and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "titanium white",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "mixed rough highlight color",
+   "motion": "mix loosely",
+   "pressure": "light",
+   "where": "on the knife",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "mountain",
+   "action": "highlight with the knife where the light would strike",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "highlight mix on the knife",
+   "motion": "touch and rub",
+   "pressure": "light",
+   "where": "raised ridges on the mountain",
+   "rule": "keep it from getting too bright",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "mountain",
+   "action": "keep the dark edge and add a highlight or two",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix from before",
+   "motion": "pull the dark edge over and down",
+   "pressure": "light",
+   "where": "top edge of the mountain",
+   "rule": "dark edge separates and pushes the mountain back",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "bush",
+   "action": "muted green growth at the mountain base",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "van dyke brown"
+   ],
+   "load": "muted green mixed on the knife",
+   "motion": "rub the knife",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "keep them muted so they do not distract",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "mountain",
+   "action": "blend lavender down into the base of the mountain",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender on the knife",
+   "motion": "blend down",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "so all the tones come together",
+   "new": ""
+  },
+  {
+   "t": "18:31",
+   "subject": "other: cactus",
+   "action": "paint a tall cactus with the filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "dark sienna"
+   ],
+   "load": "brown and black mix",
+   "motion": "push up the shape and add arms",
+   "pressure": "firm",
+   "where": "back there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:11",
+   "subject": "bush",
+   "action": "far bushes pushed upward with the filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "indian yellow",
+    "cad yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow and green mix on the filbert",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "rock",
+   "action": "far rock formations with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender left on the knife",
+   "motion": "dab small shapes",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "land",
+   "action": "sand highlight barely grazed under the mountain",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "white with a little yellow ochre",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "under the mountain base",
+   "rule": "to suggest sand and rocks",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "other: cactus",
+   "action": "second cactus with the filbert, black and brown",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "brown and black on the filbert",
+   "motion": "push up the shape and add arms",
+   "pressure": "firm",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:26",
+   "subject": "bush",
+   "action": "green dab over the lavender bush",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "lavender still on the brush",
+   "motion": "go right over with green",
+   "pressure": "light",
+   "where": "along the cactus",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "bush",
+   "action": "highlights with yellows and red",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "sap green",
+    "bright red"
+   ],
+   "load": "yellows and red on the filbert",
+   "motion": "tap in a few highlights",
+   "pressure": "light",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "bush",
+   "action": "small bush in blue and white",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little blue and white on the filbert",
+   "motion": "dab a little bush",
+   "pressure": "light",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "land",
+   "action": "dab soil-colored dirt",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [],
+   "load": "soil color mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "land",
+   "action": "yellow ochre and white highlight dabs",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "a little yellow ochre and white",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "bush",
+   "action": "lavender bushes on both sides",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender on the filbert",
+   "motion": "pop in another bush",
+   "pressure": "light",
+   "where": "here and on the other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "bush",
+   "action": "green highlights on the bushes",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "green mix",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "on the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "other: blend",
+   "action": "blend the areas where they meet with the clean knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "blend side to side",
+   "pressure": "light",
+   "where": "where the colors meet",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:16",
+   "subject": "other: signature",
+   "action": "sign with bright red on the liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red thinned with paint thinner",
+   "motion": "write name",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

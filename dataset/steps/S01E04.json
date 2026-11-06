@@ -1,0 +1,604 @@
+{
+ "ep": "S01E04",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "van dyke brown",
+  "titanium white",
+  "magic white",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:02",
+   "subject": "sky",
+   "action": "work a grey base into the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "grey mix from blue brown and white",
+   "motion": "work it around in circles",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:32",
+   "subject": "sky",
+   "action": "swirl and bring the grey together",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "swirling turn",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:27",
+   "subject": "cloud",
+   "action": "far cloud first with the fan brush in white and a touch of red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "permanent red"
+   ],
+   "load": "white with a touch of red",
+   "motion": "keep the brush moving",
+   "pressure": "light",
+   "where": "far back in the sky",
+   "rule": "farthest cloud first then work forward",
+   "new": ""
+  },
+  {
+   "t": "02:27",
+   "subject": "cloud",
+   "action": "blend the far clouds gently",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "far clouds",
+   "rule": "works farthest away first then forward",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "cloud",
+   "action": "grey clouds sneaking in front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "quick clouds",
+   "pressure": "light",
+   "where": "scattered in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:39",
+   "subject": "cloud",
+   "action": "white clouds with a pink top for sunlight",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "permanent red"
+   ],
+   "load": "white with a little red",
+   "motion": "dab clouds in",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "pink on top shows sunlight coming through",
+   "new": ""
+  },
+  {
+   "t": "06:39",
+   "subject": "mountain",
+   "action": "lay distant mountains into the clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "grey mix",
+   "motion": "tap the peak shape",
+   "pressure": "light",
+   "where": "far away in the clouds",
+   "rule": "far away so they nearly vanish into the sky",
+   "new": ""
+  },
+  {
+   "t": "07:19",
+   "subject": "mountain",
+   "action": "tap the distant mountains to diffuse them",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap following the angles",
+   "pressure": "light",
+   "where": "distant mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "cloud",
+   "action": "set clouds around the distant mountains",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "set them down",
+   "pressure": "light",
+   "where": "around the distant mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:24",
+   "subject": "mountain",
+   "action": "big mountain up through the middle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push up into the canvas",
+   "pressure": "firm",
+   "where": "centre of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "mountain",
+   "action": "pull paint down and add blue for snow shadows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "pulling down makes the next layer stick better",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "mountain",
+   "action": "snow running down through the mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "let it run and play",
+   "pressure": "light",
+   "where": "down the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "mountain",
+   "action": "shadows under the ridges with blue and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lay shadows under the ridges",
+   "pressure": "light",
+   "where": "behind the ridges",
+   "rule": "a shadow makes the ridge stand up",
+   "new": ""
+  },
+  {
+   "t": "11:55",
+   "subject": "mist",
+   "action": "diffuse the back of the mountains with a clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "diffuse with dry brush",
+   "pressure": "light",
+   "where": "back of the scene",
+   "rule": "misty in the back to feel very cold",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "far trees",
+   "action": "tiny trees far back with the fan brush in grey",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "grey mix lightened with white",
+   "motion": "press tree shapes",
+   "pressure": "light",
+   "where": "far back in the distance",
+   "rule": "keep them quiet and subdued for distance",
+   "new": ""
+  },
+  {
+   "t": "14:05",
+   "subject": "mist",
+   "action": "tap mist over the far trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently tap",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:05",
+   "subject": "evergreen",
+   "action": "drop in more trees coming forward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "drop in trees",
+   "pressure": "medium",
+   "where": "middle ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "evergreen",
+   "action": "back and forth with the fan brush bending the bristles down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "bend bristles downward",
+   "pressure": "medium",
+   "where": "middle ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "evergreen",
+   "action": "darker trees in front of the first ones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "firm",
+   "where": "front of the first trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:45",
+   "subject": "bush",
+   "action": "snow covered bushes with thinned magic white and titanium white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "thin paint",
+   "motion": "sparkle dabs",
+   "pressure": "light",
+   "where": "middle bushes",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "trunk/limbs",
+   "action": "a few sticks with the liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add sticks",
+   "pressure": "light",
+   "where": "middle of the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "evergreen",
+   "action": "bigger evergreens on the right side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap trees",
+   "pressure": "firm",
+   "where": "right side",
+   "rule": "leave gaps between limbs so birds have a place to sit and wind can get through",
+   "new": ""
+  },
+  {
+   "t": "17:46",
+   "subject": "evergreen",
+   "action": "darker baby tree in the front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap gently",
+   "pressure": "light",
+   "where": "front",
+   "rule": "darker so it stands out",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "evergreen",
+   "action": "another branch coming down through",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull through",
+   "pressure": "light",
+   "where": "middle",
+   "rule": "changes the angle of the trees",
+   "new": ""
+  },
+  {
+   "t": "20:20",
+   "subject": "structure",
+   "action": "scrape the cabin basic shape with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out the basic shape",
+   "pressure": "light",
+   "where": "cabin site",
+   "rule": "gets rid of loose paint and sets the perspective",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "structure",
+   "action": "dark back eave of the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull a dark eave",
+   "pressure": "light",
+   "where": "back of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "structure",
+   "action": "roof on the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay a roof",
+   "pressure": "light",
+   "where": "cabin top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "structure",
+   "action": "thick snow on the other side of the roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lay snow thick",
+   "pressure": "firm",
+   "where": "other side of roof",
+   "rule": "thick snow looks strong",
+   "new": ""
+  },
+  {
+   "t": "22:03",
+   "subject": "structure",
+   "action": "front of the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay in the front",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "structure",
+   "action": "weathered boards with brown and white alternating",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "alternate strokes",
+   "pressure": "light",
+   "where": "cabin boards",
+   "rule": "makes it look very old",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "bush",
+   "action": "push the cabin back into darker bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "push in darker color first",
+   "pressure": "light",
+   "where": "around the cabin",
+   "rule": "pushes the cabin back into the painting",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "fence",
+   "action": "little fence running over the hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "run posts over the hill",
+   "pressure": "light",
+   "where": "over the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:38",
+   "subject": "fence",
+   "action": "highlight and snow on the fence posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "highlight the tops",
+   "pressure": "light",
+   "where": "fence posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:13",
+   "subject": "snow",
+   "action": "pull icicles down from the front bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "front bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "trunk/limbs",
+   "action": "move out the snow and add sticks with the liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add sticks here and there",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:09",
+   "subject": "mountain",
+   "action": "little indications of sticks on the mountain",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "little indications",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:33",
+   "subject": "mist",
+   "action": "soften the far areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap lightly",
+   "pressure": "whisper",
+   "where": "far areas",
+   "rule": "we want it soft misty and far away",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

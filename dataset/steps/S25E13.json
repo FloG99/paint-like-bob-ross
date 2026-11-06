@@ -1,0 +1,578 @@
+{
+ "ep": "S25E13",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "black",
+  "titanium white",
+  "alizarin crimson",
+  "sap green",
+  "indian yellow",
+  "yellow ochre",
+  "bright red",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:36",
+   "subject": "sky",
+   "action": "blue sky with a little black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "black"
+   ],
+   "load": "very little blue then a little black",
+   "motion": "dancing",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "sky",
+   "action": "crimson sparkle in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny amount",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:51",
+   "subject": "cloud",
+   "action": "tiny cloud with the corner",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "very small amount",
+   "motion": "spinning with the corner",
+   "pressure": "whisper",
+   "where": "far away in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:06",
+   "subject": "far trees",
+   "action": "far tree shapes with the top corner",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tapped in small amounts",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "far back here",
+   "rule": "far away so they need no detail",
+   "new": ""
+  },
+  {
+   "t": "03:43",
+   "subject": "other: backlight",
+   "action": "backlight glow with indian yellow and yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "very small amount",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "down in here among the trees",
+   "rule": "gives the impression of light coming through",
+   "new": ""
+  },
+  {
+   "t": "04:22",
+   "subject": "other: soft color",
+   "action": "soft crimson and black tapped on canvas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "black"
+   ],
+   "load": "tiny amounts",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "up in here",
+   "rule": "wants a very soft watercolor look",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "bush",
+   "action": "tap in little bushes that fade away",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "let them fade into nothing",
+   "new": ""
+  },
+  {
+   "t": "05:37",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs by lifting paint with thinner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "clean brush with paint thinner",
+   "motion": "light touch",
+   "pressure": "whisper",
+   "where": "here and there",
+   "rule": "thinner reacts with the clear and lifts paint",
+   "new": ""
+  },
+  {
+   "t": "06:15",
+   "subject": "bush",
+   "action": "flick thinner for little things at the base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "fan with thinner, shaken",
+   "motion": "flicking",
+   "pressure": "light",
+   "where": "base of trees and bushes",
+   "rule": "thinner reacts with the clear to make small details",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "snow",
+   "action": "white and blue snow with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with a touch of blue",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "a touch of blue suggests a small shadow",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "snow",
+   "action": "lift snow so it disappears back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "lifting up",
+   "pressure": "light",
+   "where": "around the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:49",
+   "subject": "stream",
+   "action": "blue, black and white stream bank with curves",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "black",
+    "titanium white"
+   ],
+   "load": "blue, black and white on the brush",
+   "motion": "curving strokes",
+   "pressure": "light",
+   "where": "a little stream bank in here",
+   "rule": "maybe it is all frozen so only a little shows",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "stream",
+   "action": "white along the edge of the bank",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "carried over",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "edge of the bank",
+   "new": ""
+  },
+  {
+   "t": "10:47",
+   "subject": "other: indentation",
+   "action": "blue shadow with white brought up to it",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue then white",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "the edge there",
+   "rule": "a small dip reads as an indentation",
+   "new": ""
+  },
+  {
+   "t": "11:25",
+   "subject": "far trees",
+   "action": "lavender trees with blue and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "a little blue and crimson mixed",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:04",
+   "subject": "far trees",
+   "action": "another tree in the distance",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender mix",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:42",
+   "subject": "bush",
+   "action": "flick thinner for tiny bits at the base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner on the fan brush",
+   "motion": "flicking",
+   "pressure": "light",
+   "where": "base of that tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "snow",
+   "action": "pinky snow lifted upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "white with a little red",
+   "motion": "lifting upward",
+   "pressure": "light",
+   "where": "a snow spot in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "bush",
+   "action": "bushy little tree layer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "other: shadows",
+   "action": "blue shadows under the layers",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue then white",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "blue shadows sit under the white",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs by removing paint with thinner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "clean brush with thinner",
+   "motion": "light touch",
+   "pressure": "whisper",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "trunk/limbs",
+   "action": "brown branches and sticks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix with thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "some darker and some lighter",
+   "new": ""
+  },
+  {
+   "t": "18:30",
+   "subject": "snow",
+   "action": "snow around the tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white from the brush",
+   "motion": "pulling",
+   "pressure": "light",
+   "where": "around the base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:07",
+   "subject": "leaf tree",
+   "action": "big rough tree with van dyke and dark sienna",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark sienna and van dyke mix",
+   "motion": "dabbing down",
+   "pressure": "medium",
+   "where": "center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "trunk/limbs",
+   "action": "crooks, arms and limbs on the old tree",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix",
+   "motion": "pulling out",
+   "pressure": "medium",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "snow",
+   "action": "snow down from the base",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "carried over",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "the base of the tree",
+   "new": ""
+  },
+  {
+   "t": "21:42",
+   "subject": "other: shadow",
+   "action": "blue shadow then brown mix on the knife",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "blue then brown mix on the knife",
+   "motion": "grazing",
+   "pressure": "light",
+   "where": "under the limbs",
+   "rule": "a little blue makes a shadow",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "trunk/limbs",
+   "action": "bark texture on limbs by bouncing",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thick brown mix",
+   "motion": "bouncing with barely any touch",
+   "pressure": "whisper",
+   "where": "some limbs",
+   "rule": "the thick paint gives a bark texture",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "fence",
+   "action": "fence around the tree",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix on the brush",
+   "motion": "pulling a line",
+   "pressure": "light",
+   "where": "in front of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "snow",
+   "action": "snow hanging in the upper area",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "liquid white thinned with white",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:13",
+   "subject": "snow",
+   "action": "blue and white shadow under the tree foot",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white",
+   "motion": "pulling",
+   "pressure": "light",
+   "where": "under the tree foot",
+   "rule": "picking up the blue creates shadows",
+   "new": ""
+  },
+  {
+   "t": "24:51",
+   "subject": "grass",
+   "action": "weeds and grass with the script liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the liner",
+   "motion": "small flicking strokes",
+   "pressure": "light",
+   "where": "out in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "bush",
+   "action": "dropping in a big bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "dropping in",
+   "pressure": "light",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red on the brush",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "bottom",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

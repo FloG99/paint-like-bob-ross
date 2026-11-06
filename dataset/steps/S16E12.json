@@ -1,0 +1,605 @@
+{
+ "ep": "S16E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "dark sienna",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:41",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "small amount on brush",
+   "motion": "criss-cross strokes top to bottom",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "the paint mixes with the base so it lightens toward the horizon",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "sky",
+   "action": "blend sky strokes together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "light strokes across the whole sky",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "brings everything together",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "water",
+   "action": "blue for undecided water area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "carried over",
+   "motion": "light strokes in lower area",
+   "pressure": "light",
+   "where": "lower canvas, not committed",
+   "rule": "the spot can still be painted over",
+   "new": ""
+  },
+  {
+   "t": "02:37",
+   "subject": "cloud",
+   "action": "tiny circles for cloud shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of white on brush",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "plan the shape first instead of hoping one appears",
+   "new": ""
+  },
+  {
+   "t": "03:16",
+   "subject": "cloud",
+   "action": "basic cloud shapes across the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "small shapes moving across the area",
+   "pressure": "light",
+   "where": "different parts of sky",
+   "rule": "staying in one spot gives a blob",
+   "new": ""
+  },
+  {
+   "t": "03:56",
+   "subject": "cloud",
+   "action": "blend cloud edges",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blending strokes",
+   "pressure": "whisper",
+   "where": "cloud edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:34",
+   "subject": "cloud",
+   "action": "knock off excess and fluff clouds",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "light taps and lifts",
+   "pressure": "light",
+   "where": "cloud tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:12",
+   "subject": "cloud",
+   "action": "layer more clouds far to near",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "front and far sky",
+   "rule": "work the far ones first so you always work forward",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "mountain",
+   "action": "dark mountain mass",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "a lot of paint pulled flat",
+   "motion": "straight down then cut across",
+   "pressure": "firm",
+   "where": "upper canvas where the peak goes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:10",
+   "subject": "mountain",
+   "action": "pull paint down to lighten the base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gently pulled downward",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "removes excess so colors can go on top",
+   "new": ""
+  },
+  {
+   "t": "08:27",
+   "subject": "mountain",
+   "action": "mix marbled highlight and shadow colors",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "piles on the palette",
+   "motion": "marble, do not fully mix",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": "knife-marbled mix"
+  },
+  {
+   "t": "09:05",
+   "subject": "mountain",
+   "action": "add highlights and shadow pulls",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "knife loaded with colors",
+   "motion": "touch and pull lightly",
+   "pressure": "whisper",
+   "where": "mountain ridges",
+   "rule": "heavy pressure makes it look like frosting so keep it light",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "mountain",
+   "action": "add peak and ridge lines",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "straight strokes",
+   "pressure": "light",
+   "where": "upper mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "snow",
+   "action": "glacier snow along the peak",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "a little blue into white",
+   "motion": "lay in along the ridge",
+   "pressure": "light",
+   "where": "upper ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "snow",
+   "action": "snow in shadow pockets",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little on knife",
+   "motion": "dabbed into dark areas",
+   "pressure": "light",
+   "where": "shadow pockets",
+   "rule": "snow sits where it did not melt",
+   "new": ""
+  },
+  {
+   "t": "12:17",
+   "subject": "mountain",
+   "action": "marbled bright red accent",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "touch on knife",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "mountain interior",
+   "rule": "marbling keeps streaks in the paint",
+   "new": ""
+  },
+  {
+   "t": "12:54",
+   "subject": "mountain",
+   "action": "light highlights and shadows",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "right side and center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "mountain",
+   "action": "dark shadows along lower mountain",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "lower mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:28",
+   "subject": "mist",
+   "action": "tap mist at mountain base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap, then lift upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "lifting removes tap marks",
+   "new": ""
+  },
+  {
+   "t": "16:47",
+   "subject": "grass",
+   "action": "tap grassy shapes along base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "carried over",
+   "motion": "tapping, following the angles",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:26",
+   "subject": "far trees",
+   "action": "tap distant tree shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed on palette, lots of paint",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "tapping down is the quick way to show many far trees",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "far trees",
+   "action": "tap little trunks",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little on brush",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "rubbing removes trunks that come out too light",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "land",
+   "action": "tap distant land area",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "reflection",
+   "action": "pull straight down for pond reflection",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "bush",
+   "action": "tap fall-colored bushes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "land",
+   "action": "scrub dirt at bottom",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "scrub in",
+   "pressure": "firm",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "water line",
+   "action": "cut a water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "thin white on knife",
+   "motion": "straight cut across",
+   "pressure": "light",
+   "where": "between water and land",
+   "rule": "breaks up the bottom area",
+   "new": ""
+  },
+  {
+   "t": "22:36",
+   "subject": "evergreen",
+   "action": "drop in dark evergreens",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "lot of paint in bristles",
+   "motion": "tap and drop in",
+   "pressure": "light",
+   "where": "left and right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "land",
+   "action": "close in the pond with dark land",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "sweep inward",
+   "pressure": "light",
+   "where": "pond edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:52",
+   "subject": "grass",
+   "action": "tap fall grassy highlights",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "bush",
+   "action": "foreground red bush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "bright red",
+    "liquid white"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "foreground right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:08",
+   "subject": "evergreen",
+   "action": "foreground evergreen zigzags",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "lower foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "trunk/limbs",
+   "action": "small brown and white trunk",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "near evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:49",
+   "subject": "evergreen",
+   "action": "highlight with yellow and green",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on small trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:29",
+   "subject": "evergreen",
+   "action": "final tiny highlights",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "small trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

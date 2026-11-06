@@ -1,0 +1,432 @@
+{
+ "ep": "S13E09",
+ "base": "sap green",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "sap green",
+  "van dyke brown",
+  "cad yellow",
+  "yellow ochre",
+  "dark sienna",
+  "titanium white",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "01:04",
+   "subject": "far trees",
+   "action": "dab far tree shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "tiny yellow on bristles",
+   "motion": "barely touch and rub",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "far trees",
+   "action": "mix yellow over green base for misty shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow over green underneath",
+   "motion": "barely touch and rub",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "green underneath keeps colors dark and misty",
+   "new": ""
+  },
+  {
+   "t": "04:02",
+   "subject": "far trees",
+   "action": "dull bright spots with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle rub over bright spots",
+   "pressure": "whisper",
+   "where": "over bright shapes",
+   "rule": "green underneath dulls the bright spots",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "bush",
+   "action": "scrub bush shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow over green",
+   "motion": "scrub and push upward",
+   "pressure": "unknown",
+   "where": "middle and lower bushes",
+   "rule": "pushing upward makes the highlights",
+   "new": ""
+  },
+  {
+   "t": "06:05",
+   "subject": "trunk/limbs",
+   "action": "thin brown stems and branches",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned to an ink-like wash",
+   "motion": "stems and small branches",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "land",
+   "action": "scrub land area with mixed browns",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "brown, white and dark sienna pulled flat",
+   "motion": "scrub back and forth",
+   "pressure": "light",
+   "where": "lower middle land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:37",
+   "subject": "reflection",
+   "action": "pull reflections straight down into water",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "yellow with a little brown",
+   "motion": "pull straight down and lightly across",
+   "pressure": "light",
+   "where": "water below land",
+   "rule": "swamp water is shallow so mud shows in reflections",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "bush",
+   "action": "fan bushes off the land",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "yellow on fan",
+   "motion": "wiggle and drop down",
+   "pressure": "light",
+   "where": "middle and right land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "water line",
+   "action": "touch in water lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "roll of yellow on knife edge",
+   "motion": "touch canvas lightly",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:27",
+   "subject": "land",
+   "action": "build a small island",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark brown and white roll on knife",
+   "motion": "cut across and place",
+   "pressure": "light",
+   "where": "island, center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "bush",
+   "action": "scrub bush by the island",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow with a tiny yellow ochre",
+   "motion": "scrub small bush",
+   "pressure": "light",
+   "where": "right of island",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "land",
+   "action": "knife land strip",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "land mix on knife",
+   "motion": "lay strip with light edge",
+   "pressure": "light",
+   "where": "where land lives, front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "grass",
+   "action": "darken foreground with green",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow with green added",
+   "motion": "lay on in foreground",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "bush",
+   "action": "scrub bushes with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow over green",
+   "motion": "scrub and bounce",
+   "pressure": "light",
+   "where": "foreground and middle",
+   "rule": "dark gaps between bushes create depth",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "trunk/limbs",
+   "action": "block in tree trunk on island",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on fan",
+   "motion": "drop in trunk",
+   "pressure": "firm",
+   "where": "on island",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "trunk/limbs",
+   "action": "highlight side of tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white with a touch of dark sienna",
+   "motion": "roll of paint from knife",
+   "pressure": "light",
+   "where": "side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "trunk/limbs",
+   "action": "thin liner limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned to ink",
+   "motion": "pull limbs out",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:55",
+   "subject": "leaf tree",
+   "action": "fan foliage on tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow loaded on fan",
+   "motion": "small shake and bounce",
+   "pressure": "light",
+   "where": "on tree and around",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "trunk/limbs",
+   "action": "knife trunk for big tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown roll on knife",
+   "motion": "pull down and across",
+   "pressure": "firm",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:55",
+   "subject": "trunk/limbs",
+   "action": "knife highlight down big tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna roll",
+   "motion": "pull down following tree",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "trunk/limbs",
+   "action": "dark reflected light on other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue with almost no white",
+   "motion": "drop on other side",
+   "pressure": "light",
+   "where": "other side of tree",
+   "rule": "shows a little reflected light",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "trunk/limbs",
+   "action": "blend tree colors together",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown worked in",
+   "motion": "tap to blend",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "trunk/limbs",
+   "action": "arms on tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on liner",
+   "motion": "paint a few arms",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:27",
+   "subject": "leaf tree",
+   "action": "rub leaves onto tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow and ochre on fan",
+   "motion": "rub and scrub barely touching",
+   "pressure": "whisper",
+   "where": "on tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:42",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "red on brush",
+   "motion": "write signature",
+   "pressure": "light",
+   "where": "lower right",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

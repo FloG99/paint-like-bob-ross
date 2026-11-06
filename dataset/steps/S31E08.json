@@ -1,0 +1,558 @@
+{
+ "ep": "S31E08",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "yellow ochre",
+  "sap green",
+  "dark sienna",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "00:49",
+   "subject": "sky",
+   "action": "mix sky values on palette",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "several light and dark values",
+   "motion": "mixing on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:39",
+   "subject": "sky",
+   "action": "drop in lavender shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "touches",
+   "motion": "dropping shapes",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:51",
+   "subject": "sky",
+   "action": "add white highlight",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white only",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "sky",
+   "action": "spin white and yellow ochre",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "white with a little yellow ochre",
+   "motion": "spinning corner strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:40",
+   "subject": "sky",
+   "action": "blend with soft blender brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean soft brush",
+   "pressure": "light",
+   "where": "whisper",
+   "rule": "sky",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "cloud",
+   "action": "tap white and blend",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tapped on",
+   "motion": "tapping then blending",
+   "pressure": "whisper",
+   "where": "sky clouds",
+   "rule": "a very soft brush lets you paint over wet paint",
+   "new": ""
+  },
+  {
+   "t": "05:18",
+   "subject": "cloud",
+   "action": "brighten with more white circles",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white",
+   "motion": "tiny circles and light go-over",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "cloud",
+   "action": "warm touch of crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "touch",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "warm spot",
+   "rule": "crimson warms the area",
+   "new": ""
+  },
+  {
+   "t": "06:28",
+   "subject": "land",
+   "action": "mix dark brown for bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "equal parts",
+   "motion": "mixing on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:52",
+   "subject": "land",
+   "action": "cover bottom with brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "brown",
+   "motion": "covering strokes",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "far trees",
+   "action": "top corner bush shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tapping and turning brush",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "trunk/limbs",
+   "action": "thin liner trunk and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:13",
+   "subject": "trunk/limbs",
+   "action": "add limbs in tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "leaves will hide most limbs so few show through",
+   "new": ""
+  },
+  {
+   "t": "09:40",
+   "subject": "leaf tree",
+   "action": "tap yellow ochre into corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "tapped corner",
+   "motion": "tapping indication",
+   "pressure": "light",
+   "where": "tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "leaf tree",
+   "action": "leave dark spots in tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "leave dark gaps",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "covering dark spots loses depth in tree",
+   "new": ""
+  },
+  {
+   "t": "10:30",
+   "subject": "leaf tree",
+   "action": "add crimson to yellow ochre leaves",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "touch",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "foreground tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "bush",
+   "action": "pick out other bushes with crimson and yellow ochre",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "touch",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "foreground bushes",
+   "rule": "leave some bushes unhighlighted so they look far away",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "bush",
+   "action": "dark bushes in foreground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark brown",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "light misses foreground so bushes stay dark",
+   "new": ""
+  },
+  {
+   "t": "13:09",
+   "subject": "path",
+   "action": "mix white dark brown and yellow ochre",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "mixed on palette",
+   "motion": "mixing on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "path",
+   "action": "rub path across canvas",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "roll of paint from knife",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "through middle",
+   "new": ""
+  },
+  {
+   "t": "14:21",
+   "subject": "trunk/limbs",
+   "action": "drop in old tree with filbert",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thick paint",
+   "pressure": "unknown",
+   "where": "medium",
+   "rule": "right side",
+   "new": "filbert leaves a heavy paint layer he wants"
+  },
+  {
+   "t": "14:46",
+   "subject": "trunk/limbs",
+   "action": "add arms and foot to tree",
+   "tool": "filbert",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:00",
+   "subject": "trunk/limbs",
+   "action": "graze high points with brown",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "very little",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "tree high points",
+   "rule": "thick paint picks up color on high points",
+   "new": ""
+  },
+  {
+   "t": "16:23",
+   "subject": "trunk/limbs",
+   "action": "blend back so limbs look round",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blending back",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "blending back makes limbs look round",
+   "new": ""
+  },
+  {
+   "t": "16:46",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned almost to ink",
+   "motion": "drawing thin strokes",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:35",
+   "subject": "trunk/limbs",
+   "action": "add dead hanging limb",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:24",
+   "subject": "path",
+   "action": "push path back with dark brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed",
+   "motion": "pushing",
+   "pressure": "medium",
+   "where": "far back",
+   "rule": "very dark pushes the path back in distance",
+   "new": ""
+  },
+  {
+   "t": "20:48",
+   "subject": "fence",
+   "action": "drag filbert through two colors",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "two colors",
+   "motion": "dragging",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:36",
+   "subject": "bush",
+   "action": "highlight bushes with yellow ochre and crimson",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "alizarin crimson"
+   ],
+   "load": "touch",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "trunk/limbs",
+   "action": "dead tree skeleton with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "drawing skeleton",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "bush",
+   "action": "add bush by tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "bush pushes tree back into painting",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "fence",
+   "action": "highlight fence posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small highlight strokes",
+   "pressure": "light",
+   "where": "fence posts",
+   "rule": "highlights make the posts stand out",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "other: contact paper",
+   "action": "peel off contact paper",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "peeling",
+   "pressure": "light",
+   "where": "canvas edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,583 @@
+{
+ "ep": "S22E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "sap green",
+  "liquid white",
+  "liquid clear",
+  "black gesso",
+  "alizarin crimson",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "bright red",
+  "phthalo blue",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "01:09",
+   "subject": "other: background texture",
+   "action": "make circular marks in midnight black and sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "loaded into the bristles",
+   "motion": "circular patterns over the canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "other: background texture",
+   "action": "add dark sienna and van dyke brown spots",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brush, a little added",
+   "motion": "dab here and there, not everywhere",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "other: background texture",
+   "action": "add a little crimson and more black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "same brush",
+   "motion": "small circular drops",
+   "pressure": "light",
+   "where": "background",
+   "rule": "varied colors keep the texture from looking uniform",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "trunk/limbs",
+   "action": "tap in thin limbs and twigs with a liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "tap in thin limbs",
+   "pressure": "light",
+   "where": "light spots in the background",
+   "rule": "most limbs get covered, so only some need to show",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "bush",
+   "action": "pick out small shapes in greens and yellows",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "same dirty brush, loaded with greens and yellows",
+   "motion": "pick out individual shapes",
+   "pressure": "light",
+   "where": "background spots",
+   "rule": "bright red dulls the green",
+   "new": ""
+  },
+  {
+   "t": "05:23",
+   "subject": "bush",
+   "action": "add more yellow ochre to one bush",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "indian yellow"
+   ],
+   "load": "same brush",
+   "motion": "dab a different bush beside the first",
+   "pressure": "light",
+   "where": "background",
+   "rule": "keep the background busy so patterns read as things",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "bush",
+   "action": "add bushes on the other side",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "same brush",
+   "motion": "dab shapes on the other side",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "keeps the other side from being left out",
+   "new": ""
+  },
+  {
+   "t": "09:03",
+   "subject": "bush",
+   "action": "add more bushes and tree shapes",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "same brush, reloaded",
+   "motion": "dab shapes here and there",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:52",
+   "subject": "trunk/limbs",
+   "action": "add a few sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "thin black and green on the tip",
+   "motion": "tap thin sticks",
+   "pressure": "light",
+   "where": "back spots",
+   "rule": "fast layering keeps the paint from turning muddy",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "land",
+   "action": "block in dark cliff drop-off",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown",
+   "motion": "pull a dark block on one side",
+   "pressure": "light",
+   "where": "one side, low edge",
+   "rule": "brown marks where the embankment will go",
+   "new": ""
+  },
+  {
+   "t": "11:01",
+   "subject": "land",
+   "action": "add marbled cliff with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "marbled roll, not overmixed",
+   "motion": "cut a roll and lay it in",
+   "pressure": "light",
+   "where": "cliff area",
+   "rule": "keeping the mixes marbled shows the variations",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "snow",
+   "action": "graze a few snow touches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny roll from the cliff roll",
+   "motion": "barely touch, just graze",
+   "pressure": "light",
+   "where": "top of the cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "grass",
+   "action": "push grassy edges that hang over the bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "pushed load forms a ridge of paint",
+   "motion": "push and hang grass over the edge",
+   "pressure": "medium",
+   "where": "top edge of the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:22",
+   "subject": "waterfall",
+   "action": "lay in a waterfall with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white with titanium white and a touch of blue",
+   "motion": "go over, then down, repeatedly",
+   "pressure": "light",
+   "where": "upper canvas down to bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:32",
+   "subject": "water",
+   "action": "pull white straight down for splashes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of white on the brush",
+   "motion": "pull straight down, then across",
+   "pressure": "light",
+   "where": "base of the waterfall",
+   "rule": "",
+   "new": "instant water from pulling white down"
+  },
+  {
+   "t": "14:56",
+   "subject": "water",
+   "action": "add ripples where it flows out",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "fan brush from the white",
+   "motion": "ripple across the water",
+   "pressure": "light",
+   "where": "water flow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "rock",
+   "action": "project a rock edge out and pull down",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife roll of brown",
+   "motion": "barely touch and pull down",
+   "pressure": "light",
+   "where": "rock edge by waterfall",
+   "rule": "a projection pushes the waterfall back in depth",
+   "new": ""
+  },
+  {
+   "t": "16:11",
+   "subject": "bush",
+   "action": "flow yellow and green bushes over the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "let it flow over the thicker paint",
+   "pressure": "light",
+   "where": "top of bushes",
+   "rule": "thin paint flows over thicker paint",
+   "new": ""
+  },
+  {
+   "t": "16:35",
+   "subject": "rock",
+   "action": "add projection on the other side to hold it",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the tool",
+   "motion": "bring it down with a projection",
+   "pressure": "light",
+   "where": "other side of waterfall",
+   "rule": "projection holds the other side in place",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "water",
+   "action": "lift paint to show water dripping",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "paint lifted off the canvas",
+   "motion": "touch up so water drips down",
+   "pressure": "light",
+   "where": "below the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:43",
+   "subject": "bush",
+   "action": "make a dark bush sitting out in front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the 2in brush",
+   "motion": "dab a dark bush",
+   "pressure": "light",
+   "where": "out front by the waterfall",
+   "rule": "dark underneath lets light show when added",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "bush",
+   "action": "brighten the bush with cad yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a bit more yellow added",
+   "motion": "dab on top",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "yellow makes the bush stand out against the background",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "rock",
+   "action": "add a big rock with brown and dark sienna",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mix",
+   "motion": "pull the rock out",
+   "pressure": "light",
+   "where": "right of waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:58",
+   "subject": "rock",
+   "action": "add highlights and a dark overhang edge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on the knife",
+   "motion": "indicate a few highlights, then dark edge",
+   "pressure": "light",
+   "where": "edge of rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "structure",
+   "action": "block in a big house shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix on the brush",
+   "motion": "block the basic house shape",
+   "pressure": "light",
+   "where": "right of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:48",
+   "subject": "structure",
+   "action": "add board lines with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on the brush",
+   "motion": "touch and pull across in lines",
+   "pressure": "light",
+   "where": "house face",
+   "rule": "boards run the opposite of the usual direction",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "structure",
+   "action": "dry brush across boards for old wood",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush with a little air",
+   "motion": "gently go across",
+   "pressure": "light",
+   "where": "house face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:59",
+   "subject": "structure",
+   "action": "darken boards on the shadow side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "darker mix from sienna and brown",
+   "motion": "pull down boards on the shadow side",
+   "pressure": "light",
+   "where": "shadow side of the house",
+   "rule": "darker mix marks the shadow side",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "structure",
+   "action": "gray shingles with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "gray from white and black on the knife",
+   "motion": "pull down in layers from the roof",
+   "pressure": "light",
+   "where": "roof area",
+   "rule": "gray over brown gives varied shingle tones",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "structure",
+   "action": "highlight shingle edges in light gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "light gray on the brush",
+   "motion": "highlight edges",
+   "pressure": "light",
+   "where": "shingle edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:39",
+   "subject": "structure",
+   "action": "scrape window openings and fill black",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "scraped out with the knife",
+   "motion": "scrape and fill",
+   "pressure": "light",
+   "where": "house face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:32",
+   "subject": "structure",
+   "action": "add small porch roof and post",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "block in roof and post",
+   "pressure": "light",
+   "where": "front of house",
+   "rule": "porch keeps rain off and holds things up",
+   "new": ""
+  },
+  {
+   "t": "25:56",
+   "subject": "grass",
+   "action": "add grass at the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap grass in",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

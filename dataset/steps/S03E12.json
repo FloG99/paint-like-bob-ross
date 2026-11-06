@@ -1,0 +1,620 @@
+{
+ "ep": "S03E12",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "prussian blue",
+  "titanium white",
+  "sap green",
+  "yellow ochre",
+  "van dyke brown",
+  "burnt umber",
+  "cad yellow",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "drop in sky with phthalo blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "phthalo blue worked into brush",
+   "motion": "criss-cross X strokes, leave gaps",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "leave gaps so the sky looks like moving strokes",
+   "new": ""
+  },
+  {
+   "t": "01:38",
+   "subject": "mountain",
+   "action": "block in basic mountain shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "small crimson with much less prussian blue",
+   "motion": "drop in with fan brush",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "prussian blue is much stronger so use very little",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "mountain",
+   "action": "cool mountain color with blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue dropped into the mix",
+   "motion": "drop in blue on canvas",
+   "pressure": "light",
+   "where": "on the mountain",
+   "rule": "blue is strong enough to take over the red",
+   "new": ""
+  },
+  {
+   "t": "02:22",
+   "subject": "mountain",
+   "action": "pull mountain color down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "lower mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:49",
+   "subject": "mountain",
+   "action": "lavender foothills with crimson and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "crimson and blue with a tiny white",
+   "motion": "touch and go down",
+   "pressure": "light",
+   "where": "back, foothill line",
+   "rule": "far things need few details",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "mist",
+   "action": "tap mist at base of foothills",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap then lift",
+   "pressure": "light",
+   "where": "middle of foothills",
+   "rule": "mist helps trees stand out",
+   "new": ""
+  },
+  {
+   "t": "05:30",
+   "subject": "far trees",
+   "action": "add trees on the mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab trees onto mist",
+   "pressure": "light",
+   "where": "middle, left and right",
+   "rule": "mist lets the trees stand out a little better",
+   "new": ""
+  },
+  {
+   "t": "05:59",
+   "subject": "far trees",
+   "action": "shift foothills greener with sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green into lavender",
+   "motion": "drop layer in",
+   "pressure": "light",
+   "where": "foothills",
+   "rule": "far things look bluish from water in the air",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "far trees",
+   "action": "pull distant trunks straight up",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small white on clean fan brush",
+   "motion": "touch then pull straight up",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "layered planes deepen the painting",
+   "new": ""
+  },
+  {
+   "t": "08:01",
+   "subject": "far trees",
+   "action": "highlight trunk bases with yellow green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow ochre and sap green on fan",
+   "motion": "let little things happen",
+   "pressure": "light",
+   "where": "back, over trunk bottoms",
+   "rule": "covers trunk bottoms and ties it together",
+   "new": ""
+  },
+  {
+   "t": "08:51",
+   "subject": "reflection",
+   "action": "pull reflection down below pond",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down then across gently",
+   "pressure": "light",
+   "where": "pond, bottom area",
+   "rule": "",
+   "new": "reflection picks up colors already on canvas"
+  },
+  {
+   "t": "09:17",
+   "subject": "land",
+   "action": "drop in small land bits",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on fan",
+   "motion": "drop here and there",
+   "pressure": "light",
+   "where": "back, around the pond",
+   "rule": "grass needs ground to sit on",
+   "new": ""
+  },
+  {
+   "t": "09:45",
+   "subject": "land",
+   "action": "gently highlight land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "brown and white with a touch of burnt umber",
+   "motion": "very gentle highlight",
+   "pressure": "light",
+   "where": "same land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "water line",
+   "action": "cut light water line across back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "quick cut across",
+   "pressure": "firm",
+   "where": "back, separates land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:44",
+   "subject": "leaf tree",
+   "action": "block in basic tree shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "dark mix loaded heavily",
+   "motion": "push and bend bristles",
+   "pressure": "firm",
+   "where": "middle of canvas, filling it",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:10",
+   "subject": "evergreen",
+   "action": "lay in evergreen shape",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "sap green with a little van dyke brown",
+   "motion": "push tree out of the brush",
+   "pressure": "firm",
+   "where": "left edge, running off canvas",
+   "rule": "van dyke brown dulls the green",
+   "new": ""
+  },
+  {
+   "t": "13:02",
+   "subject": "trunk/limbs",
+   "action": "put in basic trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown"
+   ],
+   "load": "burnt umber with a touch of van dyke brown",
+   "motion": "lay in trunk",
+   "pressure": "unknown",
+   "where": "inside the evergreen",
+   "rule": "paint the farthest tree first",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk with brown and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on fan brush",
+   "motion": "small highlight strokes",
+   "pressure": "light",
+   "where": "one side of trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:52",
+   "subject": "evergreen",
+   "action": "lay delicate sap green highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "sap green with a little cad yellow",
+   "motion": "let brush bounce, keep the dark",
+   "pressure": "light",
+   "where": "down the evergreen",
+   "rule": "brush picks up darks below so lower areas darken",
+   "new": ""
+  },
+  {
+   "t": "14:15",
+   "subject": "leaf tree",
+   "action": "highlight leaves with yellow green on right",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "cad yellow mixed with sap green",
+   "motion": "drop leaves off the brush",
+   "pressure": "light",
+   "where": "right side, leaves",
+   "rule": "keep dark areas or the trees go flat",
+   "new": ""
+  },
+  {
+   "t": "15:05",
+   "subject": "trunk/limbs",
+   "action": "add small trunks in bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on brush",
+   "motion": "small trunk strokes",
+   "pressure": "light",
+   "where": "inside the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:28",
+   "subject": "land",
+   "action": "lay in dark ground at random",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on knife",
+   "motion": "lay in at random",
+   "pressure": "unknown",
+   "where": "low, scattered places",
+   "rule": "highlight it later so it reads as land",
+   "new": ""
+  },
+  {
+   "t": "16:20",
+   "subject": "land",
+   "action": "glide broken gray over ground",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "brown and white with a tiny blue",
+   "motion": "glide across without pressure",
+   "pressure": "whisper",
+   "where": "over the ground",
+   "rule": "break the paint so the dark shows through",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "bush",
+   "action": "highlight bushes with yellow ochre and sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "thick yellow ochre and sap green",
+   "motion": "delicate touch, barely touching",
+   "pressure": "whisper",
+   "where": "bush edges",
+   "rule": "thin paint sticks to the firm paint below",
+   "new": ""
+  },
+  {
+   "t": "17:40",
+   "subject": "bush",
+   "action": "layer individual bushes one at a time",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "layer one bush at a time",
+   "pressure": "whisper",
+   "where": "foreground",
+   "rule": "each separate bush creates distance",
+   "new": ""
+  },
+  {
+   "t": "18:51",
+   "subject": "leaf tree",
+   "action": "drop leaves on tree in front of evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on fan",
+   "motion": "drop little leaves",
+   "pressure": "light",
+   "where": "front of the evergreen",
+   "rule": "pushes the evergreen back into distance",
+   "new": ""
+  },
+  {
+   "t": "19:18",
+   "subject": "grass",
+   "action": "fall grassy strokes down the slope",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "fall down in layers following land",
+   "pressure": "light",
+   "where": "lower area, along the slope",
+   "rule": "follow the lay of the land so it reads as a hill",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape with point, sideways for big sticks",
+   "pressure": "light",
+   "where": "scattered across the front",
+   "rule": "different planes help create distance",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "trunk/limbs",
+   "action": "build big tree trunk",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on knife",
+   "motion": "let it wander upward",
+   "pressure": "unknown",
+   "where": "middle, large tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "trunk/limbs",
+   "action": "draw small limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin oil on liner",
+   "motion": "thin strokes out from trunk",
+   "pressure": "light",
+   "where": "tree trunk, out to edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:55",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk light side",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "yellow ochre and burnt umber mixed",
+   "motion": "highlight side light hits",
+   "pressure": "light",
+   "where": "trunk, light side",
+   "rule": "decide where the light source is",
+   "new": ""
+  },
+  {
+   "t": "23:19",
+   "subject": "leaf tree",
+   "action": "lay dark leaf mass",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "dark mix loaded heavily",
+   "motion": "barely touch, leave air",
+   "pressure": "whisper",
+   "where": "tree top, loose",
+   "rule": "keep background showing so leaves stay airy",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "trunk/limbs",
+   "action": "dark on limb for highlight contrast",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "dark mix",
+   "motion": "dab on small limb",
+   "pressure": "light",
+   "where": "right, small limb",
+   "rule": "need the dark to have light",
+   "new": ""
+  },
+  {
+   "t": "24:46",
+   "subject": "leaf tree",
+   "action": "add bright yellow leaf accents",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "bright yellow with a bit of green",
+   "motion": "loose light touch",
+   "pressure": "whisper",
+   "where": "in front of the mountain",
+   "rule": "bright color stands out from the background",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "leaf tree",
+   "action": "light color beside the evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same bright mix",
+   "motion": "barely touch, short strokes",
+   "pressure": "light",
+   "where": "right of the evergreen",
+   "rule": "light color separates it from the evergreen behind",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "grass",
+   "action": "bring grass around the base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle strokes",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:50",
+   "subject": "other: signature",
+   "action": "sign with thin red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "permanent red in thin oil",
+   "motion": "sign with brush",
+   "pressure": "unknown",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

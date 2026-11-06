@@ -1,0 +1,538 @@
+{
+ "ep": "S21E07",
+ "base": "black gesso under liquid clear and liquid white",
+ "format": "unknown",
+ "light": "one side gets more light than the other",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "alizarin crimson",
+  "titanium white",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "phthalo green",
+  "prussian blue"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "sky",
+   "action": "block in sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue and black on the big brush",
+   "motion": "x-shaped strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "transparent paint lets the dark underlayer show through as intended",
+   "new": ""
+  },
+  {
+   "t": "02:12",
+   "subject": "far trees",
+   "action": "block in small background tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix leaning lavender",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper background",
+   "rule": "missed spots are fine because the black gesso beneath shows",
+   "new": ""
+  },
+  {
+   "t": "03:29",
+   "subject": "far trees",
+   "action": "tap more background shapes on the other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "other side of the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:59",
+   "subject": "trunk/limbs",
+   "action": "pull thin brown lines for trunks",
+   "tool": "liner",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "thinned brown from dark sienna and white, then van dyke brown",
+   "motion": "drag one side across the thin color",
+   "pressure": "light",
+   "where": "back of the trees",
+   "rule": "one pull gives highlight and shadow together",
+   "new": ""
+  },
+  {
+   "t": "05:12",
+   "subject": "bush",
+   "action": "tap white highlights on bushes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white tapped into dirty bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:57",
+   "subject": "bush",
+   "action": "mix green from yellow and black and add to bushes",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "midnight black"
+   ],
+   "load": "black and yellow mixed on bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "middle back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:19",
+   "subject": "bush",
+   "action": "add single bushes in yellow and red greens",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellow ochre and indian yellow with a touch of red",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:28",
+   "subject": "trunk/limbs",
+   "action": "add twigs and sticks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned dark brown",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "through the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:54",
+   "subject": "evergreen",
+   "action": "push dark evergreen masses upward from the corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo green",
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "large dark pile with phthalo green",
+   "motion": "upward push, harder going down",
+   "pressure": "medium",
+   "where": "left side, large tree running off canvas",
+   "rule": "phthalo green makes every mix turn greenish",
+   "new": ""
+  },
+  {
+   "t": "12:03",
+   "subject": "evergreen",
+   "action": "add green highlights on evergreens",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "yellow and black green dulled with brown",
+   "motion": "upward push",
+   "pressure": "light",
+   "where": "upper evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:44",
+   "subject": "bush",
+   "action": "tap green and yellow ridges into lower area",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "phthalo green",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "dark green mixed with yellow ochre and indian yellow",
+   "motion": "tapping",
+   "pressure": "medium",
+   "where": "lower evergreen area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:07",
+   "subject": "grass",
+   "action": "tap soft grassy area",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "carried-over green mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "soft grassy area",
+   "rule": "changing the color shows the different planes of the land",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "structure",
+   "action": "scrape out cabin shape",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "scraping",
+   "pressure": "medium",
+   "where": "cabin area",
+   "rule": "scraping keeps the layout loose and removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "structure",
+   "action": "block in dark cabin walls",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown from the pile",
+   "motion": "block in color",
+   "pressure": "medium",
+   "where": "cabin body",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "structure",
+   "action": "pull shingles on the roof",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray mix, not overmixed",
+   "motion": "pull up from the bottom",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "working bottom to top makes the shingles overlap",
+   "new": ""
+  },
+  {
+   "t": "17:23",
+   "subject": "structure",
+   "action": "pull sideways log lines on walls",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "white and dark sienna mixed lightly",
+   "motion": "sideways pulls",
+   "pressure": "light",
+   "where": "cabin walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:10",
+   "subject": "structure",
+   "action": "cut brown lines between logs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown from the pile",
+   "motion": "cut lines between logs",
+   "pressure": "light",
+   "where": "between logs",
+   "rule": "brown lines read as mud between logs",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "structure",
+   "action": "darken the shaded side wall",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "brown with black added",
+   "motion": "block in color",
+   "pressure": "medium",
+   "where": "side wall away from the light",
+   "rule": "that side gets less light so it stays dark",
+   "new": ""
+  },
+  {
+   "t": "19:23",
+   "subject": "structure",
+   "action": "scrape in windows with glass tint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "prussian blue"
+   ],
+   "load": "blue mixed on the knife",
+   "motion": "scrape in",
+   "pressure": "light",
+   "where": "windows",
+   "rule": "a dark tint reads as glass reflecting",
+   "new": ""
+  },
+  {
+   "t": "19:23",
+   "subject": "structure",
+   "action": "scrape in door",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown from the pile",
+   "motion": "scrape in",
+   "pressure": "light",
+   "where": "door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:48",
+   "subject": "structure",
+   "action": "mark log ends with knife tip",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "leftover paint on the knife",
+   "motion": "short stabs",
+   "pressure": "light",
+   "where": "log ends on walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "grass",
+   "action": "tap grass patches on the lawn",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "carried-over green mix",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "lawn in front of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:51",
+   "subject": "water",
+   "action": "pull white straight down for water",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on bristles",
+   "motion": "pull down, then across",
+   "pressure": "light",
+   "where": "pond in front of cabin",
+   "rule": "color underneath gives instant water",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "land",
+   "action": "lay pond banks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mixed from the two",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "pond edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:04",
+   "subject": "rock",
+   "action": "dab rock shapes with the filbert",
+   "tool": "filbert",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark on one side, thin light on the other",
+   "motion": "quick touches",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "reflection",
+   "action": "pull reflections under the stones",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [],
+   "load": "carried-over",
+   "motion": "pull down and across",
+   "pressure": "light",
+   "where": "water under stones",
+   "rule": "so the stones get a reflection underneath",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "water line",
+   "action": "add thin gray water lines",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "thin gray",
+   "motion": "short lines",
+   "pressure": "light",
+   "where": "bottom of stones and land",
+   "rule": "water lines clean up stone bottoms and tie the land together",
+   "new": ""
+  },
+  {
+   "t": "25:42",
+   "subject": "water",
+   "action": "add ripples on the water",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried-over",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "water near stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:42",
+   "subject": "grass",
+   "action": "push grassy tufts upward",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "green-yellow mix with a little red",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "bush",
+   "action": "push bush shapes upward along the land edge",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried-over",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "land edge",
+   "rule": "a straight land edge looks wrong so it gets broken up",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thinned red",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "lower corner of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

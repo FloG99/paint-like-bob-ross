@@ -1,0 +1,621 @@
+{
+ "ep": "S24E07",
+ "base": "thin gray glaze over black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "sap green",
+  "phthalo blue",
+  "prussian blue",
+  "bright red",
+  "yellow ochre",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "other: gray wash",
+   "action": "scrub thin gray over canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "thin gray with liquid clear",
+   "motion": "scrub in thin coat",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "other: color splotches",
+   "action": "crimson splotches here and there",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny bit of crimson on brush",
+   "motion": "dab splotches",
+   "pressure": "light",
+   "where": "scattered across canvas",
+   "rule": "gray helps mute and dull every color used",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "other: color splotches",
+   "action": "sap green splotches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "least bit of sap green",
+   "motion": "soft brushing",
+   "pressure": "unknown",
+   "where": "scattered across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:48",
+   "subject": "other: color splotches",
+   "action": "phthalo blue touches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "least bit of phthalo blue",
+   "motion": "soft brushing",
+   "pressure": "unknown",
+   "where": "scattered across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "mist",
+   "action": "soft white mist behind trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush mixed into gray",
+   "motion": "soft brushing",
+   "pressure": "light",
+   "where": "behind the trees, floating band",
+   "rule": "white mixes into gray to give a misty look",
+   "new": ""
+  },
+  {
+   "t": "04:23",
+   "subject": "mist",
+   "action": "brighten softest mist spot",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white",
+   "motion": "soft brushing",
+   "pressure": "light",
+   "where": "right in there, softest area",
+   "rule": "soft area draws the eye to the focal point",
+   "new": ""
+  },
+  {
+   "t": "05:13",
+   "subject": "leaf tree",
+   "action": "dark lavender tree shapes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "tap small round brush into lavender mix",
+   "motion": "tap basic tree shapes",
+   "pressure": "unknown",
+   "where": "tree area of canvas",
+   "rule": "leave some trees alone so they stay special",
+   "new": ""
+  },
+  {
+   "t": "07:14",
+   "subject": "trunk/limbs",
+   "action": "thin lavender tree trunks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "thin lavender with paint thinner, like ink",
+   "motion": "small trunk indications",
+   "pressure": "unknown",
+   "where": "back trees, middle of tree masses",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:02",
+   "subject": "bush",
+   "action": "dark green bush, quiet and far back",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "midnight black",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "mix yellows into black for darker green",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "far back, quiet bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:21",
+   "subject": "land",
+   "action": "brown bank with knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mix equal sap green and crimson, cut a tiny roll",
+   "motion": "knife pushed flat and rubbed in",
+   "pressure": "firm",
+   "where": "low bank area in the woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:36",
+   "subject": "land",
+   "action": "lighter rubbed-in bank edge",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "add a little white to the brown",
+   "motion": "cut back in and rub with knife",
+   "pressure": "unknown",
+   "where": "far background bank edge",
+   "rule": "it sits far back, so soften it with the knife",
+   "new": ""
+  },
+  {
+   "t": "11:11",
+   "subject": "land",
+   "action": "pinkish touch on bank",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "tiny bit of red into the brown",
+   "motion": "pinkish touch",
+   "pressure": "unknown",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:11",
+   "subject": "bush",
+   "action": "bushes right up in here",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "midnight black",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "little more of the green on brush",
+   "motion": "tap little bushes",
+   "pressure": "light",
+   "where": "bush area, right up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "grass",
+   "action": "tufts of grass and ferns",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "midnight black",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "same green",
+   "motion": "staccato tapping",
+   "pressure": "light",
+   "where": "grassy area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:00",
+   "subject": "rock",
+   "action": "small stones, one at a time",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "bright red"
+   ],
+   "load": "a little more of the brown",
+   "motion": "tap stone shapes one at a time",
+   "pressure": "unknown",
+   "where": "in the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "path",
+   "action": "path scratched in with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "bright red"
+   ],
+   "load": "brown from earlier",
+   "motion": "scratch and push firmly",
+   "pressure": "firm",
+   "where": "path area",
+   "rule": "a path gives a way back into the scene",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "bush",
+   "action": "bushes closing the path, dark underneath",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "sideways or up and down strokes",
+   "pressure": "unknown",
+   "where": "both sides of the path",
+   "rule": "dark is put in so the light will show",
+   "new": ""
+  },
+  {
+   "t": "13:57",
+   "subject": "path",
+   "action": "light brown path edge",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "alizarin crimson",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "mix yellow ochre into brown with white and red",
+   "motion": "very light, barely touching",
+   "pressure": "whisper",
+   "where": "path edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "grass",
+   "action": "grassy layers with more black in yellows",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "more black into the yellows",
+   "motion": "tap grassy layers",
+   "pressure": "unknown",
+   "where": "grassy area near path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "grass",
+   "action": "sap green grass layers",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "sap green"
+   ],
+   "load": "grab sap green",
+   "motion": "tap layers, vary greens",
+   "pressure": "unknown",
+   "where": "grassy area near path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:59",
+   "subject": "bush",
+   "action": "darker layers toward base",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "darker mix toward base",
+   "motion": "staccato tapping",
+   "pressure": "unknown",
+   "where": "lower base of bushes",
+   "rule": "leaving the dark spot on purpose sets everything off",
+   "new": ""
+  },
+  {
+   "t": "16:23",
+   "subject": "trunk/limbs",
+   "action": "thin light brown sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "thin light brown from brown and white",
+   "motion": "tiny sticks and twigs",
+   "pressure": "unknown",
+   "where": "up in the bushes",
+   "rule": "sticks showing through create depth and distance",
+   "new": ""
+  },
+  {
+   "t": "17:17",
+   "subject": "path",
+   "action": "path extended with brown and a little lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "brown with leftover lavender",
+   "motion": "tap path strokes",
+   "pressure": "unknown",
+   "where": "path going up",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "path",
+   "action": "highlight rubbed onto path",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "alizarin crimson",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "light highlight color on knife",
+   "motion": "rub a little here and there",
+   "pressure": "unknown",
+   "where": "path area, here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "bush",
+   "action": "bush mixed from black and sap green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "get a little black to mix green",
+   "motion": "dab bush shape",
+   "pressure": "unknown",
+   "where": "a little bush right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "land",
+   "action": "grassy bank blended into gray base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend bank into gray ground",
+   "pressure": "whisper",
+   "where": "bank, down and across",
+   "rule": "gray on canvas mixes into the new paint",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "land",
+   "action": "brown and white bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "make brown then add white",
+   "motion": "bank strokes",
+   "pressure": "unknown",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "grass",
+   "action": "grassy area along bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "along the bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "land",
+   "action": "dark recessed hole with grass over it",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark purplish mix",
+   "motion": "dark patch, grass laid over top",
+   "pressure": "unknown",
+   "where": "under the bank, recessed hole",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "far trees",
+   "action": "basic dark tree shapes up high",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black from earlier",
+   "motion": "tap a few basic shapes",
+   "pressure": "unknown",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "trunk/limbs",
+   "action": "oak tree trunk with character",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "wiggly strokes",
+   "pressure": "unknown",
+   "where": "big oak tree",
+   "rule": "wiggly strokes give the trunk character",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "leaf tree",
+   "action": "oak leaves in black, yellow and green",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "mix black, yellow and sap green",
+   "motion": "dab leaf indications",
+   "pressure": "unknown",
+   "where": "oak tree",
+   "rule": "brightening helps it show on television",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "trunk/limbs",
+   "action": "thin light and dark pull for twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin light and thin dark with thinner",
+   "motion": "dark pass, then pull one side through light",
+   "pressure": "unknown",
+   "where": "tree spot, unspecified",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "trunk/limbs",
+   "action": "dead tree limbs and a friend tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "limb strokes",
+   "pressure": "unknown",
+   "where": "out here, dead tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "other: signature",
+   "action": "sign with red and thinner",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red with paint thinner",
+   "motion": "sign one corner",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[06:24] black gesso underneath means little color needed"
+ ]
+}

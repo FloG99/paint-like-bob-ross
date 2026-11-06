@@ -1,0 +1,614 @@
+{
+ "ep": "S20E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "dark sienna",
+  "sap green",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "00:48",
+   "subject": "sky",
+   "action": "sky strokes with yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount",
+   "motion": "dancing crisscross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:12",
+   "subject": "sky",
+   "action": "add cad yellow and yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "small amounts",
+   "motion": "letting colors drift",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "sky",
+   "action": "add bright red into yellows",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "unwashed brush",
+   "motion": "letting colors blend on brush",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "blended colors give many values not one flat color",
+   "new": ""
+  },
+  {
+   "t": "02:01",
+   "subject": "sky",
+   "action": "paint sky down to horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "long strokes",
+   "pressure": "light",
+   "where": "down to horizon",
+   "rule": "masking tape keeps the water line straight",
+   "new": ""
+  },
+  {
+   "t": "02:44",
+   "subject": "sky",
+   "action": "add white bright spot",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white",
+   "motion": "sweeping strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:40",
+   "subject": "cloud",
+   "action": "tap lavender clouds into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "tapped into bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:04",
+   "subject": "cloud",
+   "action": "wind and swirl cloud shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "swirling circles",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:43",
+   "subject": "cloud",
+   "action": "stir small clouds in lower sky",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "small circles",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:30",
+   "subject": "sky",
+   "action": "blend with clean dry brush",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blending strokes",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:17",
+   "subject": "other: horizon strip",
+   "action": "scrub transparent color under horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "dark sienna"
+   ],
+   "load": "little",
+   "motion": "scrubbing",
+   "pressure": "light",
+   "where": "up to water line",
+   "rule": "no color under the tape so he adds it",
+   "new": ""
+  },
+  {
+   "t": "10:05",
+   "subject": "ocean/wave",
+   "action": "outline wave with white strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch",
+   "motion": "short upward strokes",
+   "pressure": "light",
+   "where": "horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "ocean/wave",
+   "action": "add cad yellow sparkle to back water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "least touch",
+   "motion": "sparkling strokes",
+   "pressure": "light",
+   "where": "back water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "ocean/wave",
+   "action": "push white into wave eye",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "touch",
+   "motion": "pushing hard into eye",
+   "pressure": "hard",
+   "where": "wave eye",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "ocean/wave",
+   "action": "smooth wave with top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tight circles and wiggles",
+   "pressure": "light",
+   "where": "wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "ocean/wave",
+   "action": "pull water crashing over wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pulling at an angle",
+   "pressure": "unknown",
+   "where": "over the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:12",
+   "subject": "ocean/wave",
+   "action": "lift dark back up with clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lifting upward",
+   "pressure": "light",
+   "where": "wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:39",
+   "subject": "ocean/wave",
+   "action": "foam with lavender on fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "white with lavender medium value",
+   "motion": "corner strokes",
+   "pressure": "light",
+   "where": "wave top",
+   "rule": "fan brush suits little foamy shapes",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "ocean/wave",
+   "action": "dark shadows for foam",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "foam area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "ocean/wave",
+   "action": "scrub white highlight on dark",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "wiped on towel",
+   "motion": "scrubbing",
+   "pressure": "medium",
+   "where": "top of dark color",
+   "rule": "wiping keeps the color clean",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "ocean/wave",
+   "action": "churn with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "churning strokes",
+   "pressure": "unknown",
+   "where": "over the wave",
+   "rule": "big brush holds more hair and blends better",
+   "new": ""
+  },
+  {
+   "t": "16:35",
+   "subject": "water",
+   "action": "add phthalo blue to water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "least touch of blue",
+   "motion": "letting water rise and fall",
+   "pressure": "light",
+   "where": "eye of the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "ocean/wave",
+   "action": "splash and curl a trough",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "letting splash curl",
+   "pressure": "light",
+   "where": "middle of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "ocean/wave",
+   "action": "splash along wave with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "splashing strokes",
+   "pressure": "light",
+   "where": "along the wave",
+   "rule": "splashing trough gives the wave its shape",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "land",
+   "action": "blend into lower bank",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "large blending strokes",
+   "pressure": "light",
+   "where": "lower bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "rock",
+   "action": "highlight rock edge with lavender",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender with white",
+   "motion": "firm strokes along edge",
+   "pressure": "firm",
+   "where": "rock edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "other: small details",
+   "action": "add thinned blue and white detail shapes",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small detail dabs",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "rock",
+   "action": "highlight brighter shapes with white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small dabs",
+   "pressure": "light",
+   "where": "brighter shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "rock",
+   "action": "mix and tap rock shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "mixed loosely on brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper ledge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:21",
+   "subject": "rock",
+   "action": "add light color and dark holes on rocks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "touch",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "rock faces",
+   "rule": "dark areas become rock holes that birds can nest in",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "rock",
+   "action": "tap second rock on other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "he likes big rocks in his paintings",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "rock",
+   "action": "outline stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "outlining strokes",
+   "pressure": "light",
+   "where": "rock edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:02",
+   "subject": "rock",
+   "action": "blend dark rock with clean dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle caress with clean brush",
+   "pressure": "whisper",
+   "where": "rock",
+   "rule": "keeps it dark so it does not distract",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "water",
+   "action": "splash blue and white down rocks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "little",
+   "motion": "soft splashing",
+   "pressure": "whisper",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "rock",
+   "action": "add a stone out in the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pushing strokes",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "stones in the water enhance the painting",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "water",
+   "action": "drip thinned blue and white off rocks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dripping strokes",
+   "pressure": "light",
+   "where": "off the rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "water",
+   "action": "churn water around rock",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "little",
+   "motion": "churning strokes",
+   "pressure": "light",
+   "where": "around the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:39",
+   "subject": "mist",
+   "action": "misty churn against big rock",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "soft tapping",
+   "pressure": "light",
+   "where": "back against big rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:02",
+   "subject": "other: bird",
+   "action": "add one small bird",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small m-shaped stroke",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[04:26] circular swirls make many small shapes instead of a flat sky",
+  "[19:41] small details make the seascape look spectacular"
+ ]
+}

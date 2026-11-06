@@ -1,0 +1,689 @@
+{
+ "ep": "S06E02",
+ "base": "liquid white",
+ "format": "vertical",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "van dyke brown",
+  "burnt umber",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "cad yellow",
+  "yellow",
+  "permanent red",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "drop prussian blue into the sky, leaving open spots",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "beaten into bristles",
+   "motion": "bounce and play",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:40",
+   "subject": "sky",
+   "action": "blend the blue out, keeping light spots",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "whisper",
+   "where": "upper sky",
+   "rule": "keeps light spots so they read as distant clouds",
+   "new": ""
+  },
+  {
+   "t": "02:55",
+   "subject": "mountain",
+   "action": "pull background hills straight down",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown, blue, crimson and sap green mixed on brush",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:43",
+   "subject": "mountain",
+   "action": "pull a farther hill down with more blue",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a touch more blue",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "farthest back, behind the first hill",
+   "rule": "air makes distant things look bluer",
+   "new": ""
+  },
+  {
+   "t": "04:06",
+   "subject": "mountain",
+   "action": "tap bottom of far hills soft and misty, then lift",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "bottom of far hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "mountain",
+   "action": "tap nearer hills with more green, then lift",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "more green",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "nearer hills, lower",
+   "rule": "closer things show more color",
+   "new": ""
+  },
+  {
+   "t": "05:48",
+   "subject": "far trees",
+   "action": "dab small tree shapes into the mist",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "loaded heavy, pulled through paint",
+   "motion": "dab shapes",
+   "pressure": "light",
+   "where": "background, between hills",
+   "rule": "keep mist open so trees stand apart",
+   "new": ""
+  },
+  {
+   "t": "07:12",
+   "subject": "reflection",
+   "action": "pull tree colors down for pond reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "a pond needs reflections",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "water",
+   "action": "blend lightly across the reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend across lightly",
+   "pressure": "whisper",
+   "where": "reflections",
+   "rule": "just enough to suggest water",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "leaf tree",
+   "action": "dab leaf shapes on the far tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "yellow",
+    "sap green"
+   ],
+   "load": "liquid white thins the paint",
+   "motion": "dab shapes",
+   "pressure": "light",
+   "where": "small tree",
+   "rule": "keeping dark areas stops the painting going flat",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "reflection",
+   "action": "drop yellow reflections into the water",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "reverse brush and drop in",
+   "pressure": "light",
+   "where": "water below the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "reflection",
+   "action": "pull reflections down with the large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touching, pull down",
+   "pressure": "whisper",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:39",
+   "subject": "structure",
+   "action": "block in first building with brown and swooping roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll cut off knife",
+   "motion": "swoop roof, fill color",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "fill brown now, highlight later to show light",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "structure",
+   "action": "highlight building edges with a small roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown mixed with white",
+   "motion": "tap and bounce along",
+   "pressure": "light",
+   "where": "roof and building edges",
+   "rule": "makes it look old",
+   "new": ""
+  },
+  {
+   "t": "12:40",
+   "subject": "structure",
+   "action": "brighten the left side with light red-brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "small roll on knife",
+   "motion": "pull downward lightly",
+   "pressure": "light",
+   "where": "left side of buildings",
+   "rule": "light comes from the left",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "structure",
+   "action": "darker tone on the right side of the building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "red-brown with brown added",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "right side of building",
+   "rule": "a darker tone separates the two faces",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "structure",
+   "action": "scrape window outlines with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape outlines",
+   "pressure": "light",
+   "where": "building faces",
+   "rule": "so windows stand out",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "structure",
+   "action": "cut second building shape with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut off excess",
+   "pressure": "light",
+   "where": "second building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:29",
+   "subject": "structure",
+   "action": "highlight roof edge of second building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "lighter mix on knife",
+   "motion": "tap along edge",
+   "pressure": "light",
+   "where": "second building roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "structure",
+   "action": "darker front and side on second building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "darker mix",
+   "motion": "pull and place",
+   "pressure": "light",
+   "where": "side and front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "structure",
+   "action": "scrape door and plank lines through the paint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "front of second building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "structure",
+   "action": "add small side building with highlight on its edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "lighter mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "side of building, small roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:11",
+   "subject": "structure",
+   "action": "darker tone under the small roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "darker mix",
+   "motion": "press",
+   "pressure": "light",
+   "where": "under small roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:35",
+   "subject": "land",
+   "action": "lay in land band along the building base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "permanent red"
+   ],
+   "load": "dark color from the buildings",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "lower middle, along building base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "grass",
+   "action": "dab grassy bushes in mixed colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "permanent red"
+   ],
+   "load": "mixed on brush",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "along the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:29",
+   "subject": "grass",
+   "action": "add brown and white sparkle highlights on the grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "grass",
+   "rule": "keeps it from looking dead",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "water",
+   "action": "drop in water lines with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "pulled flat and cut across",
+   "motion": "scrape and drop",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "leaf tree",
+   "action": "dab leaves on small tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "greens and yellow mixed",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "small tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:31",
+   "subject": "reflection",
+   "action": "reflect building and tree colors into water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull gently down",
+   "pressure": "whisper",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:56",
+   "subject": "water",
+   "action": "add more water lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "carried on knife",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "right water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:22",
+   "subject": "trunk/limbs",
+   "action": "scrape in small trunks with knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "among trees",
+   "rule": "knife point is quicker than a liner brush",
+   "new": ""
+  },
+  {
+   "t": "20:44",
+   "subject": "land",
+   "action": "lay foreground land coming down the front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "pull and drop in",
+   "pressure": "light",
+   "where": "front, flowing into water",
+   "rule": "keeps water open so it reads as receding",
+   "new": ""
+  },
+  {
+   "t": "21:37",
+   "subject": "bush",
+   "action": "dab bright red bush accent",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "near the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:06",
+   "subject": "grass",
+   "action": "add green grassy patches",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "near the bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "land",
+   "action": "lay brown dirt under grass and bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch, push, bend up",
+   "pressure": "light",
+   "where": "back land",
+   "rule": "gives the grass and bushes ground to sit on",
+   "new": ""
+  },
+  {
+   "t": "23:20",
+   "subject": "trunk/limbs",
+   "action": "knife-paint a big brown tree trunk up into the sky",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll",
+   "motion": "press and pull up",
+   "pressure": "light",
+   "where": "center right, up into sky",
+   "rule": "pushes everything back and adds depth",
+   "new": ""
+  },
+  {
+   "t": "24:17",
+   "subject": "trunk/limbs",
+   "action": "widen and strengthen the trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull wider",
+   "pressure": "light",
+   "where": "big trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:44",
+   "subject": "trunk/limbs",
+   "action": "add a second tree and a few limbs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape indications",
+   "pressure": "light",
+   "where": "beside the big trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "leaf tree",
+   "action": "touch reddish color up the side of the trunks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "red mix on knife",
+   "motion": "touch and go up",
+   "pressure": "light",
+   "where": "left side of trunks",
+   "rule": "light comes from the left, so left edges catch light",
+   "new": ""
+  },
+  {
+   "t": "25:59",
+   "subject": "leaf tree",
+   "action": "loose leaves on the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab loosely",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "leaf tree",
+   "action": "quick yellow highlights on the trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow"
+   ],
+   "load": "",
+   "motion": "quick touches",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

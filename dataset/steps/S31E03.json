@@ -1,0 +1,425 @@
+{
+ "ep": "S31E03",
+ "base": "liquid black and liquid white blend",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "crimson",
+  "prussian blue",
+  "van dyke brown",
+  "sap green",
+  "yellow",
+  "bright red",
+  "dark sienna",
+  "liquid white",
+  "liquid black"
+ ],
+ "steps": [
+  {
+   "t": "00:45",
+   "subject": "sky",
+   "action": "crisscross strokes for sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "plain blue",
+   "motion": "crisscross X strokes",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "blending is better and leaves marks in the sky",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "cloud",
+   "action": "tap in basic cloud shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on brush",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "sky",
+   "action": "blend clouds until very soft",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blending",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "sky",
+   "action": "blend blue into the sky",
+   "tool": "other: blender brush",
+   "part": "corner",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue added to blender",
+   "motion": "blending",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "sky",
+   "action": "blend white into sky near the dark area",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white added to same brush",
+   "motion": "blending",
+   "pressure": "light",
+   "where": "lower sky near dark base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "cloud",
+   "action": "firm up a cloud with blue",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on brush",
+   "motion": "brush strokes",
+   "pressure": "firm",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:01",
+   "subject": "mountain",
+   "action": "paint distant mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "crimson"
+   ],
+   "load": "white, blue and a touch of crimson mixed",
+   "motion": "bump shapes",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "so the mountain stands out from the sky",
+   "new": ""
+  },
+  {
+   "t": "06:48",
+   "subject": "mountain",
+   "action": "highlight distant mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white loaded lightly on fan",
+   "motion": "light touches",
+   "pressure": "unknown",
+   "where": "mountain",
+   "rule": "highlight makes the far mountain read as distant",
+   "new": ""
+  },
+  {
+   "t": "07:58",
+   "subject": "bush",
+   "action": "pull growth up the mountain base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "sap green and yellow mixed on brush",
+   "motion": "short upward strokes",
+   "pressure": "unknown",
+   "where": "base of mountain",
+   "rule": "follow the mountain angles to push it farther away",
+   "new": ""
+  },
+  {
+   "t": "09:08",
+   "subject": "bush",
+   "action": "add red to growth and grey it",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "bright red"
+   ],
+   "load": "red added",
+   "motion": "dabbing",
+   "pressure": "unknown",
+   "where": "mountain base",
+   "rule": "underlying black greys the colors and softens them",
+   "new": ""
+  },
+  {
+   "t": "10:16",
+   "subject": "leaf tree",
+   "action": "mix dark tree color and load fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "crimson",
+    "sap green"
+   ],
+   "load": "dark mix loaded on both sides",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:04",
+   "subject": "leaf tree",
+   "action": "paint stand of dark trees",
+   "tool": "fan",
+   "part": "chisel",
+   "paint": [],
+   "load": "",
+   "motion": "chisel strokes forming tree tops",
+   "pressure": "unknown",
+   "where": "back of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "far trees",
+   "action": "paint far distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush nearly empty",
+   "motion": "light taps",
+   "pressure": "light",
+   "where": "far back behind the stand",
+   "rule": "waiting until the brush is nearly empty keeps them lighter",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "leaf tree",
+   "action": "cut bottom edge of tree stand with green",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "more green and yellow reloaded",
+   "motion": "straight cut",
+   "pressure": "unknown",
+   "where": "bottom of tree stand",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "evergreen",
+   "action": "paint big push-up evergreen",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "crimson",
+    "sap green"
+   ],
+   "load": "heavy dark mix loaded",
+   "motion": "pushing branches upward",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:06",
+   "subject": "evergreen",
+   "action": "paint smaller friend evergreen beside the big one",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "crimson",
+    "sap green"
+   ],
+   "load": "dark mix mixed again",
+   "motion": "pushing upward",
+   "pressure": "unknown",
+   "where": "beside the big tree",
+   "rule": "the big tree should not stand alone",
+   "new": ""
+  },
+  {
+   "t": "15:56",
+   "subject": "trunk/limbs",
+   "action": "add faint tree trunk marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mixed",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "tree base area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:51",
+   "subject": "evergreen",
+   "action": "add highlights to small evergreen",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "green mix",
+   "motion": "pushing upward",
+   "pressure": "unknown",
+   "where": "small tree",
+   "rule": "leave plenty of dark in the evergreen",
+   "new": ""
+  },
+  {
+   "t": "17:43",
+   "subject": "path",
+   "action": "paint a path through the middle",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "brown, black and white mixed",
+   "motion": "straight drop-in strokes",
+   "pressure": "unknown",
+   "where": "middle back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:10",
+   "subject": "grass",
+   "action": "paint grass with lightened green",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow",
+    "liquid white"
+   ],
+   "load": "liquid white added to green",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "front of the tree line",
+   "rule": "liquid white brightens the color and thins it",
+   "new": ""
+  },
+  {
+   "t": "20:32",
+   "subject": "evergreen",
+   "action": "add another small tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "upward push",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:06",
+   "subject": "rock",
+   "action": "paint big stones with dark and light sides",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin dark mix with white on one side",
+   "motion": "one stroke",
+   "pressure": "unknown",
+   "where": "out at the tree base",
+   "rule": "one stroke gives both highlight and shadow",
+   "new": ""
+  },
+  {
+   "t": "23:38",
+   "subject": "grass",
+   "action": "add grassy patches around the stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "short strokes",
+   "pressure": "unknown",
+   "where": "base of the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "evergreen",
+   "action": "bring one tree down to the foreground and highlight",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "pulling down",
+   "pressure": "unknown",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

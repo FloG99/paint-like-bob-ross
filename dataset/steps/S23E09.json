@@ -1,0 +1,666 @@
+{
+ "ep": "S23E09",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "phthalo green",
+  "indian yellow",
+  "cadmium yellow",
+  "alizarin crimson",
+  "prussian blue",
+  "van dyke brown",
+  "sap green",
+  "bright red",
+  "yellow ochre",
+  "dark sienna",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:57",
+   "subject": "sky",
+   "action": "blue black and green sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "phthalo green"
+   ],
+   "load": "a little blue and black with the least green",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:48",
+   "subject": "water",
+   "action": "blue black and green water strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "phthalo green"
+   ],
+   "load": "same colors on the brush",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "lower water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "sun/glow",
+   "action": "semitransparent yellow glow in the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "cadmium yellow"
+   ],
+   "load": "a little indian yellow and cadmium yellow",
+   "motion": "tap in center",
+   "pressure": "light",
+   "where": "center of sky",
+   "rule": "too much yellow against the blue turns bright green",
+   "new": ""
+  },
+  {
+   "t": "03:00",
+   "subject": "water",
+   "action": "yellow glow in the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "cadmium yellow"
+   ],
+   "load": "same yellow mix",
+   "motion": "drag across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:27",
+   "subject": "sun/glow",
+   "action": "blend the glow with a dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle blend",
+   "pressure": "whisper",
+   "where": "glow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:23",
+   "subject": "cloud",
+   "action": "tiny circles for clouds",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "both sides loaded",
+   "motion": "wind into tiny circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "clouds can be painted any way",
+   "new": ""
+  },
+  {
+   "t": "05:43",
+   "subject": "cloud",
+   "action": "dry corner blends and lightens clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry 2in",
+   "motion": "caress and wind",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "removing excess paint lets it blend",
+   "new": ""
+  },
+  {
+   "t": "06:37",
+   "subject": "cloud",
+   "action": "tiny bright floaters",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with tiny bright red",
+   "motion": "tip the edges",
+   "pressure": "light",
+   "where": "sky, small floaters",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:29",
+   "subject": "far trees",
+   "action": "dark little tree masses",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix on the round",
+   "motion": "tap the brush",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "small round brush suits little trees",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "far trees",
+   "action": "little trunks on some far trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke with paint thinner",
+   "motion": "little lines",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:49",
+   "subject": "far trees",
+   "action": "yellow tints on the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows on the same liner",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "cadmium yellow over the dark makes green",
+   "new": ""
+  },
+  {
+   "t": "09:40",
+   "subject": "far trees",
+   "action": "bright red highlight on one tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a touch of bright red",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "one tree top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "far trees",
+   "action": "greener tree tops",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "phthalo green"
+   ],
+   "load": "green on the liner",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:29",
+   "subject": "far trees",
+   "action": "tap down the bright green",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "same liner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bright tree",
+   "rule": "tapping picks up the base color and mutes it",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "land",
+   "action": "dark land patches",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix",
+   "motion": "tap dark color",
+   "pressure": "light",
+   "where": "bottom land patch",
+   "rule": "dark color lets the light show",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "land",
+   "action": "big bank with van dyke brown",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "pull over",
+   "pressure": "light",
+   "where": "bank area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:53",
+   "subject": "land",
+   "action": "grass graze on the bank edge",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "white with dark sienna and van dyke marbled",
+   "motion": "graze along the angles",
+   "pressure": "whisper",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "land",
+   "action": "yellow and red grassy highlights over bank edge",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "yellow and red mix",
+   "motion": "let it crawl over the edge",
+   "pressure": "light",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:55",
+   "subject": "structure",
+   "action": "block in small cabin with van dyke",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke on the small knife",
+   "motion": "scrape a basic shape",
+   "pressure": "firm",
+   "where": "bank by the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:54",
+   "subject": "structure",
+   "action": "warm light cabin side",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "white with touch of red and dark sienna",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:16",
+   "subject": "structure",
+   "action": "darken the cabin side",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "touch of van dyke",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "cabin side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:45",
+   "subject": "structure",
+   "action": "old board indications",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "touch the knife",
+   "pressure": "light",
+   "where": "cabin walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:09",
+   "subject": "structure",
+   "action": "door on the cabin",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "cut in",
+   "pressure": "light",
+   "where": "cabin side facing the bank",
+   "rule": "door faces the land so you do not step into the creek",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "structure",
+   "action": "gray shingles on the roof",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray mix",
+   "motion": "tap small shingles",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "grass",
+   "action": "grass at the cabin base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "grass colors",
+   "motion": "tap grass",
+   "pressure": "light",
+   "where": "cabin base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:12",
+   "subject": "rock",
+   "action": "light gray rock bank edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "liquid white with a least black",
+   "motion": "rub firmly along the bank",
+   "pressure": "firm",
+   "where": "bank edge over water",
+   "rule": "irregular edges give fish places to hide",
+   "new": ""
+  },
+  {
+   "t": "18:09",
+   "subject": "leaf tree",
+   "action": "dark mix for a small tree on a peninsula",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark colors loaded on the round",
+   "motion": "tap in the tree",
+   "pressure": "light",
+   "where": "peninsula at right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:28",
+   "subject": "reflection",
+   "action": "reflection under the peninsula tree",
+   "tool": "round",
+   "part": "flat",
+   "paint": [],
+   "load": "same round",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "bush",
+   "action": "leafy grassy bush strokes",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "liquid white"
+   ],
+   "load": "greens with liquid white",
+   "motion": "flick leafy shapes",
+   "pressure": "light",
+   "where": "upper bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "bush",
+   "action": "sparkly bush with red and ochre",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "touch of red and yellow ochre",
+   "motion": "drop in bushes",
+   "pressure": "light",
+   "where": "bank bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "land",
+   "action": "bank indication with van dyke and white",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white with a little van dyke",
+   "motion": "soft tap",
+   "pressure": "light",
+   "where": "bank edge",
+   "rule": "simplest way to show a bank",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "trunk/limbs",
+   "action": "old gnarly tree trunk",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "fan loaded with van dyke and dark sienna",
+   "motion": "wiggle strokes",
+   "pressure": "light",
+   "where": "tree location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "trunk/limbs",
+   "action": "white highlights on the trunk",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna on the fan",
+   "motion": "barely touch down the trunk",
+   "pressure": "whisper",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "trunk/limbs",
+   "action": "faint blue light on the other side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white on the fan",
+   "motion": "dab",
+   "pressure": "whisper",
+   "where": "other side of trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "trunk/limbs",
+   "action": "dark glaze over the trunk",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark color",
+   "motion": "gentle over",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "dried glaze looks like bark",
+   "new": ""
+  },
+  {
+   "t": "25:54",
+   "subject": "leaf tree",
+   "action": "sap green leaves on tree",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on the round",
+   "motion": "dab leaves",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:54",
+   "subject": "bush",
+   "action": "touch of bright red bushes at the bottom",
+   "tool": "round",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of bright red",
+   "motion": "drop in a few bushes",
+   "pressure": "light",
+   "where": "bank bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:46",
+   "subject": "trunk/limbs",
+   "action": "scrape in a stick and twig",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke on the knife",
+   "motion": "scrape lines",
+   "pressure": "light",
+   "where": "lower tree area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

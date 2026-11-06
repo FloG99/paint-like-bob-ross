@@ -1,0 +1,691 @@
+{
+ "ep": "S09E05",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "bright red",
+  "van dyke brown",
+  "dark sienna",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:59",
+   "subject": "sky",
+   "action": "crimson crisscross sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tapped into the brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper oval",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:30",
+   "subject": "sky",
+   "action": "mix blue into crimson and lay lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on the brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:23",
+   "subject": "water",
+   "action": "crimson water strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "carried on the brush",
+   "motion": "pull straight across",
+   "pressure": "light",
+   "where": "lower oval",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:49",
+   "subject": "sky",
+   "action": "blend colors with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "crisscross blending",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "cloud",
+   "action": "midnight black cloud strokes sideways",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried on the same brush",
+   "motion": "sideways strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "black is strong so no cleaning is needed",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "reflection",
+   "action": "black reflections in the water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried",
+   "motion": "pull from outside in",
+   "pressure": "light",
+   "where": "lower water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:24",
+   "subject": "sky",
+   "action": "blend edges with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle sweep across",
+   "pressure": "whisper",
+   "where": "sky and water",
+   "rule": "softens all the edges",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "mountain",
+   "action": "mountain mass in black blue and crimson",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed then pulled out flat",
+   "motion": "pressed into the canvas",
+   "pressure": "firm",
+   "where": "middle of canvas",
+   "rule": "only the top edge matters at this stage",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "mountain",
+   "action": "2in pulls mountain shape while wet",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pulled",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "wet canvas lets the paint move",
+   "new": ""
+  },
+  {
+   "t": "06:07",
+   "subject": "snow",
+   "action": "titanium white and red snow pulled flat from knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "pulled flat with the least red",
+   "motion": "pulled and cut across",
+   "pressure": "firm",
+   "where": "top of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "snow",
+   "action": "knife edge snow along the mountain top",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "carried",
+   "motion": "slide along the top",
+   "pressure": "whisper",
+   "where": "top edge of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:19",
+   "subject": "mountain",
+   "action": "shadow side mix of blue white and black",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "pulled flat and cut",
+   "motion": "gentle pull",
+   "pressure": "whisper",
+   "where": "mountain shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "mist",
+   "action": "tap mist at mountain base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping and lifting upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "follow the mountain angles so the base softens",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mountain",
+   "action": "lighter foothill with brush corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mixed lighter",
+   "motion": "pulled through",
+   "pressure": "light",
+   "where": "foothill left of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:44",
+   "subject": "mist",
+   "action": "mist at base of foothill by tapping",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping and lifting",
+   "pressure": "light",
+   "where": "bottom of the foothill",
+   "rule": "keep the top edge clean",
+   "new": ""
+  },
+  {
+   "t": "10:08",
+   "subject": "mountain",
+   "action": "darker front foothill and reflection pull",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "less white for a darker mix",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "water below foothill",
+   "rule": "closer things get darker to show distance",
+   "new": ""
+  },
+  {
+   "t": "10:34",
+   "subject": "water line",
+   "action": "cut straight water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "pulled flat",
+   "motion": "cut across",
+   "pressure": "firm",
+   "where": "water edge",
+   "rule": "a straight line stops water running off the canvas",
+   "new": ""
+  },
+  {
+   "t": "11:23",
+   "subject": "evergreen",
+   "action": "dark evergreen trees with fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "loaded full",
+   "motion": "corner back and forth pushing harder",
+   "pressure": "firm",
+   "where": "left and middle",
+   "rule": "a blue base makes the black look right",
+   "new": ""
+  },
+  {
+   "t": "13:45",
+   "subject": "trunk/limbs",
+   "action": "pale trunk with dark sienna and white",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "little roll of paint",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "upper tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "bush",
+   "action": "dark blue base for bushes with 1in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "mixed dark blue",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "under the trees",
+   "rule": "a dark base makes light show when added",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "reflection",
+   "action": "reflection pulled down under dark base",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "carried",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "snow",
+   "action": "snow on bushes with white and red",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "liquid white",
+    "bright red"
+   ],
+   "load": "loaded and pulled in one direction",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "bush tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:22",
+   "subject": "reflection",
+   "action": "reflection tapping downward with reversed brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping downward",
+   "pressure": "light",
+   "where": "under the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:45",
+   "subject": "reflection",
+   "action": "very light reflection across the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pulled across",
+   "pressure": "whisper",
+   "where": "water under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:08",
+   "subject": "water line",
+   "action": "liquid white water line and edges cleaned",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "under the bushes",
+   "new": "cleans up ragged edges and sets the water line"
+  },
+  {
+   "t": "17:36",
+   "subject": "snow",
+   "action": "snow on evergreens with blue white mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "liquid white"
+   ],
+   "load": "mixed blue",
+   "motion": "light dabs",
+   "pressure": "light",
+   "where": "top of evergreens",
+   "rule": "dark against light makes the painting pretty",
+   "new": ""
+  },
+  {
+   "t": "18:25",
+   "subject": "evergreen",
+   "action": "evergreen on right side with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "loaded full",
+   "motion": "pulling down",
+   "pressure": "firm",
+   "where": "right side",
+   "rule": "trees cover weak spots in a painting",
+   "new": ""
+  },
+  {
+   "t": "19:13",
+   "subject": "bush",
+   "action": "dark blue bushes pushed upward",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "picked up dark blue",
+   "motion": "push upward",
+   "pressure": "firm",
+   "where": "bush area",
+   "rule": "pushing upward keeps the paint from sliding",
+   "new": ""
+  },
+  {
+   "t": "20:01",
+   "subject": "bush",
+   "action": "white and red bush snow with 1in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "loaded full",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "around the bushes",
+   "rule": "not loading enough paint is the biggest mistake",
+   "new": ""
+  },
+  {
+   "t": "20:50",
+   "subject": "evergreen",
+   "action": "tree with a companion tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pulled down",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "structure",
+   "action": "knife scrapes cabin base shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "little van dyke with dark sienna",
+   "motion": "scraped out",
+   "pressure": "firm",
+   "where": "cabin site",
+   "rule": "scraping removes loose paint and keeps the cabin flexible",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "snow",
+   "action": "snow on cabin with dark sienna and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mixed",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "cabin sides",
+   "rule": "makes the cabin look old",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "structure",
+   "action": "door outline and planks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "cut lines",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "cabin front",
+   "new": "outlining makes the door stand out"
+  },
+  {
+   "t": "22:32",
+   "subject": "snow",
+   "action": "snow on cabin roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "firm",
+   "where": "light",
+   "rule": "cabin roof",
+   "new": ""
+  },
+  {
+   "t": "22:56",
+   "subject": "path",
+   "action": "snow path in front of cabin",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pulled",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "front of cabin",
+   "new": "a path leads down toward the water"
+  },
+  {
+   "t": "23:20",
+   "subject": "bush",
+   "action": "bushes around cabin with white and red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "mixed",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "around the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "evergreen",
+   "action": "dark strokes to bring the tree back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dark strokes",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:41",
+   "subject": "trunk/limbs",
+   "action": "trunk with dark sienna and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mixed",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "middle of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:39",
+   "subject": "evergreen",
+   "action": "light touches of blue and white on evergreen",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touching",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "right side evergreen",
+   "new": "lighter at the top and darker going down"
+  },
+  {
+   "t": "26:04",
+   "subject": "trunk/limbs",
+   "action": "dead limbs with knife tip",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "pulled",
+   "pressure": "light",
+   "where": "evergreen sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:50",
+   "subject": "other: signature",
+   "action": "sign with thin red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thinned with liquid clear",
+   "motion": "writing",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

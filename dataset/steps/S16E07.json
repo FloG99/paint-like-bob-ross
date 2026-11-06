@@ -1,0 +1,590 @@
+{
+ "ep": "S16E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "behind distant cloud",
+ "guest": false,
+ "palette": [
+  "dark sienna",
+  "yellow ochre",
+  "sap green",
+  "titanium white",
+  "bright red",
+  "phthalo blue",
+  "alizarin crimson",
+  "van dyke brown",
+  "midnight black"
+ ],
+ "steps": [
+  {
+   "t": "00:30",
+   "subject": "sky",
+   "action": "crisscross sky strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "dark sienna with a little yellow ochre",
+   "motion": "crisscross X strokes spreading outward",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:56",
+   "subject": "other: base wash",
+   "action": "lay down mixed base wash",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "mix three colors and load both sides",
+   "motion": "crisscross strokes across canvas",
+   "pressure": "unknown",
+   "where": "entire canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "sun/glow",
+   "action": "lighten spot for sun glow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white on a clean brush",
+   "motion": "tap and work around, repeating for lightness",
+   "pressure": "unknown",
+   "where": "upper area behind the distant cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "far trees",
+   "action": "tap distant tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same three-color mix",
+   "motion": "touch and push sideways, then tap",
+   "pressure": "unknown",
+   "where": "far back in the distance",
+   "rule": "far away, so only basic shapes are needed",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "mist",
+   "action": "soften base of background",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "firm taps to blur the base",
+   "pressure": "firm",
+   "where": "base of background shapes",
+   "rule": "keep the painting very misty",
+   "new": ""
+  },
+  {
+   "t": "06:09",
+   "subject": "bush",
+   "action": "scrub bush shapes with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender mix, lightened with white",
+   "motion": "back and forth, then scrub with the corner",
+   "pressure": "unknown",
+   "where": "back layers",
+   "rule": "layering builds depth and distance",
+   "new": ""
+  },
+  {
+   "t": "07:38",
+   "subject": "mist",
+   "action": "tap base of the bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "tap only the base",
+   "pressure": "unknown",
+   "where": "base of the bushes",
+   "rule": "mist separates each plane and layer",
+   "new": ""
+  },
+  {
+   "t": "08:16",
+   "subject": "bush",
+   "action": "drop in bush and tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "vary bright red, blue and white",
+   "motion": "drop shapes in, layer after layer",
+   "pressure": "unknown",
+   "where": "middle ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "mist",
+   "action": "tap and lift the misty area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "tap then lift upward",
+   "pressure": "unknown",
+   "where": "middle area",
+   "rule": "the misty area must be kept; it matters",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "leaf tree",
+   "action": "tap leaf tree shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "same mix, a touch more blue",
+   "motion": "firm taps with the fan brush",
+   "pressure": "firm",
+   "where": "upper middle on the tree",
+   "rule": "silhouettes only; detail not needed this far away",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "other: small scrub marks",
+   "action": "scrub small marks with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "scrub back and forth with the corner",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "mist",
+   "action": "tap base of the lower shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "tap at the base",
+   "pressure": "unknown",
+   "where": "base of the lower shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:13",
+   "subject": "trunk/limbs",
+   "action": "thin limbs off trees",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinned with paint thinner",
+   "motion": "thin strokes for hanging limbs",
+   "pressure": "unknown",
+   "where": "on the evergreen trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:15",
+   "subject": "trunk/limbs",
+   "action": "tap in trunks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown on liner",
+   "motion": "tap trunks between the foliage",
+   "pressure": "unknown",
+   "where": "between the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "bush",
+   "action": "drop in reddish brown bushes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mix van dyke brown, sap green and alizarin crimson",
+   "motion": "drop shapes in wherever",
+   "pressure": "unknown",
+   "where": "under the big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "bush",
+   "action": "lighten bush color with white",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of titanium white",
+   "motion": "dab into the bush color",
+   "pressure": "unknown",
+   "where": "same bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:07",
+   "subject": "other: dark base",
+   "action": "lay dark base with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little van dyke brown",
+   "motion": "broad strokes across lower canvas",
+   "pressure": "unknown",
+   "where": "across the canvas",
+   "rule": "later details need a dark base to show",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "land",
+   "action": "knife-flow a dark land shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown cut from the knife",
+   "motion": "let the knife flow down and out",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:48",
+   "subject": "rock",
+   "action": "knife highlights for rocks",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "mix white, dark sienna and black, leave marbled",
+   "motion": "cut a small roll and drop in highlights",
+   "pressure": "unknown",
+   "where": "rock area",
+   "rule": "overmixed paint dies to one flat color; keep it marbled",
+   "new": ""
+  },
+  {
+   "t": "17:25",
+   "subject": "rock",
+   "action": "small knife dark rock edges",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "same mix from the knife",
+   "motion": "pop in small rock shapes",
+   "pressure": "unknown",
+   "where": "rock area",
+   "rule": "a dark edge under makes strong rocks",
+   "new": ""
+  },
+  {
+   "t": "18:39",
+   "subject": "water",
+   "action": "cover rocks with thin paint",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white, then titanium white, tiny phthalo blue",
+   "motion": "cover over the rock area",
+   "pressure": "unknown",
+   "where": "the rock area under water",
+   "rule": "titanium white is only there to thin the mix",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "waterfall",
+   "action": "paint small waterfall with splashes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same thinned mix",
+   "motion": "drop waterfall down with small splashes",
+   "pressure": "unknown",
+   "where": "center area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:29",
+   "subject": "reflection",
+   "action": "pull waterfall reflection down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "pull straight down, then go across",
+   "pressure": "unknown",
+   "where": "under the waterfall",
+   "rule": "pulling down makes it look like a reflection",
+   "new": ""
+  },
+  {
+   "t": "20:13",
+   "subject": "rock",
+   "action": "block in big rock projection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "more van dyke brown",
+   "motion": "block in rock shape",
+   "pressure": "unknown",
+   "where": "lower middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "bush",
+   "action": "dab bush shapes on projection",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mix brown with white on fan",
+   "motion": "corner taps, pushing upward",
+   "pressure": "unknown",
+   "where": "on the projection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "rock",
+   "action": "knife highlight on rock top",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white highlight color",
+   "motion": "pull downward with a light touch",
+   "pressure": "unknown",
+   "where": "top of the big rock",
+   "rule": "a top highlight makes the rock stand out",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "path",
+   "action": "paint subdued path",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little white and brown",
+   "motion": "indicate path curving out of frame",
+   "pressure": "unknown",
+   "where": "lower right, around the corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:12",
+   "subject": "bush",
+   "action": "bushes and stones beside path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mix brown and white",
+   "motion": "dab bushes and stones along each side",
+   "pressure": "unknown",
+   "where": "sides of the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "trunk/limbs",
+   "action": "block in huge tree trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lots of van dyke brown",
+   "motion": "block in tall shape with lots of paint",
+   "pressure": "unknown",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk edge with white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white already on fan",
+   "motion": "bang on the edge, then pull",
+   "pressure": "unknown",
+   "where": "along the trunk edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "trunk/limbs",
+   "action": "add limbs to trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "some brown",
+   "motion": "short limb shapes off the trunk",
+   "pressure": "unknown",
+   "where": "on the trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "trunk/limbs",
+   "action": "pull white across trunk edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan",
+   "motion": "pull over the edge",
+   "pressure": "unknown",
+   "where": "trunk edge",
+   "rule": "the white makes the tree look round",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "trunk/limbs",
+   "action": "thin limbs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinned with paint thinner",
+   "motion": "thin strokes for limbs and stump",
+   "pressure": "unknown",
+   "where": "stump and nearby trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:32",
+   "subject": "leaf tree",
+   "action": "add a few leaves",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "few small leaf strokes",
+   "pressure": "unknown",
+   "where": "on the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:58",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "write signature",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[06:32] closer things should get darker in value",
+  "[07:38] the misty base separates planes and layers"
+ ]
+}

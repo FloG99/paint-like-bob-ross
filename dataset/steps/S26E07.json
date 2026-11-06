@@ -1,0 +1,379 @@
+{
+ "ep": "S26E07",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "gray gesso",
+  "white gesso",
+  "black gesso",
+  "liquid clear",
+  "indian yellow",
+  "phthalo blue",
+  "prussian blue",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:48",
+   "subject": "far trees",
+   "action": "pull down thin far trunks with gray gesso",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "gray gesso"
+   ],
+   "load": "gray gesso on foam brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:45",
+   "subject": "reflection",
+   "action": "reflect the far trunks below",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "gray gesso"
+   ],
+   "load": "gray gesso on foam brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:34",
+   "subject": "trunk/limbs",
+   "action": "thin filler limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "gray gesso"
+   ],
+   "load": "gray gesso thinned with water",
+   "motion": "draw thin limbs",
+   "pressure": "light",
+   "where": "upper back of canvas",
+   "rule": "filler limbs in the background, many will not show",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "leaf tree",
+   "action": "pull down foreground birch trunks with white gesso",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "white gesso"
+   ],
+   "load": "white gesso on foam brush",
+   "motion": "pull down, firmer at base",
+   "pressure": "medium",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "reflection",
+   "action": "reflect foreground trunks straight down",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "white gesso"
+   ],
+   "load": "white gesso on foam brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "below foreground trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:45",
+   "subject": "trunk/limbs",
+   "action": "add white limbs over the background",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "white gesso"
+   ],
+   "load": "thin white gesso with water",
+   "motion": "draw thin limbs",
+   "pressure": "light",
+   "where": "in front of background trees",
+   "rule": "wash between colors so the white stays pure",
+   "new": ""
+  },
+  {
+   "t": "08:01",
+   "subject": "reflection",
+   "action": "add reflections at the bottom",
+   "tool": "other: foam brush",
+   "part": "unknown",
+   "paint": [
+    "white gesso"
+   ],
+   "load": "white gesso on foam brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "trunk/limbs",
+   "action": "flick black gesso specks onto the canvas",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black gesso"
+   ],
+   "load": "black gesso thinned with water",
+   "motion": "flick globules",
+   "pressure": "light",
+   "where": "over the trunk area",
+   "rule": "specks landing on black will not show when dry",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "trunk/limbs",
+   "action": "pull wet flicks into birch bark marks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently touch and pull",
+   "pressure": "whisper",
+   "where": "on the wet flick marks",
+   "rule": "pulling the flicks makes birch bark marks",
+   "new": ""
+  },
+  {
+   "t": "12:23",
+   "subject": "other: liquid clear coat",
+   "action": "cover entire canvas with a thin coat of liquid clear",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid clear"
+   ],
+   "load": "thin coat",
+   "motion": "cover entire canvas",
+   "pressure": "light",
+   "where": "entire canvas",
+   "rule": "thin coat is easy to overdo since it cannot be seen",
+   "new": ""
+  },
+  {
+   "t": "14:30",
+   "subject": "land",
+   "action": "tap indian yellow glaze at base of trees and reflections",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tap into bristles",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of trees and reflections",
+   "rule": "clear and transparent color act as a glaze",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "sky",
+   "action": "tap phthalo blue into top of canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "X strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "reflection",
+   "action": "add phthalo blue X strokes to reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same brush load",
+   "motion": "X strokes",
+   "pressure": "light",
+   "where": "reflection area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "sky",
+   "action": "darken sky edges with prussian blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "small touch",
+   "motion": "soften edges",
+   "pressure": "light",
+   "where": "edges of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:12",
+   "subject": "other: wiping off mistakes",
+   "action": "wipe off a mistake with thinner",
+   "tool": "other: paper towel",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner on paper towel",
+   "motion": "wipe off",
+   "pressure": "light",
+   "where": "the spot with the mistake",
+   "rule": "gesso stays underneath so you can repaint it",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "sky",
+   "action": "darken the top and corners with prussian blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "strong load",
+   "motion": "darken",
+   "pressure": "firm",
+   "where": "top and corners of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:39",
+   "subject": "snow",
+   "action": "add a thin indication of snow with white",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on fan brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "background, base of trees",
+   "rule": "a thin layer stays fairly transparent",
+   "new": ""
+  },
+  {
+   "t": "19:31",
+   "subject": "snow",
+   "action": "smooth background snow away with a finger",
+   "tool": "other: finger",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "smooth",
+   "pressure": "light",
+   "where": "back of background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "snow",
+   "action": "load white on fan and cut around the foreground tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lot of white loaded into bristles",
+   "motion": "cut around tree",
+   "pressure": "medium",
+   "where": "foreground, around the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:46",
+   "subject": "snow",
+   "action": "pull white upward to make a snow bank",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same white",
+   "motion": "pull upward",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "an upward pull makes a bank of snow",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "reflection",
+   "action": "lift lightly across reflection with clean brush",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull across lightly",
+   "pressure": "light",
+   "where": "base of snow in reflection",
+   "rule": "keeps the reflection pure and water-like",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "land",
+   "action": "add small peninsula shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay shape",
+   "pressure": "light",
+   "where": "lower area near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:31",
+   "subject": "water line",
+   "action": "cut water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "thin white on knife edge",
+   "motion": "cut lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

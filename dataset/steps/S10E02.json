@@ -1,0 +1,591 @@
+{
+ "ep": "S10E02",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "light strikes the edge of the tree",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "liquid white",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "black",
+  "dark sienna",
+  "prussian blue",
+  "sap green",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:36",
+   "subject": "sky",
+   "action": "tap cad yellow into the horizon area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "least touch on the large brush",
+   "motion": "tap in and let it blend",
+   "pressure": "unknown",
+   "where": "horizon area",
+   "rule": "",
+   "new": "blends into the liquid white base"
+  },
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "add yellow ochre just above the yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little tap on the same brush",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "just above the cad yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "sky",
+   "action": "add a small touch of bright red and blend it out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "liquid white"
+   ],
+   "load": "a very small touch of red, then leftover mixed with liquid white",
+   "motion": "blend lightly in layers",
+   "pressure": "unknown",
+   "where": "along the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "add titanium white to the bright area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight titanium white",
+   "motion": "work it in",
+   "pressure": "unknown",
+   "where": "bright area in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "cloud",
+   "action": "spin in cloud shapes with lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson with less blue, mixed on the brush",
+   "motion": "spin in little cloud shapes",
+   "pressure": "unknown",
+   "where": "around the sky",
+   "rule": "leave some pink so it shines through the clouds",
+   "new": ""
+  },
+  {
+   "t": "03:53",
+   "subject": "sky",
+   "action": "add a little phthalo blue at the top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little blue on the brush",
+   "motion": "touch in at the top",
+   "pressure": "unknown",
+   "where": "top of the sky",
+   "rule": "brings the whole sky together",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "sky",
+   "action": "blend the entire sky with a clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle circles and crisscross strokes",
+   "pressure": "unknown",
+   "where": "entire sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:47",
+   "subject": "far trees",
+   "action": "tap treetops of a far hill with the oval brush",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mixed on the brush with a little white",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "distant hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "mist",
+   "action": "tap yellow mist at the base of the distant hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "yellow left underneath",
+   "motion": "tap the base, lift very lightly",
+   "pressure": "light",
+   "where": "base of the distant hill",
+   "rule": "the mist creates the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "07:43",
+   "subject": "land",
+   "action": "lay a dark base coat for the land masses",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown",
+    "dark sienna",
+    "black"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "touch and tap downward",
+   "pressure": "unknown",
+   "where": "back land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "grass",
+   "action": "tap soft grassy highlights following the lay of the land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tap following the land",
+   "pressure": "unknown",
+   "where": "land area",
+   "rule": "the dark underneath makes light show",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "land",
+   "action": "tap another land plane in front in dark mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "dark sienna",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "tap firmly",
+   "pressure": "unknown",
+   "where": "land in front of the first plane",
+   "rule": "the dark base lets light show on top",
+   "new": ""
+  },
+  {
+   "t": "10:59",
+   "subject": "land",
+   "action": "tap the whole land area, leaving light spots",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap, do not paint solid",
+   "pressure": "unknown",
+   "where": "whole land area",
+   "rule": "tapping leaves light spots that show through",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "leaf tree",
+   "action": "tap a clump of trees, starting at the bottom",
+   "tool": "other: round brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "little brown and sienna on the brush",
+   "motion": "tap upward from the bottom",
+   "pressure": "firm",
+   "where": "clump of trees in the middle",
+   "rule": "lighter toward the top as light shines through limbs",
+   "new": ""
+  },
+  {
+   "t": "12:54",
+   "subject": "trunk/limbs",
+   "action": "paint thin tree trunks with a sharp point",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "pull out to a sharp point",
+   "pressure": "unknown",
+   "where": "among the trees",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "leaf tree",
+   "action": "foliage tapped onto the far side of the tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "tap in little foliage",
+   "pressure": "unknown",
+   "where": "other side of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:10",
+   "subject": "evergreen",
+   "action": "paint a dark evergreen tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "a lot of paint on the fan brush",
+   "motion": "work back and forth",
+   "pressure": "unknown",
+   "where": "right by the clump",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "leaf tree",
+   "action": "soften the clump with yellow and green taps",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow and green from the old brush",
+   "motion": "tap and let it pick up dark",
+   "pressure": "unknown",
+   "where": "soft area in the clump",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "trunk/limbs",
+   "action": "cut tree trunk marks with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "a roll of dark sienna and white",
+   "motion": "pull flat and cut across",
+   "pressure": "unknown",
+   "where": "back of the clump",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "trunk/limbs",
+   "action": "tap little limbs with the oval brush",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow and green on the oval brush",
+   "motion": "tap and wiggle to a sharp edge",
+   "pressure": "unknown",
+   "where": "the tree clump",
+   "rule": "the oval brush gives limbs shape and character",
+   "new": ""
+  },
+  {
+   "t": "18:36",
+   "subject": "structure",
+   "action": "block in a house with brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown from the knife",
+   "motion": "lay a base color",
+   "pressure": "unknown",
+   "where": "right in front of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "structure",
+   "action": "paint a red roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "red and sienna on the knife",
+   "motion": "bounce it down the roof",
+   "pressure": "unknown",
+   "where": "roof of the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "structure",
+   "action": "touch in old wood with white and yellow ochre",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "a little white and sienna, a touch of yellow ochre",
+   "motion": "touch lightly, no pressure",
+   "pressure": "whisper",
+   "where": "house walls",
+   "rule": "touching lightly makes the knife easy to use",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "structure",
+   "action": "pull down old boards and cut the house apart",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "the house",
+   "rule": "chopping it up gets the perspective right",
+   "new": ""
+  },
+  {
+   "t": "21:12",
+   "subject": "structure",
+   "action": "paint a small shed with a few boards",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "put a few boards in",
+   "pressure": "unknown",
+   "where": "shed out to the side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:52",
+   "subject": "structure",
+   "action": "cut a small window with white around it",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "cut around the window",
+   "pressure": "unknown",
+   "where": "side of the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:52",
+   "subject": "grass",
+   "action": "tap yellow grassy tufts around the foot of the house",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tap following the land",
+   "pressure": "unknown",
+   "where": "foot of the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "evergreen",
+   "action": "paint a big evergreen on the other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "a lot of dark color on the big brush",
+   "motion": "work back and forth with the corner",
+   "pressure": "unknown",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "grass",
+   "action": "bring the land mass down and layer soft grass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "yellow and green on the brush",
+   "motion": "tap in layer after layer",
+   "pressure": "unknown",
+   "where": "land below the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "trunk/limbs",
+   "action": "paint a tree trunk and leaves on the tree",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "sap green"
+   ],
+   "load": "brown and white for trunk, green for leaves",
+   "motion": "pull trunk line, dab leaves",
+   "pressure": "unknown",
+   "where": "the big tree",
+   "rule": "so the leaves stand out in the sun",
+   "new": ""
+  },
+  {
+   "t": "25:07",
+   "subject": "fence",
+   "action": "paint a fence running over the hill",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown on the liner",
+   "motion": "a few indications here and there",
+   "pressure": "unknown",
+   "where": "back, over the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:45",
+   "subject": "fence",
+   "action": "highlight the fence posts",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "add a little highlight to each post",
+   "pressure": "unknown",
+   "where": "the fence posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:23",
+   "subject": "fence",
+   "action": "run wire strands across the posts",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "the fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:23",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little bright red with paint thinner",
+   "motion": "write the signature",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

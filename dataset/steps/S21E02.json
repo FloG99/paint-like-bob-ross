@@ -1,0 +1,507 @@
+{
+ "ep": "S21E02",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid white",
+  "liquid clear",
+  "yellow ochre",
+  "dark sienna",
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "cadmium yellow",
+  "indian yellow",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "00:28",
+   "subject": "sun/glow",
+   "action": "paint a small yellow ochre glow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a very small amount on the brush",
+   "motion": "draw a small oblong circle and blend outward",
+   "pressure": "light",
+   "where": "upper sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "sky",
+   "action": "add a touch of dark sienna into the yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "a tiny bit of dark sienna added",
+   "motion": "lay color around the first layer",
+   "pressure": "light",
+   "where": "around the glow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "other: background fill",
+   "action": "fill the canvas with a lavender color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "dark sienna"
+   ],
+   "load": "blue and crimson mixed into lavender on the brush",
+   "motion": "fill the canvas with color",
+   "pressure": "unknown",
+   "where": "across the whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:08",
+   "subject": "sky",
+   "action": "add a bright white glow in the center",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little pure white on the brush",
+   "motion": "work outward from the lightest spot",
+   "pressure": "light",
+   "where": "center of the sky",
+   "rule": "a glow shows more when darker colors surround it",
+   "new": ""
+  },
+  {
+   "t": "04:58",
+   "subject": "sun/glow",
+   "action": "dab a small round sun with white",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on a finger",
+   "motion": "dab a small circle",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:21",
+   "subject": "far trees",
+   "action": "paint the back trees with a blue-crimson mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "dark sienna"
+   ],
+   "load": "larger batch, more crimson than blue",
+   "motion": "shape layered trees across the back",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:41",
+   "subject": "leaf tree",
+   "action": "paint trees on the other side with the brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "dark sienna"
+   ],
+   "load": "carried over from the tree mix",
+   "motion": "push basic tree shapes",
+   "pressure": "light",
+   "where": "other side of the canvas",
+   "rule": "a darker color makes it look closer to you",
+   "new": ""
+  },
+  {
+   "t": "08:41",
+   "subject": "trunk/limbs",
+   "action": "thin liner trunks, sticks, and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "dark sienna"
+   ],
+   "load": "paint thinner thinned to ink-like",
+   "motion": "pull thin lines for trunks and limbs",
+   "pressure": "light",
+   "where": "in the trees and front area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "trunk/limbs",
+   "action": "wiggle a trunk on the other side",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "dark sienna"
+   ],
+   "load": "same thin liner paint",
+   "motion": "wiggle the trunk so it is not straight",
+   "pressure": "light",
+   "where": "other side tree",
+   "rule": "a wiggle gives the trunk character, not a telephone pole look",
+   "new": ""
+  },
+  {
+   "t": "11:12",
+   "subject": "leaf tree",
+   "action": "dab multicolor shapes for highlights",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cadmium yellow",
+    "alizarin crimson",
+    "yellow ochre",
+    "dark sienna"
+   ],
+   "load": "pushed the brush to load color on the tip",
+   "motion": "dab small shapes with the corner",
+   "pressure": "light",
+   "where": "the tree areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "leaf tree",
+   "action": "add bright highlights where the light hits",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over from the highlight pile",
+   "motion": "put small bright dabs on the trees",
+   "pressure": "light",
+   "where": "highlight spots on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:21",
+   "subject": "bush",
+   "action": "layer bushes farthest first, then forward",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "a little more indian yellow on the brush",
+   "motion": "tap bush shapes in layers",
+   "pressure": "light",
+   "where": "low down in front of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "sun/glow",
+   "action": "add a warm pink touch where the sun shines",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least touch of crimson added",
+   "motion": "touch in a warm spot",
+   "pressure": "light",
+   "where": "lower area where the sun shines",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:37",
+   "subject": "snow",
+   "action": "lay pure white snow with the 2in brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white on the brush",
+   "motion": "touch and let it go, following shadows",
+   "pressure": "light",
+   "where": "start of the snow in the middle",
+   "rule": "picking up some color makes it look like shadows",
+   "new": ""
+  },
+  {
+   "t": "16:29",
+   "subject": "snow",
+   "action": "add a bush hanging out over the snow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "pull white across the bottom edge",
+   "pressure": "light",
+   "where": "edge of the snow near the bush",
+   "rule": "creates a plane behind to give depth",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "trunk/limbs",
+   "action": "tap trunks with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "lots of the dark mix on the fan",
+   "motion": "tap downward for fuzzy sides",
+   "pressure": "unknown",
+   "where": "a few tree spots across the front",
+   "rule": "tapping downward gives the fuzzy sides evergreens have",
+   "new": ""
+  },
+  {
+   "t": "18:09",
+   "subject": "leaf tree",
+   "action": "make drooping limbs with the oval brush",
+   "tool": "other: oval brush",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "loaded a lot of the dark mix",
+   "motion": "touch the side and push to shape hanging limbs",
+   "pressure": "unknown",
+   "where": "front trees in the middle",
+   "rule": "limbs droop like tired trees weighed down by snow",
+   "new": ""
+  },
+  {
+   "t": "19:29",
+   "subject": "leaf tree",
+   "action": "reach arms out from the tree with the oval brush",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "same oval brush",
+   "motion": "push out arms toward the light",
+   "pressure": "light",
+   "where": "top of the tree and sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:14",
+   "subject": "trunk/limbs",
+   "action": "touch a dead tree trunk with white and dark sienna",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "tiny amount of dark sienna in the white",
+   "motion": "touch and pull a little",
+   "pressure": "light",
+   "where": "a dead tree near the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:38",
+   "subject": "leaf tree",
+   "action": "lit trees with white and warm colors thinned with liquid clear",
+   "tool": "other: oval brush",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "dipped in liquid clear, roll of paint on the edge",
+   "motion": "push to create lit trees",
+   "pressure": "light",
+   "where": "trees with light zinging through",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "leaf tree",
+   "action": "add cool highlights on the tree, darker toward base",
+   "tool": "other: oval brush",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red",
+    "indian yellow",
+    "phthalo blue"
+   ],
+   "load": "same lit mix with a touch of phthalo blue",
+   "motion": "paint highlights and go darker toward base",
+   "pressure": "light",
+   "where": "the lit tree",
+   "rule": "a touch of blue cools it without making green snow",
+   "new": ""
+  },
+  {
+   "t": "23:54",
+   "subject": "leaf tree",
+   "action": "pull white at the base to pick up dark shadows",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white brush that picks up the dark",
+   "motion": "pull the bottom down",
+   "pressure": "unknown",
+   "where": "bottom of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "bush",
+   "action": "pull a clean fan through the base for small bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry fan brush",
+   "motion": "pull through the wet paint at the base",
+   "pressure": "unknown",
+   "where": "bottom of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "bush",
+   "action": "dab darker bushes at the tree base",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark mix, not too dark",
+   "motion": "dab a few bush shapes",
+   "pressure": "light",
+   "where": "bottom of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:12",
+   "subject": "bush",
+   "action": "add lighter highlights in the bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "lighter pile mixed on the brush",
+   "motion": "dab with the corner",
+   "pressure": "light",
+   "where": "the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "leaf tree",
+   "action": "pull titanium white lines for planes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean white on the brush",
+   "motion": "pull through to make planes",
+   "pressure": "light",
+   "where": "edges of the tree areas",
+   "rule": "each pull creates another plane or level in the painting",
+   "new": ""
+  },
+  {
+   "t": "26:02",
+   "subject": "leaf tree",
+   "action": "drop in a big tree with brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns mixed on the brush",
+   "motion": "drop in a big tree shape",
+   "pressure": "unknown",
+   "where": "a big tree in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:33",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs on the big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "paint thinner thinned brown",
+   "motion": "indicate a few limbs and twigs",
+   "pressure": "light",
+   "where": "on the big tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[04:58] round suns look better than square ones",
+  "[08:09] leaving light areas lets the sun seem to shine through",
+  "[13:57] leaving dark areas makes the tree look deep",
+  "[20:22] keep paint thick so thinner colors can go over it"
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "ep": "S11E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "dark sienna",
+  "bright red",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "crisscross sky strokes, lighter toward horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "mix on brush",
+   "motion": "X strokes top to bottom",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "gets lighter toward horizon for depth",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "water",
+   "action": "horizontal water band across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "same brush",
+   "motion": "go across",
+   "pressure": "light",
+   "where": "middle band",
+   "rule": "anything not water will be snow",
+   "new": ""
+  },
+  {
+   "t": "02:32",
+   "subject": "sky",
+   "action": "blend light area upward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend upward with X strokes",
+   "pressure": "light",
+   "where": "light area near horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "sky",
+   "action": "add a little black for cold feel",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "touch of black on brush",
+   "motion": "go across to smooth",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "gives the sky a cold feel",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "cloud",
+   "action": "tiny circles for clouds",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "pull brush through paint",
+   "motion": "tiny circular strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": "paint not named"
+  },
+  {
+   "t": "04:30",
+   "subject": "cloud",
+   "action": "blend cloud bottoms and fluff",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle circular fluffing",
+   "pressure": "whisper",
+   "where": "bottom of cloud",
+   "rule": "circular strokes avoid a rain-up look",
+   "new": ""
+  },
+  {
+   "t": "05:09",
+   "subject": "cloud",
+   "action": "drop in second cloud and blend",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "tap into paint",
+   "motion": "dab and fluff",
+   "pressure": "light",
+   "where": "below first cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:47",
+   "subject": "far trees",
+   "action": "dab in background tree shapes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "mix black, blue and van dyke brown",
+   "motion": "tap in basic shapes",
+   "pressure": "light",
+   "where": "background across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mist",
+   "action": "misty base of background trees",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "carried over from tree mix",
+   "motion": "tap, rub, lift upward",
+   "pressure": "light",
+   "where": "base of background trees",
+   "rule": "gives a soft misty base",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "snow",
+   "action": "snow dabs on background tree tops",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap into paint",
+   "motion": "tap firmly with top bristles",
+   "pressure": "firm",
+   "where": "tops of background trees",
+   "rule": "layering creates distance",
+   "new": ""
+  },
+  {
+   "t": "10:52",
+   "subject": "trunk/limbs",
+   "action": "scrape trunks and limbs into snow trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape thin lines",
+   "pressure": "light",
+   "where": "background snow trees",
+   "rule": "gives the bird a place to hide",
+   "new": ""
+  },
+  {
+   "t": "11:32",
+   "subject": "snow",
+   "action": "lay snow on ground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pull through lots of paint",
+   "motion": "drop in and pull",
+   "pressure": "unknown",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:51",
+   "subject": "structure",
+   "action": "scrape out barn shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out basic shape",
+   "pressure": "unknown",
+   "where": "barn area",
+   "rule": "removes excess paint and lets you lay out shape without commitment",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "structure",
+   "action": "outline barn roof edge in white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white on brush",
+   "motion": "outline then pull down",
+   "pressure": "unknown",
+   "where": "barn roof",
+   "rule": "outlining keeps edges smooth",
+   "new": ""
+  },
+  {
+   "t": "14:10",
+   "subject": "structure",
+   "action": "block in roof overhang",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix van dyke brown and dark sienna",
+   "motion": "stroke along overhang",
+   "pressure": "unknown",
+   "where": "under the roof",
+   "rule": "dark is needed for light to show",
+   "new": ""
+  },
+  {
+   "t": "14:47",
+   "subject": "structure",
+   "action": "block in board color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "mix a little white into dark sienna and red",
+   "motion": "bounce knife edge across",
+   "pressure": "unknown",
+   "where": "board area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:26",
+   "subject": "structure",
+   "action": "knife-drag board lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "drag roll across as boards",
+   "pressure": "unknown",
+   "where": "board area",
+   "rule": "gives the look of many small boards",
+   "new": ""
+  },
+  {
+   "t": "16:06",
+   "subject": "structure",
+   "action": "dark opening under the eave",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll of paint on knife edge",
+   "motion": "dab in place",
+   "pressure": "unknown",
+   "where": "under the eave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "structure",
+   "action": "angled board lines",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "bright red"
+   ],
+   "load": "cut off roll of paint with small knife",
+   "motion": "angled stroke",
+   "pressure": "unknown",
+   "where": "board area",
+   "rule": "shows a board running a different direction",
+   "new": ""
+  },
+  {
+   "t": "17:23",
+   "subject": "snow",
+   "action": "thinned white snow along edges",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "dip fan in liquid clear then white",
+   "motion": "pull across edges",
+   "pressure": "light",
+   "where": "edges of structure",
+   "rule": "thinned paint lays on smoothly",
+   "new": ""
+  },
+  {
+   "t": "18:02",
+   "subject": "reflection",
+   "action": "darken under pond edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "black and blue mix on brush",
+   "motion": "blend across",
+   "pressure": "light",
+   "where": "under the pond",
+   "rule": "gives the look of a reflection",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "bush",
+   "action": "dark bush shape by pulling out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "touch of black and blue on brush",
+   "motion": "pull it out",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "water line",
+   "action": "water lines around the ponds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "cut liquid white across palette",
+   "motion": "sort of clean lines with brush",
+   "pressure": "light",
+   "where": "around the ponds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "trunk/limbs",
+   "action": "thin sticks and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown on liner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "around the house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "other: oval border",
+   "action": "brown and white stroke past oval edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "load fan brush full of brown then white",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "edge of oval",
+   "rule": "wants to break the oval border",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "trunk/limbs",
+   "action": "thin tree limbs and branches",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin paint with paint thinner",
+   "motion": "let it flow off brush",
+   "pressure": "light",
+   "where": "across the trunk",
+   "rule": "so limbs do not all point straight out",
+   "new": "paint color not named"
+  },
+  {
+   "t": "23:52",
+   "subject": "bush",
+   "action": "dark bush and tree shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "dip into blue and black",
+   "motion": "pop in shapes",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "dark is needed so light will show",
+   "new": ""
+  },
+  {
+   "t": "24:32",
+   "subject": "bush",
+   "action": "lighter bush shapes one at a time",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "dip in liquid white then titanium white and red",
+   "motion": "pull in one direction to curve, touch to form",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:13",
+   "subject": "snow",
+   "action": "snow on ground by oval edge",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "more liquid white and titanium white with red",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "ground by oval edge",
+   "rule": "lets the snow break the oval edge",
+   "new": ""
+  },
+  {
+   "t": "25:51",
+   "subject": "bush",
+   "action": "bush comes down onto the path",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "dab down",
+   "pressure": "light",
+   "where": "onto the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:51",
+   "subject": "fence",
+   "action": "block in fence posts",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "take a little brown on knife",
+   "motion": "drop in posts",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:29",
+   "subject": "fence",
+   "action": "snow on fence posts and wire",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load white",
+   "motion": "dab snow on post tops, paint wire",
+   "pressure": "unknown",
+   "where": "fence posts",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

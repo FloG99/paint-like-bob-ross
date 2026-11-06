@@ -1,0 +1,504 @@
+{
+ "ep": "S21E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "sap green",
+  "titanium white",
+  "midnight black",
+  "bright red",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:35",
+   "subject": "sky",
+   "action": "criss-cross yellow into the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiny amount",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:59",
+   "subject": "sky",
+   "action": "criss-cross yellow ochre beside the yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "next to the indian yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:24",
+   "subject": "sky",
+   "action": "criss-cross crimson above the yellows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny amount",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "above the yellow band",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:50",
+   "subject": "sky",
+   "action": "blend the color bands together",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "cloud",
+   "action": "lift lavender streaks in one direction",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson and blue mix",
+   "motion": "lift and pull, curve upward",
+   "pressure": "light",
+   "where": "around the horizon, below center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:35",
+   "subject": "cloud",
+   "action": "tap in stringy clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "over the lavender streaks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "sky",
+   "action": "blend with a clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:21",
+   "subject": "cloud",
+   "action": "overlapping fan strokes for big clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "more crimson than blue",
+   "motion": "overlapping strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:35",
+   "subject": "cloud",
+   "action": "blend cloud bottoms into the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "bottom of the cloud",
+   "rule": "keeps the cloud quiet and subdued",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "cloud",
+   "action": "add foreground cloud and blend the back cloud",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "lower sky, foreground",
+   "rule": "a back cloud makes the front one read as closer",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "mountain",
+   "action": "pull a far mountain peak downward",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender with more blue",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "far back, middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "mountain",
+   "action": "pull the mountain base down and blend it",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "lower mountain",
+   "rule": "far away, so little detail is needed",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "land",
+   "action": "spread light brown from the back area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "about equal, mixed thoroughly",
+   "motion": "spread across",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "lighter far back reads as distance",
+   "new": ""
+  },
+  {
+   "t": "11:19",
+   "subject": "land",
+   "action": "darken the brown toward the base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "more paint added",
+   "motion": "spread down",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "darker in front adds the feeling of distance",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "rock",
+   "action": "block in a stone shape with a roll of paint on the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "press and push",
+   "pressure": "light",
+   "where": "upper middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:41",
+   "subject": "rock",
+   "action": "knife-paint rough stone face with red-brown mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown mixed with red and white",
+   "motion": "grazing strokes",
+   "pressure": "whisper",
+   "where": "the stone face",
+   "rule": "barely touching lets the paint break into texture",
+   "new": ""
+  },
+  {
+   "t": "15:15",
+   "subject": "rock",
+   "action": "darken a recessed part of the stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same mix, darker",
+   "motion": "press",
+   "pressure": "light",
+   "where": "inside the stone",
+   "rule": "dark area reads as a recessed space",
+   "new": ""
+  },
+  {
+   "t": "15:39",
+   "subject": "rock",
+   "action": "flatter second stone, top edge pulled down",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "beside the first stone",
+   "rule": "pulling color down makes a sharp edge",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "path",
+   "action": "shape a worn path from behind the rock",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "behind the rock, coming forward",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "bush",
+   "action": "push up a small bush with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "lower left by the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "land",
+   "action": "blend light dirt color under the bush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull the bottom out",
+   "pressure": "light",
+   "where": "under the bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:08",
+   "subject": "bush",
+   "action": "draw a gnarly bush with thinned brown",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "next to the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:03",
+   "subject": "rock",
+   "action": "paint thin light-brown mix for small stones",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thin paint, brown on both sides",
+   "motion": "press and pull",
+   "pressure": "light",
+   "where": "oval area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:57",
+   "subject": "other: cactus",
+   "action": "block in a round cactus with dark mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mix of crimson and sap green",
+   "motion": "fill in",
+   "pressure": "light",
+   "where": "outside the oval",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "other: cactus",
+   "action": "light gray touches for cactus ridges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "white and black mix with a touch of brown",
+   "motion": "touch the edge",
+   "pressure": "whisper",
+   "where": "cactus edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "other: cactus",
+   "action": "knife for the cactus sides and arm",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tiny roll",
+   "motion": "press",
+   "pressure": "light",
+   "where": "cactus sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "other: cactus",
+   "action": "touch of sap green on the far side",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "tiny bit",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "one side of cactus",
+   "rule": "keeps the cactus mostly silhouetted",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "land",
+   "action": "soil at the base with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown and white mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "under the cactus",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "bush",
+   "action": "pop small highlights at the cactus foot",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mixed with yellow ochre",
+   "motion": "pop in",
+   "pressure": "light",
+   "where": "foot of the cactus",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:07",
+   "subject": "grass",
+   "action": "weeds and a stick at the bottom",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown on the liner",
+   "motion": "thin lines",
+   "pressure": "light",
+   "where": "bottom of the painting",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,619 @@
+{
+ "ep": "S01E09",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "magic white",
+  "permanent red",
+  "yellow",
+  "white",
+  "titanium white",
+  "alizarin crimson",
+  "prussian blue",
+  "van dyke brown",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sun/glow",
+   "action": "dab yellow and red for sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "permanent red"
+   ],
+   "load": "little of each",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "work white and crimson into sky around sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "little white with a touch of crimson",
+   "motion": "work back into the area",
+   "pressure": "light",
+   "where": "around sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "lavender sky with blue and crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "crimson with a touch of blue",
+   "motion": "work from outside inward",
+   "pressure": "light",
+   "where": "sky around sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:40",
+   "subject": "sky",
+   "action": "bring sky colors together gently",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend gently",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:06",
+   "subject": "sky",
+   "action": "blend blue and lavender into sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "blend gently",
+   "pressure": "light",
+   "where": "sky near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:07",
+   "subject": "sun/glow",
+   "action": "load white and grind into sun center",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "loaded full brush",
+   "motion": "grind into canvas",
+   "pressure": "firm",
+   "where": "center of sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "sun/glow",
+   "action": "knife scrape off excess white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "scrape off excess",
+   "pressure": "firm",
+   "where": "sun area",
+   "rule": "value stays in the canvas after scraping",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "cloud",
+   "action": "grey cloud across the sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "little brown and blue",
+   "motion": "lay clouds across sun",
+   "pressure": "light",
+   "where": "across sun",
+   "rule": "too much blue turns green on yellow",
+   "new": ""
+  },
+  {
+   "t": "05:01",
+   "subject": "cloud",
+   "action": "add small cloud up high",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay a small cloud shape",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:24",
+   "subject": "cloud",
+   "action": "highlight clouds near the sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "yellow",
+    "titanium white"
+   ],
+   "load": "orangey pinkish mix",
+   "motion": "lay bright highlights",
+   "pressure": "light",
+   "where": "near the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:09",
+   "subject": "cloud",
+   "action": "blend colors through the clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "float colors through",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:33",
+   "subject": "cloud",
+   "action": "sparkle white highlights on lower cloud",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "small sparkles",
+   "pressure": "light",
+   "where": "bottom of cloud",
+   "rule": "light hits the bottom of the cloud from the other direction",
+   "new": ""
+  },
+  {
+   "t": "07:05",
+   "subject": "cloud",
+   "action": "blend highlights with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "super light blend",
+   "pressure": "whisper",
+   "where": "highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "cloud",
+   "action": "build highlights on clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "lay highlights",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:11",
+   "subject": "cloud",
+   "action": "small stringy clouds with highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "lay stringy shapes",
+   "pressure": "light",
+   "where": "along the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:37",
+   "subject": "cloud",
+   "action": "highlight tops of small clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "tap across the top",
+   "pressure": "light",
+   "where": "top edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:04",
+   "subject": "other: light rays",
+   "action": "thin white light rays",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "thin paint",
+   "motion": "indicate rays",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "finish sky first since this step ends it",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "water line",
+   "action": "faint water line far back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "lightly draw line",
+   "pressure": "whisper",
+   "where": "back of bay",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:56",
+   "subject": "ocean/wave",
+   "action": "small ripples and waves in the bay",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "lay ripples",
+   "pressure": "light",
+   "where": "bay",
+   "rule": "water is calm so only small ripples",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "ocean/wave",
+   "action": "dark line under wave",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap a small dark line",
+   "pressure": "light",
+   "where": "under wave",
+   "rule": "makes wave stand out",
+   "new": ""
+  },
+  {
+   "t": "10:54",
+   "subject": "ocean/wave",
+   "action": "foam on top of wave",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "push and lift over",
+   "pressure": "light",
+   "where": "wave top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:44",
+   "subject": "ocean/wave",
+   "action": "white dots for sparkle on water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dot in paint after drying",
+   "pressure": "light",
+   "where": "water surface",
+   "rule": "dots make the light look like it sparkles",
+   "new": ""
+  },
+  {
+   "t": "12:18",
+   "subject": "grass",
+   "action": "brown grass tufts on beach",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tuft strokes",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:14",
+   "subject": "reflection",
+   "action": "add blue where water formed",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "place a small blue patch",
+   "pressure": "light",
+   "where": "pool area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:41",
+   "subject": "beach",
+   "action": "knife sand from brown and white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "gentle knife strokes",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "bush",
+   "action": "bushes and weeds on sand",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tap in small weeds",
+   "pressure": "light",
+   "where": "sand area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "reflection",
+   "action": "reflections in small pool",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "light strokes",
+   "pressure": "whisper",
+   "where": "pool area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:30",
+   "subject": "ocean/wave",
+   "action": "magic white foam at water edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "small foamy things",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "foam builds up around the sea",
+   "new": ""
+  },
+  {
+   "t": "18:45",
+   "subject": "fence",
+   "action": "old snow fence in van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay posts out",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "fences are made from whatever is available",
+   "new": ""
+  },
+  {
+   "t": "20:12",
+   "subject": "fence",
+   "action": "fence posts at uneven spacing",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "place posts close and far",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "fence",
+   "action": "light edges on fence",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "small touch of light",
+   "motion": "touch the edges",
+   "pressure": "light",
+   "where": "edges of fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:03",
+   "subject": "leaf tree",
+   "action": "old tired tree shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay in tree shape",
+   "pressure": "light",
+   "where": "next to the ocean",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:29",
+   "subject": "trunk/limbs",
+   "action": "thin limbs with liner brush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with thin oil",
+   "motion": "flow limbs out",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "thinned paint flows better",
+   "new": ""
+  },
+  {
+   "t": "22:59",
+   "subject": "leaf tree",
+   "action": "highlights on tree branches",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "highlight along branches",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:56",
+   "subject": "leaf tree",
+   "action": "dull green and red leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop leaves on",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "dull color so tree is not too bright",
+   "new": ""
+  },
+  {
+   "t": "24:49",
+   "subject": "leaf tree",
+   "action": "dull yellow green highlights on tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap here and there",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:22",
+   "subject": "grass",
+   "action": "grass sprigs in alizarin and brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap small sprigs",
+   "pressure": "light",
+   "where": "ground area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

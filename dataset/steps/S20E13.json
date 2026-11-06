@@ -1,0 +1,683 @@
+{
+ "ep": "S20E13",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "Indian yellow",
+  "alizarin crimson",
+  "bright red",
+  "midnight black",
+  "Prussian blue",
+  "dark sienna",
+  "yellow ochre",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "cover sky with phthalo blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a small amount of phthalo blue",
+   "motion": "little patches",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "add a yellow glow spot in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "alizarin crimson",
+    "bright red"
+   ],
+   "load": "yellow and red blended on the brush",
+   "motion": "blend in",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "water",
+   "action": "add phthalo green into blue and pull water strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "blue with least touch of green",
+   "motion": "pull straight from outside in",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "water",
+   "action": "blend lavender in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson on brush",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:07",
+   "subject": "sky",
+   "action": "blend sky together with dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dry brush gently across",
+   "pressure": "light",
+   "where": "sky and water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:00",
+   "subject": "cloud",
+   "action": "add white clouds with circular strokes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "circular patterns",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "cloud",
+   "action": "mix clouds with clean dry brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "stir and fluff",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:20",
+   "subject": "mountain",
+   "action": "build mountain with black, blue and crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "black, blue and crimson mix",
+   "motion": "roll of paint on the knife edge",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:42",
+   "subject": "mountain",
+   "action": "add a second mountain peak in summer scene",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "same mix",
+   "motion": "basic peak shape",
+   "pressure": "light",
+   "where": "lower scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:04",
+   "subject": "mountain",
+   "action": "scrape off excess paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape hard",
+   "pressure": "firm",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:27",
+   "subject": "mountain",
+   "action": "pull to blend base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull out to nothing",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "removes excess so next layer sticks",
+   "new": ""
+  },
+  {
+   "t": "07:17",
+   "subject": "mountain",
+   "action": "add white and black highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "marble mix of white, black and sienna",
+   "motion": "barely touch with knife",
+   "pressure": "light",
+   "where": "upper mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:09",
+   "subject": "mountain",
+   "action": "shadow at mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "gray mix",
+   "motion": "indicate shadow",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:06",
+   "subject": "sky",
+   "action": "blend sky strokes on 20th series area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "other: bird",
+   "action": "add small red accent",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little bright red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:08",
+   "subject": "mountain",
+   "action": "drop in ridges",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "other: shore",
+   "action": "shadow behind small peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "dark blue mix",
+   "motion": "shadow stroke",
+   "pressure": "light",
+   "where": "behind peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:57",
+   "subject": "water",
+   "action": "paint green-tinted hill",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "greenish mix",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "back hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:41",
+   "subject": "water",
+   "action": "pull down reflections",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on knife",
+   "motion": "pull down and across",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:04",
+   "subject": "water",
+   "action": "cut water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white",
+   "motion": "cut in",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "land",
+   "action": "add lavender foothill",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "lavender mix",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:15",
+   "subject": "cloud",
+   "action": "add little distant trees",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white and green",
+   "motion": "short tiny strokes",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "other: trees",
+   "action": "mix dark for evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix",
+   "motion": "fill brush",
+   "pressure": "light",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "evergreen",
+   "action": "paint evergreen trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on fan",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "winter scene",
+   "rule": "no green on winter trees",
+   "new": ""
+  },
+  {
+   "t": "16:20",
+   "subject": "bush",
+   "action": "paint bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark blue mix",
+   "motion": "move out",
+   "pressure": "light",
+   "where": "low",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "evergreen",
+   "action": "add phthalo green to tree dark",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix with green",
+   "motion": "corner strokes",
+   "pressure": "light",
+   "where": "summer trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:08",
+   "subject": "bush",
+   "action": "paint bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix",
+   "motion": "fill",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "trunk/limbs",
+   "action": "tree trunk with sienna and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mix",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "middle of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:24",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs with clean knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape sticks",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:48",
+   "subject": "other: leaves",
+   "action": "add liquid white and yellow highlights",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "white, yellow and green mix",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "summer bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:44",
+   "subject": "flower",
+   "action": "add red flowers on green bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "sap green"
+   ],
+   "load": "mixed highlight colors",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "path",
+   "action": "paint path with van Dyke brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "indicate path",
+   "pressure": "light",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:26",
+   "subject": "grass",
+   "action": "add highlights to grass",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "highlight colors",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "snow",
+   "action": "snow highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white with crimson",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:39",
+   "subject": "path",
+   "action": "add snow path",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "pushes paint down",
+   "pressure": "light",
+   "where": "path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:01",
+   "subject": "evergreen",
+   "action": "add highlights to evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white and blue mix",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "winter bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "winter scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "other: tape",
+   "action": "remove contact paper and tape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "peel",
+   "pressure": "firm",
+   "where": "overlay",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:00",
+   "subject": "other: signature",
+   "action": "sign painting with red",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

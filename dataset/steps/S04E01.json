@@ -1,0 +1,592 @@
+{
+ "ep": "S04E01",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "magic white",
+  "titanium white",
+  "alizarin crimson",
+  "thalo blue",
+  "van dyke brown",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "02:56",
+   "subject": "sky",
+   "action": "criss-cross sky in purple mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "a little worked into bristles",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "sky is easy to darken but hard to lighten so use little paint",
+   "new": ""
+  },
+  {
+   "t": "04:09",
+   "subject": "water",
+   "action": "water strip at bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "more on brush",
+   "motion": "pull from outside in",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "straight strokes make still water lay flat",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "far trees",
+   "action": "tree line",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "horizon area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "mountain",
+   "action": "small hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "bring down and lift up",
+   "pressure": "light",
+   "where": "middle hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:49",
+   "subject": "mist",
+   "action": "soften bottom of hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap bottom then lift",
+   "pressure": "whisper",
+   "where": "bottom of hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "mountain",
+   "action": "hill base in white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "soft strokes",
+   "pressure": "whisper",
+   "where": "back hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "snow",
+   "action": "shadow colors in snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "thalo blue"
+   ],
+   "load": "blue added to white",
+   "motion": "lay in lightly",
+   "pressure": "whisper",
+   "where": "snow areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:40",
+   "subject": "structure",
+   "action": "cabin roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife edge",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "back cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "structure",
+   "action": "other side of cabin roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:01",
+   "subject": "structure",
+   "action": "cabin eave and front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "one stroke across",
+   "pressure": "firm",
+   "where": "cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:39",
+   "subject": "structure",
+   "action": "lighter front of cabin",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed on knife",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "cabin front",
+   "rule": "makes it look like old wood",
+   "new": ""
+  },
+  {
+   "t": "11:11",
+   "subject": "structure",
+   "action": "scrape bottom edge of cabin",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "scrape then add edge",
+   "pressure": "light",
+   "where": "bottom of cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:36",
+   "subject": "snow",
+   "action": "snowbank shadow beside cabin",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "thalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch and pull",
+   "pressure": "whisper",
+   "where": "beside cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:32",
+   "subject": "path",
+   "action": "path from door",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "scrub back and forth",
+   "pressure": "whisper",
+   "where": "from door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "fence",
+   "action": "thin fence posts",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "turn to point and drop",
+   "pressure": "light",
+   "where": "far hill",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "fence",
+   "action": "fence posts across far hill",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "drop in posts",
+   "pressure": "light",
+   "where": "far hill",
+   "rule": "too much detail would ruin the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "13:42",
+   "subject": "fence",
+   "action": "define fence boards",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "define",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "structure",
+   "action": "chimney",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "unknown",
+   "motion": "throw in",
+   "pressure": "light",
+   "where": "roof area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "structure",
+   "action": "touch of red on chimney",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "unknown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "chimney",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:59",
+   "subject": "evergreen",
+   "action": "dark evergreen tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "full load",
+   "motion": "back and forth",
+   "pressure": "firm",
+   "where": "tree location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:07",
+   "subject": "grass",
+   "action": "weeds under the tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "under tree",
+   "rule": "weeds set the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "16:30",
+   "subject": "mountain",
+   "action": "blue and white hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "middle hill",
+   "rule": "picking up purple adds to shadows",
+   "new": ""
+  },
+  {
+   "t": "17:22",
+   "subject": "evergreen",
+   "action": "evergreen trees on right",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "firm paint",
+   "motion": "back and forth",
+   "pressure": "firm",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "evergreen",
+   "action": "stand of pines in corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "back and forth",
+   "pressure": "firm",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:21",
+   "subject": "mountain",
+   "action": "hill base in white and blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "thalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:53",
+   "subject": "grass",
+   "action": "grassy things",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:19",
+   "subject": "snow",
+   "action": "snow patches fading away",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "fade away",
+   "pressure": "whisper",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:55",
+   "subject": "leaf tree",
+   "action": "lift tree and snow highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "leaf tree",
+   "action": "snow on trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:22",
+   "subject": "water",
+   "action": "dark reflections straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "picked up from dark",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "straight pulls make the reflections",
+   "new": ""
+  },
+  {
+   "t": "23:47",
+   "subject": "rock",
+   "action": "stones in purple",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:11",
+   "subject": "rock",
+   "action": "snow on stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "lightly over top",
+   "pressure": "whisper",
+   "where": "stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:46",
+   "subject": "rock",
+   "action": "snow on more stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "lay snow",
+   "pressure": "whisper",
+   "where": "stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:08",
+   "subject": "rock",
+   "action": "blue shadow on stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "thalo blue"
+   ],
+   "load": "unknown",
+   "motion": "let come across",
+   "pressure": "whisper",
+   "where": "shadow stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:36",
+   "subject": "water line",
+   "action": "water line at land edge",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "pulled flat then cut across",
+   "motion": "saw through",
+   "pressure": "firm",
+   "where": "land edges",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

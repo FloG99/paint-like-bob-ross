@@ -1,0 +1,627 @@
+{
+ "ep": "S16E03",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "dark sienna",
+  "alizarin crimson",
+  "van dyke brown",
+  "dark cyan"
+ ],
+ "steps": [
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "tap indian yellow near the horizon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "a least little touch on the bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "horizon line area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "cad yellow above the yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "least little touch",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "right above the horizon",
+   "rule": "cad yellow is opaque so it stands out",
+   "new": ""
+  },
+  {
+   "t": "01:41",
+   "subject": "sky",
+   "action": "yellow ochre added in",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch without washing the brush",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "right here in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:06",
+   "subject": "sky",
+   "action": "bright red mixed into the yellows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of red mixed on the brush",
+   "motion": "blending",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:55",
+   "subject": "sky",
+   "action": "blue and black crisscross strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "blue with a little black",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top of the sky down to the red",
+   "rule": "the red acts as a barrier so no green forms",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "cloud",
+   "action": "yellow clouds with the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "cad yellow"
+   ],
+   "load": "small roll of paint pulled out flat",
+   "motion": "touch and blend",
+   "pressure": "light",
+   "where": "down in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "cloud",
+   "action": "blend yellow clouds with dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "gentle blending",
+   "pressure": "light",
+   "where": "the yellow clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:17",
+   "subject": "cloud",
+   "action": "white cloud circles with the corner",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "small circles with the corner",
+   "pressure": "light",
+   "where": "up in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "cloud",
+   "action": "blend cloud bases with clean brush",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blending",
+   "pressure": "whisper",
+   "where": "base of the clouds",
+   "rule": "keeps the tops of the shapes crisp",
+   "new": ""
+  },
+  {
+   "t": "06:27",
+   "subject": "cloud",
+   "action": "dark clouds with dark sienna, red and black",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "bright red",
+    "midnight black"
+   ],
+   "load": "mostly dark sienna with a little red and black",
+   "motion": "circular patterns with the corner",
+   "pressure": "light",
+   "where": "lower clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "cloud",
+   "action": "highlight clouds with white and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white with a touch of crimson",
+   "motion": "tiny circles with the corner",
+   "pressure": "light",
+   "where": "tops of the clouds",
+   "rule": "light would strike the tops",
+   "new": ""
+  },
+  {
+   "t": "09:15",
+   "subject": "cloud",
+   "action": "soften the bottom of the clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blending the bottom",
+   "pressure": "light",
+   "where": "bottom of the clouds",
+   "rule": "the top edges stay nice",
+   "new": ""
+  },
+  {
+   "t": "09:37",
+   "subject": "cloud",
+   "action": "pink highlight with filbert",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "pinkish color on the brush",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "in the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:26",
+   "subject": "mountain",
+   "action": "dark foothill with dark sienna and black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "dark brown with a little white",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:19",
+   "subject": "mist",
+   "action": "mist at the base by tapping firmly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tapping firmly",
+   "pressure": "medium",
+   "where": "base of the foothill",
+   "rule": "tapping at the base makes the illusion of mist",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "snow",
+   "action": "snow pulled with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "far trees",
+   "action": "another layer of far trees with upward lift",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "lifting upward",
+   "pressure": "light",
+   "where": "far back layer",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:31",
+   "subject": "reflection",
+   "action": "wipe sky colors into white area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "leftover sky colors",
+   "motion": "wiping",
+   "pressure": "light",
+   "where": "lower white area",
+   "rule": "sky colors show through as reflections",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "far trees",
+   "action": "basic tree shapes with the corner",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:48",
+   "subject": "trunk/limbs",
+   "action": "tree trunks with van dyke brown and thinner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "liner loaded with thinned brown",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "here and there in far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:44",
+   "subject": "trunk/limbs",
+   "action": "trunks with highlight and shadow in one stroke",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "brown then thin white and yellow ochre",
+   "motion": "pulling through",
+   "pressure": "light",
+   "where": "big trees in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "leaf tree",
+   "action": "few hanging leaves with dark sienna and yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "tapping the corner into paint",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "a few spots on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:37",
+   "subject": "evergreen",
+   "action": "dark evergreen with the corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "phthalo blue"
+   ],
+   "load": "a lot of the dark mix",
+   "motion": "back and forth",
+   "pressure": "medium",
+   "where": "left of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:26",
+   "subject": "evergreen",
+   "action": "second evergreen beside the first",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over",
+   "motion": "back and forth",
+   "pressure": "medium",
+   "where": "next to the first",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "leaf tree",
+   "action": "big tree going up",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "pulling up",
+   "pressure": "medium",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "other: plane",
+   "action": "pull white and blue to make another plane",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "touch of blue in white",
+   "motion": "pulling and blending",
+   "pressure": "light",
+   "where": "background area beside the tree",
+   "rule": "creates another plane in the painting",
+   "new": ""
+  },
+  {
+   "t": "20:03",
+   "subject": "trunk/limbs",
+   "action": "scrape a trunk shape with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "nothing added",
+   "motion": "scraping",
+   "pressure": "medium",
+   "where": "a trunk line in the tree",
+   "rule": "scraping lets the canvas show",
+   "new": ""
+  },
+  {
+   "t": "20:51",
+   "subject": "leaf tree",
+   "action": "blue highlights on the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "white and blue on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "the trees",
+   "rule": "blue is a cool color against warm colors",
+   "new": ""
+  },
+  {
+   "t": "21:37",
+   "subject": "structure",
+   "action": "scrape out a small house shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "scraping",
+   "pressure": "medium",
+   "where": "right side of the painting",
+   "rule": "scraping lets you decide without commitment",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "structure",
+   "action": "block in cabin with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "small roll of brown mix",
+   "motion": "blocking in",
+   "pressure": "light",
+   "where": "cabin area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "structure",
+   "action": "marbled roof edge",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "small roll of paint",
+   "motion": "barely touching and bouncing",
+   "pressure": "light",
+   "where": "edge of the roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:39",
+   "subject": "snow",
+   "action": "snow on the roof pulled across",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "pulling across",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "structure",
+   "action": "little shed block in",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "blocking in",
+   "pressure": "light",
+   "where": "next to the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:48",
+   "subject": "snow",
+   "action": "snow around cabin",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with a touch of blue",
+   "motion": "pulling",
+   "pressure": "light",
+   "where": "around the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:13",
+   "subject": "bush",
+   "action": "bushes and weeds with dark cyan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark cyan",
+    "van dyke brown"
+   ],
+   "load": "mix of dark cyan and van dyke brown",
+   "motion": "pushing upward",
+   "pressure": "light",
+   "where": "along the bottom of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:03",
+   "subject": "structure",
+   "action": "little windows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:27",
+   "subject": "leaf tree",
+   "action": "big tree with one side highlighted",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark brown mix then white",
+   "motion": "pulling down",
+   "pressure": "light",
+   "where": "one side of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:50",
+   "subject": "trunk/limbs",
+   "action": "sticks, twigs and arms on the tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin paint on the liner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "on the big tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

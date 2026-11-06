@@ -1,0 +1,675 @@
+{
+ "ep": "S06E13",
+ "base": "black acrylic",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "phthalo blue",
+  "cadmium yellow",
+  "indian yellow",
+  "yellow ochre",
+  "sap green",
+  "phthalo green",
+  "van dyke brown",
+  "burnt umber",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "sky",
+   "action": "dab white over crimson strip and blend upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load both sides",
+   "motion": "blend upward",
+   "pressure": "light",
+   "where": "sky over the crimson strip",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:41",
+   "subject": "sky",
+   "action": "tiny white spots to lighten sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch a little",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "sky spots",
+   "rule": "",
+   "new": "breaks up the flat sky color"
+  },
+  {
+   "t": "02:08",
+   "subject": "sky",
+   "action": "blend out brush strokes gently",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "mountain",
+   "action": "layers of cadmium yellow indian yellow yellow ochre and sap green on foothills",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "pick up paint",
+   "motion": "tap back and forth",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": "layers of color give the hills variety"
+  },
+  {
+   "t": "03:44",
+   "subject": "mountain",
+   "action": "small foothills with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "touch and let it wander down",
+   "pressure": "light",
+   "where": "back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "mist",
+   "action": "tap with dry clean brush so dark shows through",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "bottom of hill",
+   "rule": "",
+   "new": "tapping lets the dark color underneath show through"
+  },
+  {
+   "t": "04:55",
+   "subject": "mountain",
+   "action": "more foothills in layers farthest first",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "pick up paint",
+   "motion": "tap and drop in",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "",
+   "new": "killing the dark areas removes depth and flattens it"
+  },
+  {
+   "t": "05:41",
+   "subject": "mountain",
+   "action": "bring hill down with a touch of thinner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "touch of thinner on brush",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "hill base",
+   "rule": "",
+   "new": "a little thinner helps paint stick to the dark"
+  },
+  {
+   "t": "06:06",
+   "subject": "evergreen",
+   "action": "mix dark color from phthalo green and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "mix well on palette",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "evergreen",
+   "action": "small evergreen with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "work back and forth",
+   "pressure": "medium",
+   "where": "left back on hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "evergreen",
+   "action": "more small evergreens on the hill",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "hill and other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:34",
+   "subject": "evergreen",
+   "action": "blend dark bottoms of trees with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree bottoms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:59",
+   "subject": "other: shadow",
+   "action": "blend dark bottom into light so shapes separate",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend in",
+   "pressure": "light",
+   "where": "bottom of trees",
+   "rule": "",
+   "new": "dark against light separates the shapes and makes shadow"
+  },
+  {
+   "t": "09:24",
+   "subject": "water",
+   "action": "pull yellow green straight down for pond",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow on brush",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "pond spot",
+   "rule": "",
+   "new": "blue underneath turns the yellow green"
+  },
+  {
+   "t": "09:52",
+   "subject": "land",
+   "action": "van dyke brown and burnt umber land on fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix on brush",
+   "motion": "dab land",
+   "pressure": "light",
+   "where": "land by the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:16",
+   "subject": "land",
+   "action": "yellow ochre and white highlight on land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "little yellow ochre and white",
+   "motion": "graze the top lightly",
+   "pressure": "light",
+   "where": "top of land",
+   "rule": "",
+   "new": "furthest first so highlights and reflections layer right"
+  },
+  {
+   "t": "11:32",
+   "subject": "land",
+   "action": "next layer forward in yellows and sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "cadmium yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "pick up greens",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "forward hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:21",
+   "subject": "reflection",
+   "action": "pull reflections straight down in same color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under the water spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "water",
+   "action": "go straight across to finish water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "go across",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": "straight lines keep water from seeming to run out of frame"
+  },
+  {
+   "t": "13:06",
+   "subject": "land",
+   "action": "brown and burnt umber land patch",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix more brown",
+   "motion": "scrub",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:06",
+   "subject": "land",
+   "action": "yellow ochre and white highlights on land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "whisper",
+   "where": "light",
+   "rule": "land highlight",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "water line",
+   "action": "knife with burnt umber for waterlines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "load knife",
+   "motion": "lay in lines",
+   "pressure": "light",
+   "where": "where land meets water",
+   "rule": "",
+   "new": "also cleans up the land and water edges"
+  },
+  {
+   "t": "14:01",
+   "subject": "land",
+   "action": "lay in a peninsula on the other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "other side of canvas",
+   "new": ""
+  },
+  {
+   "t": "15:41",
+   "subject": "water line",
+   "action": "tiny waterline with burnt umber",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "load a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "reflection",
+   "action": "reflections under peninsulas with phthalo blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "pick up blue from underneath",
+   "motion": "go across",
+   "pressure": "light",
+   "where": "under peninsulas",
+   "rule": "",
+   "new": "without reflections the peninsulas will not sit in the water"
+  },
+  {
+   "t": "16:56",
+   "subject": "land",
+   "action": "small land area with burnt umber and highlight",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "lay in",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "land area",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "other: dark area",
+   "action": "tap to darken with blue underneath",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": "tapping picks up the blue underneath so it darkens"
+  },
+  {
+   "t": "18:15",
+   "subject": "trunk/limbs",
+   "action": "tree trunk with thin oil and van dyke brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil",
+   "motion": "dab and pull",
+   "pressure": "light",
+   "where": "tree spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "leaf tree",
+   "action": "larger back tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "back tree spot",
+   "new": "a larger tree adds distance to the painting"
+  },
+  {
+   "t": "19:03",
+   "subject": "trunk/limbs",
+   "action": "strengthen trunk and add an arm",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin with oil or thinner",
+   "motion": "pull",
+   "pressure": "medium",
+   "where": "trunk",
+   "rule": "",
+   "new": "thinned paint sticks better"
+  },
+  {
+   "t": "19:34",
+   "subject": "trunk/limbs",
+   "action": "many thin limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil",
+   "motion": "pull lightly",
+   "pressure": "light",
+   "where": "limbs on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:22",
+   "subject": "trunk/limbs",
+   "action": "arm at top and tap bottom clean",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "top arm and tree bottom",
+   "new": ""
+  },
+  {
+   "t": "20:45",
+   "subject": "evergreen",
+   "action": "big evergreen patting full brush brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "fill brush full",
+   "motion": "pat onto canvas",
+   "pressure": "medium",
+   "where": "large tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:45",
+   "subject": "evergreen",
+   "action": "light side of evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "load a lot",
+   "motion": "tap lightly and blend",
+   "pressure": "light",
+   "where": "right side of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "trunk/limbs",
+   "action": "hanging limbs straight down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch and drop",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "sides of the tree",
+   "new": ""
+  },
+  {
+   "t": "23:24",
+   "subject": "trunk/limbs",
+   "action": "limbs wrapping around the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "around the tree",
+   "new": "wrapped limbs break up the shape and look natural"
+  },
+  {
+   "t": "23:48",
+   "subject": "trunk/limbs",
+   "action": "lightly highlight limbs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "the limbs",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "grass",
+   "action": "little grass at tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "other: shadow",
+   "action": "dark shadow behind tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "behind the tree",
+   "new": ""
+  },
+  {
+   "t": "25:14",
+   "subject": "trunk/limbs",
+   "action": "light highlights on limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "highlights",
+   "new": "a little light makes the shape stand out"
+  },
+  {
+   "t": "25:39",
+   "subject": "other: signature",
+   "action": "sign with thin oil and permanent red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin oil",
+   "motion": "write",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

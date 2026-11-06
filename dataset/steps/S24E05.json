@@ -1,0 +1,558 @@
+{
+ "ep": "S24E05",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "phthalo blue",
+  "yellow ochre",
+  "alizarin crimson",
+  "sap green",
+  "prussian blue",
+  "cadmium yellow",
+  "indian yellow",
+  "bright red",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:52",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "upper sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:02",
+   "subject": "cloud",
+   "action": "tap basic cloud shapes",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "small amount on brush corner",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:18",
+   "subject": "cloud",
+   "action": "tap lavender cloud layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "between the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "cloud",
+   "action": "blend with small X strokes",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "little X strokes, barely touching",
+   "pressure": "whisper",
+   "where": "cloud layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:11",
+   "subject": "cloud",
+   "action": "tap another cloud layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap in same way",
+   "pressure": "light",
+   "where": "upper sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:23",
+   "subject": "cloud",
+   "action": "blend with tiny strokes",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tiny little strokes",
+   "pressure": "whisper",
+   "where": "cloud area",
+   "rule": "big strokes lose the illusion, so keep them tiny",
+   "new": ""
+  },
+  {
+   "t": "07:29",
+   "subject": "mountain",
+   "action": "lay in big mountain shape",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed brown, cut roll on knife",
+   "motion": "lay color down",
+   "pressure": "unknown",
+   "where": "big mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:47",
+   "subject": "mountain",
+   "action": "blend mountain base with large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend out a little",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "mountain",
+   "action": "lay in lit mountain face with knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "lightly mixed, cut roll",
+   "motion": "let paint run down the mountain",
+   "pressure": "light",
+   "where": "upper mountain area",
+   "rule": "no pressure lets the paint break, leaving holes that make mountains work",
+   "new": ""
+  },
+  {
+   "t": "10:48",
+   "subject": "mountain",
+   "action": "lay in shadow color",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavendery shadow mix, not overmixed",
+   "motion": "let knife go",
+   "pressure": "unknown",
+   "where": "shadow areas on mountain",
+   "rule": "not over-mixing keeps color variation in the shadows",
+   "new": ""
+  },
+  {
+   "t": "12:21",
+   "subject": "mist",
+   "action": "tap mist at base of mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "lifting upward creates the illusion of mist",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "far trees",
+   "action": "dark base for distant trees",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on brush",
+   "motion": "put down dark color",
+   "pressure": "unknown",
+   "where": "distant trees area",
+   "rule": "dark base lets later highlights show",
+   "new": ""
+  },
+  {
+   "t": "15:01",
+   "subject": "bush",
+   "action": "put in bush shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "put in shapes",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "grass",
+   "action": "tap grassy area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "old mountain color plus yellows",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "grass",
+   "action": "lighter meadow area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "put in indication",
+   "pressure": "light",
+   "where": "meadow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "bush",
+   "action": "red firecracker bush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "mix yellows and red",
+   "pressure": "unknown",
+   "where": "bush area near top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs on red bush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "indicate sticks and twigs",
+   "pressure": "light",
+   "where": "red bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:07",
+   "subject": "evergreen",
+   "action": "evergreen with fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "loaded full of lavender mix",
+   "motion": "work back and forth, then down",
+   "pressure": "unknown",
+   "where": "evergreen area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:53",
+   "subject": "bush",
+   "action": "round brush bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put in bushes",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "bush",
+   "action": "yellow and red bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "pop in",
+   "pressure": "unknown",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:12",
+   "subject": "land",
+   "action": "soil area with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "brown mixed with white, not over-mixed",
+   "motion": "float along barely touching",
+   "pressure": "whisper",
+   "where": "soil area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "stream",
+   "action": "pull straight down stream",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender mix with white",
+   "motion": "pull straight down, then across",
+   "pressure": "unknown",
+   "where": "stream line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "evergreen",
+   "action": "highlights on big evergreen",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "throw highlights",
+   "pressure": "unknown",
+   "where": "evergreen tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "leaf tree",
+   "action": "big tree grows out of brush",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "let it grow out of brush",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "a dark tree helps push the mountain back",
+   "new": ""
+  },
+  {
+   "t": "23:54",
+   "subject": "land",
+   "action": "brown bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "put brown down",
+   "pressure": "unknown",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "bush",
+   "action": "bushes hanging over bank",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "bushes hanging over the edge",
+   "pressure": "unknown",
+   "where": "bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "grass",
+   "action": "grassy areas along the foot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put in grass along the bottom",
+   "pressure": "unknown",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "trunk/limbs",
+   "action": "trunk with brown and yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "lay in trunk",
+   "pressure": "unknown",
+   "where": "tree trunk area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:04",
+   "subject": "trunk/limbs",
+   "action": "knife highlights on trunk",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch highlights here and there",
+   "pressure": "light",
+   "where": "tree trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "leaf tree",
+   "action": "leaf highlights with liquid white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "yellow ochre",
+    "liquid white"
+   ],
+   "load": "thinned with liquid white",
+   "motion": "drop in highlights",
+   "pressure": "unknown",
+   "where": "tree leaves area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:16",
+   "subject": "bush",
+   "action": "bushes around tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab bushes in around base",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "bushes hold the tree in place",
+   "new": ""
+  },
+  {
+   "t": "26:40",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add sticks and twigs here and there",
+   "pressure": "light",
+   "where": "tree areas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

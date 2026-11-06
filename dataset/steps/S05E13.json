@@ -1,0 +1,748 @@
+{
+ "ep": "S05E13",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "van dyke brown",
+  "burnt umber",
+  "alizarin crimson",
+  "cadmium yellow",
+  "yellow ochre",
+  "permanent red",
+  "thalo green",
+  "titanium white",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "work it into the bristles",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "Load very little color onto the brush.",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "sun/glow",
+   "action": "pull color through for sunlight",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "drag the brush through the paint",
+   "motion": "pull it one direction",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:32",
+   "subject": "cloud",
+   "action": "tiny circles for a cloud",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "little tiny circles",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "cloud",
+   "action": "fill in a second cloud",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "fill that in a little",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:19",
+   "subject": "cloud",
+   "action": "blend and fluff the clouds",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift it up and fluff",
+   "pressure": "light",
+   "where": "the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:43",
+   "subject": "land",
+   "action": "block in a small hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load full of sap green",
+   "motion": "just let it go",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:59",
+   "subject": "land",
+   "action": "darken the foreground ground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "without cleaning the brush",
+   "motion": "work upward",
+   "pressure": "unknown",
+   "where": "bottom",
+   "rule": "The area becomes lighter toward the horizon.",
+   "new": ""
+  },
+  {
+   "t": "04:56",
+   "subject": "far trees",
+   "action": "basic tree shapes on the hill top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "sap green, van dyke brown, alizarin crimson",
+   "motion": "basic shapes",
+   "pressure": "unknown",
+   "where": "on top of our hill",
+   "rule": "Dark coloring is needed to make light visible.",
+   "new": ""
+  },
+  {
+   "t": "05:25",
+   "subject": "trunk/limbs",
+   "action": "tree trunk indications",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "white with a little umber",
+   "motion": "pull that paint out very flat",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:51",
+   "subject": "trunk/limbs",
+   "action": "few trees project up",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little van dyke brown",
+   "motion": "project right on up like this",
+   "pressure": "unknown",
+   "where": "right on up",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "leaf tree",
+   "action": "highlight leaves on the tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "magic white, then cad yellow and sap green",
+   "motion": "pull that brush in one direction",
+   "pressure": "light",
+   "where": "on this tree",
+   "rule": "Magic White thins the paint.",
+   "new": ""
+  },
+  {
+   "t": "07:04",
+   "subject": "leaf tree",
+   "action": "add yellow ochre to leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little yellow ochre",
+   "motion": "barely touching the canvas",
+   "pressure": "light",
+   "where": "right there",
+   "rule": "A heavily loaded brush needs little pressure.",
+   "new": ""
+  },
+  {
+   "t": "07:04",
+   "subject": "leaf tree",
+   "action": "leaf indications on this little tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "more sap green",
+   "motion": "drop a few little indications of leaves",
+   "pressure": "light",
+   "where": "out here on this little tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:29",
+   "subject": "leaf tree",
+   "action": "add permanent red to leaf color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "permanent red added to the mix",
+   "motion": "a few little things happening",
+   "pressure": "unknown",
+   "where": "on this little tree here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "leaf tree",
+   "action": "another little tree, vary the colors",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "vary these colors, let them go back and forth",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:23",
+   "subject": "leaf tree",
+   "action": "highlights on the other tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in some highlights, work in layers",
+   "pressure": "unknown",
+   "where": "the other side of the canvas",
+   "rule": "Dark colors are needed for light colors to show.",
+   "new": ""
+  },
+  {
+   "t": "08:47",
+   "subject": "trunk/limbs",
+   "action": "cut in sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "just the point of the knife",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "structure",
+   "action": "lay out a basic house shape far back",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown",
+   "motion": "pull it all together",
+   "pressure": "unknown",
+   "where": "way back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:29",
+   "subject": "structure",
+   "action": "highlight on the old building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "van dyke brown, white, little burnt umber",
+   "motion": "barely touch, let it brush lightly across",
+   "pressure": "light",
+   "where": "this old building here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "structure",
+   "action": "shingle indications on the roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little edge of the knife, permanent red",
+   "motion": "just touching, pulling at the top",
+   "pressure": "light",
+   "where": "top of the roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:16",
+   "subject": "structure",
+   "action": "big barn door",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little bit of white",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "big door in it",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "structure",
+   "action": "old shed added onto the building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "right out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "structure",
+   "action": "boards and shingles on the shed",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a tiny bit of white on the knife",
+   "motion": "cut right through the paint",
+   "pressure": "unknown",
+   "where": "in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:30",
+   "subject": "grass",
+   "action": "grass around the bottom of the barn",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "around the bottom of this barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "structure",
+   "action": "tiny white highlight on the barn",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "the tiniest little bit of white",
+   "motion": "unknown",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "This makes that element stand out clearly.",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "bush",
+   "action": "foreground bush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "use the one-inch brush",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:07",
+   "subject": "path",
+   "action": "highlight the old path",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little brown and white",
+   "motion": "just barely touching the canvas",
+   "pressure": "light",
+   "where": "the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "grass",
+   "action": "bring grass up to the path",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small grassy patches up to the path",
+   "pressure": "unknown",
+   "where": "up to the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:49",
+   "subject": "trunk/limbs",
+   "action": "big dark tree trunk",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "thalo green and alizarin crimson, equal parts",
+   "motion": "go right up and make a nice tree trunk",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "This pushes the scene into the background.",
+   "new": ""
+  },
+  {
+   "t": "16:14",
+   "subject": "trunk/limbs",
+   "action": "second trunk runs off the top, feet at base",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let 'em go, right on up",
+   "pressure": "unknown",
+   "where": "right off the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "trunk/limbs",
+   "action": "limb indications and highlight",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little brown and white",
+   "motion": "some little indications and some highlight",
+   "pressure": "light",
+   "where": "here",
+   "rule": "This pushes the building farther into the background.",
+   "new": ""
+  },
+  {
+   "t": "17:09",
+   "subject": "leaf tree",
+   "action": "quick general leaf shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same old dirty brush",
+   "motion": "quickly drop in general little leaf shapes",
+   "pressure": "firm",
+   "where": "here",
+   "rule": "As long as it stays dark.",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "leaf tree",
+   "action": "highlight leaves with the one inch brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "a little cad yellow and sap green",
+   "motion": "very lightly, just begin touching",
+   "pressure": "light",
+   "where": "up to the canvas here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "bush",
+   "action": "little bushes at the foot of the tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put some little bushes down here",
+   "pressure": "unknown",
+   "where": "down here at his foots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "stream",
+   "action": "stream line",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little phthalo blue",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "right down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:31",
+   "subject": "stream",
+   "action": "dark stream line",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "the black color I made",
+   "motion": "very lightly just go across",
+   "pressure": "unknown",
+   "where": "straight down",
+   "rule": "It should be very dark.",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "stream",
+   "action": "water highlights in the stream",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "magic white and titanium white",
+   "motion": "the stream bounces and plays",
+   "pressure": "unknown",
+   "where": "right down through here",
+   "rule": "Magic White is added to thin it slightly.",
+   "new": ""
+  },
+  {
+   "t": "20:25",
+   "subject": "rock",
+   "action": "big stone in the stream",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "water falls right over it",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "bush",
+   "action": "a few more bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "yellow ochre, a little cad yellow",
+   "motion": "drop in a few more bushes here and there",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "land",
+   "action": "scrub in dirt area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "van dyke brown, burnt umber",
+   "motion": "scrub in some dirt area",
+   "pressure": "unknown",
+   "where": "here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "rock",
+   "action": "another stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "wherever you want 'em",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "rock",
+   "action": "little stone highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "yellow ochre and a little white, permanent red added",
+   "motion": "little indications",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "This adds sparkle.",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "bush",
+   "action": "Small bushes.",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "a little cad yellow",
+   "motion": "Add small bushes at scattered points.",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:34",
+   "subject": "rock",
+   "action": "make the stones very dark",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "take your brown",
+   "motion": "want 'em very dark",
+   "pressure": "unknown",
+   "where": "so they stand out better",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "trunk/limbs",
+   "action": "little dead limbs with the liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "thalo green",
+    "alizarin crimson"
+   ],
+   "load": "the black color, thin oil",
+   "motion": "little limb here and there",
+   "pressure": "unknown",
+   "where": "here and there",
+   "rule": "Oil medium slides more easily across the surface.",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little more oil, permanent red",
+   "motion": "sign this painting",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

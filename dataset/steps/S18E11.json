@@ -1,0 +1,473 @@
+{
+ "ep": "S18E11",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "dark sienna",
+  "van dyke brown",
+  "sap green",
+  "yellow",
+  "midnight black",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "00:53",
+   "subject": "other: transparent base wash",
+   "action": "cover canvas with lavender wash",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mixed lavender",
+   "motion": "cover entire canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "Liquid clear makes the firm lavender much easier to apply.",
+   "new": ""
+  },
+  {
+   "t": "01:15",
+   "subject": "sun/glow",
+   "action": "paint pure white light area and work outward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tapped bristles",
+   "motion": "crisscross and work outward",
+   "pressure": "light",
+   "where": "center light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "leaf tree",
+   "action": "block in basic branch shapes in lavender",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tapped bristles",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper tree area",
+   "rule": "Keeping it light protects the sense of distance behind.",
+   "new": ""
+  },
+  {
+   "t": "03:45",
+   "subject": "trunk/limbs",
+   "action": "paint thin sticks and limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner, thin as ink",
+   "motion": "turn bristles and drop sticks",
+   "pressure": "light",
+   "where": "back branches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:19",
+   "subject": "leaf tree",
+   "action": "tap light highlights on tree tops",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "lavender pushed lighter with white and red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "light area of trees",
+   "rule": "Light zinging through there needs bright spots.",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "sun/glow",
+   "action": "pull light rays with dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dry brush with light air",
+   "motion": "pull lightly",
+   "pressure": "whisper",
+   "where": "over light area",
+   "rule": "Pulling over it creates the illusion of light rays.",
+   "new": ""
+  },
+  {
+   "t": "07:23",
+   "subject": "leaf tree",
+   "action": "block in dark closer tree shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender loaded by pushing",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "near edge on this side",
+   "rule": "Dark here lets the light paint show up later.",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "leaf tree",
+   "action": "add bluer layers farther from light",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "blue added into lavender",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "farther from light area",
+   "rule": "Farther from the light it gets darker and bluer.",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "leaf tree",
+   "action": "paint dark hanging trees on other side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender with more blue",
+   "motion": "tap and push",
+   "pressure": "medium",
+   "where": "other side",
+   "rule": "Dark next to light makes the light look brighter.",
+   "new": ""
+  },
+  {
+   "t": "10:41",
+   "subject": "leaf tree",
+   "action": "load and push dark branches with ridge of paint",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "brush with more blue and lavender",
+   "motion": "push, then tap",
+   "pressure": "medium",
+   "where": "this side near trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:44",
+   "subject": "leaf tree",
+   "action": "add more crimson to the dark branches",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "reloaded ridge of paint",
+   "motion": "push",
+   "pressure": "medium",
+   "where": "same dark trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:06",
+   "subject": "leaf tree",
+   "action": "paint lighter hanging things",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "light mix with white",
+   "motion": "push",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "Light would strike there, so these are lighter.",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "leaf tree",
+   "action": "touch titanium white on bristle tips for light",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on bristle ends",
+   "motion": "tap",
+   "pressure": "whisper",
+   "where": "other side where light hits",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "trunk/limbs",
+   "action": "paint tree trunk and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "tree trunk area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:57",
+   "subject": "trunk/limbs",
+   "action": "highlight trunk where light would hit",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "dab highlight",
+   "pressure": "light",
+   "where": "trunk highlight area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "grass",
+   "action": "mix yellow and black and dull with brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "black",
+    "van dyke brown"
+   ],
+   "load": "mixed green on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "mossy bank edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "flower",
+   "action": "tap orange flowers on bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "red tapped with yellow",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on the bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "trunk/limbs",
+   "action": "shape big overhanging limbs with corner of brush",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "corner stroke",
+   "pressure": "light",
+   "where": "overhanging top area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:05",
+   "subject": "leaf tree",
+   "action": "add brighter yellow where more light lands",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "mixed bright yellow",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "front area",
+   "rule": "More light here than back over there, so brighter yellow.",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "leaf tree",
+   "action": "add darker green in recessed areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "recessed areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "leaf tree",
+   "action": "load dull dark green and push ridge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "mixed on palette, brown added",
+   "motion": "push ridge",
+   "pressure": "medium",
+   "where": "trees on this side",
+   "rule": "Brown dulls the green so it stays subdued.",
+   "new": ""
+  },
+  {
+   "t": "22:04",
+   "subject": "leaf tree",
+   "action": "paint trees across in front",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried dark green",
+   "motion": "drop in and bring across",
+   "pressure": "medium",
+   "where": "other side",
+   "rule": "Bright color brings them forward in front.",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "trunk/limbs",
+   "action": "paint huge tree trunk in straight van dyke brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife roll pulled flat",
+   "motion": "straight down",
+   "pressure": "medium",
+   "where": "huge tree in center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:37",
+   "subject": "trunk/limbs",
+   "action": "paint marbled roll for big tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "marbled on palette",
+   "motion": "graze canvas",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:26",
+   "subject": "trunk/limbs",
+   "action": "graze canvas with knife roll for bark",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "upper trunk",
+   "rule": "Grazing the canvas suggests rough bark.",
+   "new": ""
+  },
+  {
+   "t": "25:55",
+   "subject": "path",
+   "action": "dab path indication with brown and white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "least brown and white on fan",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "grass",
+   "action": "dab grassy green along foot of tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "foot of big tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

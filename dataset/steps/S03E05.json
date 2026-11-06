@@ -1,0 +1,580 @@
+{
+ "ep": "S03E05",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "burnt umber",
+  "van dyke brown",
+  "magic white",
+  "titanium white",
+  "yellow ochre",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:54",
+   "subject": "sky",
+   "action": "criss-cross crimson glow in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny bit beaten into the bristles",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "too much crimson makes the sky look like it is on fire",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "water",
+   "action": "color band along the bottom edge",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "burnt umber"
+   ],
+   "load": "same brush loaded with burnt umber",
+   "motion": "drag along the bottom",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "this area will become the water",
+   "new": ""
+  },
+  {
+   "t": "02:07",
+   "subject": "sky",
+   "action": "van dyke brown across the top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "light stroke across the top",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:37",
+   "subject": "water",
+   "action": "van dyke brown along the bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "straight stroke across",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:03",
+   "subject": "sky",
+   "action": "blend sky colors together",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "cloud",
+   "action": "push cloud shapes with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix equal parts on the knife",
+   "motion": "push into canvas with little paint",
+   "pressure": "firm",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "cloud",
+   "action": "blend cloud edges along the angles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush through the clouds",
+   "motion": "follow the angles",
+   "pressure": "light",
+   "where": "sky clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:52",
+   "subject": "mountain",
+   "action": "lay basic mountain shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same color as the clouds on the fan brush",
+   "motion": "tap and drag the shape",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "far mountains need little detail",
+   "new": ""
+  },
+  {
+   "t": "05:16",
+   "subject": "mountain",
+   "action": "pull mountain down and soften",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush pulled downward",
+   "motion": "gentle blending",
+   "pressure": "unknown",
+   "where": "soft blending makes it feel far away",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:09",
+   "subject": "cloud",
+   "action": "thin white clouds over the mountain",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "magic white"
+   ],
+   "load": "tiny bit of magic white to thin",
+   "motion": "tiny circles with the corner",
+   "pressure": "light",
+   "where": "over the mountain",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "07:20",
+   "subject": "cloud",
+   "action": "blend cloud bottoms gently",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "corner of large brush",
+   "motion": "very gentle",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:39",
+   "subject": "mountain",
+   "action": "darker far foothills",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mix more color and dilute with white",
+   "motion": "drop in foothill shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:35",
+   "subject": "mountain",
+   "action": "lift foothill bottoms like mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down then lift upward gently",
+   "pressure": "light",
+   "where": "bottom of foothills",
+   "rule": "lifting softens the base so it reads as mist",
+   "new": ""
+  },
+  {
+   "t": "10:25",
+   "subject": "mist",
+   "action": "misty area at the base",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "magic white"
+   ],
+   "load": "corner of fan brush",
+   "motion": "dab then blend with large brush",
+   "pressure": "light",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:19",
+   "subject": "mountain",
+   "action": "darker foothill layer",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "more van dyke brown to dull it",
+   "motion": "let it wander down",
+   "pressure": "unknown",
+   "where": "middle ground",
+   "rule": "each darker layer creates the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "12:54",
+   "subject": "reflection",
+   "action": "reflection pulled down and across",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same color",
+   "motion": "touch and pull gently down then go across",
+   "pressure": "light",
+   "where": "under the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:48",
+   "subject": "water line",
+   "action": "cut water lines with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white",
+    "magic white"
+   ],
+   "load": "tiny amount of paint on knife",
+   "motion": "push very hard in cut lines",
+   "pressure": "firm",
+   "where": "between the layers",
+   "rule": "magic white thins the paint so it sticks",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "mountain",
+   "action": "darker foothill that stands out",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "back to the darker mix",
+   "motion": "drop a foothill down the side",
+   "pressure": "unknown",
+   "where": "right side of mountain",
+   "rule": "darker layer stands out and reads as closer",
+   "new": ""
+  },
+  {
+   "t": "15:02",
+   "subject": "mist",
+   "action": "diffuse with large brush then tap yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "tiny bit of yellow ochre on the brush",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "between foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:36",
+   "subject": "reflection",
+   "action": "reflection pulled straight down",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "same brush",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "under the foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:24",
+   "subject": "water line",
+   "action": "water lines following the land contour",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "van dyke brown",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "thin with magic white",
+   "motion": "push hard into canvas",
+   "pressure": "firm",
+   "where": "between land layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "mountain",
+   "action": "another dark foothill with umber",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "more brown and umber",
+   "motion": "drop foothill down",
+   "pressure": "unknown",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:53",
+   "subject": "far trees",
+   "action": "distant little trees and foothills",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soft light touches",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:26",
+   "subject": "water line",
+   "action": "pull reflection down and water line across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down then go across",
+   "pressure": "light",
+   "where": "bottom of land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "land",
+   "action": "dark foreground bank across",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of paint",
+   "motion": "bring it across",
+   "pressure": "firm",
+   "where": "foreground",
+   "rule": "the dark foreground makes the scene contrast",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "rock",
+   "action": "light highlight stones on the bank",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little brown and white",
+   "motion": "lay small highlights on top",
+   "pressure": "light",
+   "where": "top of foreground bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "trunk/limbs",
+   "action": "basic tree trunk shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "basic trunk shape",
+   "pressure": "unknown",
+   "where": "on the cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:13",
+   "subject": "trunk/limbs",
+   "action": "limbs from the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife carries a small paint roll",
+   "motion": "place limbs at random",
+   "pressure": "light",
+   "where": "the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "grass",
+   "action": "small grass shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "tiny bit of sap green with yellow ochre",
+   "motion": "drop little grassy shapes",
+   "pressure": "light",
+   "where": "the cliff",
+   "rule": "adds color so it is not all one tone",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "trunk/limbs",
+   "action": "highlight one side of the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch lightly",
+   "motion": "follow the tree shape",
+   "pressure": "light",
+   "where": "one side of tree",
+   "rule": "just enough so that side stands out",
+   "new": ""
+  },
+  {
+   "t": "24:34",
+   "subject": "leaf tree",
+   "action": "loose leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on the one-inch brush",
+   "motion": "lay in loose leaves",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:19",
+   "subject": "leaf tree",
+   "action": "mix quiet highlight color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "tiny bit of paint thinner added",
+   "motion": "mix to thin the paint",
+   "pressure": "unknown",
+   "where": "leaves",
+   "rule": "bright enough so it stands out against the dark",
+   "new": ""
+  },
+  {
+   "t": "25:48",
+   "subject": "leaf tree",
+   "action": "highlight leaves gently",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "highlight mix on the brush",
+   "motion": "touch the leaves gently",
+   "pressure": "light",
+   "where": "on the leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "leaf tree",
+   "action": "last leaves dropped in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop leaves in",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

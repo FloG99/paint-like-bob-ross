@@ -1,0 +1,509 @@
+{
+ "ep": "S25E07",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "sap green",
+  "bright red",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:29",
+   "subject": "other: base glaze",
+   "action": "indian yellow glaze along bottom of canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "thin coat along bottom",
+   "motion": "lay color on bottom",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "yellow cast carries through the whole painting",
+   "new": ""
+  },
+  {
+   "t": "00:56",
+   "subject": "sky",
+   "action": "tap a little blue into sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a very small amount into bristles",
+   "motion": "drop and let it bounce",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:12",
+   "subject": "sky",
+   "action": "crimson X strokes staining the canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap a very small amount",
+   "motion": "criss-cross x strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "transparent color lets the underlayer show through",
+   "new": ""
+  },
+  {
+   "t": "03:28",
+   "subject": "mist",
+   "action": "tiny titanium white misty areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap a little white on brush",
+   "motion": "tap small misty areas",
+   "pressure": "light",
+   "where": "in the woods, here and there",
+   "rule": "thin white gives a soft misty look",
+   "new": ""
+  },
+  {
+   "t": "04:52",
+   "subject": "bush",
+   "action": "sparkly bushes back in the distance",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "tap sparklers",
+   "pressure": "light",
+   "where": "way back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "bush",
+   "action": "background bush brown from crimson and sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tap brown mix onto knife",
+   "motion": "tap bushes",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:13",
+   "subject": "bush",
+   "action": "small bushes with the brown mix",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brown mix",
+   "motion": "tap bushes",
+   "pressure": "light",
+   "where": "back area of the painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:00",
+   "subject": "far trees",
+   "action": "far away bush indications",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "tap indications",
+   "pressure": "light",
+   "where": "way in the background",
+   "rule": "far away so no detail needed yet",
+   "new": ""
+  },
+  {
+   "t": "08:26",
+   "subject": "mist",
+   "action": "light area at base of layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "tap white with least yellow ochre",
+   "motion": "tap, knock off excess, blend",
+   "pressure": "light",
+   "where": "base of the layer",
+   "rule": "light area separates the next layer",
+   "new": ""
+  },
+  {
+   "t": "09:12",
+   "subject": "bush",
+   "action": "dark layer over the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "tap into black",
+   "motion": "tap layer on",
+   "pressure": "light",
+   "where": "over the light area",
+   "rule": "light area keeps layers from blending together",
+   "new": ""
+  },
+  {
+   "t": "10:33",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs throughout",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thin brown mix with paint thinner",
+   "motion": "tap sticks and twigs",
+   "pressure": "light",
+   "where": "throughout the woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:35",
+   "subject": "land",
+   "action": "lay in land shape with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "cut off roll of paint on knife",
+   "motion": "lay in land shape",
+   "pressure": "medium",
+   "where": "right along in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:59",
+   "subject": "land",
+   "action": "fuzz up soft edges",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "rub the edge",
+   "pressure": "light",
+   "where": "edges of the land",
+   "rule": "soft edges can read as distant bushes",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk with thick paint",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "gob a lot of thick paint on bristles",
+   "motion": "place thick trunk shape",
+   "pressure": "medium",
+   "where": "right along here",
+   "rule": "thick paint will catch highlights later",
+   "new": ""
+  },
+  {
+   "t": "15:25",
+   "subject": "trunk/limbs",
+   "action": "crooked arms for the big tree",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same loaded brush",
+   "motion": "add big crooked arms",
+   "pressure": "medium",
+   "where": "on each side of trunk",
+   "rule": "a tree with character, not a straight pole",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "trunk/limbs",
+   "action": "foot and extra arms on tree",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brush",
+   "motion": "add foot and arms",
+   "pressure": "medium",
+   "where": "base and sides of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:03",
+   "subject": "trunk/limbs",
+   "action": "bark texture with thin brown on thick paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "fill liner bristles with thin brown",
+   "motion": "delicate touch along edges",
+   "pressure": "whisper",
+   "where": "edges of the thick trunk",
+   "rule": "thick ridges pick up thin paint for bark",
+   "new": ""
+  },
+  {
+   "t": "19:22",
+   "subject": "trunk/limbs",
+   "action": "sparkle the edges with light color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "take a little light color",
+   "motion": "touch edges here and there",
+   "pressure": "light",
+   "where": "edges of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "trunk/limbs",
+   "action": "little arms here and there",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thin brown on liner",
+   "motion": "pull out little arms",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:48",
+   "subject": "leaf tree",
+   "action": "background tree shape in warm mix",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "tap warm mix into bristles",
+   "motion": "tap tree shape",
+   "pressure": "light",
+   "where": "up here over the dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:09",
+   "subject": "trunk/limbs",
+   "action": "trunk and sticks in background tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thin brown mix",
+   "motion": "put trunk and sticks",
+   "pressure": "light",
+   "where": "in the background tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:32",
+   "subject": "leaf tree",
+   "action": "light highlights on background tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "titanium white"
+   ],
+   "load": "same dirty brush",
+   "motion": "tap highlight dabs",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:19",
+   "subject": "bush",
+   "action": "more little bushes with brown mix",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "tap brown mix",
+   "motion": "tap little bushes",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "bush",
+   "action": "black separator between layers",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "tap black",
+   "motion": "tap a separator",
+   "pressure": "light",
+   "where": "in between the layers",
+   "rule": "a dark separator keeps the layers distinct",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "fence",
+   "action": "fence rail with light and dark brown",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "one side light brown, other dark",
+   "motion": "lay in a fence rail",
+   "pressure": "light",
+   "where": "back right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:54",
+   "subject": "land",
+   "action": "soil and dirt under the fence",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brown mix",
+   "motion": "tap in soil",
+   "pressure": "light",
+   "where": "under the fence",
+   "rule": "adds depth",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "path",
+   "action": "pull brown into a little road",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brown mix",
+   "motion": "pull together into a path",
+   "pressure": "light",
+   "where": "going back in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:45",
+   "subject": "other: weeds",
+   "action": "flip up weeds and sticks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "light brown on liner",
+   "motion": "flip up weeds and sticks",
+   "pressure": "light",
+   "where": "all in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:10",
+   "subject": "other: signature",
+   "action": "sign the painting with red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red with paint thinner",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

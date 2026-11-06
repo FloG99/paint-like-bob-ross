@@ -1,0 +1,598 @@
+{
+ "ep": "S19E12",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "up",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "dark sienna",
+  "van dyke brown",
+  "alizarin crimson",
+  "cad yellow",
+  "prussian blue",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "01:09",
+   "subject": "sky",
+   "action": "criss-cross titanium white into the light spot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky, moon spot",
+   "rule": "the light spot is the brightest point in the sky",
+   "new": ""
+  },
+  {
+   "t": "01:30",
+   "subject": "sky",
+   "action": "blend outward from the light spot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "sky around light spot",
+   "rule": "darker the farther from the light",
+   "new": ""
+  },
+  {
+   "t": "03:38",
+   "subject": "sky",
+   "action": "dry-brush blend the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "a wet brush would cut through to the black",
+   "new": ""
+  },
+  {
+   "t": "04:09",
+   "subject": "sky",
+   "action": "finger-paint a small circle at the light spot",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "small circles",
+   "pressure": "light",
+   "where": "light spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "cloud",
+   "action": "tiny circle strokes for clouds",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "more black than blue",
+   "motion": "tiny circles and rocking strokes",
+   "pressure": "light",
+   "where": "sky, floating clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:44",
+   "subject": "cloud",
+   "action": "add highlight streaks on clouds",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "little more white",
+   "motion": "streaks",
+   "pressure": "light",
+   "where": "cloud highlights",
+   "rule": "colors show much stronger on black, so keep it light",
+   "new": ""
+  },
+  {
+   "t": "08:24",
+   "subject": "cloud",
+   "action": "blend the clouds to fade them",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "blending picks up the dark underneath",
+   "new": ""
+  },
+  {
+   "t": "08:52",
+   "subject": "bush",
+   "action": "tap dark bush shapes in the back",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "dark mix",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "back, low area",
+   "rule": "dark shapes stand out against the light",
+   "new": ""
+  },
+  {
+   "t": "10:35",
+   "subject": "far trees",
+   "action": "tap blue-black highlights on small trees above the dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tapped into bristles",
+   "motion": "tap on top edges",
+   "pressure": "light",
+   "where": "above the dark, toward the light",
+   "rule": "a bit brighter so it shows on screen",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "far trees",
+   "action": "darken small trees farther from the light",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "lower part of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:49",
+   "subject": "far trees",
+   "action": "layer trees in front, leave dark between",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "layer",
+   "pressure": "light",
+   "where": "between tree layers",
+   "rule": "layers create depth",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "trunk/limbs",
+   "action": "scrape a few trunks to show black",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "between trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:01",
+   "subject": "snow",
+   "action": "pull snow in from the bottom, fading up",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "lower area, under trees",
+   "rule": "starting small and fading up gives depth",
+   "new": ""
+  },
+  {
+   "t": "13:53",
+   "subject": "leaf tree",
+   "action": "dark big tree up into the sky",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "dark mix",
+   "motion": "stroke upward",
+   "pressure": "light",
+   "where": "center, up into the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "structure",
+   "action": "scrape out a basic cabin shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "back, behind the trees",
+   "rule": "scraping removes excess paint for the shape",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "structure",
+   "action": "brown front for the cabin pulled straight down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "structure",
+   "action": "light blue-white highlight on the cabin front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "cabin top edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "structure",
+   "action": "add door and lit window",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "cabin face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:49",
+   "subject": "snow",
+   "action": "snow on cabin roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:16",
+   "subject": "bush",
+   "action": "dark bushes at cabin base with highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom of cabin",
+   "rule": "bushes push the cabin back into the woods",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "leaf tree",
+   "action": "dark lavender highlights on the far tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "very dark lavender mix",
+   "motion": "pull and tap",
+   "pressure": "light",
+   "where": "the far tree",
+   "rule": "stays darker because it is far from the light",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "snow",
+   "action": "darker snow behind the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "behind the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:56",
+   "subject": "evergreen",
+   "action": "tap a very dark evergreen upward with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "dark mix",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "right side, low",
+   "rule": "adds darkness to the tree",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "evergreen",
+   "action": "add a few highlights on the evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on the evergreen",
+   "rule": "only a few, so it stays dark",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "mountain",
+   "action": "lighter hill that flows off the edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "gives the scene another plane",
+   "new": ""
+  },
+  {
+   "t": "20:15",
+   "subject": "structure",
+   "action": "scrape out basic barn shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "middle, closer",
+   "rule": "closer objects look bigger",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "structure",
+   "action": "fill barn front with brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "push in",
+   "pressure": "light",
+   "where": "barn area",
+   "rule": "scraping away paint lets the new paint stick",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "structure",
+   "action": "roof with brown-white marbled mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "marbled roll on knife",
+   "motion": "graze down",
+   "pressure": "whisper",
+   "where": "barn roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "snow",
+   "action": "snow on roof with white-blue mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "press down",
+   "pressure": "light",
+   "where": "roof top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "structure",
+   "action": "small shed beside the barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "scrape and place",
+   "pressure": "light",
+   "where": "right side of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:50",
+   "subject": "structure",
+   "action": "dark sienna board lines on barn",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "barn side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:14",
+   "subject": "structure",
+   "action": "outline barn door edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape outline",
+   "pressure": "light",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "snow",
+   "action": "pull snow up to barn base and blend",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull then blend",
+   "pressure": "light",
+   "where": "base of barn",
+   "rule": "blending picks up dark underneath",
+   "new": ""
+  },
+  {
+   "t": "25:16",
+   "subject": "fence",
+   "action": "fence rails on liner with dark and light sides",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "liquid white",
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "over the hill",
+   "rule": "rails shrink to read as farther away",
+   "new": ""
+  },
+  {
+   "t": "26:04",
+   "subject": "snow",
+   "action": "snow on top of rails",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "top of fence rails",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:29",
+   "subject": "grass",
+   "action": "few weeds at the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,580 @@
+{
+ "ep": "S30E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "Indian yellow",
+  "cadmium yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "sap green",
+  "Van Dyke brown",
+  "titanium white",
+  "permanent red",
+  "midnight black",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:22",
+   "subject": "sky",
+   "action": "tap Indian yellow into the edges",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount tapped on the brush",
+   "motion": "tap up in the corner",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:45",
+   "subject": "sky",
+   "action": "go around edges with cadmium yellow and yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow on the brush without cleaning",
+   "motion": "go around the edges",
+   "pressure": "unknown",
+   "where": "edges of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:08",
+   "subject": "sky",
+   "action": "blend alizarin crimson into the yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "small amount on the brush",
+   "motion": "blend together",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "sky",
+   "action": "mix sap green and crimson into a reddish brown for the sky",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix on the knife",
+   "motion": "sweep up into the sky",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "mixed well so no green streaks show in the sky",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "sky",
+   "action": "add Van Dyke brown on the other side of the sky",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the knife",
+   "motion": "place on the other side",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:37",
+   "subject": "sky",
+   "action": "lighten the lightest area with titanium white, blending outward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on the brush",
+   "motion": "start in the light area and work outward",
+   "pressure": "unknown",
+   "where": "center of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:55",
+   "subject": "sun/glow",
+   "action": "finger-paint a round sun in the sky",
+   "tool": "other: finger",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "excess knocked off",
+   "motion": "a small round shape, barely caressed",
+   "pressure": "whisper",
+   "where": "sky",
+   "rule": "round shapes look better than square ones",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "mountain",
+   "action": "tap in distant foothills",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "white and brown mix",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "far back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:15",
+   "subject": "far trees",
+   "action": "lift short tiny strokes upward for far trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "short tiny upward strokes",
+   "pressure": "light",
+   "where": "far hills",
+   "rule": "makes little trees look far away",
+   "new": ""
+  },
+  {
+   "t": "06:38",
+   "subject": "far trees",
+   "action": "add a touch of Indian yellow to white for light tree tops",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "indian yellow"
+   ],
+   "load": "white with a least touch of Indian yellow",
+   "motion": "lift upward, touch here and there",
+   "pressure": "light",
+   "where": "tops of far trees",
+   "rule": "makes them stand out like light",
+   "new": ""
+  },
+  {
+   "t": "07:24",
+   "subject": "far trees",
+   "action": "stand of trees with a darker mix on the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "white and brown mix",
+   "motion": "tap in a group",
+   "pressure": "unknown",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:47",
+   "subject": "land",
+   "action": "tap the hill to create another plane",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap a little",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "creates another plane in the hill",
+   "new": ""
+  },
+  {
+   "t": "08:14",
+   "subject": "land",
+   "action": "lift white with Indian yellow up the hill as small dooders",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "indian yellow"
+   ],
+   "load": "white with a little Indian yellow",
+   "motion": "lift up",
+   "pressure": "unknown",
+   "where": "hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:36",
+   "subject": "land",
+   "action": "cover the hill with the brown mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown mix",
+   "motion": "cover up",
+   "pressure": "unknown",
+   "where": "hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:02",
+   "subject": "water",
+   "action": "rub white along the knife edge for a far river",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "flat roll on the knife edge",
+   "motion": "rub hard and keep level",
+   "pressure": "hard",
+   "where": "far back",
+   "rule": "makes it look like a far away river",
+   "new": ""
+  },
+  {
+   "t": "10:29",
+   "subject": "land",
+   "action": "dark foreground hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "brown mix with midnight black",
+   "motion": "scoop and tap in a hill",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "dark shows light",
+   "new": ""
+  },
+  {
+   "t": "12:15",
+   "subject": "grass",
+   "action": "tap grass color in the lower area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "sap green, cadmium yellow and yellow ochre",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:05",
+   "subject": "leaf tree",
+   "action": "small tree on top of the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "midnight black"
+   ],
+   "load": "fan loaded with the dark mix",
+   "motion": "tap in tree shape",
+   "pressure": "unknown",
+   "where": "top of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "trunk/limbs",
+   "action": "scratch in tree trunk indications",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "brown with a little red and white",
+   "motion": "scratch in here and there",
+   "pressure": "light",
+   "where": "on trees",
+   "rule": "keeps highlights subtle so they do not distract",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "leaf tree",
+   "action": "foreground tree with sap green and Indian yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "indian yellow"
+   ],
+   "load": "green mix on the fan brush",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "foreground",
+   "rule": "painted last so it reads in front",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "structure",
+   "action": "scrape out and paint a small house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and dark sienna mixed",
+   "motion": "scrape out a basic shape, then paint it in",
+   "pressure": "unknown",
+   "where": "in front of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "structure",
+   "action": "old raggedy house with brown and white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "no pressure",
+   "pressure": "whisper",
+   "where": "house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:09",
+   "subject": "structure",
+   "action": "add door and board marks in dark color",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark color mix",
+   "motion": "indications of boards",
+   "pressure": "unknown",
+   "where": "house",
+   "rule": "a door makes getting in and out easier",
+   "new": ""
+  },
+  {
+   "t": "17:35",
+   "subject": "structure",
+   "action": "red roof with white and dark sienna",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "red, white and dark sienna mixed",
+   "motion": "lay roof on",
+   "pressure": "unknown",
+   "where": "house roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:02",
+   "subject": "structure",
+   "action": "highlight the top of the roof and the side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on the knife",
+   "motion": "small highlights",
+   "pressure": "unknown",
+   "where": "top of roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:33",
+   "subject": "grass",
+   "action": "grassy areas by the trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "grass color on the brush",
+   "motion": "lay in grassy areas",
+   "pressure": "unknown",
+   "where": "by the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:29",
+   "subject": "path",
+   "action": "indicate a path with brown and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and a small amount of white",
+   "motion": "indicate path, then highlight",
+   "pressure": "unknown",
+   "where": "path area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs with a liner brush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean liner with thinner",
+   "motion": "lay sticks and twigs",
+   "pressure": "unknown",
+   "where": "along the ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "leaf tree",
+   "action": "dark trees with a second little tree beside it",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "tap in tree shape",
+   "pressure": "unknown",
+   "where": "top of hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:27",
+   "subject": "trunk/limbs",
+   "action": "arms on the trees with thinned dark paint",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "paint thinned to flow",
+   "motion": "flow over the paint without mixing",
+   "pressure": "unknown",
+   "where": "on trees",
+   "rule": "thin paint flows over without mixing",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "trunk/limbs",
+   "action": "highlight the side of the tree with white and black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "white and black mixed",
+   "motion": "lay on the side",
+   "pressure": "unknown",
+   "where": "side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "leaf tree",
+   "action": "tap color at the foot of the baby tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "sap green and yellows",
+   "motion": "tap color",
+   "pressure": "unknown",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:19",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk with arms",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix",
+   "motion": "touch and pull",
+   "pressure": "unknown",
+   "where": "tree",
+   "rule": "a strong trunk holds up the foliage",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

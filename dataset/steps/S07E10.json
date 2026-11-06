@@ -1,0 +1,726 @@
+{
+ "ep": "S07E10",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "sap green",
+  "yellow ochre",
+  "cad yellow",
+  "yellow",
+  "red",
+  "liquid black"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "quick prussian sky wash",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "fresh prussian blue",
+   "motion": "tap and stroke",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "mountain",
+   "action": "block in dark mountain mass with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "knife load of dark mix",
+   "motion": "block in shapes",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "mountain",
+   "action": "scrape out basic mountain outline",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "roll of paint",
+   "motion": "scrape very hard",
+   "pressure": "firm",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "mountain",
+   "action": "scrape and break up mountain shapes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "scrape hard",
+   "pressure": "firm",
+   "where": "mountain outline",
+   "rule": "break up shapes so peaks do not look like cones",
+   "new": ""
+  },
+  {
+   "t": "03:10",
+   "subject": "mountain",
+   "action": "pull brush to lay out highlights and shadows",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "pull in one direction",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "shapes can still change while blocking in",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "mist",
+   "action": "blue and black fade into white base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "soft fade",
+   "pressure": "whisper",
+   "where": "base of mountain",
+   "rule": "soft base looks like it sits in mist",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "mountain",
+   "action": "knife-pull white snow on peaks",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "paint pulled out flat",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "mountain peaks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "mountain",
+   "action": "add light snow touches on peaks",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "graze the canvas",
+   "pressure": "whisper",
+   "where": "peak edges",
+   "rule": "light comes from the right so snow sits on that side",
+   "new": ""
+  },
+  {
+   "t": "05:09",
+   "subject": "mountain",
+   "action": "knife peaks and valleys with broken paint",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "roll of paint",
+   "motion": "push color to break",
+   "pressure": "light",
+   "where": "peak line",
+   "rule": "creates peaks and valleys",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "mountain",
+   "action": "lay blue and white shadows",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "little blue and white",
+   "motion": "pull flat across",
+   "pressure": "light",
+   "where": "shadow sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "mountain",
+   "action": "lay shadows down the peaks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lay in shadows",
+   "pressure": "light",
+   "where": "mountain shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "mountain",
+   "action": "small knife shadows in small areas",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "sneak in small areas",
+   "pressure": "light",
+   "where": "small mountain areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "evergreen",
+   "action": "bounce in dark evergreen tones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "bounce in darks",
+   "pressure": "light",
+   "where": "mountain shadows",
+   "rule": "deeper recesses add depth",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "mist",
+   "action": "tap clean brush mist at bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely tap then blend",
+   "pressure": "whisper",
+   "where": "bottom of mountain",
+   "rule": "keeps the top peaks sharp",
+   "new": ""
+  },
+  {
+   "t": "08:58",
+   "subject": "mountain",
+   "action": "black with brown for darker areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "peak area",
+   "rule": "dark makes lighter colors show",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "rock",
+   "action": "add rock bump",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "taper down into nothing",
+   "pressure": "light",
+   "where": "middle of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "mountain",
+   "action": "add snow on ridges with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "drop it down the mountain",
+   "pressure": "light",
+   "where": "snow lines",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:34",
+   "subject": "mountain",
+   "action": "knife smooth snow into background",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "smooth down",
+   "pressure": "light",
+   "where": "mountain edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "land",
+   "action": "add land touch with blue and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "touch",
+   "motion": "lay in a touch",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:49",
+   "subject": "grass",
+   "action": "tap in grassy strokes with green and ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "tap upward",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:26",
+   "subject": "grass",
+   "action": "darken grass shadow side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap in dark green",
+   "pressure": "light",
+   "where": "shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "grass",
+   "action": "lift to soften grassy hills",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift up",
+   "pressure": "light",
+   "where": "hill area",
+   "rule": "lifting gives the look of grassy hills",
+   "new": ""
+  },
+  {
+   "t": "14:45",
+   "subject": "grass",
+   "action": "rolling hill with black and sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "rolling hill area",
+   "rule": "shows different planes",
+   "new": ""
+  },
+  {
+   "t": "15:21",
+   "subject": "grass",
+   "action": "fill hill valley with tapped grass",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "hill valley",
+   "rule": "builds the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "land",
+   "action": "dark foreground fill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "tap in dark",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "dark lets lighter colors show later",
+   "new": ""
+  },
+  {
+   "t": "16:39",
+   "subject": "evergreen",
+   "action": "push up evergreens with yellow ochre and cad yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "open area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "evergreen",
+   "action": "push up more evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "open area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "evergreen",
+   "action": "add a few more little evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "push up",
+   "pressure": "light",
+   "where": "scattered across canvas",
+   "rule": "not too many or the canvas gets covered",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "grass",
+   "action": "tap grassy bits with sap green and yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "field area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "grass",
+   "action": "add red into grass layer",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "red"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "grass layer",
+   "rule": "red makes the layer stand out",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "grass",
+   "action": "layer hill colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "red"
+   ],
+   "load": "",
+   "motion": "layer after layer",
+   "pressure": "light",
+   "where": "foreground hills",
+   "rule": "layering builds depth",
+   "new": ""
+  },
+  {
+   "t": "20:22",
+   "subject": "leaf tree",
+   "action": "block in tree trunks with van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap in trunk",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:58",
+   "subject": "trunk/limbs",
+   "action": "add small trunks then leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "yellow"
+   ],
+   "load": "",
+   "motion": "pop leaves on",
+   "pressure": "light",
+   "where": "tree trunks and leaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:39",
+   "subject": "trunk/limbs",
+   "action": "add hanging limbs",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "indicate limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:16",
+   "subject": "leaf tree",
+   "action": "big tree in van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap and fuzz",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:53",
+   "subject": "leaf tree",
+   "action": "white highlight down tree edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "down the edge",
+   "pressure": "light",
+   "where": "tree edge",
+   "rule": "gives roundness to the tree",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "trunk/limbs",
+   "action": "thin limbs with liner brush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "thin paint with thinner",
+   "motion": "tap limbs",
+   "pressure": "light",
+   "where": "over mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:07",
+   "subject": "trunk/limbs",
+   "action": "more limbs on other tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "",
+   "motion": "tap limbs",
+   "pressure": "light",
+   "where": "other tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "trunk/limbs",
+   "action": "highlight hanging limbs with white",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "light",
+   "where": "hanging limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "evergreen",
+   "action": "add leaves with sap green and black",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "push up and bend",
+   "pressure": "light",
+   "where": "limbs and tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:02",
+   "subject": "evergreen",
+   "action": "add leaves over mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pop leaves upward",
+   "pressure": "light",
+   "where": "over mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:41",
+   "subject": "evergreen",
+   "action": "add cad yellow highlights to leaves",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "leaves",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

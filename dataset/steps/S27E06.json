@@ -1,0 +1,706 @@
+{
+ "ep": "S27E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "titanium white",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "indian yellow",
+  "midnight black",
+  "cadmium yellow",
+  "bright red",
+  "yellow",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:47",
+   "subject": "other: warm underpainting",
+   "action": "warm underpaint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiny amount",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "upper oval area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:11",
+   "subject": "other: warm underpainting",
+   "action": "criss-cross blend with yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "little amount",
+   "motion": "tiny criss-cross strokes",
+   "pressure": "unknown",
+   "where": "around a small central shape",
+   "rule": "small strokes blend out easier than big circles",
+   "new": ""
+  },
+  {
+   "t": "02:00",
+   "subject": "other: oval edge",
+   "action": "blend brown around edge",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mixed in about equal parts",
+   "motion": "blend outward around edge",
+   "pressure": "unknown",
+   "where": "outer edge of oval",
+   "rule": "wet white will lighten it, so make it darker",
+   "new": ""
+  },
+  {
+   "t": "03:34",
+   "subject": "sky",
+   "action": "blend white into sky from center",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "corner of brush",
+   "motion": "blend outward from center",
+   "pressure": "unknown",
+   "where": "center of sky, working out",
+   "rule": "start light and work toward dark to keep the light center",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "far trees",
+   "action": "tap a tree line of brown and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "brown lightened with white and yellow ochre",
+   "motion": "tap downward",
+   "pressure": "unknown",
+   "where": "tree line fading toward the edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "mist",
+   "action": "tap white mist over tree line",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "unknown",
+   "motion": "tap to blend",
+   "pressure": "unknown",
+   "where": "over tree line",
+   "rule": "white on the brush makes a more distinct misty area",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "far trees",
+   "action": "add darker background tree layer",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "more brown on the brush",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "background behind mist",
+   "rule": "closer layers get darker so depth reads",
+   "new": ""
+  },
+  {
+   "t": "07:24",
+   "subject": "leaf tree",
+   "action": "dark closer trees, corner strokes down",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "fan reloaded with brown mix",
+   "motion": "down strokes from the corner",
+   "pressure": "medium",
+   "where": "closer trees, middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:54",
+   "subject": "leaf tree",
+   "action": "drop in a tree clump",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "fan carried over",
+   "motion": "tap in clump",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "leaf tree",
+   "action": "big tree with other side of fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "fan other side",
+   "motion": "tap basic shape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "only basic shape matters at this stage",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "bush",
+   "action": "indicate bushes between trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "same color on knife",
+   "motion": "dab small shapes",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "turns a few trees into many trees",
+   "new": ""
+  },
+  {
+   "t": "09:10",
+   "subject": "land",
+   "action": "brown ground for trees to stand",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown with a little white",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "bottom area where trees stand",
+   "rule": "trees need a place to stand",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "leaf tree",
+   "action": "tap yellow highlights on trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "yellows with a little sap green",
+   "motion": "tap highlights",
+   "pressure": "unknown",
+   "where": "upper trees",
+   "rule": "keeps earth tones light so they do not go too dark",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "structure",
+   "action": "scrape out cabin shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "scrape away excess paint",
+   "pressure": "unknown",
+   "where": "small open spot in the middle",
+   "rule": "scraping gives a general idea of the layout",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "structure",
+   "action": "block in cabin angles",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "a little brown",
+   "motion": "short knife strokes",
+   "pressure": "unknown",
+   "where": "cabin shape",
+   "rule": "not committed yet, angles can change",
+   "new": ""
+  },
+  {
+   "t": "11:12",
+   "subject": "structure",
+   "action": "bounce red-brown shingles down roof edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "red, white and brown left marbled",
+   "motion": "bounce a roll of paint down the side",
+   "pressure": "unknown",
+   "where": "down side of cabin roof",
+   "rule": "gives worn, weathered look like old shingles",
+   "new": ""
+  },
+  {
+   "t": "12:05",
+   "subject": "structure",
+   "action": "tchoom highlights on cabin front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "white with brown, no red",
+   "motion": "knife strokes",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "brighter front makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "12:32",
+   "subject": "structure",
+   "action": "old board marks on cabin",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown on knife edge",
+   "motion": "short edge marks",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:32",
+   "subject": "structure",
+   "action": "shed roof strokes with gaps",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown and white mixed",
+   "motion": "broken knife strokes with gaps",
+   "pressure": "unknown",
+   "where": "shed roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "structure",
+   "action": "window on cabin",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown on small knife edge",
+   "motion": "tchoom mark",
+   "pressure": "unknown",
+   "where": "one spot on cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:30",
+   "subject": "bush",
+   "action": "tap brown bushes with top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "little brown on brush",
+   "motion": "tap with top corner",
+   "pressure": "light",
+   "where": "unspecified spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:25",
+   "subject": "reflection",
+   "action": "pull brown reflection straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from brush",
+   "motion": "pull straight down, then across",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "straight strokes create the illusion of a reflection",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "evergreen",
+   "action": "tap evergreen indications",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown from brush",
+   "motion": "tap with top corner",
+   "pressure": "light",
+   "where": "unspecified spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:11",
+   "subject": "other: deep shadow",
+   "action": "darken deep shadow down into front",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "brown with a little black",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "down into the front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:01",
+   "subject": "rock",
+   "action": "dab small stones with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "dark on one side, light on the other",
+   "motion": "dab stone marks",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "trunk/limbs",
+   "action": "fan dark and light trunks",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "dark on one side, light on the other",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "back area, a few trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "trunk/limbs",
+   "action": "thin old limbs and branches",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "back area, some hidden",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "leaf tree",
+   "action": "sap green and yellow background highlights",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "mostly yellow with a little green",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "kept minimal because it is background",
+   "new": ""
+  },
+  {
+   "t": "18:03",
+   "subject": "leaf tree",
+   "action": "tap foreground trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "tap with corner",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "background done, foreground trees next",
+   "new": ""
+  },
+  {
+   "t": "18:28",
+   "subject": "bush",
+   "action": "bush with thinned paint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "liquid white"
+   ],
+   "load": "thinned with thinner or liquid white",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "thinner or liquid white helps paint stick",
+   "new": ""
+  },
+  {
+   "t": "18:55",
+   "subject": "leaf tree",
+   "action": "paint two big dark trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "midnight black"
+   ],
+   "load": "dark brown with black, heavy",
+   "motion": "one big stroke",
+   "pressure": "firm",
+   "where": "two spots, unspecified",
+   "rule": "a second tree keeps the first company",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "trunk/limbs",
+   "action": "pull a white birch trunk",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a touch of white",
+   "motion": "pull a short line",
+   "pressure": "unknown",
+   "where": "unspecified",
+   "rule": "light comes from the left, so the white goes there",
+   "new": "birch"
+  },
+  {
+   "t": "20:15",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs on big tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "very thin brown",
+   "motion": "flow lightly across",
+   "pressure": "unknown",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "trunk/limbs",
+   "action": "big limb reaching up",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "heavy brown on liner",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "out here, unspecified",
+   "rule": "limb reaches up for sunlight and gives birds a perch",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "leaf tree",
+   "action": "tap leaves with oval brush",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "green and yellow ridge on the end",
+   "motion": "tap onto canvas",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "bush",
+   "action": "tap bushes with top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "tap with top corner",
+   "pressure": "unknown",
+   "where": "unspecified",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "bush",
+   "action": "bright red bushes at bottom, one at a time",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "sap green"
+   ],
+   "load": "red then a little sap green",
+   "motion": "tap one bush at a time",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "one bush at a time builds depth; front bushes hide tree bases",
+   "new": ""
+  },
+  {
+   "t": "23:03",
+   "subject": "flower",
+   "action": "add white daisy shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "unknown",
+   "motion": "unknown",
+   "pressure": "light",
+   "where": "unspecified",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:29",
+   "subject": "flower",
+   "action": "touch orange daisy centers",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow"
+   ],
+   "load": "red and yellow mixed to orange",
+   "motion": "touch each center",
+   "pressure": "unknown",
+   "where": "each daisy center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:53",
+   "subject": "trunk/limbs",
+   "action": "scrape twig lines with knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "a little brown",
+   "motion": "scrape lines through wet paint",
+   "pressure": "unknown",
+   "where": "wherever sticks should live",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

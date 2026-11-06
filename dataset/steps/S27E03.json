@@ -1,0 +1,236 @@
+{
+ "ep": "S27E03",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "sap green",
+  "cadmium yellow",
+  "titanium white",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "cover top with Indian yellow glow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "indian yellow on the brush",
+   "motion": "sweep across the whole top",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "transparent color suits the glow effect",
+   "new": ""
+  },
+  {
+   "t": "02:27",
+   "subject": "sky",
+   "action": "darken top corner for sunlight",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix from the pile",
+   "motion": "dab and blend in the corner",
+   "pressure": "unknown",
+   "where": "upper corner",
+   "rule": "suggests sun shining through the top corner",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "sun/glow",
+   "action": "blend a bright glow outward from the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "titanium white"
+   ],
+   "load": "cadmium yellow with a little white",
+   "motion": "blend outward from the corner",
+   "pressure": "unknown",
+   "where": "sun spot in top corner",
+   "rule": "trees should nearly vanish into the bright light",
+   "new": ""
+  },
+  {
+   "t": "03:44",
+   "subject": "sun/glow",
+   "action": "add titanium white to the hot spot",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white on the brush",
+   "motion": "blend and pat the hot spot",
+   "pressure": "unknown",
+   "where": "hot spot in top corner",
+   "rule": "the brightest spot is the light source",
+   "new": "clean brush for each pass"
+  },
+  {
+   "t": "04:55",
+   "subject": "snow",
+   "action": "graze snow across the back",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "both sides of filbert loaded",
+   "motion": "graze and drag lightly then scrub",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "lets the brown underneath break through",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "leaf tree",
+   "action": "paint bare winter trees in heavy brown",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thick brown from the pile",
+   "motion": "pull down then push edges out",
+   "pressure": "firm",
+   "where": "middle of canvas",
+   "rule": "wants rough trees with character not smooth ones",
+   "new": "bare winter trees"
+  },
+  {
+   "t": "09:45",
+   "subject": "bush",
+   "action": "rub in small bushes far back",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown left on the brush",
+   "motion": "rub up and down",
+   "pressure": "unknown",
+   "where": "far back",
+   "rule": "gives small animals a place to hide",
+   "new": ""
+  },
+  {
+   "t": "11:24",
+   "subject": "snow",
+   "action": "add more snow in the back area",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "touch and place lightly",
+   "pressure": "unknown",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:58",
+   "subject": "trunk/limbs",
+   "action": "add gnarled arms to the big tree",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same brown on the brush",
+   "motion": "push hard for gnarled shapes",
+   "pressure": "firm",
+   "where": "big tree",
+   "rule": "makes the tree look old and gnarled",
+   "new": ""
+  },
+  {
+   "t": "16:38",
+   "subject": "leaf tree",
+   "action": "highlight light side of trees with grey",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green",
+    "black"
+   ],
+   "load": "white with brown and a little black",
+   "motion": "touch and let it drag",
+   "pressure": "whisper",
+   "where": "light side of the trees",
+   "rule": "a gray tone for the lit side",
+   "new": "no pressure at all"
+  },
+  {
+   "t": "21:50",
+   "subject": "snow",
+   "action": "add white snow around tree base",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "touch and let it break",
+   "pressure": "whisper",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "trunk/limbs",
+   "action": "add thin twigs and hanging limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "pull thin lines and hanging limbs",
+   "pressure": "light",
+   "where": "tree branches",
+   "rule": "keeps the branches rough and gnarly",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "leaf tree",
+   "action": "dab more hanging limbs on the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "dab limbs hanging down",
+   "pressure": "light",
+   "where": "all the trees",
+   "rule": "makes the painting look like much time went into it",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

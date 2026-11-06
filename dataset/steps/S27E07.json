@@ -1,0 +1,587 @@
+{
+ "ep": "S27E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "van dyke brown",
+  "cadmium yellow",
+  "indian yellow",
+  "yellow ochre",
+  "sap green",
+  "bright red",
+  "dark sienna",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "criss-cross strokes from top corner down",
+   "pressure": "unknown",
+   "where": "top corner of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "darken sky corners",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "brush over corners",
+   "pressure": "unknown",
+   "where": "corners of sky",
+   "rule": "a darker sky makes the clouds stand out",
+   "new": ""
+  },
+  {
+   "t": "02:06",
+   "subject": "cloud",
+   "action": "tap basic cloud shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "cloud",
+   "action": "blend clouds with blender brush",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blending strokes",
+   "pressure": "unknown",
+   "where": "cloud area",
+   "rule": "the canvas is wet, so color slides and blends",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "mountain",
+   "action": "mix dark mountain color",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed dark color, cut roll on knife",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "spot for mountain top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "mountain",
+   "action": "lay down mountain top edge",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "touch and lay outside edge",
+   "pressure": "light",
+   "where": "top of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "mountain",
+   "action": "scrape off excess paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape hard, pull paint off",
+   "pressure": "hard",
+   "where": "mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:01",
+   "subject": "mist",
+   "action": "lighten base with titanium white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lay down a soft layer",
+   "pressure": "unknown",
+   "where": "base of mountain",
+   "rule": "creates a misty effect at the base",
+   "new": ""
+  },
+  {
+   "t": "07:30",
+   "subject": "far trees",
+   "action": "tap far tree indications",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "tap in with brush tip",
+   "pressure": "light",
+   "where": "back of mountain area",
+   "rule": "a tiny touch of yellow gives an instant green",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "mountain",
+   "action": "pull and blend out paint from mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward, blend out",
+   "pressure": "unknown",
+   "where": "left side of mountain",
+   "rule": "removing paint lets the next layer stick better",
+   "new": ""
+  },
+  {
+   "t": "08:46",
+   "subject": "mountain",
+   "action": "knife highlights on ridges",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "knife bounces and plays",
+   "pressure": "whisper",
+   "where": "mountain ridges",
+   "rule": "light from the right is normally easier to paint",
+   "new": ""
+  },
+  {
+   "t": "10:24",
+   "subject": "mountain",
+   "action": "add shadows on mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "brush in shadow areas",
+   "pressure": "unknown",
+   "where": "mountain shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:47",
+   "subject": "mountain",
+   "action": "small knife into tiny shadow spots",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "gentle touches",
+   "pressure": "whisper",
+   "where": "small places in mountain",
+   "rule": "the small knife reaches tight spots better",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "mountain",
+   "action": "tap base and blend out",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap following the angles",
+   "pressure": "light",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:27",
+   "subject": "far trees",
+   "action": "mix green and lift far trees",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "yellow mixed with blue makes a nice green",
+   "new": ""
+  },
+  {
+   "t": "13:42",
+   "subject": "far trees",
+   "action": "load dark background tree color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "very dark load",
+   "pressure": "unknown",
+   "where": "background trees area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:05",
+   "subject": "far trees",
+   "action": "tap dark background trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "touch and tap downward",
+   "pressure": "light",
+   "where": "background area",
+   "rule": "reload when strokes start to break apart",
+   "new": ""
+  },
+  {
+   "t": "14:56",
+   "subject": "far trees",
+   "action": "fill in tree tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "fill in with more paint",
+   "pressure": "unknown",
+   "where": "tree tops higher up",
+   "rule": "if trees look like fence posts, add more paint",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "trunk/limbs",
+   "action": "lift white trunks on far trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "lift upward gently",
+   "pressure": "whisper",
+   "where": "far back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:14",
+   "subject": "trunk/limbs",
+   "action": "cut through white with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "cut through the white",
+   "pressure": "unknown",
+   "where": "same tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "rock",
+   "action": "fill dark rock area",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "fill in paint",
+   "pressure": "unknown",
+   "where": "big rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "rock",
+   "action": "knife indicate stones and rocks",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "marbled gray, cut roll",
+   "motion": "knife touches and bounces",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:17",
+   "subject": "rock",
+   "action": "darken rock base",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "bounce darker toward base",
+   "pressure": "light",
+   "where": "base of rock area",
+   "rule": "top looks lit more than bottom, so bottom gets darker",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "evergreen",
+   "action": "pull down evergreen limbs",
+   "tool": "other: oval brush",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "evergreen",
+   "action": "highlight evergreen from right side",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow",
+    "liquid white"
+   ],
+   "load": "thinned with liquid white",
+   "motion": "touch and drag",
+   "pressure": "unknown",
+   "where": "right side of tree",
+   "rule": "highlights come from the right, so emphasis goes there",
+   "new": ""
+  },
+  {
+   "t": "20:37",
+   "subject": "structure",
+   "action": "block in house shape",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed brown, cut roll on knife",
+   "motion": "scrape and fill in shape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "house area",
+   "new": ""
+  },
+  {
+   "t": "20:59",
+   "subject": "structure",
+   "action": "add brown roof",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "brown mixed with red and white",
+   "motion": "touch in roof shape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "top of house",
+   "new": ""
+  },
+  {
+   "t": "21:26",
+   "subject": "structure",
+   "action": "highlight house edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "lighter brown mix on knife",
+   "motion": "",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "edge of house",
+   "new": "a lighter edge makes it stand out"
+  },
+  {
+   "t": "21:59",
+   "subject": "structure",
+   "action": "darken shadow side of house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "side of house",
+   "rule": "the side is in shadow",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "structure",
+   "action": "brown board texture on house",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch to make board lines",
+   "pressure": "unknown",
+   "where": "side of house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "structure",
+   "action": "outline door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "cut across outline",
+   "pressure": "unknown",
+   "where": "door spot on house",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:46",
+   "subject": "grass",
+   "action": "tap grass around cabin base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "cadmium yellow",
+    "bright red",
+    "liquid white"
+   ],
+   "load": "thin paint, dipped into liquid white",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bottom of house",
+   "rule": "the canvas already has a lot of paint, so each layer must be thinner",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "path",
+   "action": "add path to door",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "",
+   "motion": "back and forth strokes",
+   "pressure": "unknown",
+   "where": "path to the door",
+   "rule": "he needs a visible path to come home",
+   "new": ""
+  },
+  {
+   "t": "24:01",
+   "subject": "land",
+   "action": "hill with sap green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "hill area at back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "trunk/limbs",
+   "action": "scratch in stick and twig",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch in lines",
+   "pressure": "unknown",
+   "where": "near house",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

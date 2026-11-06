@@ -1,0 +1,535 @@
+{
+ "ep": "S27E05",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "titanium white",
+  "van dyke brown",
+  "dark cyan",
+  "alizarin crimson",
+  "black",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "01:19",
+   "subject": "sky",
+   "action": "apply faint blue sky wash",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "tiny amount",
+   "motion": "gentle soft strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:31",
+   "subject": "other: shadow base",
+   "action": "lay low blue shadow base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "little blue",
+   "motion": "gentle strokes",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "becomes the shadow color for the snow later",
+   "new": "may become a lake or pond"
+  },
+  {
+   "t": "03:17",
+   "subject": "sky",
+   "action": "soft white glaze in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "gentle dabs",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:53",
+   "subject": "far trees",
+   "action": "tap in far-away indications",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue"
+   ],
+   "load": "very little paint",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "far trees",
+   "action": "blend far edges softly out",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner on brush",
+   "motion": "soft blending",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "thinner and clear react for a watercolor look",
+   "new": ""
+  },
+  {
+   "t": "06:12",
+   "subject": "bush",
+   "action": "tap in closer foreground shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "a little more paint",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:52",
+   "subject": "other: flick texture",
+   "action": "flick thinner spatter",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner on brush",
+   "motion": "flick",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:15",
+   "subject": "bush",
+   "action": "add lower layered bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "little paint",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "lower background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:42",
+   "subject": "bush",
+   "action": "push and lift shapes sideways",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "leftover paint",
+   "motion": "push sideways then pull up",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:27",
+   "subject": "mist",
+   "action": "soften background with white and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "thinner with a little white",
+   "motion": "light pull",
+   "pressure": "light",
+   "where": "background",
+   "rule": "blue dulls the white so it sits back",
+   "new": ""
+  },
+  {
+   "t": "09:48",
+   "subject": "other: lifted canvas",
+   "action": "lift paint with plain thinner",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinner only",
+   "motion": "pull and lift",
+   "pressure": "light",
+   "where": "background",
+   "rule": "canvas showing through gives the same effect",
+   "new": ""
+  },
+  {
+   "t": "10:15",
+   "subject": "snow",
+   "action": "lay snow across the ground",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "full brush",
+   "motion": "long sweeping strokes",
+   "pressure": "unknown",
+   "where": "ground across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "structure",
+   "action": "scrape out building shapes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "firm scraping",
+   "pressure": "firm",
+   "where": "middle of canvas",
+   "rule": "removes excess paint and lays out the buildings",
+   "new": ""
+  },
+  {
+   "t": "11:44",
+   "subject": "other: shadow side",
+   "action": "mix dark and place shadow side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark cyan"
+   ],
+   "load": "small amount",
+   "motion": "place dark masses",
+   "pressure": "unknown",
+   "where": "building shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:38",
+   "subject": "structure",
+   "action": "pull down the barn front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark cyan"
+   ],
+   "load": "little more paint",
+   "motion": "straight down with broken edge",
+   "pressure": "unknown",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "structure",
+   "action": "mix brown and white for building sides",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little brown; little white",
+   "motion": "gentle pull down",
+   "pressure": "light",
+   "where": "building sides",
+   "rule": "less light on the shed so it is darker in back",
+   "new": ""
+  },
+  {
+   "t": "14:15",
+   "subject": "structure",
+   "action": "add window line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "front of barn",
+   "rule": "cows need a place to look out",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "snow",
+   "action": "swoop snow onto the other building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "swoop",
+   "pressure": "light",
+   "where": "roof of other building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "snow",
+   "action": "add blue shadow under the snow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "little blue",
+   "motion": "swoop",
+   "pressure": "light",
+   "where": "snow near building",
+   "rule": "blue gives the shadow in the snow",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "other: shadow base",
+   "action": "deepen blue shadow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "more blue",
+   "motion": "add more blue",
+   "pressure": "medium",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "path",
+   "action": "lay in a faint road path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "little blue; little white",
+   "motion": "dabble across",
+   "pressure": "light",
+   "where": "center to canvas edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "snow",
+   "action": "bring snow over road edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "loose clean strokes",
+   "pressure": "light",
+   "where": "road edges",
+   "rule": "wind blows snow across the road",
+   "new": ""
+  },
+  {
+   "t": "19:01",
+   "subject": "other: cow",
+   "action": "add warm crimson white touch",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "least little touch of crimson",
+   "motion": "small touches",
+   "pressure": "light",
+   "where": "near barn",
+   "rule": "crimson gives a warm effect",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "fence",
+   "action": "paint fence posts with liner brush",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little paint thinner and lots of paint",
+   "motion": "tap posts going smaller",
+   "pressure": "light",
+   "where": "across the field",
+   "rule": "smaller and closer posts show distance",
+   "new": ""
+  },
+  {
+   "t": "20:20",
+   "subject": "fence",
+   "action": "dab snow on fence tops",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "fence tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:42",
+   "subject": "fence",
+   "action": "add wire lines with knife heel",
+   "tool": "knife",
+   "part": "heel",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown",
+   "motion": "swoosh down",
+   "pressure": "light",
+   "where": "fence line",
+   "rule": "",
+   "new": "two strands of wire"
+  },
+  {
+   "t": "21:06",
+   "subject": "snow",
+   "action": "add blue-tinted snow on post",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "little white; little blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "post top",
+   "rule": "blue makes snow look colder",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "bush",
+   "action": "tap in back bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "medium blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "dark behind lets the light show",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "snow",
+   "action": "barely touch white highlights on snow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "shrub and building tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "other: bottom blend",
+   "action": "clean up bottom with white",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "gentle clean up",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "brings the painting together",
+   "new": ""
+  },
+  {
+   "t": "24:17",
+   "subject": "trunk/limbs",
+   "action": "add twigs around posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "around posts",
+   "rule": "grass grows near posts because mowing cannot reach them",
+   "new": ""
+  },
+  {
+   "t": "24:17",
+   "subject": "other: signature",
+   "action": "sign in thin red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "thin paint with thinner",
+   "motion": "sharp strokes",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "thin paint flows over thick paint",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

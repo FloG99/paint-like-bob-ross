@@ -1,0 +1,675 @@
+{
+ "ep": "S22E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "indian yellow",
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "van dyke brown",
+  "dark sienna",
+  "black",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:48",
+   "subject": "sun/glow",
+   "action": "paint a small sun in the sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "indian yellow"
+   ],
+   "load": "yellows mixed on the brush",
+   "motion": "small x strokes in a circle",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "straight strokes are hard to blend, x strokes are easier",
+   "new": ""
+  },
+  {
+   "t": "01:10",
+   "subject": "sun/glow",
+   "action": "add yellow ochre around the sun edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch of ochre on the brush",
+   "motion": "blend around the outside edge",
+   "pressure": "unknown",
+   "where": "edge of the sun",
+   "rule": "ochre gives the edge a gold color",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "sky",
+   "action": "crimson edges around the sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "a small amount tapped into the bristles",
+   "motion": "x strokes from outside working inward",
+   "pressure": "light",
+   "where": "edges around the sun",
+   "rule": "color lightens as it moves inward",
+   "new": ""
+  },
+  {
+   "t": "04:08",
+   "subject": "sky",
+   "action": "blue and crimson lavender along the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on the brush",
+   "motion": "gently throw in along the top",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "lets the color blend downward softly",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "sky",
+   "action": "blend the two sky areas together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend areas together",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:02",
+   "subject": "sun/glow",
+   "action": "finger paint a soft quiet sun",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a touch of white on the finger",
+   "motion": "rub in and blend gently",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "a quiet sun that is not too bright",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "cloud",
+   "action": "peach cloud circles across the sun",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "alizarin crimson"
+   ],
+   "load": "mixed on the fan brush",
+   "motion": "tight little circles",
+   "pressure": "light",
+   "where": "across the sun",
+   "rule": "warm peachy color suits the warm scene",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "cloud",
+   "action": "blend the cloud with a dry brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dry brush",
+   "motion": "gently blend",
+   "pressure": "whisper",
+   "where": "cloud",
+   "rule": "removes excess paint",
+   "new": ""
+  },
+  {
+   "t": "06:17",
+   "subject": "cloud",
+   "action": "sparkle light flavor on the cloud",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "white with a little cad yellow and ochre",
+   "motion": "small sparkle dabs with the corner",
+   "pressure": "light",
+   "where": "top of the cloud",
+   "rule": "adds a little flavor to the highlight",
+   "new": ""
+  },
+  {
+   "t": "06:41",
+   "subject": "cloud",
+   "action": "fluff the cloud with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "fluff it",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "just enough to add flavor on top",
+   "new": ""
+  },
+  {
+   "t": "07:12",
+   "subject": "cloud",
+   "action": "bright red highlight on a second cloud",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "red mixed with white",
+   "motion": "highlight the cloud lightly",
+   "pressure": "light",
+   "where": "lower cloud",
+   "rule": "checks that the cloud stands out",
+   "new": ""
+  },
+  {
+   "t": "08:00",
+   "subject": "cloud",
+   "action": "peach cloud from crimson and yellows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "peach mix on the fan",
+   "motion": "tap the peach cloud in place",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "works best one cloud at a time in layers",
+   "new": ""
+  },
+  {
+   "t": "08:44",
+   "subject": "cloud",
+   "action": "tiny highlight on the peach cloud",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "light flavored white",
+   "motion": "tiny light touch",
+   "pressure": "light",
+   "where": "peach cloud",
+   "rule": "needs only a tiny bit",
+   "new": ""
+  },
+  {
+   "t": "09:09",
+   "subject": "cloud",
+   "action": "another bright red cloud",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "red with a little white",
+   "motion": "drop in cloud after cloud",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "many clouds make the painting pastel",
+   "new": ""
+  },
+  {
+   "t": "09:57",
+   "subject": "cloud",
+   "action": "small lavender clouds lower down",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson mix on the brush",
+   "motion": "tiny circles with the corner",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "color darkens away from the sun, the light source",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "cloud",
+   "action": "tiny floaters near top and sides",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender on the brush",
+   "motion": "very light floaters",
+   "pressure": "whisper",
+   "where": "top corners and sides",
+   "rule": "keeps the top of the sky from being empty",
+   "new": ""
+  },
+  {
+   "t": "12:51",
+   "subject": "cloud",
+   "action": "highlight the dark clouds on top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "bright red with a little white",
+   "motion": "highlight the top cloud edges",
+   "pressure": "light",
+   "where": "top of the clouds",
+   "rule": "highlights separate the planes so the distance reads",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "cloud",
+   "action": "gently blend the clouds together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean big brush",
+   "motion": "gently blend",
+   "pressure": "whisper",
+   "where": "clouds",
+   "rule": "brings all the clouds together",
+   "new": ""
+  },
+  {
+   "t": "14:03",
+   "subject": "water",
+   "action": "pull the horizon line across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "pull straight across",
+   "pressure": "unknown",
+   "where": "horizon",
+   "rule": "dilute color for a softer line than liquid clear",
+   "new": ""
+  },
+  {
+   "t": "14:46",
+   "subject": "water",
+   "action": "add crimson to the lavender water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "crimson added to the same brush",
+   "motion": "blend across the water",
+   "pressure": "unknown",
+   "where": "water near horizon",
+   "rule": "gives the water a reddish lavender tone",
+   "new": ""
+  },
+  {
+   "t": "15:36",
+   "subject": "ocean/wave",
+   "action": "lay in the basic shape of the major wave",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on the fan",
+   "motion": "lay in a basic wave shape",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "the wave shape sets where it crashes",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "ocean/wave",
+   "action": "small rocking strokes for distant waves",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "rocking strokes",
+   "pressure": "unknown",
+   "where": "far back of canvas",
+   "rule": "suggests small waves far away",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "ocean/wave",
+   "action": "crash a small wave with the filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "little crashing strokes",
+   "pressure": "unknown",
+   "where": "top of the wave",
+   "rule": "a small crash, not a big one",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "ocean/wave",
+   "action": "shadow under the crash",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "black"
+   ],
+   "load": "blue crimson and black mix on the filbert",
+   "motion": "let it come around the crash",
+   "pressure": "unknown",
+   "where": "under the crash",
+   "rule": "the shadow makes the crash stand out",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "ocean/wave",
+   "action": "highlight the crash with an upward push",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "upward push then gently blend",
+   "pressure": "light",
+   "where": "top of the crash",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:31",
+   "subject": "water",
+   "action": "soften the edge with the corner of a 1in brush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean 1in brush",
+   "motion": "blend very lightly",
+   "pressure": "whisper",
+   "where": "edge of the crash",
+   "rule": "gives the edge a very soft finish",
+   "new": ""
+  },
+  {
+   "t": "18:59",
+   "subject": "water",
+   "action": "add pale green-yellow to the eye of the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with a touch of cad yellow",
+   "motion": "tiny circles blending outward",
+   "pressure": "light",
+   "where": "eye of the wave",
+   "rule": "light zings through the water",
+   "new": "blue and yellow mix to green where they meet"
+  },
+  {
+   "t": "19:27",
+   "subject": "water",
+   "action": "knife ripple of white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "press a small ripple shape",
+   "pressure": "hard",
+   "where": "middle of the water",
+   "rule": "suggests a ripple moving in the water",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "water",
+   "action": "blend the knife edge back with clean fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "clean fan brush",
+   "motion": "take it back lightly",
+   "pressure": "whisper",
+   "where": "ripple edge",
+   "rule": "keeps the nice edge from being destroyed",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "water",
+   "action": "pull white down under the light source",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "pull down, then across",
+   "pressure": "firm",
+   "where": "under the light source",
+   "rule": "a streak under the light makes the curl",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "water",
+   "action": "knife ripple along the reflection area",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "add another small ripple",
+   "pressure": "unknown",
+   "where": "reflection area",
+   "rule": "lets you see right through the water",
+   "new": ""
+  },
+  {
+   "t": "21:24",
+   "subject": "water",
+   "action": "gently blend back the shiny areas",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "clean fan brush",
+   "motion": "very gently blend back",
+   "pressure": "whisper",
+   "where": "shiny water areas",
+   "rule": "must not destroy the shine",
+   "new": ""
+  },
+  {
+   "t": "21:48",
+   "subject": "water",
+   "action": "add small white lines and ripples",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the liner",
+   "motion": "short lines here and there",
+   "pressure": "light",
+   "where": "across the water",
+   "rule": "a dark line underneath separates the shapes",
+   "new": ""
+  },
+  {
+   "t": "23:02",
+   "subject": "land",
+   "action": "block in the sand dune shapes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "van dyke brown",
+    "dark sienna",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "brownish grey mix from the palette",
+   "motion": "basic shapes over the lower canvas",
+   "pressure": "unknown",
+   "where": "lower part of canvas",
+   "rule": "a dark base lets the lighter color show",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "land",
+   "action": "touch white and red roll on dune tops",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "knife roll of white with a little red",
+   "motion": "barely graze and let it break",
+   "pressure": "whisper",
+   "where": "tops of the dunes",
+   "rule": "lets the lighter top color stand out",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "land",
+   "action": "lavender shadow dabs on the dunes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender mix on the knife",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "on the dunes",
+   "rule": "sparkles the dunes up",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "grass",
+   "action": "sea grass dabs with thinned sap green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "sap green with brown and thinner",
+   "motion": "pop in little dabs",
+   "pressure": "unknown",
+   "where": "sand area",
+   "rule": "thinner paint keeps the grass light",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "grass",
+   "action": "lift sea oats upward with thin dark sienna",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "sap green"
+   ],
+   "load": "thinned mix on the fan",
+   "motion": "lift upward in short strokes",
+   "pressure": "unknown",
+   "where": "upper bank",
+   "rule": "shows sea oats growing out there",
+   "new": ""
+  },
+  {
+   "t": "25:57",
+   "subject": "grass",
+   "action": "light tips on the sea oats",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "white with a little yellow",
+   "motion": "dab a few light tips",
+   "pressure": "light",
+   "where": "among the grass",
+   "rule": "light tips show up against the dark",
+   "new": ""
+  },
+  {
+   "t": "26:24",
+   "subject": "grass",
+   "action": "pull white up from the base of the grass",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "grab the bottom and pull a little",
+   "pressure": "light",
+   "where": "base of the grass",
+   "rule": "brings the grass together",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[16:26] keep a dark area between the wave and the back so the trough shows"
+ ]
+}

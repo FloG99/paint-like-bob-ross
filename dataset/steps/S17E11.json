@@ -1,0 +1,398 @@
+{
+ "ep": "S17E11",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "center",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "yellow ochre",
+  "black",
+  "green",
+  "sap green",
+  "yellow",
+  "van dyke brown",
+  "dark sienna",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "01:33",
+   "subject": "sky",
+   "action": "tap in sky color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tapped a little into bristles",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:19",
+   "subject": "sun/glow",
+   "action": "soft glow with white and yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "small amounts loaded",
+   "motion": "gentle blending",
+   "pressure": "light",
+   "where": "back center of the sky",
+   "rule": "keep amounts tiny so the blue does not turn green",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "far trees",
+   "action": "tap in light tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "almost no paint, picked up from the canvas",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "middle background",
+   "rule": "pick up what is already there instead of adding more",
+   "new": ""
+  },
+  {
+   "t": "06:03",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs and twigs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "thinned to ink with paint thinner",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "scattered through the trees",
+   "rule": "same color as the trees so they do not stand out",
+   "new": ""
+  },
+  {
+   "t": "07:46",
+   "subject": "far trees",
+   "action": "soften some tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over from tapping",
+   "motion": "tapping",
+   "pressure": "whisper",
+   "where": "top of the trees",
+   "rule": "softening pushes the trees back so they look farther away",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "far trees",
+   "action": "dab dark subdued tree and bush shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "green",
+    "black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "dark green darkened with black and a little lavender",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "keep them quiet so they do not stand out",
+   "new": ""
+  },
+  {
+   "t": "11:31",
+   "subject": "grass",
+   "action": "tap in soft grassy area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "green"
+   ],
+   "load": "a little green on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "lower part away from the light",
+   "rule": "keep it dark and away from the light so it recedes",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "path",
+   "action": "paint a winding path with the knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "small roll of paint pulled out flat",
+   "motion": "cut across then barely touch",
+   "pressure": "light",
+   "where": "middle of the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "path",
+   "action": "soften the path edges",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "nothing added",
+   "motion": "gentle brushing",
+   "pressure": "whisper",
+   "where": "the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:25",
+   "subject": "land",
+   "action": "push a ridge of green along the edge",
+   "tool": "2in",
+   "part": "edge",
+   "paint": [
+    "green"
+   ],
+   "load": "paint on the bristle edge",
+   "motion": "pushing",
+   "pressure": "medium",
+   "where": "upper area behind the path",
+   "rule": "in front of the path pushes it back; work farthest to nearest",
+   "new": ""
+  },
+  {
+   "t": "15:50",
+   "subject": "path",
+   "action": "blend path into the surroundings",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "nothing added",
+   "motion": "light blending",
+   "pressure": "whisper",
+   "where": "path and nearby trees",
+   "rule": "brighter back and larger near edge make the path look far",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "leaf tree",
+   "action": "drop in a very large dark tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "black"
+   ],
+   "load": "very dark brown mix",
+   "motion": "dropping in",
+   "pressure": "medium",
+   "where": "center of the painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "leaf tree",
+   "action": "lay highlights on the tree masses",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "small roll of paint on the knife",
+   "motion": "barely touching and letting it flow down",
+   "pressure": "whisper",
+   "where": "tops of the big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:45",
+   "subject": "leaf tree",
+   "action": "highlight one side of each tree",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "same highlight mix",
+   "motion": "tapping down",
+   "pressure": "light",
+   "where": "one side of each tree",
+   "rule": "light comes from the center so both sides get some highlight",
+   "new": ""
+  },
+  {
+   "t": "20:08",
+   "subject": "leaf tree",
+   "action": "add blue reflected light on far side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tiny bit of blue and white",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "far side of the trees",
+   "rule": "blue on the far side shows reflected light",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "trunk/limbs",
+   "action": "tap dark brown to blend and form trunks",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark brown on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bases of the trees",
+   "rule": "dark brown lets the colors blend so they look real",
+   "new": ""
+  },
+  {
+   "t": "21:27",
+   "subject": "grass",
+   "action": "add grass around the bottoms of the trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over",
+   "motion": "light blending",
+   "pressure": "light",
+   "where": "around bottom of the trees",
+   "rule": "it blends everything together",
+   "new": ""
+  },
+  {
+   "t": "21:50",
+   "subject": "trunk/limbs",
+   "action": "paint thin limbs on the trees",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin ink-like brown with a touch of white",
+   "motion": "pulling strokes",
+   "pressure": "light",
+   "where": "across the forest",
+   "rule": "a touch of white so the limbs show up",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "leaf tree",
+   "action": "dab a few small leaves",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "tiny bit of medium with yellow and green",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "a few spots on the trees",
+   "rule": "keeps the background from getting lost",
+   "new": ""
+  },
+  {
+   "t": "24:36",
+   "subject": "other: red accent marks",
+   "action": "dab bright red and yellow ochre marks",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "bright red then yellow ochre",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:25",
+   "subject": "other: people",
+   "action": "paint two figures walking",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "black"
+   ],
+   "load": "black thinned with paint thinner",
+   "motion": "liner strokes",
+   "pressure": "light",
+   "where": "near the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "other: people",
+   "action": "add a hat to one figure",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "black"
+   ],
+   "load": "thinned black",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "head of one figure",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:20",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

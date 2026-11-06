@@ -1,0 +1,417 @@
+{
+ "ep": "S29E05",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "cad yellow",
+  "yellow ochre",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "bright red",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:53",
+   "subject": "sky",
+   "action": "block in phthalo blue sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little color into bristles",
+   "motion": "push color across the upper sky",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:01",
+   "subject": "sky",
+   "action": "add darker prussian blue to corners",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue"
+   ],
+   "load": "add prussian blue on the same brush",
+   "motion": "tap in the corners",
+   "pressure": "light",
+   "where": "corners",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "sky",
+   "action": "darken corners with midnight black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "add a little midnight black",
+   "motion": "blend corners and edges",
+   "pressure": "light",
+   "where": "corners and edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "sky",
+   "action": "lay in a light area at the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap white on the brush after washing",
+   "motion": "blend outward from the center",
+   "pressure": "light",
+   "where": "upper sky, center",
+   "rule": "marks the lightest area as the light source",
+   "new": ""
+  },
+  {
+   "t": "04:40",
+   "subject": "far trees",
+   "action": "tap basic bush and tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "tap prussian blue onto bristles",
+   "motion": "tap down with the corner",
+   "pressure": "light",
+   "where": "back, upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "far trees",
+   "action": "add yellow and ochre highlights",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "pick up cad yellow and ochre on the same brush",
+   "motion": "tap highlights on the trees",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "leftover blue turns the yellow green",
+   "new": ""
+  },
+  {
+   "t": "08:28",
+   "subject": "trunk/limbs",
+   "action": "tap in tree trunks and limbs",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "thin the dark mix with thinner",
+   "motion": "touch lightly on the canvas",
+   "pressure": "light",
+   "where": "back, scattered trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:41",
+   "subject": "land",
+   "action": "block in green and yellow background",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "pick up greens and yellows",
+   "motion": "tap in a basic shape",
+   "pressure": "light",
+   "where": "back, center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:57",
+   "subject": "structure",
+   "action": "scrape a basic barn shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape a basic shape",
+   "pressure": "firm",
+   "where": "center right",
+   "rule": "scraping a shape helps me plan placement and perspective",
+   "new": ""
+  },
+  {
+   "t": "11:27",
+   "subject": "structure",
+   "action": "block in barn color with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load van dyke brown on the knife",
+   "motion": "block in the back eave",
+   "pressure": "firm",
+   "where": "back eave, right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "structure",
+   "action": "pull marbled colors down the barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "roll a marbled load on the knife",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "barn face",
+   "rule": "marbled mix gives variation instead of one flat color",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "structure",
+   "action": "darken one barn side and add board marks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "roll more paint on the knife",
+   "motion": "touch and let it pull off",
+   "pressure": "light",
+   "where": "barn side and face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "structure",
+   "action": "mix and bounce roof color with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mix colors without over-mixing",
+   "motion": "bounce the knife on the roof",
+   "pressure": "light",
+   "where": "barn roof",
+   "rule": "not over-mixing keeps the varied colors",
+   "new": ""
+  },
+  {
+   "t": "16:23",
+   "subject": "structure",
+   "action": "sparkle barn edge with blue-white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "cut a very small roll of paint",
+   "motion": "touch along the edge",
+   "pressure": "light",
+   "where": "barn edge",
+   "rule": "sparkle the edge so it stands out",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "structure",
+   "action": "add board marks on barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "touch the knife lightly with paint",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "barn face",
+   "rule": "so it looks made from old boards",
+   "new": ""
+  },
+  {
+   "t": "17:36",
+   "subject": "grass",
+   "action": "tap grassy areas along the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tap greens and yellows, touch of bright red",
+   "motion": "tap in a few grassy shapes",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "red dulls greens, since green and red make brown",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "land",
+   "action": "tap a hill sloping down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "add a little thinner",
+   "motion": "let the paint slide down",
+   "pressure": "light",
+   "where": "right side, lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:04",
+   "subject": "path",
+   "action": "lay in brown path with crimson end",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "mix sienna into the brown, add crimson at one end",
+   "motion": "pull path out through the grass",
+   "pressure": "light",
+   "where": "lower right, to the barn",
+   "rule": "crimson will show under the later highlight",
+   "new": ""
+  },
+  {
+   "t": "21:38",
+   "subject": "trunk/limbs",
+   "action": "paint a big tree trunk with arms",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix brown and sienna on the fan brush",
+   "motion": "tap and pull out arms",
+   "pressure": "light",
+   "where": "center right, up",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:47",
+   "subject": "trunk/limbs",
+   "action": "add broken limbs hanging from the bottom",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same mix on bristles",
+   "motion": "touch and give a little pull",
+   "pressure": "light",
+   "where": "lower tree, sides",
+   "rule": "crooked limbs with character look more interesting",
+   "new": ""
+  },
+  {
+   "t": "24:23",
+   "subject": "fence",
+   "action": "add a couple of fence posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "mix a lighter brown",
+   "motion": "tap posts in",
+   "pressure": "light",
+   "where": "lower left, along path",
+   "rule": "must be brighter or the post will not show",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "fence",
+   "action": "cut in a thin wire line",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown on the liner brush",
+   "motion": "draw a thin line",
+   "pressure": "light",
+   "where": "fence top area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:45",
+   "subject": "grass",
+   "action": "tap grass around the fence and path",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "pick up greens and yellows",
+   "motion": "tap grass at the foot of posts",
+   "pressure": "light",
+   "where": "lower area, around fence",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

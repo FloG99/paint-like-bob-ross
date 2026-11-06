@@ -1,0 +1,424 @@
+{
+ "ep": "S31E13",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "Indian yellow",
+  "yellow ochre",
+  "bright red",
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "sap green",
+  "yellow",
+  "brown",
+  "black",
+  "Van Dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:38",
+   "subject": "sky",
+   "action": "crisscross Indian yellow over the canvas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "modest Indian yellow, sparingly",
+   "motion": "paint right over everything",
+   "pressure": "light",
+   "where": "right over everything",
+   "rule": "Indian yellow is very transparent.",
+   "new": ""
+  },
+  {
+   "t": "01:06",
+   "subject": "sky",
+   "action": "add yellow ochre and bright red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "touch of yellow ochre above it",
+   "motion": "just let it go",
+   "pressure": "light",
+   "where": "right above it",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:36",
+   "subject": "sky",
+   "action": "add alizarin crimson",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "maybe even a touch of alizarin crimson",
+   "motion": "just let it go",
+   "pressure": "light",
+   "where": "right up like there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "fill in lavender sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "a little bit of that color",
+   "motion": "fill the remaining sky",
+   "pressure": "light",
+   "where": "rest of the sky",
+   "rule": "",
+   "new": "never mix liquid clear with thinner"
+  },
+  {
+   "t": "03:39",
+   "subject": "sun/glow",
+   "action": "pull titanium white for sun rays",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap a bit onto one brush corner",
+   "motion": "begin working up",
+   "pressure": "whisper",
+   "where": "at the edge of this mountain, work up",
+   "rule": "It is thin enough to let some underlying color show through.",
+   "new": ""
+  },
+  {
+   "t": "04:48",
+   "subject": "other: lavender base",
+   "action": "cover lower area with lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "that lavender color",
+   "motion": "let's just cover it",
+   "pressure": "light",
+   "where": "down in here, stop along in there",
+   "rule": "Highlights applied here will pick up some underlying color.",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "trunk/limbs",
+   "action": "block in tree shapes with lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "Takes very little color",
+   "motion": "enough to form small arms on him",
+   "pressure": "light",
+   "where": "couple of big old trees here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:27",
+   "subject": "far trees",
+   "action": "tap far trees with mixed yellow-green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "yellow ochre"
+   ],
+   "load": "sap green + yellow + yellow ochre",
+   "motion": "tap, push",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:20",
+   "subject": "far trees",
+   "action": "add little red to far trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red now and then",
+   "motion": "just little soft trees",
+   "pressure": "light",
+   "where": "back in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "land",
+   "action": "tap land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "touch, and begin tapping",
+   "motion": "just begin tapping",
+   "pressure": "light",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "land",
+   "action": "vary colors on land",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green"
+   ],
+   "load": "vary the colors: yellows and greens",
+   "motion": "tap into the lay of the land",
+   "pressure": "light",
+   "where": "down here, the way the land flows",
+   "rule": "The land should appear to slope in this direction.",
+   "new": "add a little paint thinner if it won't stick"
+  },
+  {
+   "t": "09:36",
+   "subject": "leaf tree",
+   "action": "put a tree to fill the hole",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "a little tree there",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "trunk/limbs",
+   "action": "thin trunk line with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "brown",
+    "titanium white",
+    "black"
+   ],
+   "load": "a little brown. a little white",
+   "motion": "very thin thin paint",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "leaf tree",
+   "action": "tap leaves on old trees",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green",
+    "bright red"
+   ],
+   "load": "yellow + sap green + occasional red",
+   "motion": "begin placing hints of small leaves",
+   "pressure": "light",
+   "where": "up in here, out there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "leaf tree",
+   "action": "red in tree with corner of brush",
+   "tool": "liner",
+   "part": "corner",
+   "paint": [
+    "bright red"
+   ],
+   "load": "put a little red in there",
+   "motion": "just the corner of the brush",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:32",
+   "subject": "bush",
+   "action": "pick out individual bushes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "picking out individuals here",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "At this exact spot.",
+   "new": ""
+  },
+  {
+   "t": "15:17",
+   "subject": "bush",
+   "action": "layer bushes",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "many layers of bushes",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "Build up in layers.",
+   "new": ""
+  },
+  {
+   "t": "17:10",
+   "subject": "bush",
+   "action": "bright green accent with phthalo blue",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little phthalo blue",
+   "motion": "put in there",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "Produces a green suitable for a spring scene.",
+   "new": "phthalo blue makes a very bright green"
+  },
+  {
+   "t": "18:12",
+   "subject": "path",
+   "action": "lay brown path with knife roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "Van Dyke brown + dark sienna, a small paint roll on the knife",
+   "motion": "up in here",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "A route back into the scene is needed.",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "bush",
+   "action": "lay thin green bushes over the path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "more of this green",
+   "motion": "set that down into the painting",
+   "pressure": "light",
+   "where": "over the path",
+   "rule": "",
+   "new": "very thin green"
+  },
+  {
+   "t": "20:31",
+   "subject": "bush",
+   "action": "drop in little bright red dooders",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "little bright red",
+   "motion": "just drop in some little dooders",
+   "pressure": "light",
+   "where": "there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:31",
+   "subject": "leaf tree",
+   "action": "add a little tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "The figure needs a companion.",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "trunk/limbs",
+   "action": "paint white birch trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white paint would contrast sharply with that color",
+   "motion": "make them easy to make",
+   "pressure": "light",
+   "where": "on that color",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "trunk/limbs",
+   "action": "thin brown arms on old tree with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "brown"
+   ],
+   "load": "thin some brown down, a lot of paint thinner",
+   "motion": "put a little arm or two",
+   "pressure": "whisper",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "trunk/limbs",
+   "action": "sticks and twigs in dark areas",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "a little paint thinner, little light color",
+   "motion": "add some small sticks and twigs",
+   "pressure": "light",
+   "where": "mostly in the dark areas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

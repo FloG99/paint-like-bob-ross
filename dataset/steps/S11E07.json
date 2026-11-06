@@ -1,0 +1,609 @@
+{
+ "ep": "S11E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "yellow ochre",
+  "titanium white",
+  "prussian blue",
+  "dark sienna",
+  "sap green",
+  "bright red",
+  "cad yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "sky",
+   "action": "criss-cross sky strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "yellow ochre"
+   ],
+   "load": "blue, black and a little yellow ochre",
+   "motion": "criss-cross strokes, skip spaces",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "leaving gaps gives the sky action",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "cloud",
+   "action": "small cloud shapes with white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white pulled in",
+   "motion": "little circles, then blend",
+   "pressure": "light",
+   "where": "upper sky, two spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:53",
+   "subject": "far trees",
+   "action": "mix dark background tree color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "small blue and black with brown, ochre and white",
+   "motion": "mix on fan brush",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "brown and ochre dull the bright color",
+   "new": ""
+  },
+  {
+   "t": "04:30",
+   "subject": "evergreen",
+   "action": "stroke background evergreens",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "back and forth strokes, then turn sticks into trees",
+   "pressure": "light",
+   "where": "background, across the canvas",
+   "rule": "far things need little detail",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "mist",
+   "action": "tap mist over bottom of trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "whisper",
+   "where": "middle of trees",
+   "rule": "tapping makes a mist illusion",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "land",
+   "action": "pull land down through trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tiny amount of brown on fan",
+   "motion": "pop straight down",
+   "pressure": "light",
+   "where": "middle, through trees",
+   "rule": "land pushes everything back",
+   "new": ""
+  },
+  {
+   "t": "06:23",
+   "subject": "reflection",
+   "action": "pull reflections below the land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pop straight down then lightly across",
+   "pressure": "whisper",
+   "where": "below the land, water area",
+   "rule": "",
+   "new": "reflections come quickly"
+  },
+  {
+   "t": "06:23",
+   "subject": "water line",
+   "action": "cut in water lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "liquid white pulled onto knife",
+   "motion": "cut across with firm pressure",
+   "pressure": "firm",
+   "where": "middle of canvas, scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:03",
+   "subject": "bush",
+   "action": "block in dark bush and tree mass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "dark brown mix on 2in",
+   "motion": "block in from upper right corner",
+   "pressure": "light",
+   "where": "upper right corner",
+   "rule": "trees cover up many mistakes",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "reflection",
+   "action": "tap reflection downward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "below the dark mass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "leaf tree",
+   "action": "big dark tree shape on right",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in strong shape",
+   "pressure": "light",
+   "where": "big tree, right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:34",
+   "subject": "path",
+   "action": "block in brown path",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mixed",
+   "motion": "paint path shape, do not refine",
+   "pressure": "light",
+   "where": "lower middle, path",
+   "rule": "block in color now, highlights later",
+   "new": ""
+  },
+  {
+   "t": "10:11",
+   "subject": "bush",
+   "action": "dark shadow under the trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black added to dark mix",
+   "motion": "dark strokes under the trees",
+   "pressure": "light",
+   "where": "lower, under the trees",
+   "rule": "dark needed so the light shows",
+   "new": ""
+  },
+  {
+   "t": "10:49",
+   "subject": "trunk/limbs",
+   "action": "thin van dyke brown on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned like ink on liner",
+   "motion": "pull to a point",
+   "pressure": "light",
+   "where": "tree trunk area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:27",
+   "subject": "trunk/limbs",
+   "action": "draw tree trunk and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down, add limbs",
+   "pressure": "light",
+   "where": "back, big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "trunk/limbs",
+   "action": "small sticks shrinking farther back",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes, smaller farther back",
+   "pressure": "light",
+   "where": "back in the trees",
+   "rule": "smaller sticks create distance",
+   "new": ""
+  },
+  {
+   "t": "13:22",
+   "subject": "leaf tree",
+   "action": "fall color clumps on trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "yellow ochre with bright red",
+   "motion": "little clumps and patterns",
+   "pressure": "light",
+   "where": "upper trees",
+   "rule": "clumps separate the tree and give individuality",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "bush",
+   "action": "layer bushes one at a time",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "layer after layer, one bush at a time",
+   "pressure": "light",
+   "where": "lower bushes",
+   "rule": "one bush at a time avoids rushing",
+   "new": ""
+  },
+  {
+   "t": "14:35",
+   "subject": "bush",
+   "action": "bright highlights on small bush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "brush dipped in thinner",
+   "motion": "light touches to break and stick",
+   "pressure": "light",
+   "where": "small bush",
+   "rule": "thinner makes the paint stick easily",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "trunk/limbs",
+   "action": "loose sticks floating in back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very loose strokes",
+   "pressure": "whisper",
+   "where": "back, loose",
+   "rule": "loose sticks create distance",
+   "new": ""
+  },
+  {
+   "t": "15:52",
+   "subject": "bush",
+   "action": "layer bushes working forward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bush after bush, forward",
+   "pressure": "light",
+   "where": "middle to front",
+   "rule": "working forward creates distance",
+   "new": ""
+  },
+  {
+   "t": "16:29",
+   "subject": "land",
+   "action": "bounce brown dirt along base",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the knife",
+   "motion": "bounce along",
+   "pressure": "light",
+   "where": "bottom, base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "rock",
+   "action": "bounce stones and hills in marbled dirt",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "marbled dark sienna, white and a little blue",
+   "motion": "bounce along, do not over mix",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "bush",
+   "action": "push foliage up with brush corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "sap green and yellow ochre",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "lower bushes",
+   "rule": "corner of the brush avoids smiley faces",
+   "new": ""
+  },
+  {
+   "t": "18:21",
+   "subject": "land",
+   "action": "highlight dirt with sienna and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "dark sienna and white with a little blue",
+   "motion": "gray it with a little blue",
+   "pressure": "light",
+   "where": "dirt area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:21",
+   "subject": "water line",
+   "action": "cut water line under dirt",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "liquid white on fan",
+   "motion": "quick cut in",
+   "pressure": "light",
+   "where": "under the dirt",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "bush",
+   "action": "bushes hanging over the path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "hang over",
+   "pressure": "light",
+   "where": "over the path",
+   "rule": "hanging bushes pull it together",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "path",
+   "action": "highlight path with white and sienna",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "nearly pure white with brown",
+   "motion": "bring out, darker as it comes around",
+   "pressure": "light",
+   "where": "path, lit side",
+   "rule": "light zinging through the path",
+   "new": ""
+  },
+  {
+   "t": "20:53",
+   "subject": "path",
+   "action": "soften path with dry brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lightly caress and blend",
+   "pressure": "whisper",
+   "where": "path",
+   "rule": "thick paint blends without losing shapes",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "far trees",
+   "action": "dab far indications in orange",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "van dyke brown"
+   ],
+   "load": "red added to brown",
+   "motion": "dab far things",
+   "pressure": "light",
+   "where": "back, up in the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "evergreen",
+   "action": "drop in evergreen and trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "sap green"
+   ],
+   "load": "blue and black with a little sap green",
+   "motion": "drop in, add a small trunk",
+   "pressure": "light",
+   "where": "in front of the big tree",
+   "rule": "grass in front pushes it back",
+   "new": ""
+  },
+  {
+   "t": "22:46",
+   "subject": "leaf tree",
+   "action": "block in big trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of brown on fan",
+   "motion": "block in big shapes",
+   "pressure": "light",
+   "where": "upper right, big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:28",
+   "subject": "trunk/limbs",
+   "action": "pull white bark streaks down trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "pull to add bark",
+   "pressure": "light",
+   "where": "on the big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "trunk/limbs",
+   "action": "thin limbs out from big trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned very thin",
+   "motion": "flow limbs outward",
+   "pressure": "light",
+   "where": "on the big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:05",
+   "subject": "trunk/limbs",
+   "action": "dab white sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on liner",
+   "motion": "dab small strokes",
+   "pressure": "light",
+   "where": "scattered on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:05",
+   "subject": "leaf tree",
+   "action": "drop thin yellow leaves on trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "cad yellow thinned with thinner",
+   "motion": "tap corner of brush",
+   "pressure": "light",
+   "where": "on the trees, around",
+   "rule": "",
+   "new": "uses the corner of the brush"
+  },
+  {
+   "t": "26:43",
+   "subject": "leaf tree",
+   "action": "add few more leaves",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "thin yellow on corner",
+   "motion": "tap in leaves",
+   "pressure": "light",
+   "where": "around the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

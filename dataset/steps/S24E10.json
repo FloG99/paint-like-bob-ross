@@ -1,0 +1,638 @@
+{
+ "ep": "S24E10",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow ochre",
+  "phthalo green",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "liquid white",
+  "alizarin crimson",
+  "sap green",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:28",
+   "subject": "sun/glow",
+   "action": "dab a small yellow circle",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "tiny amount on brush",
+   "motion": "small dab",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": "very little paint used"
+  },
+  {
+   "t": "00:51",
+   "subject": "sun/glow",
+   "action": "touch yellow ochre into the yellow circle",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "picked up without cleaning the brush",
+   "motion": "dab in place",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:34",
+   "subject": "sky",
+   "action": "mix green and white and drop it into the sky",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "mixed on palette",
+   "motion": "drop in and spread",
+   "pressure": "light",
+   "where": "around the yellow circle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:17",
+   "subject": "sky",
+   "action": "add black to the green-white mix and rough it in",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "added to the mix on the brush",
+   "motion": "rough brushing across the sky",
+   "pressure": "light",
+   "where": "sky around the glow",
+   "rule": "dulls the color down a little",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "sky",
+   "action": "add phthalo blue and fill the rest of the sky",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "added to the same mix",
+   "motion": "fill across the sky",
+   "pressure": "light",
+   "where": "rest of the sky",
+   "rule": "makes the sky a little darker",
+   "new": ""
+  },
+  {
+   "t": "03:32",
+   "subject": "sky",
+   "action": "touch and push to blend out light rays",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush turned over now and then",
+   "motion": "touch and push outward",
+   "pressure": "firm",
+   "where": "from the light area outward",
+   "rule": "suggests light rays without painting rays",
+   "new": ""
+  },
+  {
+   "t": "03:57",
+   "subject": "sky",
+   "action": "tap titanium white into the light area",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least bit on the same brush",
+   "motion": "tap and push",
+   "pressure": "firm",
+   "where": "light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:24",
+   "subject": "sky",
+   "action": "keep tapping and blending outward",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap and push outward",
+   "pressure": "firm",
+   "where": "light area outward",
+   "rule": "keeps dark dirty color out of the bright center",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "sky",
+   "action": "blend again outward from the lightest area",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white added after washing the brush",
+   "motion": "tap and push outward",
+   "pressure": "firm",
+   "where": "lightest area",
+   "rule": "washing first keeps the lightest area clean",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "sky",
+   "action": "very lightly blend the whole sky",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush, washed and lightly loaded",
+   "motion": "lightly blend across",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:43",
+   "subject": "cloud",
+   "action": "tap cloud shapes with the mixed sky colors",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tapped color onto the bristles",
+   "motion": "tap with a little push",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:31",
+   "subject": "cloud",
+   "action": "tap a few clouds higher up",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "darker color still on the brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "top of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:54",
+   "subject": "sky",
+   "action": "lightly blend across the entire sky",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "blend gently across the sky",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:17",
+   "subject": "sun/glow",
+   "action": "add a soft sun with titanium white and blend",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "touch and blend over the top",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "keeps the sun subtle, just visible",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "water",
+   "action": "fill the lower area with dark water color",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo green",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "mixed on palette, kept not too dark",
+   "motion": "fill the lower area",
+   "pressure": "unknown",
+   "where": "lower part of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "land",
+   "action": "dab distant headlands in the background",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "mixed with changed proportions",
+   "motion": "tap in shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:00",
+   "subject": "other: boat",
+   "action": "add a small boat bump",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "on the water beside the headlands",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:25",
+   "subject": "land",
+   "action": "tap highlights onto the headlands",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo green"
+   ],
+   "load": "mostly white with a touch of green",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "headlands",
+   "rule": "highlights mark where the light falls",
+   "new": ""
+  },
+  {
+   "t": "14:06",
+   "subject": "ocean/wave",
+   "action": "push small far-off waves in with the knife",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "paint pulled flat into a small roll",
+   "motion": "bend the blade and push in",
+   "pressure": "firm",
+   "where": "far water in the distance",
+   "rule": "",
+   "new": "waves kept very simple"
+  },
+  {
+   "t": "16:32",
+   "subject": "other: boat",
+   "action": "scrape out a basic boat outline",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "firm",
+   "where": "center right of the waves",
+   "rule": "helps lay out perspective first",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "other: boat",
+   "action": "fill the boat with a brown mix",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mixed about equal parts on palette",
+   "motion": "fill in the boat shape",
+   "pressure": "light",
+   "where": "boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "other: boat",
+   "action": "fill darker areas of the boat with black",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dark added to the brush",
+   "motion": "fill in",
+   "pressure": "light",
+   "where": "back part of boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "other: boat",
+   "action": "add a grey edge so the boat stands out",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "grey mixed on palette",
+   "motion": "bring along the boat edge",
+   "pressure": "light",
+   "where": "along the boat edge",
+   "rule": "makes the boat stand out a little",
+   "new": ""
+  },
+  {
+   "t": "18:39",
+   "subject": "other: boat shadow",
+   "action": "add a shadow under the boat",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "dark on the brush",
+   "motion": "tap under the boat",
+   "pressure": "light",
+   "where": "under the boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "other: boat",
+   "action": "thin brown line on the boat front and back",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "touch in details",
+   "pressure": "light",
+   "where": "front and back of boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "other: boat",
+   "action": "highlight the boat front with white",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "white thinned with liquid white",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "front of boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:52",
+   "subject": "water",
+   "action": "add thin white water around the boat base",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "thinned white rolled on the knife",
+   "motion": "dab around the boat",
+   "pressure": "light",
+   "where": "around boat base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:26",
+   "subject": "land",
+   "action": "reflect a touch of brown into the damp sand",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [],
+   "load": "",
+   "motion": "push very firmly",
+   "pressure": "firm",
+   "where": "sand under the boat",
+   "rule": "gives the impression of water all around the bottom",
+   "new": ""
+  },
+  {
+   "t": "20:49",
+   "subject": "ocean/wave",
+   "action": "add dark under the upstanding waves",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab a little dark underneath",
+   "pressure": "light",
+   "where": "middle waves",
+   "rule": "makes the waves look raised and adds depth",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "grass",
+   "action": "add sea oat weeds with sap green and brown",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "sap green with the brown mix",
+   "motion": "pop in and push up",
+   "pressure": "light",
+   "where": "up near the beach",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:13",
+   "subject": "land",
+   "action": "mix and add dirt under the sea oats",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "brown and white mixed on palette",
+   "motion": "settle in under the sea oats",
+   "pressure": "light",
+   "where": "bottom of sea oats",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "grass",
+   "action": "lift sea oat shapes from the brown with thinner",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "beach area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:03",
+   "subject": "grass",
+   "action": "add yellow ochre seed tufts",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "mixed with paint thinner",
+   "motion": "put a few in place",
+   "pressure": "light",
+   "where": "beach by the boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:26",
+   "subject": "grass",
+   "action": "hang small seed heads on the ends",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "same mix on the liner",
+   "motion": "hang small tufts",
+   "pressure": "light",
+   "where": "ends of sea oats",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "ocean/wave",
+   "action": "skim a marbled light highlight across",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "yellow ochre",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "marbled mix on the knife, not over-mixed",
+   "motion": "barely touch across",
+   "pressure": "whisper",
+   "where": "across the water",
+   "rule": "keeps the marbled variation that reads as light",
+   "new": ""
+  },
+  {
+   "t": "24:13",
+   "subject": "grass",
+   "action": "add weeds in the foreground",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "greens and browns on the brush",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "other: birds",
+   "action": "add tiny M-shaped birds far away",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned to an ink-like consistency",
+   "motion": "make small M shapes",
+   "pressure": "whisper",
+   "where": "far in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:21",
+   "subject": "other: signature",
+   "action": "thin red for the signature and sign it",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "sign with the brush",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": "signing the finished painting"
+  }
+ ],
+ "rules": []
+}

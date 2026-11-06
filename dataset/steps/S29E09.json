@@ -1,0 +1,613 @@
+{
+ "ep": "S29E09",
+ "base": "liquid white and liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "alizarin crimson",
+  "titanium white",
+  "liquid white",
+  "liquid clear",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "01:07",
+   "subject": "sky",
+   "action": "criss-cross the sky in blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a small amount into bristles",
+   "motion": "criss-cross strokes across the top",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "tapping evens out the color through the brush",
+   "new": ""
+  },
+  {
+   "t": "02:02",
+   "subject": "cloud",
+   "action": "tap white on the brush for floater clouds",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tapped straight into white",
+   "motion": "dab small floater clouds",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:48",
+   "subject": "cloud",
+   "action": "pull a reddish lavender mix flat on the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender pulled flat on the knife",
+   "motion": "roll mix on the edge",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "cloud",
+   "action": "lavender clouds at the waterline, fluffed and blended",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "same brush, not cleaned",
+   "motion": "float out, fluff, then blend",
+   "pressure": "light",
+   "where": "waterline, far out",
+   "rule": "",
+   "new": "far clouds need only indications"
+  },
+  {
+   "t": "04:49",
+   "subject": "water",
+   "action": "load a dark water mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the brush",
+   "motion": "pull down to the water line",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:22",
+   "subject": "water",
+   "action": "lay dark water with extra crimson at the edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "dark mix with extra crimson at edges",
+   "motion": "bring the water down",
+   "pressure": "light",
+   "where": "below the water line",
+   "rule": "liquid clear keeps the water dark instead of lightening",
+   "new": ""
+  },
+  {
+   "t": "05:52",
+   "subject": "water",
+   "action": "add lavender into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender from the earlier mix",
+   "motion": "dab in along the water",
+   "pressure": "light",
+   "where": "middle water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:28",
+   "subject": "ocean/wave",
+   "action": "indicate the major wave with a fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush loaded lightly",
+   "motion": "push out and let it crash over",
+   "pressure": "light",
+   "where": "middle canvas, going out",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:54",
+   "subject": "ocean/wave",
+   "action": "wiggle white in for background splashers",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same fan brush, white loaded",
+   "motion": "straight in and wiggle up and down",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "ocean/wave",
+   "action": "lay a gold wave color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "gold mix from yellow ochre and white",
+   "motion": "lay a little gold in the wave shape",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:45",
+   "subject": "ocean/wave",
+   "action": "blend the gold wave soft",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "gold still on the blender",
+   "motion": "blend, repeating as needed",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "ocean/wave",
+   "action": "brighten the wave with more gold",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "same gold color",
+   "motion": "blend it in",
+   "pressure": "light",
+   "where": "wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:41",
+   "subject": "ocean/wave",
+   "action": "dark crash shape over the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the fan brush",
+   "motion": "press dark crest into shape",
+   "pressure": "light",
+   "where": "crash point",
+   "rule": "a light behind the dark makes it stand out",
+   "new": ""
+  },
+  {
+   "t": "11:08",
+   "subject": "ocean/wave",
+   "action": "lay light behind the dark crest then blend",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "light mix on the fan brush",
+   "motion": "blend back along the wave",
+   "pressure": "light",
+   "where": "behind the dark crest",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "ocean/wave",
+   "action": "dark crasher with the filbert",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the filbert",
+   "motion": "push up and form the crasher",
+   "pressure": "light",
+   "where": "lower wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:04",
+   "subject": "ocean/wave",
+   "action": "add foam with light color",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the filbert",
+   "motion": "dab foam on top",
+   "pressure": "light",
+   "where": "top of the crasher",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:35",
+   "subject": "ocean/wave",
+   "action": "add blue shadow to the splashes",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on the filbert",
+   "motion": "form splashes",
+   "pressure": "light",
+   "where": "top of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "ocean/wave",
+   "action": "highlight the splashes with clean white",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean white from the wiped brush",
+   "motion": "highlight splashes",
+   "pressure": "light",
+   "where": "top of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:47",
+   "subject": "ocean/wave",
+   "action": "dab foam patterns with thinned blue and white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "dab foam patterns",
+   "pressure": "light",
+   "where": "up in the wave area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "ocean/wave",
+   "action": "swoop in with a small knife",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "small roll of white with a little blue",
+   "motion": "swoop in a stroke",
+   "pressure": "firm",
+   "where": "up in the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "ocean/wave",
+   "action": "pull back with a clean fan to suggest motion",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean fan with very little paint",
+   "motion": "pull backward",
+   "pressure": "light",
+   "where": "where the knife swooped",
+   "rule": "pulling back creates the illusion of movement",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "ocean/wave",
+   "action": "add foam highlights",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thinned liner",
+   "motion": "dab indications of foam",
+   "pressure": "light",
+   "where": "up on the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:41",
+   "subject": "rock",
+   "action": "block in rock base with brown",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix",
+   "motion": "drop in a big stone",
+   "pressure": "light",
+   "where": "on the water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "rock",
+   "action": "highlight the stone with white and a touch of red",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little red on the filbert",
+   "motion": "highlight, then sculpt dark and light",
+   "pressure": "light",
+   "where": "stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:12",
+   "subject": "water",
+   "action": "indicate water floating at the base of the stone",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small knife with white",
+   "motion": "tap in a line of floating water",
+   "pressure": "light",
+   "where": "base of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "ocean/wave",
+   "action": "pull back another fan stroke",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean fan",
+   "motion": "pull back",
+   "pressure": "light",
+   "where": "right of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:10",
+   "subject": "ocean/wave",
+   "action": "punch dark holes in the surf",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black",
+    "alizarin crimson"
+   ],
+   "load": "dark mix from blue, black and crimson",
+   "motion": "punch a few holes",
+   "pressure": "light",
+   "where": "surf area",
+   "rule": "dabbing dark spots is easier than painting all the foam",
+   "new": ""
+  },
+  {
+   "t": "19:48",
+   "subject": "water",
+   "action": "add a thin ripple on the surface",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "thinned blue",
+   "motion": "lay a wet sheen ripple",
+   "pressure": "light",
+   "where": "water surface",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "beach",
+   "action": "lay a sand dune with a fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the fan",
+   "motion": "pick up underlying colors and lay a dune",
+   "pressure": "light",
+   "where": "right side of the beach",
+   "rule": "dune picks up colors from below",
+   "new": ""
+  },
+  {
+   "t": "21:04",
+   "subject": "grass",
+   "action": "punch in weeds at the bottom",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "sap green and brown on the brush",
+   "motion": "punch in weeds",
+   "pressure": "light",
+   "where": "bottom of the dune",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "grass",
+   "action": "lift up sea oats with thinned green and brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "liner with thinner",
+   "motion": "pull strokes up from the base",
+   "pressure": "light",
+   "where": "bottom of the dune",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "grass",
+   "action": "let the base color become shadows",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "blend the base into shadow",
+   "pressure": "light",
+   "where": "sea oats",
+   "rule": "keep the colors from underneath, they become shadows",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "grass",
+   "action": "pop yellow ochre over the sea oats",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on the liner",
+   "motion": "pop strokes over the top",
+   "pressure": "light",
+   "where": "sea oats",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:33",
+   "subject": "other: palm tree",
+   "action": "paint palm trunk with a crook at the bottom",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "dark brown-black on the fan",
+   "motion": "pull trunk and bend the top",
+   "pressure": "light",
+   "where": "right side of the beach",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:10",
+   "subject": "other: palm tree",
+   "action": "add thinned leaves hanging toward the viewer",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "sweep basic leaves",
+   "pressure": "light",
+   "where": "top of trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:41",
+   "subject": "other: palm tree",
+   "action": "highlight the leaves with a light green touch",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green"
+   ],
+   "load": "green with a touch of yellow",
+   "motion": "tap light highlights",
+   "pressure": "light",
+   "where": "palm leaves",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

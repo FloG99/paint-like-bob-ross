@@ -1,0 +1,606 @@
+{
+ "ep": "S23E04",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "Indian yellow",
+  "cad yellow",
+  "bright red",
+  "Prussian blue",
+  "midnight black",
+  "titanium white",
+  "liquid white",
+  "dark sienna",
+  "Van Dyke brown",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:45",
+   "subject": "sky",
+   "action": "warm bright patch",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount",
+   "motion": "short criss-cross strokes",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:07",
+   "subject": "water",
+   "action": "pull color down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "straight down pull",
+   "pressure": "light",
+   "where": "lower half",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:07",
+   "subject": "sky",
+   "action": "orange glow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "lay in around yellow",
+   "pressure": "light",
+   "where": "upper area around yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "water",
+   "action": "orange glow around yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "more red added",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "lower area around yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:20",
+   "subject": "sky",
+   "action": "dark mix at top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "mixed on brush",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:06",
+   "subject": "sky",
+   "action": "blend dark outward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend outward from light",
+   "pressure": "whisper",
+   "where": "from light area outward",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "sky",
+   "action": "lighten bright spot",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "dab and swirl",
+   "pressure": "light",
+   "where": "lightest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:59",
+   "subject": "sky",
+   "action": "blend white outward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend lightly outward",
+   "pressure": "whisper",
+   "where": "around lightest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:20",
+   "subject": "water",
+   "action": "white into water area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "gentle push across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "cloud",
+   "action": "pink barrier",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "pink mix",
+   "motion": "lay in and let blend down",
+   "pressure": "light",
+   "where": "middle of sky",
+   "rule": "keeps the two colors from mixing into green",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "cloud",
+   "action": "blend cloud base",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap and fluff with corner",
+   "pressure": "whisper",
+   "where": "cloud base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:53",
+   "subject": "leaf tree",
+   "action": "dark tree mix",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed on round brush",
+   "motion": "tap in basic shapes from bottom up",
+   "pressure": "light",
+   "where": "lower tree area",
+   "rule": "darkest part of trees belongs low in deep shadow",
+   "new": ""
+  },
+  {
+   "t": "07:53",
+   "subject": "far trees",
+   "action": "light far-off dabs",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "upper area",
+   "rule": "light marks read as distant",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "bush",
+   "action": "darker dabs in front",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "in front of far marks",
+   "rule": "creates a separate depth layer",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "trunk/limbs",
+   "action": "thin twigs and stems",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin like ink",
+   "motion": "flick in sticks and twigs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "gives the tree a skeleton so it stands up",
+   "new": ""
+  },
+  {
+   "t": "09:12",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs to reveal canvas",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": "canvas shows as white twigs"
+  },
+  {
+   "t": "10:49",
+   "subject": "snow",
+   "action": "pull snow across",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "middle band",
+   "rule": "picked up color reads as shadow in snow",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "bush",
+   "action": "layer orange bushes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "orange mix on brush",
+   "motion": "push in bush shapes",
+   "pressure": "light",
+   "where": "in front of snow",
+   "rule": "layers build depth in bushes and trees",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "leaf tree",
+   "action": "dark tree shape pulled down",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "mixed on brush",
+   "motion": "pull shape down toward foreground",
+   "pressure": "light",
+   "where": "tree area toward foreground",
+   "rule": "less blue keeps yellow colors from turning green",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "trunk/limbs",
+   "action": "trunk and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "small touch",
+   "motion": "add arm trunk and few limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:50",
+   "subject": "leaf tree",
+   "action": "bright leaf color",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "bright red",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "dab in leaf color",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "snow",
+   "action": "pull shadow under tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "picks up dark color",
+   "motion": "pull lightly",
+   "pressure": "light",
+   "where": "under big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:55",
+   "subject": "grass",
+   "action": "push grass upward",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "tidies edges and ties everything together",
+   "new": ""
+  },
+  {
+   "t": "16:17",
+   "subject": "leaf tree",
+   "action": "big dark tree shape",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mixed on big round brush",
+   "motion": "push big tree up to top",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:10",
+   "subject": "trunk/limbs",
+   "action": "add trunk and branches",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thinned paint",
+   "motion": "flick in sticks and twigs",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:28",
+   "subject": "trunk/limbs",
+   "action": "push out hanging limbs",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "reloaded",
+   "motion": "push limbs outward",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:17",
+   "subject": "leaf tree",
+   "action": "sparkle with white",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch added to color",
+   "motion": "tap in highlight",
+   "pressure": "light",
+   "where": "where sunlight would strike",
+   "rule": "too much white kills the sparkle",
+   "new": ""
+  },
+  {
+   "t": "19:43",
+   "subject": "bush",
+   "action": "dark bush accents",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pop in dark bushes",
+   "pressure": "light",
+   "where": "around tree",
+   "rule": "keeping some near black makes contrast stronger",
+   "new": ""
+  },
+  {
+   "t": "20:12",
+   "subject": "reflection",
+   "action": "pull color down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "unwanted marks become reflection when pulled down",
+   "new": ""
+  },
+  {
+   "t": "20:36",
+   "subject": "reflection",
+   "action": "knife graze over reflection",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "knife barely touching",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "",
+   "new": "knife bounces over brushed paint"
+  },
+  {
+   "t": "21:05",
+   "subject": "water line",
+   "action": "cut in water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small amount",
+   "motion": "cut across bottom",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "ties the bottom together and smooths it",
+   "new": ""
+  },
+  {
+   "t": "22:00",
+   "subject": "water line",
+   "action": "float paint across",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "float across and let paint break",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "broken paint looks better",
+   "new": ""
+  },
+  {
+   "t": "23:15",
+   "subject": "grass",
+   "action": "small grassy areas",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "dab small grass clumps",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:42",
+   "subject": "trunk/limbs",
+   "action": "scrape twigs through paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": "canvas shows through as twigs"
+  },
+  {
+   "t": "24:10",
+   "subject": "trunk/limbs",
+   "action": "thin twigs and sticks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin like ink",
+   "motion": "flick sticks and twigs",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "thin paint lets strokes flow smoothly",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "bush",
+   "action": "little bushes",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "liquid white thins mix",
+   "motion": "push upward dabs",
+   "pressure": "light",
+   "where": "on tops of sticks",
+   "rule": "thinned since many layers are already on",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner thin",
+   "motion": "sign lower corner",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

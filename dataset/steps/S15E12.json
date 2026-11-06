@@ -1,0 +1,648 @@
+{
+ "ep": "S15E12",
+ "base": "black gesso edges; liquid white center",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "alizarin crimson",
+  "yellow ochre",
+  "indian yellow",
+  "titanium white",
+  "dark sienna",
+  "bright red",
+  "black gesso"
+ ],
+ "steps": [
+  {
+   "t": "00:37",
+   "subject": "other: dark base wash",
+   "action": "thin even coat of dark mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "mixed three colors",
+   "motion": "thin even coat",
+   "pressure": "light",
+   "where": "most of the dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sky",
+   "action": "warm touch of crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tiny amount on a clean brush",
+   "motion": "little touches here and there",
+   "pressure": "light",
+   "where": "sky and low spots",
+   "rule": "warm spots show through later",
+   "new": ""
+  },
+  {
+   "t": "01:51",
+   "subject": "sky",
+   "action": "touch of yellow in sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "tiny amount",
+   "motion": "small dabs",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "brightness that shows once darks go in",
+   "new": ""
+  },
+  {
+   "t": "02:29",
+   "subject": "leaf tree",
+   "action": "pull dark mix down into the white",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "picks up from dark mix",
+   "motion": "pull down in short strokes",
+   "pressure": "light",
+   "where": "big tree arms over the white area",
+   "rule": "lighter values lower in the white",
+   "new": ""
+  },
+  {
+   "t": "04:25",
+   "subject": "trunk/limbs",
+   "action": "thin brown for thin trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "wiggly trunks and arms",
+   "pressure": "light",
+   "where": "back of the woods",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "leaf tree",
+   "action": "dab color into forest",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed several colors on brush",
+   "motion": "corner tapping",
+   "pressure": "light",
+   "where": "tree area in the back",
+   "rule": "a mix of colors keeps the forest from looking flat",
+   "new": ""
+  },
+  {
+   "t": "06:58",
+   "subject": "far trees",
+   "action": "faint marks far back",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "still-loaded brush",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "far back, deep in the woods",
+   "rule": "keeps depth and distance",
+   "new": ""
+  },
+  {
+   "t": "08:16",
+   "subject": "bush",
+   "action": "dab individual small bushes",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "same mixed color",
+   "motion": "dab one bush at a time",
+   "pressure": "light",
+   "where": "mid area",
+   "rule": "painting one bush at a time gives nicer results",
+   "new": ""
+  },
+  {
+   "t": "08:54",
+   "subject": "water",
+   "action": "touch white in and pull straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount of white",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "under the tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:10",
+   "subject": "land",
+   "action": "pull flat brown across with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "roll of paint on the knife",
+   "motion": "pull out flat and cut across",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "gives trees and bushes ground to sit on",
+   "new": ""
+  },
+  {
+   "t": "10:49",
+   "subject": "water line",
+   "action": "tiny water line with white and blue",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "tiny roll of paint on the knife",
+   "motion": "barely touch and let it pull off",
+   "pressure": "whisper",
+   "where": "under the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "other: dark underlayer",
+   "action": "tap in dark shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "dark base mix from before",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "around the light area",
+   "rule": "the dark tap makes the light area stand out",
+   "new": ""
+  },
+  {
+   "t": "11:29",
+   "subject": "bush",
+   "action": "tap in small bushes",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "paint still on brush",
+   "motion": "corner tapping",
+   "pressure": "light",
+   "where": "scattered in the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:08",
+   "subject": "bush",
+   "action": "darken bushes in shadow",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "picks up more sap green",
+   "motion": "corner tapping",
+   "pressure": "light",
+   "where": "back in the shadows",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:44",
+   "subject": "rock",
+   "action": "block in big dark stones",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "drop in big stone shapes",
+   "pressure": "unknown",
+   "where": "on the land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:21",
+   "subject": "reflection",
+   "action": "pull white straight down under the stones",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more white",
+   "motion": "touch and pull straight down, then across",
+   "pressure": "light",
+   "where": "under the stones",
+   "rule": "reflections have to be pulled straight down",
+   "new": ""
+  },
+  {
+   "t": "13:59",
+   "subject": "water",
+   "action": "marbled knife strokes for water",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "dark sienna with a touch of blue and white",
+   "motion": "drag across and leave marbled",
+   "pressure": "light",
+   "where": "front of the stones",
+   "rule": "marbled strokes make water right away",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "water line",
+   "action": "cut a tiny water line",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "tiny roll on the knife",
+   "motion": "barely touch and let it pull off",
+   "pressure": "whisper",
+   "where": "under the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "trunk/limbs",
+   "action": "faint brown and white trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white thinned with paint thinner",
+   "motion": "small trunk marks and arms",
+   "pressure": "light",
+   "where": "back area near the rocks",
+   "rule": "most will get covered, a few should show",
+   "new": ""
+  },
+  {
+   "t": "15:53",
+   "subject": "leaf tree",
+   "action": "touch big trees with corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "indian yellow"
+   ],
+   "load": "mix on the brush",
+   "motion": "corner tapping",
+   "pressure": "light",
+   "where": "big trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:08",
+   "subject": "bush",
+   "action": "dark green bushes low down",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "dark green mix from base colors",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "low in the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:08",
+   "subject": "leaf tree",
+   "action": "tree on the other side",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "small amounts on brush",
+   "motion": "tap in",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:27",
+   "subject": "land",
+   "action": "push out a peninsula with the dark mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "dark base mix",
+   "motion": "pull out through the side",
+   "pressure": "light",
+   "where": "one side near the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "reflection",
+   "action": "pull dark straight down then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dark mix still on brush",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "under the peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "trunk/limbs",
+   "action": "pull big brown trunk with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife loaded with a big roll of paint",
+   "motion": "pull down the trunk edge",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "rock",
+   "action": "knife stones and dirt, marbled",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "white, red and sienna mixed loosely",
+   "motion": "knife dabs and pulls",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "stones give the tree something to sit on",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "trunk/limbs",
+   "action": "white edge highlight down the left side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white on the knife edge",
+   "motion": "barely touch and slide",
+   "pressure": "whisper",
+   "where": "down the edge of the trunk",
+   "rule": "the edge should stand out",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "trunk/limbs",
+   "action": "blue and white reflected light down other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white on knife",
+   "motion": "barely touch in spots",
+   "pressure": "whisper",
+   "where": "other side of the trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:21",
+   "subject": "trunk/limbs",
+   "action": "few limbs hanging on",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small limbs here and there",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:59",
+   "subject": "rock",
+   "action": "dab brown and white under the base",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little color",
+   "motion": "jiggle and dab",
+   "pressure": "light",
+   "where": "under the tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "water line",
+   "action": "knife-bounced blue and white water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little blue and white on knife",
+   "motion": "bounce the knife through",
+   "pressure": "unknown",
+   "where": "right in there at the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "rock",
+   "action": "big rock in the corner",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "drop in big rock shape",
+   "pressure": "unknown",
+   "where": "corner of the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:14",
+   "subject": "reflection",
+   "action": "tiny reflection under the point",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "under a point on the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:54",
+   "subject": "rock",
+   "action": "add highlight touches on stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "the highlight mix",
+   "motion": "touch and blend",
+   "pressure": "light",
+   "where": "on the stones",
+   "rule": "lighter touches give shape and form",
+   "new": ""
+  },
+  {
+   "t": "24:54",
+   "subject": "grass",
+   "action": "tiny grass on the stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "tiny amount",
+   "motion": "dabs",
+   "pressure": "light",
+   "where": "edge of the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:31",
+   "subject": "water line",
+   "action": "blue and white water line under the stone",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on knife",
+   "motion": "cut across",
+   "pressure": "whisper",
+   "where": "under the stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:31",
+   "subject": "trunk/limbs",
+   "action": "scratch in thin sticks and twigs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:09",
+   "subject": "other: signature",
+   "action": "sign with red on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on the liner brush",
+   "motion": "write signature",
+   "pressure": "unknown",
+   "where": "bottom corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

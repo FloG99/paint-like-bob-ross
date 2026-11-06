@@ -1,0 +1,724 @@
+{
+ "ep": "S03E10",
+ "base": "alizarin crimson over black acrylic",
+ "format": "unknown",
+ "light": "from the campfire",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "alizarin crimson",
+  "Van Dyke brown",
+  "Indian yellow",
+  "yellow ochre",
+  "burnt umber",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sun/glow",
+   "action": "crisscross cad yellow for the campfire spot",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a little cad yellow",
+   "motion": "crisscross x-type strokes, work around",
+   "pressure": "unknown",
+   "where": "where the campfire will be",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:51",
+   "subject": "sun/glow",
+   "action": "crisscross out to the canvas edges",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "extend to the outer edges",
+   "pressure": "unknown",
+   "where": "at the outer edges",
+   "rule": "Small changes occur as the paint picks up color.",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sun/glow",
+   "action": "add cad yellow in center, work outward",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "clean and dry brush, a little more cad yellow",
+   "motion": "lay in some color, begin working outward",
+   "pressure": "unknown",
+   "where": "center",
+   "rule": "brightest zone of the painting",
+   "new": ""
+  },
+  {
+   "t": "01:40",
+   "subject": "sun/glow",
+   "action": "blend glow out with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend it very gently, crisscross strokes",
+   "pressure": "whisper",
+   "where": "out from the center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:05",
+   "subject": "sun/glow",
+   "action": "blend outward, keep dirty brush off center",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "take the brush strokes out across the canvas, gently",
+   "pressure": "whisper",
+   "where": "edges",
+   "rule": "Avoid disturbing the bright color already placed here.",
+   "new": ""
+  },
+  {
+   "t": "02:28",
+   "subject": "far trees",
+   "action": "add distant trunks with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "Van Dyke brown with a little crimson, mixed on the brush",
+   "motion": "way back here, let them sort of disappear",
+   "pressure": "unknown",
+   "where": "way back here in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "far trees",
+   "action": "push a little harder, add a limb",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push a little harder, just let it disappear",
+   "pressure": "unknown",
+   "where": "right here, out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:25",
+   "subject": "leaf tree",
+   "action": "load 1in brush with Van Dyke brown and crimson",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "load it full of paint",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "leaf tree",
+   "action": "apply basic little leaves, bend the brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch canvas, bend the brush slightly",
+   "pressure": "light",
+   "where": "back here, background",
+   "rule": "These are small background trees located far away.",
+   "new": ""
+  },
+  {
+   "t": "04:14",
+   "subject": "bush",
+   "action": "mix yellow ochre and Indian yellow for highlights",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "a little bit of yellow ochre, Indian yellow mixed together",
+   "motion": "highlight some of these, drop them here and there",
+   "pressure": "unknown",
+   "where": "from the fire",
+   "rule": "The firelight will illuminate the bottoms of these shapes.",
+   "new": ""
+  },
+  {
+   "t": "04:52",
+   "subject": "bush",
+   "action": "drop highlights, keep it subdued",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "same mix",
+   "motion": "just picking out little individual things",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "Keep it muted.",
+   "new": ""
+  },
+  {
+   "t": "05:40",
+   "subject": "far trees",
+   "action": "blend all of it in very soft with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very gently blend, crisscross strokes",
+   "pressure": "whisper",
+   "where": "all of it",
+   "rule": "It should look very soft and distant.",
+   "new": ""
+  },
+  {
+   "t": "06:12",
+   "subject": "bush",
+   "action": "highlight the bush, then blend gently",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "add a few highlights, blend gently",
+   "pressure": "whisper",
+   "where": "that little bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:37",
+   "subject": "bush",
+   "action": "drop basic bush shapes with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "load crimson and Van Dyke brown",
+   "motion": "drop in basic shapes, let them fall off the brush",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "leaf tree",
+   "action": "drop in great big oaks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "same crimson and Van Dyke brown",
+   "motion": "just drop 'em in, basic shapes",
+   "pressure": "unknown",
+   "where": "farther away, over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "bush",
+   "action": "highlight with Indian yellow and permanent red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "Indian yellow + touch of permanent red",
+   "motion": "let 'em sparkle, drop highlights up in here",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:12",
+   "subject": "bush",
+   "action": "more highlights where light hits",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bits here and there up in this area",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "Details become less visible the farther they are from the fire.",
+   "new": ""
+  },
+  {
+   "t": "09:02",
+   "subject": "bush",
+   "action": "set off small bush with highlight",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "enough to set them apart slightly",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "So they remain visible.",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "other: campfire wood",
+   "action": "add burnt wood indications",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "Van Dyke brown",
+   "motion": "little indications of some wood here",
+   "pressure": "unknown",
+   "where": "in the fire",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:53",
+   "subject": "land",
+   "action": "pull Van Dyke brown across the ground",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little Van Dyke brown",
+   "motion": "pull it across, like that",
+   "pressure": "light",
+   "where": "ground area, down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:29",
+   "subject": "land",
+   "action": "highlight ground with yellow ochre and burnt umber",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "burnt umber"
+   ],
+   "load": "yellow ochre + burnt umber",
+   "motion": "put a little highlight right out here, start here and work down",
+   "pressure": "light",
+   "where": "right out here",
+   "rule": "The tone darkens naturally as the paint runs out.",
+   "new": ""
+  },
+  {
+   "t": "10:56",
+   "subject": "other: campfire",
+   "action": "touch a small fire with cad yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a little bit of cad yellow",
+   "motion": "just touch, give an indication of fire",
+   "pressure": "light",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:25",
+   "subject": "grass",
+   "action": "lay in brighter grass by fire, work downward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "mixed on the fan brush",
+   "motion": "begin in the brightest zone, move downward",
+   "pressure": "whisper",
+   "where": "up here by the fire",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:50",
+   "subject": "grass",
+   "action": "add grassy things coming down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "Add various small elements.",
+   "pressure": "unknown",
+   "where": "right along here, one comes way down",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:17",
+   "subject": "land",
+   "action": "add more Van Dyke brown in here",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little bit more",
+   "motion": "add it right in here",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:47",
+   "subject": "water",
+   "action": "lake: pull cad yellow straight down",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "cadmium yellow on large brush",
+   "motion": "touch, pull straight down, then very gently come across",
+   "pressure": "light",
+   "where": "lake out here",
+   "rule": "The paint will pick up the underlying crimson and turn reddish.",
+   "new": ""
+  },
+  {
+   "t": "13:12",
+   "subject": "water",
+   "action": "work from lightest out, very gently across",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "work from the lightest area out, very gently come across",
+   "pressure": "whisper",
+   "where": "from under the fire out",
+   "rule": "The tone darkens progressively away from the fire.",
+   "new": ""
+  },
+  {
+   "t": "13:43",
+   "subject": "grass",
+   "action": "grassy things growing down the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "yellow ochre, Indian yellow, a touch of permanent red",
+   "motion": "drop in little grassy things growing down this hill",
+   "pressure": "unknown",
+   "where": "down this hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "other: subdue",
+   "action": "gently blend all of it to subdue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch, push far back",
+   "pressure": "whisper",
+   "where": "all of this",
+   "rule": "This area would not appear much brighter; it is dark.",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "other: subdue",
+   "action": "quiet, subdued blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very quiet, just blend it",
+   "pressure": "whisper",
+   "where": "all of this",
+   "rule": "A campfire at night makes the scene look almost unreal.",
+   "new": ""
+  },
+  {
+   "t": "15:47",
+   "subject": "reflection",
+   "action": "pull a tiny bit of cad yellow down the projection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a tiny bit of yellow",
+   "motion": "pull it straight down, come across like so",
+   "pressure": "light",
+   "where": "the projection right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:12",
+   "subject": "trunk/limbs",
+   "action": "block in big strong tree in Van Dyke brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight Van Dyke brown",
+   "motion": "large strong tree running off the canvas",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "trunk/limbs",
+   "action": "highlight the tree with permanent red and burnt umber",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "permanent red + burnt umber",
+   "motion": "lay some highlights on here",
+   "pressure": "light",
+   "where": "on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "trunk/limbs",
+   "action": "highlight a limb where fire would strike",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "same mix",
+   "motion": "highlight a limb up here",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "Where firelight would strike.",
+   "new": ""
+  },
+  {
+   "t": "18:05",
+   "subject": "other: cowboy",
+   "action": "sketch cowboy leaning on tree, knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "curve around, showing only part of the figure",
+   "pressure": "unknown",
+   "where": "leaning up against the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "other: cowboy",
+   "action": "add slumped shoulder, arm and leg",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "basic little things, slumped over, shoulder, arm, leg",
+   "pressure": "unknown",
+   "where": "on the figure",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:15",
+   "subject": "other: cowboy",
+   "action": "add buns, feet, and hand on knee",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "add a seat, small feet, hand resting on knee",
+   "pressure": "unknown",
+   "where": "on the figure",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:39",
+   "subject": "other: cowboy",
+   "action": "add yellow ochre highlight on hat and shoulder",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little yellow ochre",
+   "motion": "a little on his hat, across the top of the shoulder",
+   "pressure": "light",
+   "where": "hat, top of shoulder",
+   "rule": "Consider where the light would strike.",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "other: cowboy",
+   "action": "bounce a highlight across, on knee",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "just a little highlight bouncin' across there",
+   "pressure": "light",
+   "where": "on his knee",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "water line",
+   "action": "tiny dark waterline indication",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "dark color",
+   "motion": "just a small amount, tiny bit of waterline",
+   "pressure": "light",
+   "where": "down here",
+   "rule": "",
+   "new": "dark color, paint not named"
+  },
+  {
+   "t": "22:35",
+   "subject": "other: corner",
+   "action": "quiet the corner down a little",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "quiet this down a little bit, like so",
+   "pressure": "whisper",
+   "where": "over in the corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:35",
+   "subject": "bush",
+   "action": "add a bush in front of the tree",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "maybe another little bush comes in front of the tree",
+   "pressure": "light",
+   "where": "in front of the tree",
+   "rule": "Each added plane increases the depth of the painting.",
+   "new": ""
+  },
+  {
+   "t": "23:09",
+   "subject": "bush",
+   "action": "highlight the little bush, add a few leaves",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "mix Indian yellow and permanent red",
+   "motion": "highlights on this small bush",
+   "pressure": "light",
+   "where": "this little bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "other: logs",
+   "action": "go over logs with liner to make them stand out",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pass over some logs so they stand out",
+   "pressure": "light",
+   "where": "little logs here",
+   "rule": "These surfaces would receive a lot of light.",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "other: cowboy",
+   "action": "tidy the old fella, indicate him silhouetted",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "only a hint that an old man sits here",
+   "pressure": "light",
+   "where": "out here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:34",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put a signature right about here",
+   "pressure": "unknown",
+   "where": "right about here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

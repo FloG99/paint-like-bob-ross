@@ -1,0 +1,564 @@
+{
+ "ep": "S24E08",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "titanium white",
+  "prussian blue",
+  "van dyke brown",
+  "alizarin crimson",
+  "sap green",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "bright red",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "00:49",
+   "subject": "sky",
+   "action": "criss-cross white above the waterfall",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount of white on the brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "above the waterfall",
+   "rule": "",
+   "new": "gesso shows through the strokes"
+  },
+  {
+   "t": "02:36",
+   "subject": "waterfall",
+   "action": "load fan brush with clear, white and a touch of blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid clear on fan brush, then white",
+   "motion": "loading",
+   "pressure": "unknown",
+   "where": "on palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:01",
+   "subject": "waterfall",
+   "action": "stroke across and down, fast",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "sweeping stroke across then down",
+   "pressure": "light",
+   "where": "upper waterfall",
+   "rule": "doing it fast keeps the water from wiggling",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "waterfall",
+   "action": "pull 2in upward to blend the waterfall into the background",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "switched to 2in brush",
+   "motion": "pulling upward",
+   "pressure": "light",
+   "where": "waterfall",
+   "rule": "blending softens the waterfall into the background",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "leaf tree",
+   "action": "mix dark color for big trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "mixed on palette",
+   "motion": "mixing",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:16",
+   "subject": "leaf tree",
+   "action": "load brush and form basic tree shapes with the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "loaded by pushing the brush into the paint",
+   "motion": "forming basic shapes",
+   "pressure": "light",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:07",
+   "subject": "leaf tree",
+   "action": "rough out basic tree shapes on the other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "forming basic shapes",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": "shapes plan the trees without committing"
+  },
+  {
+   "t": "05:59",
+   "subject": "rock",
+   "action": "load knife with van dyke brown and dark sienna and lay a big rock",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "pulled flat, cut across for a row of paint",
+   "motion": "pulling and laying in",
+   "pressure": "unknown",
+   "where": "behind the waterfall",
+   "rule": "a rock gives boundaries so the waterfall does not just hang there",
+   "new": "a front rock pushes another rock back"
+  },
+  {
+   "t": "06:29",
+   "subject": "rock",
+   "action": "mix a lighter stone color and cut a row",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "mixed lightly, pulled flat and cut across",
+   "motion": "mixing",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:51",
+   "subject": "rock",
+   "action": "barely touch the top of the stone to make it flat",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried on knife",
+   "motion": "light touch",
+   "pressure": "whisper",
+   "where": "top of the stone",
+   "rule": "a flat top gives a little fox a place to sit",
+   "new": ""
+  },
+  {
+   "t": "07:13",
+   "subject": "rock",
+   "action": "pull edges down with almost no paint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried on knife",
+   "motion": "pulling down",
+   "pressure": "light",
+   "where": "lower stone edges",
+   "rule": "grassy areas will cover this and push it back",
+   "new": ""
+  },
+  {
+   "t": "08:11",
+   "subject": "leaf tree",
+   "action": "drag branches over the front of the waterfall",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "back to the dark mix on the 2in brush",
+   "motion": "tapping and dragging",
+   "pressure": "light",
+   "where": "in front of the waterfall",
+   "rule": "branches in front of the waterfall make it look far back",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "mist",
+   "action": "load clean 2in brush with a tiny bit of white on the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a tiny touch on the brush corner",
+   "motion": "loading",
+   "pressure": "whisper",
+   "where": "base of the waterfall",
+   "rule": "water falling this far would churn and make mist",
+   "new": ""
+  },
+  {
+   "t": "10:01",
+   "subject": "mist",
+   "action": "tap the corner of the brush and fluff gently",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "tapping and gentle fluffing",
+   "pressure": "whisper",
+   "where": "base of the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:09",
+   "subject": "trunk/limbs",
+   "action": "paint thin dark twigs and sticks with a liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thinned like ink, bristles turned to a point",
+   "motion": "pulling and dabbing sticks",
+   "pressure": "light",
+   "where": "scattered in front of the waterfall",
+   "rule": "farthest things are painted first then work forward",
+   "new": ""
+  },
+  {
+   "t": "12:48",
+   "subject": "bush",
+   "action": "tap and push yellow and red tones into the bushes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "bright red",
+    "black"
+   ],
+   "load": "picked up yellows, a little red and black",
+   "motion": "tapping and pushing upward",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "leaf tree",
+   "action": "tap clumps of light and sparkles into the tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "tapping clumps",
+   "pressure": "light",
+   "where": "tree clumps",
+   "rule": "a tree is a group of bushes that grew together",
+   "new": "sparkles added as highlights"
+  },
+  {
+   "t": "14:10",
+   "subject": "leaf tree",
+   "action": "add another tree beside the waterfall",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "tapping in a tree",
+   "pressure": "light",
+   "where": "beside the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "other: small details",
+   "action": "add a few small things on the opposite side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "other side of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:51",
+   "subject": "rock",
+   "action": "mix van dyke brown and dark sienna for the dark bottom",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mixed together, pulled flat and cut across",
+   "motion": "pulling",
+   "pressure": "unknown",
+   "where": "bottom of the waterfall",
+   "rule": "the bottom should be dark with little light down there",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "rock",
+   "action": "fill the cliff area with a bounced row of brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "knife edge carries a tiny strip of paint",
+   "motion": "bouncing knife",
+   "pressure": "light",
+   "where": "cliff area",
+   "rule": "it is dark there so little paint is needed",
+   "new": ""
+  },
+  {
+   "t": "18:35",
+   "subject": "rock",
+   "action": "bounce mixed colors across the rough stone",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mixed a little more color on the knife",
+   "motion": "bouncing and jumping knife",
+   "pressure": "light",
+   "where": "rough stone area",
+   "rule": "bouncing makes rough places",
+   "new": ""
+  },
+  {
+   "t": "19:07",
+   "subject": "rock",
+   "action": "bounce a spring on the knife to make a washed-out cliff edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried on knife",
+   "motion": "bouncing",
+   "pressure": "light",
+   "where": "cliff edge",
+   "rule": "",
+   "new": "light shows through the washed-out edge"
+  },
+  {
+   "t": "19:53",
+   "subject": "waterfall",
+   "action": "fan brush water strokes falling down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "fan brush with a tiny bit of liquid clear, white, blue and green",
+   "motion": "dragging water down",
+   "pressure": "light",
+   "where": "middle of the waterfall",
+   "rule": "a little clear softens the paint so it slides",
+   "new": ""
+  },
+  {
+   "t": "20:20",
+   "subject": "waterfall",
+   "action": "add a splash and small stones in the water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "pouring strokes",
+   "pressure": "light",
+   "where": "middle of the falls",
+   "rule": "",
+   "new": "small splash shapes"
+  },
+  {
+   "t": "21:32",
+   "subject": "trunk/limbs",
+   "action": "mix brown and white for a fallen tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed a little brown and white",
+   "motion": "mixing",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "trunk/limbs",
+   "action": "paint fallen tree trunk and limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "straight liner loaded with brown and a little white",
+   "motion": "painting limbs",
+   "pressure": "light",
+   "where": "fallen tree in the water",
+   "rule": "",
+   "new": "little highlights along the limbs"
+  },
+  {
+   "t": "22:59",
+   "subject": "trunk/limbs",
+   "action": "lay thin brown over the fallen tree where water runs over it",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thinned with a little liquid white",
+   "motion": "thin strokes over the tree",
+   "pressure": "light",
+   "where": "where water runs over the tree",
+   "rule": "thin paint lies over thick brown without mixing",
+   "new": ""
+  },
+  {
+   "t": "23:30",
+   "subject": "trunk/limbs",
+   "action": "add a few arms to the big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "liner brush, same paint",
+   "motion": "dabbing short arms",
+   "pressure": "light",
+   "where": "big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "grass",
+   "action": "add grass blades around the base of the tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "carried on brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:27",
+   "subject": "leaf tree",
+   "action": "add a few leaves with yellow ochre highlights",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "few spots on the tree",
+   "rule": "keeps the trees behind visible",
+   "new": ""
+  },
+  {
+   "t": "24:55",
+   "subject": "bush",
+   "action": "dab sap green and yellow bushes at the water's edge",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "thinned with paint thinner, green from sap green and yellow",
+   "motion": "dabbing and letting bushes hang over",
+   "pressure": "light",
+   "where": "water's edge",
+   "rule": "hanging edges add a bit of realism",
+   "new": ""
+  },
+  {
+   "t": "26:19",
+   "subject": "other: signature",
+   "action": "sign with thinned bright red",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red thinned with paint thinner",
+   "motion": "signing",
+   "pressure": "unknown",
+   "where": "signing area",
+   "rule": "",
+   "new": "thin paint makes signing easier"
+  }
+ ],
+ "rules": []
+}

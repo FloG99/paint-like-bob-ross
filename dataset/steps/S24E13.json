@@ -1,0 +1,598 @@
+{
+ "ep": "S24E13",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "titanium white",
+  "alizarin crimson",
+  "black",
+  "prussian blue",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:48",
+   "subject": "sky",
+   "action": "paint the sky with phthalo blue and white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed on the brush",
+   "motion": "bounce color in across the sky",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "less pressure lets the black gesso show for a darker sky",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "cloud",
+   "action": "tap white clouds with the top corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the corner",
+   "motion": "tap lightly for cloud shapes",
+   "pressure": "light",
+   "where": "top of the sky",
+   "rule": "tapping is the easiest way to make fluffy clouds",
+   "new": ""
+  },
+  {
+   "t": "03:07",
+   "subject": "cloud",
+   "action": "fluff clouds with a clean brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "tiny x strokes barely touching",
+   "pressure": "whisper",
+   "where": "cloud areas",
+   "rule": "a very light touch keeps the clouds soft",
+   "new": ""
+  },
+  {
+   "t": "05:12",
+   "subject": "cloud",
+   "action": "big dark storm clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "black, blue and crimson mixed on the brush",
+   "motion": "tap and drop shapes in",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "dark clouds push the light clouds back",
+   "new": ""
+  },
+  {
+   "t": "06:25",
+   "subject": "cloud",
+   "action": "stir and blend the dark clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "alternating dirty and clean brush",
+   "motion": "stir gently with the top corner",
+   "pressure": "whisper",
+   "where": "storm clouds",
+   "rule": "keeps some light showing through",
+   "new": ""
+  },
+  {
+   "t": "08:05",
+   "subject": "sky",
+   "action": "blend the whole sky lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend very lightly",
+   "pressure": "whisper",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:23",
+   "subject": "far trees",
+   "action": "tap small far-off tree shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown mix on the corner",
+   "motion": "tap in tiny basic shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "far away, so no detail is needed",
+   "new": ""
+  },
+  {
+   "t": "09:48",
+   "subject": "far trees",
+   "action": "tap bluer trees farther back",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "prussian blue"
+   ],
+   "load": "blue crimson and black mix",
+   "motion": "tap in indications",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:11",
+   "subject": "mountain",
+   "action": "tap a small foothill",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "prussian blue"
+   ],
+   "load": "same mix on the corner",
+   "motion": "pull down at the bottom, lift at the top",
+   "pressure": "light",
+   "where": "back, small hill",
+   "rule": "light bottom and lifted top suggest distance",
+   "new": ""
+  },
+  {
+   "t": "10:37",
+   "subject": "far trees",
+   "action": "tiny bluish far trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "black"
+   ],
+   "load": "bluer version of the same mix",
+   "motion": "tiny short strokes",
+   "pressure": "light",
+   "where": "back near the hill",
+   "rule": "snow added later will make them show",
+   "new": ""
+  },
+  {
+   "t": "11:25",
+   "subject": "trunk/limbs",
+   "action": "brown trunks on the back trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown on the liner",
+   "motion": "dab a few trunks",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": "some trunks poke above the tops"
+  },
+  {
+   "t": "11:47",
+   "subject": "evergreen",
+   "action": "dark evergreens in the back",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "full load of the dark mix",
+   "motion": "start at the corner, press harder toward the base",
+   "pressure": "firm",
+   "where": "back area",
+   "rule": "a few evergreens are enough for the back",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "evergreen",
+   "action": "add a second evergreen beside the first",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "tap in a big tree beside the first",
+   "pressure": "firm",
+   "where": "beside the first evergreen",
+   "rule": "keeps the first tree from being lonely",
+   "new": ""
+  },
+  {
+   "t": "13:54",
+   "subject": "snow",
+   "action": "snow-covered branches with thin white and blue",
+   "tool": "fan",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "fan brush dipped in liquid clear",
+   "motion": "let the branches bend downward",
+   "pressure": "light",
+   "where": "branches of the evergreen",
+   "rule": "clear changes how the paint sits on the canvas",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "evergreen",
+   "action": "darken the base of the evergreen",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on the fan",
+   "motion": "darken toward the base",
+   "pressure": "firm",
+   "where": "base of the evergreen",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "far trees",
+   "action": "lighter background tree with clear",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "black",
+    "prussian blue"
+   ],
+   "load": "less paint with more clear",
+   "motion": "light touch",
+   "pressure": "whisper",
+   "where": "background tree",
+   "rule": "the background tree should not grab attention",
+   "new": ""
+  },
+  {
+   "t": "14:49",
+   "subject": "snow",
+   "action": "white snow under the tree",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "heavy white loaded to a chisel edge",
+   "motion": "pull straight across under the tree",
+   "pressure": "unknown",
+   "where": "under the big tree",
+   "rule": "clear lets the white slide smoothly",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "trunk/limbs",
+   "action": "paint light and dark sides of trunks in one stroke",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "thin brown on one side, thin white on the other",
+   "motion": "pull through both colors at once",
+   "pressure": "light",
+   "where": "tree in front",
+   "rule": "one stroke gives a light side and a dark side",
+   "new": ""
+  },
+  {
+   "t": "16:53",
+   "subject": "trunk/limbs",
+   "action": "add a few limbs to the tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "thin brown on the liner",
+   "motion": "put a few arms out",
+   "pressure": "light",
+   "where": "tree in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:16",
+   "subject": "structure",
+   "action": "scrape out a basic cabin shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "knife with no paint",
+   "motion": "scrape out the excess",
+   "pressure": "firm",
+   "where": "right of the tree",
+   "rule": "scraping is one of the easiest ways to make a shape",
+   "new": ""
+  },
+  {
+   "t": "17:39",
+   "subject": "structure",
+   "action": "fill the cabin with brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown on the knife",
+   "motion": "block in the color",
+   "pressure": "unknown",
+   "where": "cabin shape",
+   "rule": "just blocking in color, no detail yet",
+   "new": ""
+  },
+  {
+   "t": "18:03",
+   "subject": "structure",
+   "action": "warm the front of the cabin with white",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "white with a little brown and crimson",
+   "motion": "barely touch with a roll of paint",
+   "pressure": "whisper",
+   "where": "front of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:27",
+   "subject": "structure",
+   "action": "dark boards and a door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark brown on the knife",
+   "motion": "touch in boards and a door",
+   "pressure": "unknown",
+   "where": "cabin front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:52",
+   "subject": "snow",
+   "action": "pile white snow on the roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "bounce along the roof edge",
+   "pressure": "unknown",
+   "where": "cabin roof",
+   "rule": "rough snow looks heavily piled on the old roof",
+   "new": ""
+  },
+  {
+   "t": "19:17",
+   "subject": "structure",
+   "action": "outline two windows",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "black"
+   ],
+   "load": "light gray on the small knife",
+   "motion": "outline small windows",
+   "pressure": "unknown",
+   "where": "side of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:42",
+   "subject": "snow",
+   "action": "snow around the cabin base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "bounce snow around the base",
+   "pressure": "unknown",
+   "where": "base of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:05",
+   "subject": "snow",
+   "action": "touch blue shadows into the snow",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little phthalo blue",
+   "motion": "touch lightly here and there",
+   "pressure": "light",
+   "where": "in the snow",
+   "rule": "a cool shadow effect in the snow",
+   "new": ""
+  },
+  {
+   "t": "20:30",
+   "subject": "fence",
+   "action": "fence rails with thin brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "lay a few rails",
+   "pressure": "light",
+   "where": "lower area near the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:00",
+   "subject": "snow",
+   "action": "snow on the fence top and around the base",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "dab snow along the top and base",
+   "pressure": "unknown",
+   "where": "top of fence and cabin base",
+   "rule": "snow rests on top of the fence",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "bush",
+   "action": "tap bushes and weeds at the tree base",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "top corner of the brush",
+   "motion": "tap in a few little things",
+   "pressure": "unknown",
+   "where": "base of the big tree",
+   "rule": "",
+   "new": "paint color not named"
+  },
+  {
+   "t": "22:14",
+   "subject": "leaf tree",
+   "action": "tap a small baby tree and twigs",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap in shapes and sticks",
+   "pressure": "unknown",
+   "where": "base of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:27",
+   "subject": "land",
+   "action": "sideward pull through brown and white at the base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "barely touch and pull sideways",
+   "pressure": "whisper",
+   "where": "bottom of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "trunk/limbs",
+   "action": "limbs in the upper trees with thin brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "add a few limbs",
+   "pressure": "light",
+   "where": "upper trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:40",
+   "subject": "snow",
+   "action": "dab snow under the tree and along the fence",
+   "tool": "liner",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the brush",
+   "motion": "dab under the tree",
+   "pressure": "unknown",
+   "where": "under the tree and fence",
+   "rule": "picking up dark color makes little shadows",
+   "new": ""
+  },
+  {
+   "t": "26:05",
+   "subject": "fence",
+   "action": "highlight the top of the fence and snow under it",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of white",
+   "motion": "a light touch across the top",
+   "pressure": "whisper",
+   "where": "fence top",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

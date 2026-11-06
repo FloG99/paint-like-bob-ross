@@ -1,0 +1,555 @@
+{
+ "ep": "S14E02",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "prussian blue",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "crisscross sky strokes with blue and crimson",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "wants a soft quiet painting",
+   "new": ""
+  },
+  {
+   "t": "02:34",
+   "subject": "sky",
+   "action": "blend sky with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "crisscross then light strokes",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "more blending makes it softer",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "far trees",
+   "action": "touch and pull distant trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch and pull downward",
+   "pressure": "light",
+   "where": "back distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:27",
+   "subject": "mist",
+   "action": "tap clean brush for base mist",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "tap firmly then lift upward",
+   "pressure": "firm",
+   "where": "base of far trees",
+   "rule": "creates a very soft misty effect",
+   "new": ""
+  },
+  {
+   "t": "05:06",
+   "subject": "evergreen",
+   "action": "evergreen trees with fan back and forth",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender mix on fan",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "evergreen",
+   "action": "another evergreen on the other side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix on fan",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "so this side is not left out",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "mist",
+   "action": "gentle tap with 2in to fade mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "gently tap then lift upward",
+   "pressure": "whisper",
+   "where": "misty base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:39",
+   "subject": "bush",
+   "action": "bushes and trees darkened with van dyke brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same lavender mix with brown added",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "darkens the lavender a bit",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "leaf tree",
+   "action": "another distinct tree in same mix",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "mist",
+   "action": "large brush taps light mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "barely touch and tap",
+   "pressure": "whisper",
+   "where": "mid mist area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:00",
+   "subject": "mist",
+   "action": "firm tap at bottom and lighter up high",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap firmly at bottom",
+   "pressure": "firm",
+   "where": "bottom of mist",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:40",
+   "subject": "bush",
+   "action": "general bush shape with corner of brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same mix",
+   "motion": "tap and turn brush",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:17",
+   "subject": "mist",
+   "action": "tap mist with same color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "same lavender mix",
+   "motion": "tap in place",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:17",
+   "subject": "land",
+   "action": "dark land masses blocked in by tapping",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on brush",
+   "motion": "tap and layer downward",
+   "pressure": "medium",
+   "where": "lower area",
+   "rule": "dark is needed so the light will show",
+   "new": ""
+  },
+  {
+   "t": "11:39",
+   "subject": "land",
+   "action": "more dark land base on right side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "tap in layers",
+   "pressure": "medium",
+   "where": "right side",
+   "rule": "good practice for later highlights",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "land",
+   "action": "yellow highlights on the land",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "touch cad yellow into the blue mix on brush",
+   "motion": "tap and touch",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "blue left on brush turns yellow green",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "other: small highlights",
+   "action": "accents of yellow ochre indian yellow and bright red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "touched into highlight mix",
+   "motion": "tap in little pieces",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "breaks it up with bright colors",
+   "new": ""
+  },
+  {
+   "t": "14:52",
+   "subject": "grass",
+   "action": "soft strokes across the meadow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "bring across",
+   "pressure": "light",
+   "where": "meadow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:33",
+   "subject": "grass",
+   "action": "touch of bright red for sparkle",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "tiny amount on brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "meadow area",
+   "rule": "adds a little sparkle",
+   "new": ""
+  },
+  {
+   "t": "16:13",
+   "subject": "land",
+   "action": "land work back to front following lay of land",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "tap following lay of land",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "follow the lay of the land and work back to front",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "leaf tree",
+   "action": "dark tree tapped with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on fan",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "tapping gives fuzzy edges",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "leaf tree",
+   "action": "leaves pushed downward with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "touch and push downward",
+   "pressure": "light",
+   "where": "on tree",
+   "rule": "uses the fan shape to make leaves",
+   "new": ""
+  },
+  {
+   "t": "18:50",
+   "subject": "trunk/limbs",
+   "action": "little limbs dropped in with yellow",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "touch of yellow on brush",
+   "motion": "drop limbs and clean up feet",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:50",
+   "subject": "land",
+   "action": "dark shadow under the tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark mix on brush",
+   "motion": "touch under tree",
+   "pressure": "light",
+   "where": "under tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:31",
+   "subject": "path",
+   "action": "scrub in path with small knife",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small knife loaded with brown",
+   "motion": "scrub in firmly",
+   "pressure": "firm",
+   "where": "recessed area of land",
+   "rule": "paint should be mashed into the canvas",
+   "new": ""
+  },
+  {
+   "t": "21:24",
+   "subject": "bush",
+   "action": "bushes pushed in along dirt edges",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "fan loaded with yellows",
+   "motion": "push in",
+   "pressure": "light",
+   "where": "dirt area low",
+   "rule": "brings everything together",
+   "new": ""
+  },
+  {
+   "t": "22:05",
+   "subject": "stream",
+   "action": "trickle of thin white with a touch of blue",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thinned with liquid white on fan",
+   "motion": "let it trickle down through",
+   "pressure": "light",
+   "where": "through path and meadow",
+   "rule": "thin paint slides over thick paint without mud",
+   "new": ""
+  },
+  {
+   "t": "23:26",
+   "subject": "leaf tree",
+   "action": "big dark tree dropped in with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "brown and black on fan",
+   "motion": "drop in and add a few leaves",
+   "pressure": "medium",
+   "where": "left upper",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:06",
+   "subject": "leaf tree",
+   "action": "firm taps for big tree on other side",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "same mix",
+   "motion": "firm taps and root",
+   "pressure": "firm",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:47",
+   "subject": "leaf tree",
+   "action": "white highlight down lit side of tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white left on fan",
+   "motion": "run down side and blend lighter",
+   "pressure": "whisper",
+   "where": "tree side",
+   "rule": "makes the lit side of the tree",
+   "new": ""
+  },
+  {
+   "t": "25:27",
+   "subject": "trunk/limbs",
+   "action": "thin brown branch hanging down",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown on liner",
+   "motion": "pull a branch down",
+   "pressure": "light",
+   "where": "tree side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:03",
+   "subject": "trunk/limbs",
+   "action": "few little branches over here",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same thin brown",
+   "motion": "small branch strokes",
+   "pressure": "light",
+   "where": "couple spots",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

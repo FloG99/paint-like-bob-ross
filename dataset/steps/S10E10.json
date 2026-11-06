@@ -1,0 +1,600 @@
+{
+ "ep": "S10E10",
+ "base": "liquid white (top); liquid clear (bottom)",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow",
+  "yellow ochre",
+  "bright red",
+  "titanium white",
+  "phthalo blue",
+  "alizarin crimson",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:37",
+   "subject": "sky",
+   "action": "start the sky with a little yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "very small amount of cad yellow, beaten into the bristles",
+   "motion": "little yellow up in the sky",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:37",
+   "subject": "sky",
+   "action": "yellow ochre around the edges of the yellow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch of yellow ochre, same brush",
+   "motion": "go back up, around the edges",
+   "pressure": "unknown",
+   "where": "right around the edges of that",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "bright red around the edges, little crisscross strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little bright red, no cleaning",
+   "motion": "little crisscross strokes",
+   "pressure": "unknown",
+   "where": "right around those edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "sky",
+   "action": "red for the horizon",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little red over here",
+   "motion": "let it work right along",
+   "pressure": "unknown",
+   "where": "right in here, the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "sky",
+   "action": "straight white pulled up into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight titanium white",
+   "motion": "grab it and pull",
+   "pressure": "unknown",
+   "where": "right up in this area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "cloud",
+   "action": "phthalo blue and crimson clouds with the corner of the brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "more crimson than blue, a little reddish",
+   "motion": "little circular strokes",
+   "pressure": "light",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "cloud",
+   "action": "clean brush gently blends the clouds",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "little round strokes, blend just enough",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "Blend only enough to soften the edges.",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "cloud",
+   "action": "closer cloud in darker crimson and phthalo blue",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "a little darker, more on the brush",
+   "motion": "little circular strokes",
+   "pressure": "unknown",
+   "where": "right in here",
+   "rule": "This makes the cloud appear closer to the viewer.",
+   "new": ""
+  },
+  {
+   "t": "06:34",
+   "subject": "cloud",
+   "action": "Clean brush, light stroke, place cloud in front.",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "Touch very lightly with a minimal brush stroke.",
+   "pressure": "light",
+   "where": "a couple here and there",
+   "rule": "It suggests depth and distance in the sky.",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "cloud",
+   "action": "streaky clouds with the fan, blended in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean dry brush, then blend",
+   "pressure": "unknown",
+   "where": "in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "ocean/wave",
+   "action": "thin filbert sketch of the wave line",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark lavender, thinned with paint thinner",
+   "motion": "outline the main wave position",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "This avoids many problems.",
+   "new": ""
+  },
+  {
+   "t": "10:29",
+   "subject": "ocean/wave",
+   "action": "block in the dark color in the wave",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "a little more alizarin crimson and phthalo blue",
+   "motion": "block in the dark areas, the big crasher",
+   "pressure": "unknown",
+   "where": "in here",
+   "rule": "Liquid clear allows mixing on the canvas without changing value.",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "rock",
+   "action": "fan brush basic rock shape, far in the distance",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "back and forth, not a great deal of paint",
+   "motion": "make a basic shape that sticks out in the water",
+   "pressure": "unknown",
+   "where": "back in the distance",
+   "rule": "This is too distant to show detail.",
+   "new": ""
+  },
+  {
+   "t": "11:51",
+   "subject": "rock",
+   "action": "bigger rock in front",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "put another one, bigger, in front",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "In front of it.",
+   "new": "helps suggest distance in the painting"
+  },
+  {
+   "t": "12:32",
+   "subject": "rock",
+   "action": "little highlight to make the rock stand out",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "a little highlight",
+   "pressure": "unknown",
+   "where": "on the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:11",
+   "subject": "rock",
+   "action": "titanium white highlights on the distant rock base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "plain old titanium white",
+   "motion": "barely touching, bring it around the base",
+   "pressure": "whisper",
+   "where": "way back in the distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:30",
+   "subject": "ocean/wave",
+   "action": "blend the dark back with a clean fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "work that back, follow the angles",
+   "pressure": "light",
+   "where": "in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:10",
+   "subject": "ocean/wave",
+   "action": "little swells far in the distance",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little bit of white",
+   "motion": "begin making little swells",
+   "pressure": "light",
+   "where": "way back there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:49",
+   "subject": "ocean/wave",
+   "action": "dark color along the basic angle of the wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "a little dark color",
+   "motion": "follow that basic angle",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "Dark must be applied before light.",
+   "new": ""
+  },
+  {
+   "t": "16:27",
+   "subject": "ocean/wave",
+   "action": "pull titanium white strokes, wiping between strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lot of paint on the brush",
+   "motion": "grab it and pull",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "Some of the undercolor will be picked up.",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "ocean/wave",
+   "action": "white with the least touch of cadmium yellow along the top of the wave",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "titanium white with the least touch of cadmium yellow",
+   "motion": "scrub color along the top of the wave",
+   "pressure": "unknown",
+   "where": "along the top of this wave",
+   "rule": "Because the water is thinner here.",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "ocean/wave",
+   "action": "clean dry 2in brush blends the light gently",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "very gently blend this",
+   "pressure": "whisper",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:26",
+   "subject": "ocean/wave",
+   "action": "pick up lavender from below and blend it up",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "lavender from below",
+   "motion": "grab it and blend it up",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:26",
+   "subject": "ocean/wave",
+   "action": "shadow foam with the filbert, lavender with a touch of white",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender with a touch of white",
+   "motion": "scrub the shadows in, get tough with it",
+   "pressure": "firm",
+   "where": "along the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:42",
+   "subject": "ocean/wave",
+   "action": "foam splashes with the filbert in white and cadmium yellow",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "a lot of white and cad yellow into the bristles",
+   "motion": "give it a little upward push",
+   "pressure": "firm",
+   "where": "up here",
+   "rule": "Because it will mix with the existing paint.",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "ocean/wave",
+   "action": "mix a medium value with a clean dry 2in brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "stir it up a little",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "It mixes with the dark, and the light unifies the area.",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "ocean/wave",
+   "action": "corner of the 2in brush blends the mix gently",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "bring all this together very gently",
+   "pressure": "whisper",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:23",
+   "subject": "ocean/wave",
+   "action": "thin yellow and white sparkles in the bright area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "titanium white"
+   ],
+   "load": "paint thinner, thin as ink",
+   "motion": "sparkle it like so",
+   "pressure": "unknown",
+   "where": "up here, this nice bright area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:03",
+   "subject": "grass",
+   "action": "Small floating shapes in white with a touch of phthalo blue.",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white and a very little blue",
+   "motion": "Small shapes float down through this area.",
+   "pressure": "unknown",
+   "where": "down through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:42",
+   "subject": "sun/glow",
+   "action": "fireball in the light area in yellow ochre, bright red, dark sienna and van dyke brown",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "drop each one in",
+   "motion": "throw it right on there",
+   "pressure": "unknown",
+   "where": "light area",
+   "rule": "This makes the light stand out clearly.",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "ocean/wave",
+   "action": "touch of white blended lightly across the light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "blend lightly, lightly go across",
+   "pressure": "light",
+   "where": "the light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:20",
+   "subject": "ocean/wave",
+   "action": "foam with the fan, white with least touch of phthalo blue",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with the least touch of phthalo blue",
+   "motion": "Create small foam shapes.",
+   "pressure": "unknown",
+   "where": "here, laying out",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "beach",
+   "action": "sand in brown and white with the fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "brown + touch of white",
+   "motion": "lay it right into the brown",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:35",
+   "subject": "water line",
+   "action": "thin blue line for water on the beach",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "paint thinner + light blue",
+   "motion": "put the indication of a little water playing",
+   "pressure": "unknown",
+   "where": "all down here on the beach",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:12",
+   "subject": "rock",
+   "action": "stone in van dyke brown, pull down for a reflection",
+   "tool": "fan",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "pull a little bit down",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:49",
+   "subject": "rock",
+   "action": "least touch of highlight on the stone with the little knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "least touch, like so",
+   "pressure": "whisper",
+   "where": "on here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

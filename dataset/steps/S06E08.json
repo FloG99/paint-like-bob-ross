@@ -1,0 +1,545 @@
+{
+ "ep": "S06E08",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "alizarin crimson",
+  "prussian blue",
+  "lavender",
+  "magic white",
+  "van dyke brown",
+  "permanent red",
+  "cad yellow",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:23",
+   "subject": "sky",
+   "action": "crisscross indian yellow near horizon",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tiny bit of indian yellow on brush",
+   "motion": "crisscross strokes where horizon will be",
+   "pressure": "light",
+   "where": "horizon area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:23",
+   "subject": "sky",
+   "action": "add alizarin crimson above yellow and blend",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "indian yellow"
+   ],
+   "load": "crimson added without washing brush",
+   "motion": "blend well into the yellow",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:48",
+   "subject": "sky",
+   "action": "brush-mix crimson with a little prussian blue and add lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "lavender"
+   ],
+   "load": "very small amount of blue into crimson",
+   "motion": "brush mix, blend together",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:23",
+   "subject": "sky",
+   "action": "fill rest of sky with prussian blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "blue loaded without washing",
+   "motion": "blend across the sky",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "blue mixed into yellow would make a green sky",
+   "new": ""
+  },
+  {
+   "t": "02:48",
+   "subject": "water",
+   "action": "lay lavender low with crimson-blue on dirty brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue",
+    "lavender"
+   ],
+   "load": "dirty brush with leftover crimson and blue",
+   "motion": "lay lavender in lower area",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": "keeps the yellow untouched for now"
+  },
+  {
+   "t": "03:41",
+   "subject": "sky",
+   "action": "blend sky with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush clean and dry",
+   "motion": "blend the sky together",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:34",
+   "subject": "mountain",
+   "action": "lay mountain peak with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "blue, crimson and brown mixed, loaded full on fan",
+   "motion": "wiggle, sharpen, place peak",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:27",
+   "subject": "mountain",
+   "action": "blend mountain with large brush pull",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "pull down to remove excess paint",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "underneath color and white give lighter value by themselves",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "mountain",
+   "action": "place far peak highlights with white and red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "fan loaded with white and a small amount of red",
+   "motion": "touch and wiggle, let shapes move",
+   "pressure": "light",
+   "where": "farthest peak",
+   "rule": "",
+   "new": "far peaks come first, then work forward"
+  },
+  {
+   "t": "08:34",
+   "subject": "mountain",
+   "action": "mix shadow color from blue into white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue mixed into white",
+   "motion": "mix on palette, no stroke yet",
+   "pressure": "unknown",
+   "where": "palette area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "mountain",
+   "action": "pull shadow down past the far peak",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "shadow mix on fan",
+   "motion": "pull down through the peak",
+   "pressure": "light",
+   "where": "far peak",
+   "rule": "shadow pushes the far peak back into the background",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "mountain",
+   "action": "add private shadows behind highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "same shadow mix",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "behind each highlight",
+   "rule": "each highlight needs its own shadow",
+   "new": ""
+  },
+  {
+   "t": "10:54",
+   "subject": "mountain",
+   "action": "tap mountain angles with clean dry brush, lift upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap angles, lift upward lightly",
+   "pressure": "light",
+   "where": "mountain angles",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:12",
+   "subject": "far trees",
+   "action": "tap tree lines running down mountain side with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "lavender",
+    "prussian blue"
+   ],
+   "load": "lavender with more blue",
+   "motion": "touch with corner, lift upward",
+   "pressure": "light",
+   "where": "side of mountain",
+   "rule": "follow the mountain angles or it will not look right",
+   "new": ""
+  },
+  {
+   "t": "13:17",
+   "subject": "far trees",
+   "action": "soften tree lines with clean dry brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "very light lift upward",
+   "pressure": "whisper",
+   "where": "tree lines",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "other: dark accent",
+   "action": "drop in dark color on fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark color on fan",
+   "motion": "tap in shapes",
+   "pressure": "unknown",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "reflection",
+   "action": "pull lavender down for reflection",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "lavender"
+   ],
+   "load": "lavender on brush",
+   "motion": "pull down from mountain",
+   "pressure": "light",
+   "where": "below mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "reflection",
+   "action": "soften reflection with very light strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "lavender"
+   ],
+   "load": "same brush",
+   "motion": "come across very lightly, then leave alone",
+   "pressure": "whisper",
+   "where": "below mountain",
+   "rule": "shorter reflection in back makes it look round and far",
+   "new": ""
+  },
+  {
+   "t": "15:54",
+   "subject": "other: highlight accents",
+   "action": "tip highlights in place",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "red and yellow mixed on fan",
+   "motion": "tip here and there, not too many",
+   "pressure": "light",
+   "where": "upper mountain area",
+   "rule": "",
+   "new": "do not overwork the darks"
+  },
+  {
+   "t": "17:17",
+   "subject": "water line",
+   "action": "lay water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "lavender"
+   ],
+   "load": "magic white with lavender on knife",
+   "motion": "push into canvas, keep lines straight",
+   "pressure": "firm",
+   "where": "back water area",
+   "rule": "straight lines keep the water in the painting",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "leaf tree",
+   "action": "paint tree with corner, add arms",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "purple mix on fan",
+   "motion": "touch and add small arms",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:29",
+   "subject": "evergreen",
+   "action": "paint pine stand with corner of fan",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "same purple mix",
+   "motion": "touch, build a small stand",
+   "pressure": "light",
+   "where": "forest area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "reflection",
+   "action": "pull reflections down from trees with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "pull downward gently, then come across",
+   "pressure": "light",
+   "where": "below trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:36",
+   "subject": "leaf tree",
+   "action": "paint trees on other side with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "same purple mix",
+   "motion": "touch with corner",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:57",
+   "subject": "reflection",
+   "action": "pull reflections downward with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson loaded",
+   "motion": "pull reflection down, come across",
+   "pressure": "light",
+   "where": "under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:28",
+   "subject": "evergreen",
+   "action": "add tiny highlights on evergreens",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "orange-y mix on brush",
+   "motion": "least touch here and there",
+   "pressure": "whisper",
+   "where": "evergreen tops",
+   "rule": "keeps the evergreens almost a silhouette",
+   "new": ""
+  },
+  {
+   "t": "22:51",
+   "subject": "land",
+   "action": "mix blue, white and crimson for land on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "blue, white and crimson mixed on knife",
+   "motion": "lay land in lower area",
+   "pressure": "light",
+   "where": "lower land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "evergreen",
+   "action": "add tiny yellow and red highlights",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "yellow and red on knife",
+   "motion": "drop a few highlights",
+   "pressure": "light",
+   "where": "evergreen edges",
+   "rule": "keeps the evergreens reading as silhouettes",
+   "new": ""
+  },
+  {
+   "t": "24:12",
+   "subject": "land",
+   "action": "drop highlights down into land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "same mix on fan",
+   "motion": "let them come down",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:39",
+   "subject": "water line",
+   "action": "drop water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "lavender"
+   ],
+   "load": "magic white with lavender on knife",
+   "motion": "barely touch, drop lines",
+   "pressure": "whisper",
+   "where": "lower water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:09",
+   "subject": "trunk/limbs",
+   "action": "indicate tree trunks with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "magic white",
+    "lavender"
+   ],
+   "load": "same knife load",
+   "motion": "small indications of trunks",
+   "pressure": "light",
+   "where": "among trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "other: signature",
+   "action": "sign with thin oil",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin oil",
+   "motion": "sign the painting",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": "signature hard to see against the red"
+  }
+ ],
+ "rules": []
+}

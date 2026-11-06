@@ -1,0 +1,500 @@
+{
+ "ep": "S25E10",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "Prussian blue",
+  "midnight black",
+  "sap green",
+  "titanium white",
+  "alizarin crimson",
+  "dark sienna",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "cover top with dark paint",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black"
+   ],
+   "load": "Prussian blue and black",
+   "motion": "cover whole top",
+   "pressure": "firm",
+   "where": "top of canvas",
+   "rule": "dark moody paint suits a stormy sea",
+   "new": ""
+  },
+  {
+   "t": "00:39",
+   "subject": "water",
+   "action": "add sap green at the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "prussian blue"
+   ],
+   "load": "sap green and Prussian blue",
+   "motion": "brush over bottom area",
+   "pressure": "light",
+   "where": "bottom half",
+   "rule": "sap green adds a watery feel",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "cloud",
+   "action": "tap small X strokes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount of white on brush",
+   "motion": "little X strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "dark underneath makes white come alive",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "cloud",
+   "action": "blend clouds lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light blend with clean dry brush",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "blending mixes with the dark underneath",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "cloud",
+   "action": "add white highlights to clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more white",
+   "motion": "tiny corner strokes",
+   "pressure": "light",
+   "where": "clouds",
+   "rule": "brighter so they show on television",
+   "new": ""
+  },
+  {
+   "t": "05:40",
+   "subject": "cloud",
+   "action": "blend clouds lightly with clean brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "blending too much would lose the clouds",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "water",
+   "action": "fill color up to horizon line",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "sap green, black and blue",
+   "motion": "bring color up",
+   "pressure": "light",
+   "where": "horizon line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "ocean/wave",
+   "action": "lay out basic wave shape",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on filbert",
+   "motion": "basic wave line",
+   "pressure": "light",
+   "where": "horizon area",
+   "rule": "a rough line shows where waves will go",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "water",
+   "action": "tiny rocking ripples far back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with touch of blue on fan",
+   "motion": "tiny rocking strokes",
+   "pressure": "light",
+   "where": "far back area",
+   "rule": "small rocking creates the look of things happening",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "ocean/wave",
+   "action": "pull wave stroke across then down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "across then down",
+   "pressure": "light",
+   "where": "wave line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:08",
+   "subject": "ocean/wave",
+   "action": "blend edge back gently",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "edge of wave",
+   "rule": "keeps dark areas that become the waves",
+   "new": ""
+  },
+  {
+   "t": "10:44",
+   "subject": "ocean/wave",
+   "action": "scrub yellow-white into wave",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "titanium white"
+   ],
+   "load": "yellow mixed into white",
+   "motion": "scrub and work darker",
+   "pressure": "firm",
+   "where": "top of wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:22",
+   "subject": "ocean/wave",
+   "action": "wiggle dry brush tips to smooth",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "wiggle bristles while turning handle",
+   "pressure": "light",
+   "where": "work outward from the wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "ocean/wave",
+   "action": "paint foam shadow first",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "blue-black-white-crimson mix on filbert",
+   "motion": "shadow stroke",
+   "pressure": "light",
+   "where": "under foam area",
+   "rule": "shadow goes in before foam",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "ocean/wave",
+   "action": "dab foam tip above shadow",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "wipe excess and reload",
+   "pressure": "light",
+   "where": "top edge of shadow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "ocean/wave",
+   "action": "add rough splashes",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small splashes",
+   "pressure": "light",
+   "where": "back in water",
+   "rule": "weaker splashes keep the center of interest",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "ocean/wave",
+   "action": "blend foam soft",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soft blend",
+   "pressure": "light",
+   "where": "foam area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:51",
+   "subject": "land",
+   "action": "paint dark headland into water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "brown, sienna and a little black",
+   "motion": "short stroke out into water",
+   "pressure": "light",
+   "where": "back, into water",
+   "rule": "far away land stays dark",
+   "new": ""
+  },
+  {
+   "t": "16:30",
+   "subject": "land",
+   "action": "add white highlight to headland",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white added to same mix",
+   "motion": "touch on headland",
+   "pressure": "light",
+   "where": "on headland",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:09",
+   "subject": "water",
+   "action": "splash white spray on headland",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white picked up",
+   "motion": "splash up",
+   "pressure": "light",
+   "where": "on headland",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:45",
+   "subject": "ocean/wave",
+   "action": "add foam patterns",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "small foam marks",
+   "pressure": "light",
+   "where": "across water",
+   "rule": "churning water needs many small marks",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "ocean/wave",
+   "action": "add fine foam detail",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white and blue thinned with thinner",
+   "motion": "rocking stroke",
+   "pressure": "light",
+   "where": "splashing water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "ocean/wave",
+   "action": "highlight foam lightly",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "yellow"
+   ],
+   "load": "white with a little yellow thinned",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "over foam",
+   "rule": "painting too dark for bright highlights",
+   "new": ""
+  },
+  {
+   "t": "21:40",
+   "subject": "ocean/wave",
+   "action": "punch holes in foam",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "sap green"
+   ],
+   "load": "dark mix on half-clean filbert",
+   "motion": "punch in",
+   "pressure": "firm",
+   "where": "in foam",
+   "rule": "makes openings so foam looks less solid",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "other: tree base",
+   "action": "tap base tone under tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "dark mix with sap green",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "under tree",
+   "rule": "trees need a base so they do not hang in space",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "other: big tree",
+   "action": "round pulls for tree body",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna"
+   ],
+   "load": "gray mix with dark sienna",
+   "motion": "pull round",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "light on tree separates it from dark sky",
+   "new": ""
+  },
+  {
+   "t": "24:52",
+   "subject": "other: palm fronds",
+   "action": "pull thin dark fronds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "very thin black",
+   "motion": "pull out fronds",
+   "pressure": "light",
+   "where": "hanging in air",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "25:29",
+   "subject": "other: palm fronds",
+   "action": "add silhouettes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "titanium white"
+   ],
+   "load": "green and white mix",
+   "motion": "dab and pull",
+   "pressure": "light",
+   "where": "in air",
+   "rule": "silhouettes give illusion of darkness",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "grass",
+   "action": "dab dark grass patches",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green",
+    "dark sienna"
+   ],
+   "load": "yellow, green and sienna",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bottom of picture",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:06",
+   "subject": "grass",
+   "action": "add thin hanging grass lines",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "thin strokes",
+   "pressure": "light",
+   "where": "grass edge",
+   "rule": "ties painting together",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

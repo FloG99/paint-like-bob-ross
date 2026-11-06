@@ -1,0 +1,605 @@
+{
+ "ep": "S17E10",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "dark sienna",
+  "alizarin crimson",
+  "midnight black",
+  "sap green",
+  "phthalo blue",
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:38",
+   "subject": "other: background wash",
+   "action": "warm wash across top area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "small amount tapped into bristles",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "bush",
+   "action": "corner rubs for small bush and tree shapes",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "mixed on the brush",
+   "motion": "rubbing with the corner",
+   "pressure": "light",
+   "where": "background",
+   "rule": "corner rubbing makes small shapes simple to make",
+   "new": ""
+  },
+  {
+   "t": "02:31",
+   "subject": "mist",
+   "action": "tap the base softly with a clean dry brush",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bottom of background shapes",
+   "rule": "tapping only the base keeps it softer",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "far trees",
+   "action": "more warm mix for depth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "slightly more paint",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "separating layers with value shows depth",
+   "new": ""
+  },
+  {
+   "t": "03:56",
+   "subject": "bush",
+   "action": "tap dark mix in with a 2in brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "sap green",
+    "phthalo blue"
+   ],
+   "load": "mixed dark on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "nearer background",
+   "rule": "nearer things get darker",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "bush",
+   "action": "small wiggles with the corner for a nearby bush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "sap green",
+    "phthalo blue"
+   ],
+   "load": "same brush",
+   "motion": "small wiggles",
+   "pressure": "light",
+   "where": "nearer bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:10",
+   "subject": "mist",
+   "action": "tap mist with the large brush in layers",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tapping in layers",
+   "pressure": "light",
+   "where": "background base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:49",
+   "subject": "far trees",
+   "action": "touch and bend small tree shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "warm mix on the brush",
+   "motion": "touch and bend",
+   "pressure": "light",
+   "where": "background tree shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:26",
+   "subject": "trunk/limbs",
+   "action": "knife marks for trunks here and there",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "among the tree shapes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:03",
+   "subject": "other: background wash",
+   "action": "layer yellows across the background",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "mixed yellows on the brush",
+   "motion": "layering",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:19",
+   "subject": "trunk/limbs",
+   "action": "brown trunks thinned in place of turpentine",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with odorless thinner",
+   "motion": "putting in a few trunks",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "odorless thinner replaces turpentine which can cause reactions",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "trunk/limbs",
+   "action": "light sticks and twigs with thinned white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white thinned with odorless thinner",
+   "motion": "small sticks and twigs",
+   "pressure": "light",
+   "where": "scattered through the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:13",
+   "subject": "bush",
+   "action": "dark strong color rubbed in with the corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "rubbing",
+   "pressure": "light",
+   "where": "lower background areas",
+   "rule": "light against dark and dark against light gives depth",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "structure",
+   "action": "scrape a basic building shape out",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scraping",
+   "pressure": "unknown",
+   "where": "building area",
+   "rule": "scraping removes excess paint for a basic outline",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "structure",
+   "action": "block in brown for the building",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "blocking in color",
+   "pressure": "light",
+   "where": "building area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:11",
+   "subject": "structure",
+   "action": "dirty red for the old roof",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "bright red",
+    "titanium white"
+   ],
+   "load": "mixed to a dirty red",
+   "motion": "laid along the roof line",
+   "pressure": "light",
+   "where": "top of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:51",
+   "subject": "structure",
+   "action": "marbled dark sienna mix pushed firmly into the building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "yellow ochre"
+   ],
+   "load": "marbled mix in one roll",
+   "motion": "pushing straight down",
+   "pressure": "firm",
+   "where": "left side of building",
+   "rule": "lets background colors mix into the mass",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "structure",
+   "action": "lighter mix mashed in on the other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mix lightened with more white",
+   "motion": "mashing hard then pulling down",
+   "pressure": "hard",
+   "where": "right side of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:10",
+   "subject": "structure",
+   "action": "lighter edge so the side stands apart",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "light mix rolled on the knife",
+   "motion": "pulling straight down",
+   "pressure": "light",
+   "where": "edge of building",
+   "rule": "a lighter edge lets it stand apart",
+   "new": ""
+  },
+  {
+   "t": "16:49",
+   "subject": "rock",
+   "action": "darker color bounced at random for distant stones",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "small amount of darker mix",
+   "motion": "bouncing lightly",
+   "pressure": "light",
+   "where": "distant area up top",
+   "rule": "suggests distant things without much detail",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "structure",
+   "action": "dark sienna outline for a window",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark mix with a little white",
+   "motion": "light outline",
+   "pressure": "light",
+   "where": "window spots on building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "structure",
+   "action": "dark van dyke door then lighter outline",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark brown then light outline",
+   "motion": "outlining with light strokes",
+   "pressure": "light",
+   "where": "door on building",
+   "rule": "a lighter outline makes the door stand out",
+   "new": ""
+  },
+  {
+   "t": "18:43",
+   "subject": "structure",
+   "action": "thin dark and white lines for a flume",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "thin dark sienna with white",
+   "motion": "drawing thin lines",
+   "pressure": "light",
+   "where": "top area over the mill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "structure",
+   "action": "dark wheel outline with a touch of light",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark inside with a touch of light",
+   "motion": "outlining the wheel",
+   "pressure": "light",
+   "where": "mill area",
+   "rule": "the wheel is not round because of the viewing angle",
+   "new": ""
+  },
+  {
+   "t": "19:58",
+   "subject": "structure",
+   "action": "thin dark sienna mix dragged for a support",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "yellow ochre"
+   ],
+   "load": "thinned mix with liquid white",
+   "motion": "pulling thin paint across",
+   "pressure": "light",
+   "where": "under the wheel",
+   "rule": "the wheel needs something to hook onto",
+   "new": ""
+  },
+  {
+   "t": "20:36",
+   "subject": "rock",
+   "action": "big stone with shadow and highlight in one pass",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "heavy black with a side of white",
+   "motion": "pulling one side through the light color",
+   "pressure": "light",
+   "where": "left of the support",
+   "rule": "shadow and highlight can go on at one time",
+   "new": ""
+  },
+  {
+   "t": "21:15",
+   "subject": "bush",
+   "action": "scrub a bush beside the rock",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "scrubbing",
+   "pressure": "light",
+   "where": "beside the rock",
+   "rule": "a bush pushes the rock back into the distance",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "other: background fill",
+   "action": "fill the area with browns",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "browns mixed on the brush",
+   "motion": "filling in",
+   "pressure": "light",
+   "where": "area beside the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "waterfall",
+   "action": "splashes of thin white and blue from the fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "liquid white thinned with white and blue",
+   "motion": "dropping and splashing",
+   "pressure": "light",
+   "where": "top of stream area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "rock",
+   "action": "stones dabbed along the stream bank",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown on the filbert",
+   "motion": "dabbing stones",
+   "pressure": "light",
+   "where": "along the stream bank",
+   "rule": "highlight and shadow in one stroke makes stones easy",
+   "new": ""
+  },
+  {
+   "t": "23:47",
+   "subject": "waterfall",
+   "action": "thin paint runs down for a little waterfall",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "thin paint carried over",
+   "motion": "letting it run over the edge",
+   "pressure": "light",
+   "where": "top of stream",
+   "rule": "stones hold the stream so it does not spill over",
+   "new": ""
+  },
+  {
+   "t": "24:26",
+   "subject": "grass",
+   "action": "sap green grassy areas down to the stones",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "near the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:05",
+   "subject": "leaf tree",
+   "action": "big dark tree dropped in with dark browns",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "loaded full with dark mix",
+   "motion": "dropping off the brush",
+   "pressure": "light",
+   "where": "upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:43",
+   "subject": "trunk/limbs",
+   "action": "trunk dark on one side and light on the other",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark then light on the fan",
+   "motion": "touch and go",
+   "pressure": "light",
+   "where": "tree trunk",
+   "rule": "dark on one side and light on the other gives form",
+   "new": ""
+  },
+  {
+   "t": "25:43",
+   "subject": "trunk/limbs",
+   "action": "yellow ochre highlights on the trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount on the fan",
+   "motion": "dabbing highlights",
+   "pressure": "light",
+   "where": "trunk area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[03:56] two brushes of each size keep dark and light paint apart",
+  "[12:13] light against dark and dark against light gives depth"
+ ]
+}

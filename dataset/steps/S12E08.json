@@ -1,0 +1,480 @@
+{
+ "ep": "S12E08",
+ "base": "phthalo blue; sap green",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "titanium white",
+  "midnight black",
+  "dark sienna",
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:38",
+   "subject": "sky",
+   "action": "spin white across wet wash",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load both sides",
+   "motion": "spin and push",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:34",
+   "subject": "other: wash",
+   "action": "blend wash lightly",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "dry brush",
+   "motion": "up and down blend",
+   "pressure": "whisper",
+   "where": "over the whole wash",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "far trees",
+   "action": "tap in distant evergreen trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "load full of midnight black",
+   "motion": "tap for fuzzy edges",
+   "pressure": "light",
+   "where": "background scattered",
+   "rule": "tapping gives fuzzy edges for distance",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "trunk/limbs",
+   "action": "thin limbs on distant trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin with paint thinner to ink consistency",
+   "motion": "flow limbs off brush",
+   "pressure": "light",
+   "where": "branches of distant trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "grass",
+   "action": "grassy foliage strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "tap colors into bristles",
+   "motion": "tap up and down",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "land",
+   "action": "sweep land down the canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "touch and drop down",
+   "pressure": "light",
+   "where": "background hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:55",
+   "subject": "grass",
+   "action": "soft grassy areas down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "same brush",
+   "motion": "tap and drop",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "stream",
+   "action": "push stream with white",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan brush",
+   "motion": "push and drag strokes",
+   "pressure": "light",
+   "where": "top to bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "land",
+   "action": "dark land and stones",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tap into bristles",
+   "motion": "tap in shapes",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:09",
+   "subject": "rock",
+   "action": "highlight stones",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "least touch of dark sienna",
+   "motion": "barely graze",
+   "pressure": "whisper",
+   "where": "top of stones",
+   "rule": "a delicate touch makes highlights stand out",
+   "new": ""
+  },
+  {
+   "t": "12:48",
+   "subject": "grass",
+   "action": "grass over stones",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "sap green"
+   ],
+   "load": "load both sides",
+   "motion": "upward push",
+   "pressure": "light",
+   "where": "around stones and water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "rock",
+   "action": "highlight big rock",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load from knife",
+   "motion": "touch and drop",
+   "pressure": "whisper",
+   "where": "big rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:04",
+   "subject": "water",
+   "action": "waterfall with liquid white",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "pick up from knife",
+   "motion": "drop water down over edge",
+   "pressure": "light",
+   "where": "top to bottom of waterfall",
+   "rule": "thinner paint flows more easily",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "grass",
+   "action": "yellow grass with red touches",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "same 2in brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "over stones and water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "grass",
+   "action": "hang grass over stones",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green"
+   ],
+   "load": "add sap green",
+   "motion": "let grass hang down",
+   "pressure": "light",
+   "where": "over stones",
+   "rule": "leave some rocks showing",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "leaf tree",
+   "action": "dark big tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "load full of color",
+   "motion": "touch tree shape",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "leaf tree",
+   "action": "highlight big trees with bright red",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "cut roll from knife",
+   "motion": "tiny pull and blend",
+   "pressure": "whisper",
+   "where": "highlight on trees",
+   "rule": "bright red is very strong so use little",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "leaf tree",
+   "action": "darken around tree edges",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "same knife",
+   "motion": "pull and blend around",
+   "pressure": "light",
+   "where": "other trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:16",
+   "subject": "leaf tree",
+   "action": "reflected light on tree backs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "small amount on knife",
+   "motion": "touch on tree backs",
+   "pressure": "light",
+   "where": "back of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:55",
+   "subject": "leaf tree",
+   "action": "tap van dyke brown into trees",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tap in",
+   "motion": "tap in middle",
+   "pressure": "light",
+   "where": "middle of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "trunk/limbs",
+   "action": "thin dark limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "pull thin lines",
+   "pressure": "light",
+   "where": "tree arms",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "trunk/limbs",
+   "action": "big arms on trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same liner",
+   "motion": "pull out arms",
+   "pressure": "light",
+   "where": "big old tree",
+   "rule": "trees need arms too",
+   "new": ""
+  },
+  {
+   "t": "21:55",
+   "subject": "leaf tree",
+   "action": "leafy effects with oval brush",
+   "tool": "other: oval brush",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "tap into bristles",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "tree tops and sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:12",
+   "subject": "leaf tree",
+   "action": "oval brush highlights",
+   "tool": "other: oval brush",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "midnight black"
+   ],
+   "load": "pull and push",
+   "motion": "pull then push",
+   "pressure": "light",
+   "where": "other tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:28",
+   "subject": "other: tape",
+   "action": "remove tape",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull off tape",
+   "pressure": "light",
+   "where": "canvas edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:06",
+   "subject": "stream",
+   "action": "let foam run off canvas",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same fan brush",
+   "motion": "push up foam",
+   "pressure": "light",
+   "where": "right side off canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:46",
+   "subject": "land",
+   "action": "land runs off canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "sweep down off edge",
+   "pressure": "light",
+   "where": "bottom right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:24",
+   "subject": "other: signature",
+   "action": "sign with thinner",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin paint",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

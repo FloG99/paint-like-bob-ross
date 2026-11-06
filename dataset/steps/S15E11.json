@@ -1,0 +1,531 @@
+{
+ "ep": "S15E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "dark sienna",
+  "midnight black",
+  "titanium white",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "alizarin crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:40",
+   "subject": "sky",
+   "action": "criss-cross blue sky over liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "criss-cross x strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:20",
+   "subject": "sky",
+   "action": "blend sky smooth, leave gaps for clouds",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "same brush",
+   "motion": "blend smooth",
+   "pressure": "light",
+   "where": "whole sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "bush",
+   "action": "basic bush and tree shapes, dark at bottom",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tap brown into bristles",
+   "motion": "tap basic shapes from bottom up",
+   "pressure": "light",
+   "where": "lower area of the scene",
+   "rule": "darker bottom gives the look of deep shadows",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "bush",
+   "action": "darken shadows with midnight black",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "add tiny amount of midnight black",
+   "motion": "tap darker shadows",
+   "pressure": "light",
+   "where": "low shadow areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "leaf tree",
+   "action": "basic tree shapes with arms",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brush",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "middle of the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "other: base fill",
+   "action": "fill canvas with dark brown base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "load a lot of color",
+   "motion": "fill in the whole area",
+   "pressure": "medium",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:06",
+   "subject": "trunk/limbs",
+   "action": "tree trunks, stems and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "thin with paint thinner to ink",
+   "motion": "pull thin trunks and twigs",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "leaf tree",
+   "action": "highlight patches with yellows and red",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "dark sienna first, then yellows and red",
+   "motion": "tap highlight patches",
+   "pressure": "light",
+   "where": "highlight areas on trees",
+   "rule": "dark sienna first dulls the yellow",
+   "new": ""
+  },
+  {
+   "t": "08:14",
+   "subject": "leaf tree",
+   "action": "leaf patterns with corner of brush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "bright red"
+   ],
+   "load": "same brush",
+   "motion": "dab leaf clusters",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:12",
+   "subject": "leaf tree",
+   "action": "add cad yellow sunshine on trees",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "add cad yellow",
+   "motion": "dab patches",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "bush",
+   "action": "bushes at the foot of trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tap into bristles",
+   "motion": "dab bushes",
+   "pressure": "light",
+   "where": "foot of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:07",
+   "subject": "trunk/limbs",
+   "action": "light sticks in dark background",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin white with paint thinner",
+   "motion": "tap light sticks",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "light sticks stand out against dark background",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "trunk/limbs",
+   "action": "drop sticks and twigs with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife loaded with brown",
+   "motion": "drop in sticks and twigs",
+   "pressure": "light",
+   "where": "growing in the scene",
+   "rule": "sticks show planes and create depth",
+   "new": ""
+  },
+  {
+   "t": "13:23",
+   "subject": "grass",
+   "action": "grassy areas with same colors",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "tap paint into bristles",
+   "motion": "tap grass shapes",
+   "pressure": "light",
+   "where": "down here, land area",
+   "rule": "leave dark between patches to keep them apart",
+   "new": ""
+  },
+  {
+   "t": "14:39",
+   "subject": "grass",
+   "action": "add crimson and sap green patches",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "add crimson to brush",
+   "motion": "tap patches",
+   "pressure": "light",
+   "where": "across the field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:57",
+   "subject": "structure",
+   "action": "scrape out basic building shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out shape",
+   "pressure": "light",
+   "where": "middle of the field",
+   "rule": "lays out proportions without commitment and removes extra paint",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "structure",
+   "action": "block in dark background color on building",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "tap onto building shape",
+   "motion": "fill with dark background color",
+   "pressure": "light",
+   "where": "inside the building shape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "structure",
+   "action": "red roof on building",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "cut roll on knife edge",
+   "motion": "bounce down the top of building",
+   "pressure": "light",
+   "where": "roof of building",
+   "rule": "dark sienna keeps the red from getting too bright",
+   "new": ""
+  },
+  {
+   "t": "17:53",
+   "subject": "structure",
+   "action": "old weathered wood on the side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "pull white flat, cut across, roll on knife",
+   "motion": "glide down with no pressure",
+   "pressure": "whisper",
+   "where": "side of building",
+   "rule": "gives the look of very old wood",
+   "new": ""
+  },
+  {
+   "t": "18:32",
+   "subject": "structure",
+   "action": "door and darker side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "yellow ochre",
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same color with van dyke brown added",
+   "motion": "block the darker side",
+   "pressure": "light",
+   "where": "front and side of building",
+   "rule": "darker side separates the two faces",
+   "new": ""
+  },
+  {
+   "t": "19:09",
+   "subject": "structure",
+   "action": "outline door in white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "outline the door",
+   "pressure": "light",
+   "where": "edge of the door",
+   "rule": "outline makes the door stand out",
+   "new": ""
+  },
+  {
+   "t": "19:46",
+   "subject": "grass",
+   "action": "grass around the barn base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap a little crimson into bristles",
+   "motion": "tap little grassy bits",
+   "pressure": "light",
+   "where": "around the base of the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "grass",
+   "action": "tap grass in layers, back to front",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "cad yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "tap crimson and bright red",
+   "motion": "tap downward layer by layer",
+   "pressure": "light",
+   "where": "back then forward",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "path",
+   "action": "path from the barn",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "fan loaded full of brown mix",
+   "motion": "scrub path up the hill",
+   "pressure": "medium",
+   "where": "from barn up into the field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:45",
+   "subject": "grass",
+   "action": "grassy bits around path edges",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "alizarin crimson",
+    "bright red"
+   ],
+   "load": "mix colors on the fan brush",
+   "motion": "tap around path edges",
+   "pressure": "light",
+   "where": "around the path",
+   "rule": "grass edges push the path into the painting",
+   "new": ""
+  },
+  {
+   "t": "22:24",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark brown on brush",
+   "motion": "drop trunk shape",
+   "pressure": "medium",
+   "where": "up there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:02",
+   "subject": "trunk/limbs",
+   "action": "bend trunk with wiggle",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "same brown",
+   "motion": "bend trunk",
+   "pressure": "medium",
+   "where": "on the big tree",
+   "rule": "bent trunks have character and look more interesting",
+   "new": ""
+  },
+  {
+   "t": "23:02",
+   "subject": "leaf tree",
+   "action": "highlight edges with brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "pull white flat, cut across, roll on knife",
+   "motion": "touch edges for highlights",
+   "pressure": "whisper",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "trunk/limbs",
+   "action": "limbs off the big tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "paint thinner to thin like water",
+   "motion": "add limbs and branches",
+   "pressure": "light",
+   "where": "on the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:36",
+   "subject": "leaf tree",
+   "action": "few leaves left on trees",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "almost straight cad yellow on brush",
+   "motion": "tap a few leaves",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

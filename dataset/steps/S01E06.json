@@ -1,0 +1,771 @@
+{
+ "ep": "S01E06",
+ "base": "van dyke brown; prussian blue",
+ "format": "unknown",
+ "light": "below",
+ "guest": false,
+ "palette": [
+  "van dyke brown",
+  "prussian blue",
+  "titanium white",
+  "magic white"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "start the glow at the moon with x strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "small x strokes working outward",
+   "pressure": "light",
+   "where": "around the moon spot",
+   "rule": "light weakens with distance from the moon",
+   "new": ""
+  },
+  {
+   "t": "00:53",
+   "subject": "sky",
+   "action": "blend the glow into the dark sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "circles working outward",
+   "pressure": "light",
+   "where": "out to the edges",
+   "rule": "keeps the sky from getting bright so it still looks like night",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "x strokes to bring the sky together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "small x patterns",
+   "pressure": "whisper",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:45",
+   "subject": "moon/stars",
+   "action": "push white into the canvas for the moon",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "full load on a clean brush",
+   "motion": "push in and turn",
+   "pressure": "firm",
+   "where": "moon spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:08",
+   "subject": "moon/stars",
+   "action": "scrape off excess moon paint with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "moon spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:08",
+   "subject": "moon/stars",
+   "action": "blend the moon back and forth with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "moon spot",
+   "rule": "creates the look of the moon setting into the sky",
+   "new": ""
+  },
+  {
+   "t": "02:38",
+   "subject": "cloud",
+   "action": "paint clouds with fan corner, one floating across the moon",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "lot of paint on brush",
+   "motion": "corner strokes making clouds",
+   "pressure": "medium",
+   "where": "across the moon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:04",
+   "subject": "cloud",
+   "action": "small cloud up high near the top",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "push in and work it firmly",
+   "pressure": "firm",
+   "where": "top of the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:32",
+   "subject": "cloud",
+   "action": "lay in small delicate clouds low down",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "lay in lightly",
+   "pressure": "light",
+   "where": "lower sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "cloud",
+   "action": "highlight the cloud tops with the fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "white with a little of the dark",
+   "motion": "push corners in along the tops",
+   "pressure": "firm",
+   "where": "tops of clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:53",
+   "subject": "cloud",
+   "action": "highlight the underside of the cloud above the moon",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "corner strokes on the bottom",
+   "pressure": "firm",
+   "where": "underside of cloud above moon",
+   "rule": "the moon is below so the light hits the bottom",
+   "new": ""
+  },
+  {
+   "t": "05:22",
+   "subject": "cloud",
+   "action": "gently blend the clouds together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "gentle hypnotic motion",
+   "pressure": "whisper",
+   "where": "all the clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:45",
+   "subject": "mountain",
+   "action": "draw the basic mountain shape",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "draw the outline with a firm push",
+   "pressure": "firm",
+   "where": "mountain area",
+   "rule": "he wants it higher so clouds show behind",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "mountain",
+   "action": "pull paint down with the large brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "gets as much paint off the canvas as possible",
+   "new": ""
+  },
+  {
+   "t": "06:48",
+   "subject": "mountain",
+   "action": "add snow down the mountain with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with a little blue",
+   "motion": "let it break and play",
+   "pressure": "light",
+   "where": "down the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:36",
+   "subject": "mountain",
+   "action": "highlight the peak with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "light touch",
+   "pressure": "light",
+   "where": "top of the peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "mountain",
+   "action": "shadow behind each highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white with a darker value",
+   "motion": "follow the ridge line",
+   "pressure": "light",
+   "where": "behind each highlight",
+   "rule": "every highlight needs its own shadow",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "mist",
+   "action": "tap the mountain base with a clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap following the angles",
+   "pressure": "light",
+   "where": "bottom of the mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:14",
+   "subject": "mist",
+   "action": "lift upward to soften the tap marks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "whisper",
+   "where": "bottom of the mountains",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:39",
+   "subject": "bush",
+   "action": "push in dark bushes with a loaded brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "load a lot",
+   "motion": "push in little bushes",
+   "pressure": "firm",
+   "where": "dark bush spots",
+   "rule": "dark is required to make light visible",
+   "new": ""
+  },
+  {
+   "t": "10:28",
+   "subject": "far trees",
+   "action": "push in snow-covered trees far back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "thinned mix",
+   "motion": "tap in tree tips",
+   "pressure": "light",
+   "where": "far back in the distance",
+   "rule": "thin paint sticks to thick paint so it is thinned",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "reflection",
+   "action": "pull white streaks down from the bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on a clean brush",
+   "motion": "pull straight down in streaks",
+   "pressure": "light",
+   "where": "under the bushes",
+   "rule": "lines must run straight down to read as reflections",
+   "new": ""
+  },
+  {
+   "t": "11:46",
+   "subject": "reflection",
+   "action": "lightly blend across the reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light cross strokes",
+   "pressure": "whisper",
+   "where": "reflection area",
+   "rule": "so it looks watery without wrecking the lines",
+   "new": ""
+  },
+  {
+   "t": "11:46",
+   "subject": "snow",
+   "action": "lay snow along the water edge with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little paint on the knife",
+   "motion": "dab a line of snow",
+   "pressure": "light",
+   "where": "along the water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:03",
+   "subject": "trunk/limbs",
+   "action": "scratch trunks through the dark paint",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch lines through the paint",
+   "pressure": "firm",
+   "where": "dark bush area",
+   "rule": "so the lines read as little trunks",
+   "new": ""
+  },
+  {
+   "t": "13:29",
+   "subject": "trunk/limbs",
+   "action": "build little limbs from the fan brush corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "load a lot of paint",
+   "motion": "touch then build limbs out",
+   "pressure": "firm",
+   "where": "tree spots on the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:55",
+   "subject": "trunk/limbs",
+   "action": "push in a tired leaning tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "push paint into the canvas",
+   "pressure": "firm",
+   "where": "tree spot on one side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:57",
+   "subject": "trunk/limbs",
+   "action": "make the trees larger as they come forward",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "bigger strokes forward",
+   "pressure": "firm",
+   "where": "forward trees",
+   "rule": "size and color create the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "trunk/limbs",
+   "action": "very dark tree on the other side",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "dark strokes off the fan",
+   "pressure": "firm",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "trunk/limbs",
+   "action": "big tree from the fan brush",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "big tree shape",
+   "pressure": "firm",
+   "where": "big tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "bush",
+   "action": "shadow the bushes and trees in blue and white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "blue and white mixed for a dark",
+   "motion": "dab in bushes and trees",
+   "pressure": "light",
+   "where": "new bush area",
+   "rule": "shadow goes in first, highlight after",
+   "new": ""
+  },
+  {
+   "t": "18:57",
+   "subject": "bush",
+   "action": "add bush highlights with magic white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white"
+   ],
+   "load": "magic white with a little plain white",
+   "motion": "dab bushes",
+   "pressure": "light",
+   "where": "bushes on the dark side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:46",
+   "subject": "reflection",
+   "action": "reflect the new bushes into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:40",
+   "subject": "trunk/limbs",
+   "action": "add dark trunks and stems",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "scratch in trunks",
+   "pressure": "light",
+   "where": "the trees",
+   "rule": "gives the tree body and shape and shows distance",
+   "new": ""
+  },
+  {
+   "t": "21:04",
+   "subject": "water line",
+   "action": "water line under the trees with thin white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin paint off the knife",
+   "motion": "pull a thin line",
+   "pressure": "light",
+   "where": "bottom of the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:18",
+   "subject": "snow",
+   "action": "lay snow on this side with straight white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight white",
+   "motion": "let the paint break",
+   "pressure": "firm",
+   "where": "this side of the scene",
+   "rule": "so shadows show through the snow",
+   "new": ""
+  },
+  {
+   "t": "23:17",
+   "subject": "structure",
+   "action": "scrape the cabin shape with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape out the basic shape",
+   "pressure": "light",
+   "where": "cabin area",
+   "rule": "scraping removes the loose paint underneath",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "structure",
+   "action": "dark far eave of the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull the eave",
+   "pressure": "light",
+   "where": "cabin roof edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "structure",
+   "action": "snow on the roof with white on the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on the knife",
+   "motion": "lay snow on the roof",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "structure",
+   "action": "bounce white on the wood for an old look",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "bounce gently",
+   "pressure": "light",
+   "where": "cabin wood",
+   "rule": "makes the cabin look older",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "structure",
+   "action": "highlight the door with the knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "highlights around the door",
+   "pressure": "light",
+   "where": "cabin door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:18",
+   "subject": "structure",
+   "action": "build a shed with a snow roof and dark wall",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop in the wall",
+   "pressure": "light",
+   "where": "beside the cabin",
+   "rule": "out of space, so a shed was built",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "structure",
+   "action": "cut in slab boards with the knife point",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cut lines in",
+   "pressure": "light",
+   "where": "cabin wall",
+   "rule": "makes it an old slab cabin",
+   "new": ""
+  },
+  {
+   "t": "26:14",
+   "subject": "bush",
+   "action": "push a bush right along the cabin",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push bush back to the cabin",
+   "pressure": "light",
+   "where": "right along the cabin",
+   "rule": "sets the cabin back into the painting",
+   "new": ""
+  },
+  {
+   "t": "26:39",
+   "subject": "bush",
+   "action": "highlight the little bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "on the bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:39",
+   "subject": "trunk/limbs",
+   "action": "cut sticks through the light paint with the knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cut through the light paint",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:11",
+   "subject": "evergreen",
+   "action": "tap a little blue on the dark trees so they show",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "tap lightly",
+   "pressure": "light",
+   "where": "fan trees on the canvas",
+   "rule": "for better visibility at home",
+   "new": ""
+  },
+  {
+   "t": "27:34",
+   "subject": "evergreen",
+   "action": "tiny highlights on the trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "scattered trees",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

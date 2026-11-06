@@ -1,0 +1,588 @@
+{
+ "ep": "S30E13",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "black gesso",
+  "sap green",
+  "prussian blue",
+  "van dyke brown",
+  "phthalo blue",
+  "titanium white",
+  "midnight black",
+  "dark sienna",
+  "alizarin crimson",
+  "cadmium yellow",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:21",
+   "subject": "other: dark ground",
+   "action": "tap black gesso onto bottom with natural sponge",
+   "tool": "sponge",
+   "part": "unknown",
+   "paint": [
+    "black gesso"
+   ],
+   "load": "black gesso on sponge",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom part of canvas",
+   "rule": "a natural sponge gives more texture",
+   "new": ""
+  },
+  {
+   "t": "00:50",
+   "subject": "other: dark ground",
+   "action": "thin coat over the dark area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "thin mix",
+   "motion": "brush on coat",
+   "pressure": "light",
+   "where": "dark area of bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:50",
+   "subject": "sky",
+   "action": "block in sky with phthalo blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount on brush",
+   "motion": "X strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "leave light areas in the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "open spots in sky",
+   "rule": "keeps the sky from being one dead color",
+   "new": ""
+  },
+  {
+   "t": "02:04",
+   "subject": "mountain",
+   "action": "tap dark mountain shape into canvas",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dull dark mix tapped into bristles",
+   "motion": "tap in shape",
+   "pressure": "light",
+   "where": "middle of canvas, big mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:13",
+   "subject": "mist",
+   "action": "tap clean dry brush to mist the mountain base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap severely",
+   "pressure": "firm",
+   "where": "base of mountain",
+   "rule": "creates the illusion of mist",
+   "new": ""
+  },
+  {
+   "t": "03:36",
+   "subject": "far trees",
+   "action": "add small trees growing up the hill side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "sap green",
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same dark mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "side of hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:58",
+   "subject": "mist",
+   "action": "tap clean brush to mist and separate the shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of hill",
+   "rule": "mist separates the shapes",
+   "new": ""
+  },
+  {
+   "t": "04:48",
+   "subject": "leaf tree",
+   "action": "mix dark colors for fan tree shapes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix loaded both sides",
+   "motion": "tap corner and shake out",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:36",
+   "subject": "trunk/limbs",
+   "action": "scrape in little trunks",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:03",
+   "subject": "leaf tree",
+   "action": "highlight little trees with cadmium yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "same fan with yellow mix",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "on little trees",
+   "rule": "highlights make the trees stand out",
+   "new": ""
+  },
+  {
+   "t": "06:49",
+   "subject": "rock",
+   "action": "stroke rocks dark on one side and light on the other",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "thin dark and light piles",
+   "motion": "one stroke",
+   "pressure": "light",
+   "where": "upper area of rocks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:04",
+   "subject": "waterfall",
+   "action": "paint water falling down as a waterfall",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "thin white and blue with liquid clear",
+   "motion": "drop down",
+   "pressure": "light",
+   "where": "top of waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:53",
+   "subject": "mist",
+   "action": "tap blender brush with white mist at waterfall base",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch on blender",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of waterfall",
+   "rule": "a soft brush gives a misty illusion",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "rock",
+   "action": "add rocks that contain the water with filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark and light sides of filbert",
+   "motion": "stroke dark then highlight",
+   "pressure": "light",
+   "where": "around waterfall",
+   "rule": "contains the water so it does not get away",
+   "new": ""
+  },
+  {
+   "t": "10:27",
+   "subject": "leaf tree",
+   "action": "load fan with dark mix and make big tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "heavy dark mix",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "left side, next to waterfall",
+   "rule": "the dark goes first so the light has something to sit on",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "leaf tree",
+   "action": "add second big tree with thinned dark mix",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix with a little thinner",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "beside waterfall",
+   "rule": "thinner helps it flow over other paint",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "leaf tree",
+   "action": "add small tree hidden in back",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "leaf tree",
+   "action": "add one more tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:48",
+   "subject": "leaf tree",
+   "action": "highlight trees with yellow ochre and cadmium yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "same fan with yellow",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "on trees",
+   "rule": "highlights help the trees stand out",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "leaf tree",
+   "action": "push darker tree shapes down into the mist",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "van dyke brown",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark mix on fan",
+   "motion": "push down",
+   "pressure": "medium",
+   "where": "lower part of trees",
+   "rule": "lets the trees fade into the mist",
+   "new": ""
+  },
+  {
+   "t": "15:51",
+   "subject": "mist",
+   "action": "lay soft mist between trees with blender brush",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch on blender",
+   "motion": "lay mist",
+   "pressure": "light",
+   "where": "between the trees",
+   "rule": "the soft brush paints over paint without ruining the mix",
+   "new": ""
+  },
+  {
+   "t": "17:13",
+   "subject": "water",
+   "action": "paint water sneaking back out through the mist",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "liquid clear + phthalo blue + white on fan",
+   "motion": "wander",
+   "pressure": "light",
+   "where": "through the mist",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:42",
+   "subject": "rock",
+   "action": "highlight a small rock in the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "brown and white mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "down in the water",
+   "rule": "makes the rock stand out",
+   "new": ""
+  },
+  {
+   "t": "19:25",
+   "subject": "rock",
+   "action": "block in big cliff rock with dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark mix on brush",
+   "motion": "lay rock shape",
+   "pressure": "medium",
+   "where": "right side, cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "rock",
+   "action": "touch brown and white highlight on rock edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "small touch",
+   "motion": "touch edge",
+   "pressure": "whisper",
+   "where": "edge of cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "bush",
+   "action": "paint bushes growing up into a tree",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "mixed yellows on brush",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "bush by the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:27",
+   "subject": "grass",
+   "action": "add little grassy shapes on top",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "middle ground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "bush",
+   "action": "let mossy bushes hang over the edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "let hang",
+   "pressure": "light",
+   "where": "top edge of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:14",
+   "subject": "rock",
+   "action": "make stones with dark and light sides of filbert",
+   "tool": "filbert",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark and light sides of filbert",
+   "motion": "one stroke",
+   "pressure": "light",
+   "where": "scattered in the water",
+   "rule": "one stroke makes both sides of a stone",
+   "new": ""
+  },
+  {
+   "t": "22:41",
+   "subject": "water",
+   "action": "add splashes around the bottom of the rock",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small load",
+   "motion": "splash",
+   "pressure": "light",
+   "where": "bottom of rock",
+   "rule": "covers the rock's foot so it sits in the water",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "bush",
+   "action": "tap bushes at base of rock with green",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "small load",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:32",
+   "subject": "other: signature",
+   "action": "sign the painting with thin paint",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "bottom right",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,851 @@
+{
+ "ep": "S25E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "cadmium yellow",
+  "yellow ochre",
+  "bright red",
+  "dark sienna",
+  "van dyke brown",
+  "titanium white",
+  "alizarin crimson",
+  "prussian blue",
+  "midnight black",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sun/glow",
+   "action": "indian yellow sun glow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "a little indian yellow",
+   "motion": "loose strokes up top",
+   "pressure": "light",
+   "where": "upper sky, sun spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:11",
+   "subject": "sky",
+   "action": "cadmium yellow then yellow ochre along the edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "cadmium yellow then yellow ochre without cleaning",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:35",
+   "subject": "sky",
+   "action": "orange along the edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "orange from yellow and red",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "sky",
+   "action": "bright red blended into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red on the brush",
+   "motion": "bring it around",
+   "pressure": "light",
+   "where": "sky edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:54",
+   "subject": "sky",
+   "action": "dark sienna around the edges",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna on the brush",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:19",
+   "subject": "sky",
+   "action": "more dark sienna in the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "upper corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:46",
+   "subject": "sky",
+   "action": "van dyke brown into the gap",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight van dyke brown",
+   "motion": "fill in",
+   "pressure": "light",
+   "where": "gap in sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:11",
+   "subject": "sky",
+   "action": "clean dry brush blends the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend back and forth",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "blend until no color edge shows",
+   "new": ""
+  },
+  {
+   "t": "04:47",
+   "subject": "sky",
+   "action": "titanium white highlight blended outward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight white on the brush",
+   "motion": "blend outward",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "white mixes in and brightens the colors",
+   "new": ""
+  },
+  {
+   "t": "05:48",
+   "subject": "water",
+   "action": "yellow reflections in the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "yellows on the brush",
+   "motion": "drop into water",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:12",
+   "subject": "water",
+   "action": "bright red and dark sienna reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "touch of red and dark sienna",
+   "motion": "drop into water",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "reflects the colors of the sky",
+   "new": ""
+  },
+  {
+   "t": "06:35",
+   "subject": "sky",
+   "action": "van dyke edges darken the light area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke on the brush",
+   "motion": "edge pass",
+   "pressure": "light",
+   "where": "edges of light area",
+   "rule": "darker edges lead the eye to the light",
+   "new": ""
+  },
+  {
+   "t": "06:56",
+   "subject": "sky",
+   "action": "blend the lower area out",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend out",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:04",
+   "subject": "land",
+   "action": "far island in the background",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "bright red"
+   ],
+   "load": "fan loaded with the mix",
+   "motion": "tap a small shape",
+   "pressure": "light",
+   "where": "far back of water",
+   "rule": "far things need little detail",
+   "new": ""
+  },
+  {
+   "t": "08:30",
+   "subject": "reflection",
+   "action": "pull island reflection down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull down and go across",
+   "pressure": "light",
+   "where": "under the island",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "water line",
+   "action": "pink water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white",
+    "bright red"
+   ],
+   "load": "liquid white with a least bit of bright red",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "horizon near island",
+   "rule": "a too-bright line can be rubbed away",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "land",
+   "action": "darker island color on the water",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same color with more dark sienna and van dyke",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "island edge",
+   "rule": "closer things get a little darker",
+   "new": ""
+  },
+  {
+   "t": "09:54",
+   "subject": "land",
+   "action": "lift up tiny distant trees on the peninsula",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same island color",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "small peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:32",
+   "subject": "water line",
+   "action": "white water line under the peninsula",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife",
+   "motion": "cut in",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:04",
+   "subject": "land",
+   "action": "darker crimson tint in the island color",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "crimson and white on the fan",
+   "motion": "blend in",
+   "pressure": "light",
+   "where": "island area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "leaf tree",
+   "action": "closer big trees tapped down",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "fan loaded full",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "left foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:04",
+   "subject": "mist",
+   "action": "tap mist with a clean 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "cadmium yellow"
+   ],
+   "load": "little white with yellow",
+   "motion": "tap in mist",
+   "pressure": "whisper",
+   "where": "back of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "mist",
+   "action": "lift up to soften the mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "lift upward",
+   "pressure": "whisper",
+   "where": "mist area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "reflection",
+   "action": "reflection under the trees",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "pull down and across",
+   "pressure": "light",
+   "where": "under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "leaf tree",
+   "action": "big strong dark tree",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "fan loaded full",
+   "motion": "tap upward",
+   "pressure": "light",
+   "where": "right of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "far trees",
+   "action": "smaller trees down the hill",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same dark mix",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "down the slope",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:25",
+   "subject": "trunk/limbs",
+   "action": "dark trunk marks",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "dab trunks",
+   "pressure": "light",
+   "where": "tree bases",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "far trees",
+   "action": "yellow ochre highlights on dark trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch of yellow ochre",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "tree areas",
+   "rule": "keep trees dark so they stand out",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "grass",
+   "action": "dark push upward under the trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark color",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "dark base lets the light show",
+   "new": ""
+  },
+  {
+   "t": "17:28",
+   "subject": "reflection",
+   "action": "few reflections go across",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "same fan",
+   "motion": "go across",
+   "pressure": "light",
+   "where": "under trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "grass",
+   "action": "yellow ochre and indian yellow highlight on grass",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "yellows on the knife",
+   "motion": "flatten",
+   "pressure": "light",
+   "where": "grass patch",
+   "rule": "flat highlight makes a flat area",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "structure",
+   "action": "tiny distant house with grass at its base",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark on the small knife",
+   "motion": "block in house",
+   "pressure": "light",
+   "where": "right side far back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "structure",
+   "action": "house on stilts in the water",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "same dark mix",
+   "motion": "block in stilts",
+   "pressure": "light",
+   "where": "water near houses",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "structure",
+   "action": "group of houses in a village",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "dab more houses",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:59",
+   "subject": "structure",
+   "action": "roof highlights in mixed color",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red",
+    "van dyke brown",
+    "alizarin crimson",
+    "yellow ochre"
+   ],
+   "load": "mixed light color",
+   "motion": "dab on roofs",
+   "pressure": "light",
+   "where": "house roofs",
+   "rule": "highlights separate the roofs",
+   "new": ""
+  },
+  {
+   "t": "20:35",
+   "subject": "structure",
+   "action": "gray sides on houses",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "gray mix",
+   "motion": "dab sides",
+   "pressure": "light",
+   "where": "house sides",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:58",
+   "subject": "structure",
+   "action": "window indications",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "house sides",
+   "rule": "too far away for much detail",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "water",
+   "action": "liquid white ripples",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on the knife",
+   "motion": "small ripples",
+   "pressure": "light",
+   "where": "water near stilts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "reflection",
+   "action": "stilts reflected down",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [],
+   "load": "same knife",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "under the houses",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "structure",
+   "action": "highlight edge on the house",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "highlight color",
+   "motion": "dab edge",
+   "pressure": "light",
+   "where": "house edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "structure",
+   "action": "walkway and door details",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "highlight color",
+   "motion": "outline",
+   "pressure": "light",
+   "where": "house lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:45",
+   "subject": "structure",
+   "action": "posts in the water",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "drop posts",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "longer posts make reflections",
+   "new": ""
+  },
+  {
+   "t": "23:12",
+   "subject": "reflection",
+   "action": "wiggle the reflections",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "nothing loaded",
+   "motion": "wiggle",
+   "pressure": "light",
+   "where": "under posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:37",
+   "subject": "bush",
+   "action": "dark bushes with brown crimson and blue",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "dark mix",
+   "motion": "drop in bushes",
+   "pressure": "light",
+   "where": "bank bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "bush",
+   "action": "yellow and red highlights on bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cadmium yellow",
+    "bright red"
+   ],
+   "load": "yellow mix",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "bush tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "other: wire",
+   "action": "thin wires between posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "pull straight",
+   "pressure": "light",
+   "where": "posts area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "grass",
+   "action": "pull up weeds and sticks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "pull up strokes",
+   "pressure": "light",
+   "where": "bank bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:54",
+   "subject": "structure",
+   "action": "one more post with white highlight",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "highlight color",
+   "motion": "straight post",
+   "pressure": "light",
+   "where": "foreground right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:16",
+   "subject": "grass",
+   "action": "yellow highlights on the post",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "dark with yellows on the fan",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "post base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:16",
+   "subject": "other: wire",
+   "action": "wire projects out of the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark thin on the liner",
+   "motion": "thin line",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

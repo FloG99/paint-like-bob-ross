@@ -1,0 +1,432 @@
+{
+ "ep": "S07E03",
+ "base": "acrylic yellow",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid black",
+  "midnight black",
+  "alizarin crimson",
+  "indian yellow",
+  "cadmium yellow",
+  "titanium white",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:38",
+   "subject": "other: dark marks",
+   "action": "lay in liquid black marks",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "load liquid black on brush",
+   "motion": "dab and lay in shapes",
+   "pressure": "light",
+   "where": "across canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:40",
+   "subject": "other: dark marks",
+   "action": "blend crimson into black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "liquid black"
+   ],
+   "load": "tap crimson into brush then pull black",
+   "motion": "blend and pull out",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "tapping gives even color through the brush",
+   "new": ""
+  },
+  {
+   "t": "04:17",
+   "subject": "sun/glow",
+   "action": "lay in indian yellow away from black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "tap a small amount onto brush",
+   "motion": "lay in strokes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "black and yellow would turn green",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "sun/glow",
+   "action": "add cadmium yellow around sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "tap into brush",
+   "motion": "work out the edges",
+   "pressure": "light",
+   "where": "around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:30",
+   "subject": "cloud",
+   "action": "dab white highlight spots",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap into white without cleaning brush",
+   "motion": "wiggle brush and let it go",
+   "pressure": "light",
+   "where": "highlight spots",
+   "rule": "white is opaque so use it sparingly",
+   "new": ""
+  },
+  {
+   "t": "07:19",
+   "subject": "sky",
+   "action": "blend colors sideways",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush held sideways",
+   "motion": "blend sideways",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:40",
+   "subject": "sun/glow",
+   "action": "lay in light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dry paint, no reload",
+   "motion": "lay in light area",
+   "pressure": "light",
+   "where": "light area",
+   "rule": "dry layers avoid a green mix",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "sun/glow",
+   "action": "peel tape off to reveal sun",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "peel tape off",
+   "pressure": "unknown",
+   "where": "circle of tape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "sun/glow",
+   "action": "soften sun edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry fan brush",
+   "motion": "gently blend across edge",
+   "pressure": "whisper",
+   "where": "sun edge",
+   "rule": "softens the hard edge",
+   "new": ""
+  },
+  {
+   "t": "10:07",
+   "subject": "evergreen",
+   "action": "tap distant evergreen shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "load fan brush full",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "distant area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:01",
+   "subject": "land",
+   "action": "pull misty land plane",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": "paint not named"
+  },
+  {
+   "t": "12:48",
+   "subject": "mist",
+   "action": "rub and lift for misty effect",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "rub and lift upward",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:37",
+   "subject": "leaf tree",
+   "action": "push trees up with black",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "load both sides of brush full",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:52",
+   "subject": "bush",
+   "action": "dab growth at tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "creates another plane for depth",
+   "new": ""
+  },
+  {
+   "t": "15:15",
+   "subject": "trunk/limbs",
+   "action": "push dead tree upward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "dead trees make it look more real",
+   "new": ""
+  },
+  {
+   "t": "15:38",
+   "subject": "leaf tree",
+   "action": "push healthy tree upward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "leave gaps so wind and birds get through",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "land",
+   "action": "scrub underlayer through tree area",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrub with big brush",
+   "pressure": "firm",
+   "where": "tree area",
+   "rule": "changing angles creates the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "16:30",
+   "subject": "grass",
+   "action": "tap grassy shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": "paint not named"
+  },
+  {
+   "t": "17:16",
+   "subject": "leaf tree",
+   "action": "add another little tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "tap in tree shape",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:01",
+   "subject": "leaf tree",
+   "action": "big tree in front of sun",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "load lots of paint",
+   "motion": "pull through",
+   "pressure": "light",
+   "where": "in front of the sun",
+   "rule": "sun shows on both sides of the tree",
+   "new": ""
+  },
+  {
+   "t": "19:18",
+   "subject": "trunk/limbs",
+   "action": "add foot at tree base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "carried over",
+   "motion": "indicate a foot shape",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "holds the tree up so it will not fall",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "leaf tree",
+   "action": "second big tree with fuzzy edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "back into black, load brush",
+   "motion": "tap hard",
+   "pressure": "hard",
+   "where": "unknown",
+   "rule": "a single tree would look lonely",
+   "new": ""
+  },
+  {
+   "t": "21:51",
+   "subject": "trunk/limbs",
+   "action": "thin limbs across the side",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "thin with paint thinner",
+   "motion": "let flow off brush",
+   "pressure": "light",
+   "where": "across the side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "leaf tree",
+   "action": "dab leaves on limbs with number three fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "load number three fan full",
+   "motion": "push up",
+   "pressure": "light",
+   "where": "upper limbs",
+   "rule": "do not cover the sun",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "leaf tree",
+   "action": "highlight leaf tops with sap green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "load brush full of sap green",
+   "motion": "push on leaf tops",
+   "pressure": "light",
+   "where": "tops of leaves",
+   "rule": "separates the leaves for a clearer look",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "grass",
+   "action": "add a few grassy areas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap in grass",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": "paint not named"
+  },
+  {
+   "t": "26:34",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin medium with red",
+   "motion": "write name",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "",
+   "new": "red not named as a palette paint"
+  }
+ ],
+ "rules": []
+}

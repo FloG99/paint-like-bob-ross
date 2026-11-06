@@ -1,0 +1,589 @@
+{
+ "ep": "S30E02",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "dark sienna",
+  "van dyke brown",
+  "alizarin crimson",
+  "midnight black",
+  "sap green",
+  "titanium white",
+  "bright red",
+  "yellow ochre",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:55",
+   "subject": "other: thinned wash",
+   "action": "lay thin dark sienna and blue wash",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "prussian blue"
+   ],
+   "load": "dip brush in thinner, add a little of each",
+   "motion": "sweep gestures across canvas",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "thinned paint reacts with liquid clear for effects",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "other: thinned wash",
+   "action": "pass plain thinner over wash to separate",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "plain thinner only",
+   "motion": "go back over the wash",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:09",
+   "subject": "other: liquid white base",
+   "action": "cover canvas with thin liquid white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "thin coat, enough to cover",
+   "motion": "cover whole canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "sky",
+   "action": "dab alizarin crimson in sky area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "small amount on brush",
+   "motion": "dab in place",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:29",
+   "subject": "sky",
+   "action": "criss-cross blue over the crimson",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush, no wash",
+   "motion": "criss-cross X strokes",
+   "pressure": "light",
+   "where": "sky, around crimson",
+   "rule": "prussian blue is stronger, so no wash is needed",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "water",
+   "action": "small water strip at bottom",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "same brush",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:15",
+   "subject": "cloud",
+   "action": "tap a white cloud into place",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap firmly into bristles",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "upper sky, first cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:44",
+   "subject": "cloud",
+   "action": "lightly blend cloud edges",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "three hairs and some air, blend",
+   "pressure": "whisper",
+   "where": "cloud edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:10",
+   "subject": "cloud",
+   "action": "second cloud, lower",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap white into bristles",
+   "motion": "tap, then blend lightly",
+   "pressure": "light",
+   "where": "lower sky, second cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:02",
+   "subject": "mountain",
+   "action": "mix dark colors on knife, cut roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "mix together on knife, cut roll",
+   "motion": "cut across",
+   "pressure": "medium",
+   "where": "back center, small peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:55",
+   "subject": "mountain",
+   "action": "pull mountain base down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "pull downward, blend out",
+   "pressure": "medium",
+   "where": "lower mountain",
+   "rule": "wet canvas lets the paint move",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "mountain",
+   "action": "float gray roll down peak",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "bright red"
+   ],
+   "load": "lightly mix gray, leave marbled",
+   "motion": "float down, barely grazing",
+   "pressure": "whisper",
+   "where": "mountain peak, right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:09",
+   "subject": "mountain",
+   "action": "blue-white shadow roll on edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "titanium white"
+   ],
+   "load": "mix blue and white",
+   "motion": "place roll on edge",
+   "pressure": "light",
+   "where": "mountain shadow side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "mountain",
+   "action": "clean dry brush blends mountain upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend upward following angles",
+   "pressure": "medium",
+   "where": "mountain",
+   "rule": "a dry brush keeps the paint from being damaged",
+   "new": ""
+  },
+  {
+   "t": "11:48",
+   "subject": "mountain",
+   "action": "distant foothill layer, lightest value",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "load blue, black and a little white",
+   "motion": "tap and push upward",
+   "pressure": "light",
+   "where": "far back, distant foothills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "evergreen",
+   "action": "light distant evergreens",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "load a lot of color into fan",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "far back, first layer",
+   "rule": "lightest value that still stands out is best",
+   "new": ""
+  },
+  {
+   "t": "13:04",
+   "subject": "mist",
+   "action": "tap mist at base, lift upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean dry brush with a little white",
+   "motion": "tap then lift upward",
+   "pressure": "light",
+   "where": "base of hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "reflection",
+   "action": "pull reflection down, then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "pick up layer color",
+   "motion": "pull straight down, then across",
+   "pressure": "medium",
+   "where": "water below hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "water line",
+   "action": "knife waterline in liquid white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "pull liquid white flat on knife",
+   "motion": "cut across",
+   "pressure": "medium",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:16",
+   "subject": "mountain",
+   "action": "darker layer toward the front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "blend darker into lighter",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "mid-ground layer",
+   "rule": "each layer darker as it comes forward gives depth",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "reflection",
+   "action": "pull reflection down and across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "same colors on brush",
+   "motion": "pull down, then across",
+   "pressure": "medium",
+   "where": "water below mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "water line",
+   "action": "knife waterline in liquid white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "load liquid white on knife",
+   "motion": "cut across",
+   "pressure": "medium",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:57",
+   "subject": "mountain",
+   "action": "darkest front layer, nearly pure color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "add a little white",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "front layer near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:44",
+   "subject": "water line",
+   "action": "last knife waterline",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "pull liquid white flat",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "water line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:31",
+   "subject": "leaf tree",
+   "action": "big tree from top, off canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix on brush",
+   "motion": "push and pull down",
+   "pressure": "medium",
+   "where": "right side, off top edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "leaf tree",
+   "action": "knife highlight on tree edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "roll black and white on knife",
+   "motion": "touch and place",
+   "pressure": "light",
+   "where": "tree edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:34",
+   "subject": "trunk/limbs",
+   "action": "thin black limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "thin with thinner until it flows",
+   "motion": "pull limb shapes outward",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "thinner helps the paint flow for limbs",
+   "new": ""
+  },
+  {
+   "t": "20:59",
+   "subject": "land",
+   "action": "block in ground under tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "midnight black",
+    "sap green"
+   ],
+   "load": "mix on brush",
+   "motion": "pull across",
+   "pressure": "medium",
+   "where": "lower ground under tree",
+   "rule": "the tree needs ground so it does not hang in air",
+   "new": ""
+  },
+  {
+   "t": "21:24",
+   "subject": "bush",
+   "action": "dab bushes with thinned yellow-green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "sap green"
+   ],
+   "load": "thin with thinner, pick up yellows",
+   "motion": "dab and push",
+   "pressure": "light",
+   "where": "ground line, bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:20",
+   "subject": "land",
+   "action": "knife patch of soil",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "mix brown and white",
+   "motion": "touch on",
+   "pressure": "light",
+   "where": "lower ground strip",
+   "rule": "thinned paint sticks better over thicker paint",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "fence",
+   "action": "post and rails",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "mix together",
+   "motion": "vertical and horizontal strokes",
+   "pressure": "light",
+   "where": "lower right, old fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:33",
+   "subject": "fence",
+   "action": "light brown highlights on fence",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "make light brown",
+   "motion": "touch on highlights",
+   "pressure": "light",
+   "where": "fence edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:59",
+   "subject": "other: highlight",
+   "action": "bright red sparkle on fence top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of red on top",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "fence top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:24",
+   "subject": "other: signature",
+   "action": "sign with thinned red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red thinned with thinner",
+   "motion": "write",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

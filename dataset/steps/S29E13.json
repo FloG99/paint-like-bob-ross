@@ -1,0 +1,550 @@
+{
+ "ep": "S29E13",
+ "base": "black line under masking tape, liquid clear on the sides, liquid white in the middle",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "sap green",
+  "alizarin crimson",
+  "van dyke brown",
+  "phthalo blue",
+  "liquid clear",
+  "liquid white",
+  "black",
+  "midnight black",
+  "prussian blue",
+  "titanium white",
+  "bright red",
+  "dark sienna",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:22",
+   "subject": "other: wood grain side strips",
+   "action": "paint brown side strips",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "equal parts sap green and alizarin crimson for a brown",
+   "motion": "paint along each side strip",
+   "pressure": "light",
+   "where": "both side strips",
+   "rule": "transparent colors work a little better",
+   "new": ""
+  },
+  {
+   "t": "02:15",
+   "subject": "other: wood grain side strips",
+   "action": "paint the other side strip blue-grey",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "blue-grey mix",
+   "motion": "paint along the other side strip",
+   "pressure": "light",
+   "where": "other side strip",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:07",
+   "subject": "other: wood grain side strips",
+   "action": "pull a thinner-dipped fan brush to make grain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "fan dipped in paint thinner, shaken",
+   "motion": "touch, wiggle and slide down",
+   "pressure": "light",
+   "where": "both side strips",
+   "rule": "thinner and liquid clear react to make the grain",
+   "new": ""
+  },
+  {
+   "t": "04:21",
+   "subject": "sky",
+   "action": "criss-cross phthalo blue sky",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a little phthalo blue",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky, this side of the tape",
+   "rule": "keep the blue out of the wood grain area",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "cloud",
+   "action": "tap a little cloud with the corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:46",
+   "subject": "cloud",
+   "action": "blend the clouds lightly",
+   "tool": "other: blender",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean blender",
+   "motion": "blend very lightly",
+   "pressure": "whisper",
+   "where": "the little clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:18",
+   "subject": "mountain",
+   "action": "knife a far-away mountain in dark mix with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "dark mix with white added",
+   "motion": "cut a roll on the knife edge",
+   "pressure": "medium",
+   "where": "far away, in the distance",
+   "rule": "keeps busy while the wood grain effect works",
+   "new": ""
+  },
+  {
+   "t": "08:10",
+   "subject": "mountain",
+   "action": "knife the big dark mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "roll on knife edge and place the peak",
+   "pressure": "medium",
+   "where": "the central peak",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:34",
+   "subject": "mountain",
+   "action": "pull the 2in edge up to lighten the bottom",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "grab firmly and pull up to the edge",
+   "pressure": "firm",
+   "where": "the mountain edge",
+   "rule": "removes excess paint so the bottom looks lighter",
+   "new": ""
+  },
+  {
+   "t": "09:01",
+   "subject": "mountain",
+   "action": "warm white highlight on the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with the least bright red",
+   "motion": "touch and let it go",
+   "pressure": "whisper",
+   "where": "up on the mountain face",
+   "rule": "a hint of red warms the white",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "mountain",
+   "action": "lighter projection on the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with a little phthalo blue",
+   "motion": "touch with no pressure",
+   "pressure": "whisper",
+   "where": "side of the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:08",
+   "subject": "mountain",
+   "action": "dark shadow under the projection",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "lay a shadow under the projection",
+   "pressure": "light",
+   "where": "under the new projection",
+   "rule": "each highlight needs its own shadow to work",
+   "new": ""
+  },
+  {
+   "t": "11:40",
+   "subject": "mountain",
+   "action": "tap the base then pull upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap the base and pull gently upward",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "removes tap marks and makes mist at the base",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "mountain",
+   "action": "drop in a second mountain at the base",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "drop in a lower ridge",
+   "pressure": "medium",
+   "where": "bottom of the canvas",
+   "rule": "a new plane in front adds depth",
+   "new": ""
+  },
+  {
+   "t": "13:01",
+   "subject": "mountain",
+   "action": "white highlights on the mountain",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "the same white as before",
+   "motion": "quick highlights",
+   "pressure": "light",
+   "where": "the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:58",
+   "subject": "mountain",
+   "action": "tap and blend the ranges together",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "almost clean brush",
+   "motion": "tap, lift and blend",
+   "pressure": "light",
+   "where": "the mountain ranges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:26",
+   "subject": "evergreen",
+   "action": "tap a dark evergreen with the corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "a small spot near the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "mountain",
+   "action": "drop in a small hill at the mountain base",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "drop in the hill",
+   "pressure": "light",
+   "where": "base of the mountain",
+   "rule": "covers the base of the mountain",
+   "new": ""
+  },
+  {
+   "t": "15:36",
+   "subject": "far trees",
+   "action": "lift up for distant trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "top edge of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:36",
+   "subject": "reflection",
+   "action": "pull color down for a reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "back by the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:04",
+   "subject": "water line",
+   "action": "add a liquid white water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a little liquid white",
+   "motion": "put in a water line",
+   "pressure": "light",
+   "where": "below the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "reflection",
+   "action": "pull the big brush straight down for reflections",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "touch, pull straight down, then across",
+   "pressure": "light",
+   "where": "the water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:00",
+   "subject": "leaf tree",
+   "action": "paint a big tree over the mountain with thinned mix",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "dark mix with paint thinner",
+   "motion": "go over the existing paint",
+   "pressure": "light",
+   "where": "over the big mountain",
+   "rule": "thin paint slides over thick paint without mixing",
+   "new": ""
+  },
+  {
+   "t": "18:50",
+   "subject": "bush",
+   "action": "pull the big brush through color for bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "lots of the dark mix",
+   "motion": "touch and push",
+   "pressure": "medium",
+   "where": "low in the scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:19",
+   "subject": "trunk/limbs",
+   "action": "dab white and dark sienna trunks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white with a little dark sienna",
+   "motion": "dab indications",
+   "pressure": "light",
+   "where": "scattered in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "leaf tree",
+   "action": "highlight the big tree with fan through yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "fan with the dark mix pulled through yellow",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "the big tree",
+   "rule": "too much highlight vanishes so keep it light",
+   "new": ""
+  },
+  {
+   "t": "20:41",
+   "subject": "bush",
+   "action": "pick out bushes with the 1in in green",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "sap green pulled through yellow",
+   "motion": "pull a curve up to the top",
+   "pressure": "medium",
+   "where": "bank and lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "reflection",
+   "action": "drop a small reflection in the water",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "the dark mix",
+   "motion": "drop in a basic shape",
+   "pressure": "light",
+   "where": "water under the bushes",
+   "rule": "does not need to be perfect since it gets blended after",
+   "new": ""
+  },
+  {
+   "t": "21:32",
+   "subject": "reflection",
+   "action": "soften the reflection with a clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "touch lightly down and across",
+   "pressure": "whisper",
+   "where": "water reflection",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "land",
+   "action": "dab soil and sticks in brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "a little brown",
+   "motion": "dab small marks",
+   "pressure": "light",
+   "where": "lower foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:21",
+   "subject": "other: black divider line",
+   "action": "paint a black line dividing the wood strips",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "black"
+   ],
+   "load": "black on the brush",
+   "motion": "draw a line",
+   "pressure": "light",
+   "where": "between the two wood strips",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

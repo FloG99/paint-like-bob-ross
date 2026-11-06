@@ -1,0 +1,689 @@
+{
+ "ep": "S25E03",
+ "base": "black gesso and liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "midnight black",
+  "alizarin crimson",
+  "titanium white",
+  "dark sienna",
+  "van dyke brown",
+  "cad yellow",
+  "yellow ochre",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "start small blue spots in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "very small amount on the 2in",
+   "motion": "move up into the sky",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:50",
+   "subject": "sky",
+   "action": "add dark blue-black spots in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "midnight black with a touch of prussian blue",
+   "motion": "drop spots into the sky",
+   "pressure": "unknown",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:14",
+   "subject": "sky",
+   "action": "add crimson for a lavender tint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "touch of alizarin crimson added to the mix",
+   "motion": "mix into the spots",
+   "pressure": "unknown",
+   "where": "sky spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:38",
+   "subject": "cloud",
+   "action": "lighten spots with white",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white on the corner",
+   "motion": "corner taps around the spots",
+   "pressure": "unknown",
+   "where": "sky spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:01",
+   "subject": "cloud",
+   "action": "quick basic cloud shapes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "gentle quick shapes dancing around",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "clouds should look free and floating",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "cloud",
+   "action": "tiny circles for holes in clouds",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tiny little circles",
+   "pressure": "unknown",
+   "where": "cloud area",
+   "rule": "holes let bits of color show through",
+   "new": ""
+  },
+  {
+   "t": "02:54",
+   "subject": "cloud",
+   "action": "dark sienna and white nicety touches",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "a little white with a touch of dark sienna",
+   "motion": "touch here and there",
+   "pressure": "unknown",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:41",
+   "subject": "cloud",
+   "action": "pinkish sparkle spots in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "white with a little alizarin crimson",
+   "motion": "pop in little sparkle spots",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "sparkles make the sky look shiny and pretty",
+   "new": ""
+  },
+  {
+   "t": "04:04",
+   "subject": "cloud",
+   "action": "tiny circles with yellow ochre touch",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "least touch of yellow ochre",
+   "motion": "tiny circles, keeping away from the blue",
+   "pressure": "unknown",
+   "where": "sky spots",
+   "rule": "yellow ochre against blue turns the sky green",
+   "new": ""
+  },
+  {
+   "t": "04:36",
+   "subject": "cloud",
+   "action": "spin brush for small lights",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "spin the brush to make small lights",
+   "pressure": "unknown",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:03",
+   "subject": "cloud",
+   "action": "fluff and blend clouds together",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "fluff and blend the clouds together",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:48",
+   "subject": "mountain",
+   "action": "block in mountain shape",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "black and van dyke with a little dark sienna",
+   "motion": "pull out flat, cut a roll off the edge",
+   "pressure": "unknown",
+   "where": "upper middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "mountain",
+   "action": "touch and drag knife across mountain",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna and white roll on the knife",
+   "motion": "touch and go across the mountain",
+   "pressure": "light",
+   "where": "mountain area",
+   "rule": "touch and drag works when the usual method fails",
+   "new": ""
+  },
+  {
+   "t": "08:43",
+   "subject": "mountain",
+   "action": "bounce dark color onto mountain",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "a little dark color on the knife",
+   "motion": "let the knife bounce",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "keep some darkness in the mountain",
+   "new": ""
+  },
+  {
+   "t": "09:53",
+   "subject": "mountain",
+   "action": "small dark shadows on mountain",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark color from the knife",
+   "motion": "dab a few small shadows",
+   "pressure": "unknown",
+   "where": "mountain area",
+   "rule": "keep it dark so it looks far away",
+   "new": ""
+  },
+  {
+   "t": "11:02",
+   "subject": "snow",
+   "action": "snow on mountain side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little titanium white",
+   "motion": "pull snow up the side",
+   "pressure": "unknown",
+   "where": "upper mountain, glacier",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "snow",
+   "action": "cool blue touch on snow",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with a little prussian blue",
+   "motion": "let it climb up the mountain",
+   "pressure": "unknown",
+   "where": "snow area",
+   "rule": "a touch of blue cools the snow",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "rock",
+   "action": "block in big rock in front",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same dark color",
+   "motion": "block in rock shape",
+   "pressure": "unknown",
+   "where": "front",
+   "rule": "projections closer to you add depth",
+   "new": ""
+  },
+  {
+   "t": "13:04",
+   "subject": "rock",
+   "action": "highlight on rock side",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "unknown",
+   "motion": "add highlight where light would hit",
+   "pressure": "unknown",
+   "where": "rock side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "rock",
+   "action": "dark shadow and bumps on rock",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same dark color",
+   "motion": "add shadow touch and small bumps",
+   "pressure": "unknown",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "snow",
+   "action": "pull snow up side of rock",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white picking up some dark",
+   "motion": "pull snow up the side",
+   "pressure": "unknown",
+   "where": "mountain side",
+   "rule": "picked up dark reads as needed shadow",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "mountain",
+   "action": "dark shadow behind little mountain",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "that dark color",
+   "motion": "touch of shadow behind the rock",
+   "pressure": "unknown",
+   "where": "behind the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:33",
+   "subject": "evergreen",
+   "action": "tap far evergreen shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "black, a little brown, prussian blue and a little crimson",
+   "motion": "tap small far evergreen shapes",
+   "pressure": "unknown",
+   "where": "far back, far side",
+   "rule": "far away, so little detail is wanted",
+   "new": ""
+  },
+  {
+   "t": "16:21",
+   "subject": "evergreen",
+   "action": "closer evergreens, a little larger",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "add trees that are closer",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "closer trees look bigger though the same size",
+   "new": ""
+  },
+  {
+   "t": "16:45",
+   "subject": "snow",
+   "action": "let white pick up tree color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white",
+   "motion": "let it pick up tree color",
+   "pressure": "unknown",
+   "where": "snow areas between trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:35",
+   "subject": "evergreen",
+   "action": "tap closer tree on other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "midnight black",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "more of the dark mix",
+   "motion": "tap closer tree",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:44",
+   "subject": "leaf tree",
+   "action": "push big tree up across mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "bristles loaded full with dark color",
+   "motion": "push upward for the tree",
+   "pressure": "unknown",
+   "where": "across the mountain",
+   "rule": "push direction depends on the effect wanted",
+   "new": ""
+  },
+  {
+   "t": "19:27",
+   "subject": "evergreen",
+   "action": "drop in evergreen clumps",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "drop clumps of little evergreens, one reaching up",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "the dark base from the gesso is already there",
+   "new": ""
+  },
+  {
+   "t": "20:18",
+   "subject": "evergreen",
+   "action": "tall tree with corner taps",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "touch with the corner and push upward",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:33",
+   "subject": "trunk/limbs",
+   "action": "tap a few tree trunks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white from the brush",
+   "motion": "tap small trunk bits here and there",
+   "pressure": "unknown",
+   "where": "a few trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "evergreen",
+   "action": "highlight green on tree tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "cad yellow with a little yellow ochre",
+   "motion": "tap highlights, darker toward the base",
+   "pressure": "unknown",
+   "where": "upper tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:46",
+   "subject": "evergreen",
+   "action": "highlight small tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "same yellow mix",
+   "motion": "highlights on the small tree",
+   "pressure": "unknown",
+   "where": "small tree",
+   "rule": "this small tree should stand out in sunshine",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "evergreen",
+   "action": "leave farther trees unhighlighted",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "carried over on brush",
+   "motion": "leave trees dark, no highlight",
+   "pressure": "unknown",
+   "where": "back trees",
+   "rule": "no highlight so they look farther away",
+   "new": ""
+  },
+  {
+   "t": "23:45",
+   "subject": "snow",
+   "action": "white picks up tree color for shadows",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white on the fan",
+   "motion": "let white pick up tree color",
+   "pressure": "unknown",
+   "where": "snow area",
+   "rule": "picked up tree color makes shadows automatically",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "water",
+   "action": "pull white and black down for pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "a little white, mostly black, maybe blue",
+   "motion": "pull straight down on wet canvas",
+   "pressure": "unknown",
+   "where": "below the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:33",
+   "subject": "water line",
+   "action": "dark water line under pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "dark color from the brush",
+   "motion": "touch a little dark water line",
+   "pressure": "unknown",
+   "where": "pond edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "rock",
+   "action": "small projection into water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark color on the fan",
+   "motion": "push a projection out",
+   "pressure": "unknown",
+   "where": "edge of pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "land",
+   "action": "small dirt patch at water edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "same dark color",
+   "motion": "dab a bit of dirt showing",
+   "pressure": "unknown",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:23",
+   "subject": "water line",
+   "action": "cut in floating water line",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a little liquid white",
+   "motion": "cut in a light water line",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:45",
+   "subject": "rock",
+   "action": "rock covered with snow, pull reflection down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "a little white with a touch of dark under it",
+   "motion": "pull down a little for reflection",
+   "pressure": "unknown",
+   "where": "in the water",
+   "rule": "pulling down makes a reflection",
+   "new": ""
+  },
+  {
+   "t": "26:11",
+   "subject": "water line",
+   "action": "water line to tie it together",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "lift upward with the fan to bring edges together",
+   "pressure": "unknown",
+   "where": "edges",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[16:21] closer things look bigger though they are the same size"
+ ]
+}

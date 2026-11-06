@@ -1,0 +1,404 @@
+{
+ "ep": "S12E13",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "midnight black",
+  "prussian blue",
+  "titanium white",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "pinkish glow in sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "pull a little out, tap bristles firmly",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:17",
+   "subject": "sky",
+   "action": "criss-cross sky strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "go right into blue without cleaning",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "Blue is much stronger than crimson.",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "other: bottom blue, shadow or water",
+   "action": "drop blue at the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "drop it in",
+   "pressure": "unknown",
+   "where": "down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:32",
+   "subject": "sky",
+   "action": "blend pink and blue together",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "crisscross or X strokes",
+   "pressure": "light",
+   "where": "where pink and blue meet",
+   "rule": "Blend until the transition between colors is seamless.",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "mountain",
+   "action": "mix dark mountain color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "pull out flat, cut across, roll on knife edge",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:03",
+   "subject": "mountain",
+   "action": "scrape off excess paint and blend",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "scrape firmly, pull firmly",
+   "pressure": "firm",
+   "where": "on the outline",
+   "rule": "Removing more paint makes the next step easier.",
+   "new": ""
+  },
+  {
+   "t": "06:19",
+   "subject": "mountain",
+   "action": "titanium white highlight down the mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pull out flat, cut across",
+   "motion": "let it run down the mountain",
+   "pressure": "unknown",
+   "where": "right down the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:00",
+   "subject": "mountain",
+   "action": "soft white highlight stroke down side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "give a little pull",
+   "pressure": "light",
+   "where": "right down the side",
+   "rule": "If light crosses here, it strikes only at a specific angle.",
+   "new": ""
+  },
+  {
+   "t": "08:18",
+   "subject": "mountain",
+   "action": "mix white with prussian blue for peak shadow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "white with a little prussian blue, cut off roll",
+   "motion": "touch, give a little pull",
+   "pressure": "light",
+   "where": "behind that one",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mountain",
+   "action": "shadow strokes under highlights",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "gently flow, drop them in",
+   "pressure": "whisper",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:22",
+   "subject": "mountain",
+   "action": "peak highlight with shadow below",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "put in highlight, then shadow",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "Once the figure has a shadow, it reads as a separate element.",
+   "new": ""
+  },
+  {
+   "t": "11:42",
+   "subject": "mist",
+   "action": "tap base for mist, follow angles",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap, lift upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:59",
+   "subject": "far trees",
+   "action": "tap downward with fan brush for distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "load both sides of fan brush",
+   "motion": "tap downward",
+   "pressure": "unknown",
+   "where": "back in here",
+   "rule": "Detail is limited because the subject is too distant.",
+   "new": ""
+  },
+  {
+   "t": "14:17",
+   "subject": "reflection",
+   "action": "pull color straight down for reflection",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down, go across",
+   "pressure": "unknown",
+   "where": "base of the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:56",
+   "subject": "trunk/limbs",
+   "action": "touch and pull up small trunks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on fan brush",
+   "motion": "touch and pull straight up",
+   "pressure": "unknown",
+   "where": "way back hidden there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:34",
+   "subject": "water line",
+   "action": "cut in a little water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "touch liquid white, pull out flat, cut across",
+   "motion": "cut in a water line",
+   "pressure": "unknown",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:30",
+   "subject": "evergreen",
+   "action": "sharpen 1in brush and tap evergreens with corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "pull through paint and wiggle to sharpen",
+   "motion": "tap downward, work corner back and forth",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "Increasing pressure uses more of the brush's width.",
+   "new": ""
+  },
+  {
+   "t": "18:48",
+   "subject": "evergreen",
+   "action": "reload and tap more evergreens",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "reload brush after each tree",
+   "motion": "tap downward",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:30",
+   "subject": "evergreen",
+   "action": "big evergreen over the mountain",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap downward",
+   "pressure": "unknown",
+   "where": "over the mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:41",
+   "subject": "snow",
+   "action": "lay white snow with big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "big brush",
+   "motion": "grab and pull",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "This creates shadows beneath the trees.",
+   "new": ""
+  },
+  {
+   "t": "23:58",
+   "subject": "path",
+   "action": "fan-brush path, back and forth, bigger toward you",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "white with a little blue on fan brush",
+   "motion": "back and forth",
+   "pressure": "unknown",
+   "where": "comes right down",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "snow",
+   "action": "snow bump into path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "bring it right into the path",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "bush",
+   "action": "snow-covered bushes against dark trees",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "dip in liquid white then titanium white, load a lot",
+   "motion": "push the brush slightly upward",
+   "pressure": "unknown",
+   "where": "right up against these trees",
+   "rule": "It must be placed against dark to be visible.",
+   "new": ""
+  },
+  {
+   "t": "26:30",
+   "subject": "evergreen",
+   "action": "light highlights on trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "phthalo blue and white on fan brush",
+   "motion": "hint of a highlight",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "Preserve the contrast.",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[07:00] Keep the angles consistent.",
+  "[05:03] Scrape off as much paint as possible."
+ ]
+}

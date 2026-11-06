@@ -1,0 +1,674 @@
+{
+ "ep": "S06E10",
+ "base": "magic white",
+ "format": "unknown",
+ "light": "left",
+ "guest": false,
+ "palette": [
+  "prussian blue",
+  "permanent red",
+  "titanium white",
+  "van dyke brown",
+  "yellow ochre",
+  "sap green",
+  "alizarin crimson",
+  "indian yellow",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:31",
+   "subject": "sky",
+   "action": "dark streaky clouds with criss-cross strokes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a little",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of sky, darker at top",
+   "rule": "keep it darker since blending lightens it",
+   "new": ""
+  },
+  {
+   "t": "02:06",
+   "subject": "sky",
+   "action": "lay white with a hint of red over dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "a full load",
+   "motion": "dab over dark areas",
+   "pressure": "light",
+   "where": "between the dark areas",
+   "rule": "gives a slight pinkish glow",
+   "new": ""
+  },
+  {
+   "t": "02:31",
+   "subject": "sky",
+   "action": "blend colors together",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "sky",
+   "action": "dab white high in sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "dab then blend out",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:47",
+   "subject": "structure",
+   "action": "lay in small shed shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:59",
+   "subject": "structure",
+   "action": "block in old wood with brown and red",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red"
+   ],
+   "load": "a little mixed",
+   "motion": "touch very lightly",
+   "pressure": "whisper",
+   "where": "front of shed",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:48",
+   "subject": "structure",
+   "action": "light color on front of shed",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre",
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "a little",
+   "motion": "touch very lightly",
+   "pressure": "whisper",
+   "where": "front of shed",
+   "rule": "light comes from the left so the front is lit",
+   "new": ""
+  },
+  {
+   "t": "06:11",
+   "subject": "structure",
+   "action": "dark shadow under eaves",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "mixed to a very dark color",
+   "motion": "lay on lightly and pull down",
+   "pressure": "light",
+   "where": "under the eaves",
+   "rule": "it creates a shadow under the overhangs",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "structure",
+   "action": "block in roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "permanent red"
+   ],
+   "load": "a small roll",
+   "motion": "touch and let paint pull off",
+   "pressure": "light",
+   "where": "top of building, along the eaves",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "structure",
+   "action": "lay in dark door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark color",
+   "motion": "come across",
+   "pressure": "light",
+   "where": "front of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:49",
+   "subject": "structure",
+   "action": "indicate boards with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a small amount",
+   "motion": "cut across and touch",
+   "pressure": "light",
+   "where": "a few spots and around the door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "grass",
+   "action": "drop in dark grassy areas",
+   "tool": "other: old brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "a good sized pile",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "bottom of building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:58",
+   "subject": "structure",
+   "action": "highlight poles with brown and white",
+   "tool": "other: old brush",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "left side of poles",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:20",
+   "subject": "structure",
+   "action": "scrape out big barn shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "firm",
+   "where": "big barn area",
+   "rule": "scraping removes thin paint so thick paint sticks on top",
+   "new": ""
+  },
+  {
+   "t": "10:44",
+   "subject": "structure",
+   "action": "block in barn roof",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "lightened to two values",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "top of barn",
+   "rule": "",
+   "new": "back of roof sits a little lower than the front"
+  },
+  {
+   "t": "12:24",
+   "subject": "structure",
+   "action": "lay in dark overhangs",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "permanent red",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "bring down",
+   "pressure": "light",
+   "where": "under the roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:14",
+   "subject": "structure",
+   "action": "highlight barn with reddish brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "mixed to reddish brown",
+   "motion": "touch very lightly",
+   "pressure": "whisper",
+   "where": "barn face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:37",
+   "subject": "structure",
+   "action": "darker side of barn with more brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "more brown added",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "side of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "structure",
+   "action": "shadow under overhang with dark mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "laid on first",
+   "motion": "touch and pull down a little",
+   "pressure": "light",
+   "where": "under the overhang",
+   "rule": "lifts everything and improves the look",
+   "new": ""
+  },
+  {
+   "t": "15:44",
+   "subject": "structure",
+   "action": "dark division line across barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark mix",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "across the barn middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:44",
+   "subject": "structure",
+   "action": "cut in old barn boards with light color",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little bit",
+   "motion": "cut right through",
+   "pressure": "light",
+   "where": "barn face",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "structure",
+   "action": "big dark door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "dark color",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "big door on barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "structure",
+   "action": "light edge around door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "around the door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:04",
+   "subject": "structure",
+   "action": "dark division between front and side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "a little dark color",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "between front and side of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "grass",
+   "action": "tap dark color at base of barn",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bottom of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:15",
+   "subject": "grass",
+   "action": "add sap green and crimson to dark",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "a little",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of barn",
+   "rule": "mixing on brush and canvas makes a rich brown",
+   "new": ""
+  },
+  {
+   "t": "18:42",
+   "subject": "fence",
+   "action": "paint fence posts with brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "put in fence",
+   "pressure": "light",
+   "where": "by the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:05",
+   "subject": "grass",
+   "action": "grass behind fence in yellows",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "behind the fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:41",
+   "subject": "fence",
+   "action": "add fence posts going around",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "around the barn and up the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "fence",
+   "action": "highlight posts",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "a little light brown",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "on the posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:30",
+   "subject": "fence",
+   "action": "add rails going uphill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "bloop, touch",
+   "pressure": "light",
+   "where": "rails up the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "path",
+   "action": "rub color to suggest path",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "rub",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "fence",
+   "action": "make posts bigger as they come forward",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "bigger posts spaced wider",
+   "pressure": "light",
+   "where": "front of fence",
+   "rule": "a closer fence needs bigger posts spaced farther apart",
+   "new": ""
+  },
+  {
+   "t": "22:49",
+   "subject": "fence",
+   "action": "highlight fence with brown and white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "a little",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "fence",
+   "action": "tops of posts with permanent red",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "tops of posts",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:35",
+   "subject": "fence",
+   "action": "add rails up through the middle",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown",
+    "prussian blue"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "up through the middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:00",
+   "subject": "grass",
+   "action": "grassy touches around path and fence feet",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "bottom of path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:24",
+   "subject": "grass",
+   "action": "add weeds at bottom of fence",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "touch and lift",
+   "pressure": "light",
+   "where": "bottom of fence",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:24",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin oil",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "a corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

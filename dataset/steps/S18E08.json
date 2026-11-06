@@ -1,0 +1,691 @@
+{
+ "ep": "S18E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "bright red",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:32",
+   "subject": "sky",
+   "action": "criss-cross warm sky color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap a little into bristles",
+   "motion": "criss-cross X strokes",
+   "pressure": "unknown",
+   "where": "upper sky, middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:06",
+   "subject": "sky",
+   "action": "warm lower sky tint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "lower sky, where snow will be",
+   "rule": "too much color would overheat the sky",
+   "new": ""
+  },
+  {
+   "t": "01:30",
+   "subject": "sky",
+   "action": "lavender mix of crimson and blue",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "mix on brush, crimson heavier",
+   "motion": "criss-cross strokes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:25",
+   "subject": "cloud",
+   "action": "tap cloud shape in lavender",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same lavender",
+   "motion": "tap and scrub in",
+   "pressure": "unknown",
+   "where": "upper sky, cloud spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:58",
+   "subject": "snow",
+   "action": "lavender laid down where snow will be",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same lavender",
+   "motion": "lay down",
+   "pressure": "unknown",
+   "where": "lower area, snow zone",
+   "rule": "snow placement is not final and can be covered later",
+   "new": ""
+  },
+  {
+   "t": "03:46",
+   "subject": "cloud",
+   "action": "tight white circles for cloud",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "both sides of fan loaded with white",
+   "motion": "tight small circles",
+   "pressure": "unknown",
+   "where": "upper sky, floats in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "cloud",
+   "action": "low white floater near horizon",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same fan brush",
+   "motion": "tight circles",
+   "pressure": "unknown",
+   "where": "low, near the horizon",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:54",
+   "subject": "cloud",
+   "action": "blend cloud base only",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "wind and blend the base",
+   "pressure": "light",
+   "where": "bottom of the cloud",
+   "rule": "keeps the top crisp by blending only the base",
+   "new": ""
+  },
+  {
+   "t": "05:21",
+   "subject": "cloud",
+   "action": "fluff cloud with circular strokes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "same clean dry brush",
+   "motion": "large circular strokes",
+   "pressure": "light",
+   "where": "whole cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:44",
+   "subject": "cloud",
+   "action": "second cloud with arm, farthest first",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan",
+   "motion": "touch and blend",
+   "pressure": "unknown",
+   "where": "another cloud, right side",
+   "rule": "work farthest away first, then forward",
+   "new": ""
+  },
+  {
+   "t": "06:10",
+   "subject": "cloud",
+   "action": "blend second cloud dry",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend gently",
+   "pressure": "light",
+   "where": "second cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:35",
+   "subject": "far trees",
+   "action": "lavender mix for background trees",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mostly crimson with a little blue",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "",
+   "new": "blue is much stronger, so use mostly crimson"
+  },
+  {
+   "t": "07:26",
+   "subject": "far trees",
+   "action": "tap background tree shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "tap firmly into bristles",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "background, all over",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "trunk/limbs",
+   "action": "scrape tree trunks and stems with knife",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "unknown",
+   "motion": "scrape in shapes",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "bush",
+   "action": "pink-glow snow-covered leaves",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "liquid white thins white, bright red tapped in",
+   "motion": "tap on lightly",
+   "pressure": "light",
+   "where": "bushes above the dark",
+   "rule": "",
+   "new": "thin paint sticks to thick paint, so thin the white"
+  },
+  {
+   "t": "10:25",
+   "subject": "bush",
+   "action": "tap snow-covered leaves above the dark",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "same loaded brush",
+   "motion": "tap rapidly",
+   "pressure": "light",
+   "where": "above the dark areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:13",
+   "subject": "bush",
+   "action": "lacy dark gaps among leaves",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "rapid lacy taps",
+   "pressure": "unknown",
+   "where": "back, big bush area",
+   "rule": "keeps dark areas so things look hidden in shadow",
+   "new": ""
+  },
+  {
+   "t": "11:38",
+   "subject": "trunk/limbs",
+   "action": "thin dark sienna tree trunk line",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna thinned to ink",
+   "motion": "draw trunk line",
+   "pressure": "unknown",
+   "where": "big tree in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "leaf tree",
+   "action": "highlight leaves on tree",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "liquid white thins white, bright red",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "upper area of the tree",
+   "rule": "light would hit the tree there, so highlight there",
+   "new": ""
+  },
+  {
+   "t": "12:52",
+   "subject": "leaf tree",
+   "action": "tap leaves on right side tree",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "same loaded brush",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "right side tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:15",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs in dark areas",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scrape sticks",
+   "pressure": "unknown",
+   "where": "in the dark areas",
+   "rule": "dark spaces give dimension and shape",
+   "new": ""
+  },
+  {
+   "t": "13:40",
+   "subject": "snow",
+   "action": "lay big snow shapes with white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lots of white on brush",
+   "motion": "pull outward from brush",
+   "pressure": "unknown",
+   "where": "lower area, snow banks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:32",
+   "subject": "snow",
+   "action": "blend cool blue into snow shadows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "touch of blue on bristles",
+   "motion": "blend in",
+   "pressure": "unknown",
+   "where": "shadow spots in snow",
+   "rule": "cool patches keep snow from looking too warm",
+   "new": ""
+  },
+  {
+   "t": "15:01",
+   "subject": "snow",
+   "action": "smooth out brush strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "blend strokes out",
+   "pressure": "light",
+   "where": "all snow areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:01",
+   "subject": "bush",
+   "action": "fan mix for bush edges",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "liquid white, white and a touch of red",
+   "motion": "push upward, bristles bend",
+   "pressure": "unknown",
+   "where": "along snowbanks",
+   "rule": "covers the edges and brings the scene together",
+   "new": ""
+  },
+  {
+   "t": "15:54",
+   "subject": "water",
+   "action": "pull blue water straight down",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "touch on brush",
+   "motion": "touch and pull straight down",
+   "pressure": "unknown",
+   "where": "right side, pond area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "snow",
+   "action": "snow lane along the water",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "touch of liquid white and white on knife",
+   "motion": "touch and let it slide off blade",
+   "pressure": "unknown",
+   "where": "along the water, around the corner",
+   "rule": "liquid white only thins the white",
+   "new": ""
+  },
+  {
+   "t": "17:55",
+   "subject": "bush",
+   "action": "lavender bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "tap lavender into bristles",
+   "motion": "tap",
+   "pressure": "unknown",
+   "where": "right here, small bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:20",
+   "subject": "reflection",
+   "action": "pull a little color down under bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "under the bushes",
+   "rule": "leave water visible so the water behind reads",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "bush",
+   "action": "frosted highlights on bushes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "liquid white, white and a touch of red",
+   "motion": "tap frosting one bush at a time",
+   "pressure": "light",
+   "where": "on the bushes",
+   "rule": "one bush at a time gives depth",
+   "new": ""
+  },
+  {
+   "t": "19:36",
+   "subject": "snow",
+   "action": "snow-covered ground areas",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "liquid white with white",
+   "motion": "lay ground snow",
+   "pressure": "unknown",
+   "where": "ground in front of the bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:04",
+   "subject": "trunk/limbs",
+   "action": "scratch sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "scratch out",
+   "pressure": "unknown",
+   "where": "anywhere in snow and bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:31",
+   "subject": "trunk/limbs",
+   "action": "straight van dyke tree shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "van dyke brown on fan",
+   "motion": "lay straight tree shape",
+   "pressure": "unknown",
+   "where": "left of canvas, tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:55",
+   "subject": "trunk/limbs",
+   "action": "birch tree pulled with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white roll on knife",
+   "motion": "touch and pull around",
+   "pressure": "unknown",
+   "where": "birch tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:22",
+   "subject": "trunk/limbs",
+   "action": "thin brown limbs off trunk",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned brown, bristles turned to a point",
+   "motion": "small strokes off trunk",
+   "pressure": "unknown",
+   "where": "on the trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "trunk/limbs",
+   "action": "big tree with trunk and arm",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on fan",
+   "motion": "draw trunk and arm",
+   "pressure": "unknown",
+   "where": "right side, big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:06",
+   "subject": "trunk/limbs",
+   "action": "touch-textured bark with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "touch the canvas, no pull",
+   "pressure": "light",
+   "where": "bark area of the tree",
+   "rule": "touching lets the canvas take paint for texture",
+   "new": "feels like bark once dry"
+  },
+  {
+   "t": "23:31",
+   "subject": "trunk/limbs",
+   "action": "darken tree around the edges",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "touch around the tree",
+   "pressure": "unknown",
+   "where": "tree sides, darker going around",
+   "rule": "",
+   "new": "let it dry before anyone touches it"
+  },
+  {
+   "t": "23:58",
+   "subject": "trunk/limbs",
+   "action": "limbs out from trunk",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin brown on liner",
+   "motion": "draw limbs",
+   "pressure": "unknown",
+   "where": "out from the trunks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "trunk/limbs",
+   "action": "baby tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "liner, no new paint",
+   "motion": "small tree shape",
+   "pressure": "unknown",
+   "where": "at base near bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:49",
+   "subject": "bush",
+   "action": "bushes at base with pink glow",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "liquid white thinning white, plus bright red",
+   "motion": "lay bushes out",
+   "pressure": "unknown",
+   "where": "around base of baby tree",
+   "rule": "pink glow keeps the scene from looking too cold",
+   "new": ""
+  },
+  {
+   "t": "25:14",
+   "subject": "fence",
+   "action": "old fence posts with highlight",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on round brush",
+   "motion": "posts and wire lines",
+   "pressure": "unknown",
+   "where": "middle back of scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:37",
+   "subject": "snow",
+   "action": "pull white across to tie scene together",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "pull across",
+   "pressure": "unknown",
+   "where": "bottom snow area",
+   "rule": "ties the scene together",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

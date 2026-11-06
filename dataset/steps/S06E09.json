@@ -1,0 +1,650 @@
+{
+ "ep": "S06E09",
+ "base": "none",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "burnt umber",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo green",
+  "magic white",
+  "van dyke brown",
+  "cad yellow",
+  "sap green",
+  "indian yellow",
+  "yellow ochre",
+  "permanent red",
+  "black",
+  "lavender"
+ ],
+ "steps": [
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "scrub burnt umber onto dry canvas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "small amount beaten into bristles",
+   "motion": "scrub on a very thin coat",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:22",
+   "subject": "sky",
+   "action": "blend blue over brown wash",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "burnt umber"
+   ],
+   "load": "small blue added without cleaning",
+   "motion": "blend lightly across the wash",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "keep some brown so blue does not overpower it",
+   "new": ""
+  },
+  {
+   "t": "02:09",
+   "subject": "sky",
+   "action": "blend sky lightly with dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush cleaned with thinner and beaten dry",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": "strokes audible on dry canvas"
+  },
+  {
+   "t": "02:58",
+   "subject": "cloud",
+   "action": "place loose cloud shape with white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "heavily loaded with white",
+   "motion": "bounce loosely, then push into a shape",
+   "pressure": "medium",
+   "where": "upper area",
+   "rule": "a cloud needs a basic shape, not random paint",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "cloud",
+   "action": "blend cloud bottom out",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "picks up colors underneath",
+   "motion": "very light lateral blend",
+   "pressure": "light",
+   "where": "cloud bottom",
+   "rule": "",
+   "new": "keep the top untouched for now"
+  },
+  {
+   "t": "04:06",
+   "subject": "cloud",
+   "action": "fluff cloud edges",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush beaten to remove excess",
+   "motion": "lift and fluff repeatedly",
+   "pressure": "light",
+   "where": "cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:28",
+   "subject": "mist",
+   "action": "cover bottom with white and mixed leftovers",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "titanium white",
+    "phthalo blue",
+    "burnt umber"
+   ],
+   "load": "old dirty brush loaded with leftovers",
+   "motion": "cover bottom and let colors mix",
+   "pressure": "unknown",
+   "where": "bottom of canvas",
+   "rule": "wet white lets colors blend on the canvas",
+   "new": "mist forms where colors blend"
+  },
+  {
+   "t": "05:18",
+   "subject": "far trees",
+   "action": "dab distant tree marks",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "thinned with paint thinner, very thin",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:16",
+   "subject": "mist",
+   "action": "tap mist at the bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "large brush, no new paint",
+   "motion": "tap gently, then lift upward",
+   "pressure": "medium",
+   "where": "bottom of canvas",
+   "rule": "dry canvas would give a harsh line instead of blending",
+   "new": ""
+  },
+  {
+   "t": "07:03",
+   "subject": "other: dark accent",
+   "action": "drop in dark mixed accent",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "mixed on palette and thinned lightly",
+   "motion": "let it dilute into neighboring colors",
+   "pressure": "unknown",
+   "where": "middle area",
+   "rule": "dark stands out, then dilutes into grey tones",
+   "new": ""
+  },
+  {
+   "t": "08:48",
+   "subject": "mist",
+   "action": "tap bottom of dark layer to soften",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark layer brush, no new paint",
+   "motion": "tap, then lift upward gently",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "each layer adds another plane and depth",
+   "new": ""
+  },
+  {
+   "t": "09:16",
+   "subject": "evergreen",
+   "action": "paint evergreen tree with corner of fan",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix still on the brush",
+   "motion": "back and forth with corner, pushing out",
+   "pressure": "unknown",
+   "where": "middle tree area",
+   "rule": "",
+   "new": "pushing bristles out forms the tree"
+  },
+  {
+   "t": "10:07",
+   "subject": "far trees",
+   "action": "dab distant yellow-green marks",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "small amounts with lots of color",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "too far away for detail right now",
+   "new": ""
+  },
+  {
+   "t": "10:32",
+   "subject": "far trees",
+   "action": "add indian yellow layer to back",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "transparent yellow added to brush",
+   "motion": "layer basic shapes",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "mist",
+   "action": "soften bottom of back layers",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "gentle tap, then lift upward",
+   "pressure": "light",
+   "where": "bottom of back layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:37",
+   "subject": "other: mid-ground trees",
+   "action": "tap basic tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:25",
+   "subject": "leaf tree",
+   "action": "highlight tree masses with mixed colors",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "permanent red",
+    "sap green"
+   ],
+   "load": "thinner added, colors mixed on brush",
+   "motion": "tap on highlights",
+   "pressure": "light",
+   "where": "tree masses",
+   "rule": "layered colors avoid one flat dead color",
+   "new": ""
+  },
+  {
+   "t": "13:15",
+   "subject": "bush",
+   "action": "tap small leaf bushes with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "permanent red",
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "colors varied back and forth on brush",
+   "motion": "tap with corner, let leaves come off",
+   "pressure": "light",
+   "where": "bush areas",
+   "rule": "finish one bush before starting the next, or colors turn to mud",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "bush",
+   "action": "add sap green tips to bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green"
+   ],
+   "load": "tiny bit more sap green on corner",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush tips",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "mist",
+   "action": "tap base of bushes to blend mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "dry natural bristle brush",
+   "motion": "tap across the base",
+   "pressure": "light",
+   "where": "bottom of bushes",
+   "rule": "nylon cuts paint, so natural bristles are needed",
+   "new": ""
+  },
+  {
+   "t": "15:42",
+   "subject": "land",
+   "action": "tap dark foreground mass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "van dyke brown"
+   ],
+   "load": "black mixed with brown on brush",
+   "motion": "quick tapping, cover with dark",
+   "pressure": "light",
+   "where": "foreground",
+   "rule": "light only shows against dark, so the foreground needs dark",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "grass",
+   "action": "tap grassy strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "brush with leftover color",
+   "motion": "tap lightly up and down",
+   "pressure": "light",
+   "where": "foreground grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "bush",
+   "action": "add sparkler highlights with corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "same brush, no new paint",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bush highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:08",
+   "subject": "grass",
+   "action": "add grass with permanent red mixed in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "a little permanent red added to color",
+   "motion": "tap grassy areas",
+   "pressure": "light",
+   "where": "front grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:35",
+   "subject": "structure",
+   "action": "scrape off thin paint and lay out chalet shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "thin loose paint on knife",
+   "motion": "drag to lay out the shape",
+   "pressure": "unknown",
+   "where": "center area",
+   "rule": "scraping thin paint off helps lay out a basic shape",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "structure",
+   "action": "lay roof eave base in van dyke brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "knife loaded with brown",
+   "motion": "pull straight across",
+   "pressure": "unknown",
+   "where": "roof line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "structure",
+   "action": "add shingles with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "red and brown mixed on knife",
+   "motion": "touch and lift upward",
+   "pressure": "whisper",
+   "where": "roof",
+   "rule": "",
+   "new": "work from the bottom up"
+  },
+  {
+   "t": "20:49",
+   "subject": "structure",
+   "action": "pull brown and white lines down on side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on knife",
+   "motion": "pull down and let paint break",
+   "pressure": "whisper",
+   "where": "side wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:13",
+   "subject": "structure",
+   "action": "lay in shadows with straight brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "under roof and walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:38",
+   "subject": "structure",
+   "action": "outline door and windows in brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "go around door and windows",
+   "pressure": "light",
+   "where": "door and window areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "structure",
+   "action": "cut board lines through paint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "no new paint",
+   "motion": "cut straight down through paint",
+   "pressure": "light",
+   "where": "side wall",
+   "rule": "cutting through paint suggests boards",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "structure",
+   "action": "highlight board edges with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on knife",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "board edges",
+   "rule": "white makes the boards stand out",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "grass",
+   "action": "drag thin grass strokes downward",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "thinner added to knife",
+   "motion": "tap and drag downward",
+   "pressure": "light",
+   "where": "grass around cabin",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "22:52",
+   "subject": "path",
+   "action": "paint path, then brown and white break",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown then white on knife",
+   "motion": "barely touch and let paint break",
+   "pressure": "whisper",
+   "where": "path to cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:18",
+   "subject": "grass",
+   "action": "mix yellows and red, drag down grass",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "permanent red"
+   ],
+   "load": "yellows and red mixed on brush",
+   "motion": "drag down through grass",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:41",
+   "subject": "grass",
+   "action": "soften grass with sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green"
+   ],
+   "load": "a little more sap green",
+   "motion": "tap softly",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:05",
+   "subject": "grass",
+   "action": "darken corner with sap green",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green"
+   ],
+   "load": "darker green mixed on knife",
+   "motion": "tap and build darker",
+   "pressure": "light",
+   "where": "right corner",
+   "rule": "a darker corner pulls the eye toward the back",
+   "new": ""
+  },
+  {
+   "t": "24:53",
+   "subject": "grass",
+   "action": "clean up grass edges with white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least bit of white on clean fan",
+   "motion": "barely touch and pull across",
+   "pressure": "whisper",
+   "where": "grass edges",
+   "rule": "",
+   "new": "cleaning up edges that got messed up"
+  },
+  {
+   "t": "25:41",
+   "subject": "other: signature",
+   "action": "sign painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "liner loaded with thinned red",
+   "motion": "sign in the front area",
+   "pressure": "unknown",
+   "where": "front area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

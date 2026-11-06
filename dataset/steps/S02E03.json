@@ -1,0 +1,735 @@
+{
+ "ep": "S02E03",
+ "base": "black canvas",
+ "format": "unknown",
+ "light": "below",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "titanium white",
+  "cad yellow",
+  "permanent red",
+  "van dyke brown",
+  "burnt umber",
+  "magic white",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "other: transparent base",
+   "action": "cover black canvas with transparent crimson and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "crimson in center, blue around edges",
+   "motion": "cover the canvas",
+   "pressure": "unknown",
+   "where": "center crimson, blue at edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:35",
+   "subject": "sun/glow",
+   "action": "crisscross sun glow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny amount of white on the brush",
+   "motion": "crisscross strokes outward from the center",
+   "pressure": "light",
+   "where": "sun spot, outward",
+   "rule": "work outward so the glow does not pick up too much blue",
+   "new": ""
+  },
+  {
+   "t": "01:23",
+   "subject": "sun/glow",
+   "action": "brighten the sun glow",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "clean dry brush, add a little white",
+   "motion": "work into the center, outward",
+   "pressure": "light",
+   "where": "sun spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "sun/glow",
+   "action": "blend the glow outward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush, clean",
+   "motion": "crisscross blend",
+   "pressure": "light",
+   "where": "sky around the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:21",
+   "subject": "sky",
+   "action": "tiny yellow near the sun",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "titanium white"
+   ],
+   "load": "very small amount of cad yellow with white",
+   "motion": "touch in a little tiny bit",
+   "pressure": "light",
+   "where": "around the sun area",
+   "rule": "yellow too close to blue turns the sky green",
+   "new": ""
+  },
+  {
+   "t": "02:47",
+   "subject": "sky",
+   "action": "blend the yellow glow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "large brush blend",
+   "pressure": "light",
+   "where": "sun area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "cloud",
+   "action": "dark clouds floating in the sky",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "brown mixed into crimson",
+   "motion": "push paint into canvas",
+   "pressure": "firm",
+   "where": "over the sun and up the sky",
+   "rule": "clouds are free shapes, let imagination go",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "cloud",
+   "action": "highlights on clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "tiny bit of red in the yellow",
+   "motion": "touch and drop off the brush",
+   "pressure": "light",
+   "where": "top of clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:57",
+   "subject": "cloud",
+   "action": "brighter highlight on clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "a bit more red",
+   "motion": "touch onto clouds",
+   "pressure": "light",
+   "where": "on clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:20",
+   "subject": "cloud",
+   "action": "bottom highlights and trickle on top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "same brush",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "bottom of clouds, a little on top",
+   "rule": "light comes from below, so bottoms get highlighted",
+   "new": ""
+  },
+  {
+   "t": "06:14",
+   "subject": "cloud",
+   "action": "blend clouds together",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle wipe across",
+   "pressure": "light",
+   "where": "sky and clouds",
+   "rule": "thick paint turns to mud if you use too much",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "water line",
+   "action": "water line under the sun",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "very small amount of yellow in the white",
+   "motion": "touch and let paint pull off onto canvas",
+   "pressure": "light",
+   "where": "horizon under the sun, outward",
+   "rule": "a straight water line looks right, bumps bother you",
+   "new": ""
+  },
+  {
+   "t": "07:35",
+   "subject": "reflection",
+   "action": "light reflecting in the water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "same brush",
+   "motion": "touch and let it play",
+   "pressure": "light",
+   "where": "water under the sun",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:09",
+   "subject": "water line",
+   "action": "blend water across",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "large brush gentle blend",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:37",
+   "subject": "ocean/wave",
+   "action": "small waves near the edges",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "tiny bit of magic white on brush",
+   "motion": "touch, then push upward",
+   "pressure": "light",
+   "where": "water near the edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:51",
+   "subject": "rock",
+   "action": "far stone in water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "burnt umber with a tiny yellow",
+   "motion": "touch and let paint break",
+   "pressure": "light",
+   "where": "far water, in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:16",
+   "subject": "ocean/wave",
+   "action": "splash water on the rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "thin with a little magic white",
+   "motion": "bring water up and pull upward",
+   "pressure": "light",
+   "where": "on the rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:44",
+   "subject": "rock",
+   "action": "second rock in the water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix brown with a little umber",
+   "motion": "pull shape out flat",
+   "pressure": "light",
+   "where": "right of first rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:09",
+   "subject": "rock",
+   "action": "highlights on second rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "burnt umber with yellow",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "on rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "grass",
+   "action": "grassy growth on the big rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix sap green with yellow, dull with a little red",
+   "motion": "pop in little grassy things",
+   "pressure": "light",
+   "where": "top of big rock",
+   "rule": "keep it dark so it does not get too bright",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "far trees",
+   "action": "dark silhouettes on the rock",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "mix brown and umber on the brush",
+   "motion": "touch here and there",
+   "pressure": "light",
+   "where": "back of the rock",
+   "rule": "only silhouettes needed",
+   "new": ""
+  },
+  {
+   "t": "12:32",
+   "subject": "trunk/limbs",
+   "action": "trunks on the dark trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin oil on liner, brush sharp",
+   "motion": "pull thin trunks",
+   "pressure": "light",
+   "where": "on the silhouette trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "far trees",
+   "action": "highlight the small trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "yellow ochre with a touch of red",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "on the small trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:00",
+   "subject": "ocean/wave",
+   "action": "waves push up the mountain",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "same brush",
+   "motion": "touch, let it bend upward",
+   "pressure": "light",
+   "where": "over the rocks and water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:56",
+   "subject": "rock",
+   "action": "big stone in the upper area",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "dark brown mixed",
+   "motion": "pull general shape",
+   "pressure": "firm",
+   "where": "upper area, cliff",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:23",
+   "subject": "rock",
+   "action": "fill the big stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "same colors",
+   "motion": "fill in with brush",
+   "pressure": "firm",
+   "where": "big stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "rock",
+   "action": "highlights on stones",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix on brush",
+   "motion": "highlight in spots",
+   "pressure": "light",
+   "where": "on stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:42",
+   "subject": "rock",
+   "action": "let paint run down and break",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "paint with holes",
+   "motion": "let it run and break",
+   "pressure": "light",
+   "where": "down the stone",
+   "rule": "breaking paint gives texture",
+   "new": ""
+  },
+  {
+   "t": "16:18",
+   "subject": "rock",
+   "action": "light on the stone",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "more red added",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "one stone, light side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:46",
+   "subject": "bush",
+   "action": "bushes up on the hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "crimson and brown",
+   "motion": "touch, drop in bushes",
+   "pressure": "light",
+   "where": "upper hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:10",
+   "subject": "leaf tree",
+   "action": "scrawny trees with flat tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same colors",
+   "motion": "flatten tops",
+   "pressure": "light",
+   "where": "left hillside",
+   "rule": "the trees are battered by wind",
+   "new": ""
+  },
+  {
+   "t": "17:38",
+   "subject": "leaf tree",
+   "action": "highlight the tall tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "magic white",
+    "permanent red",
+    "burnt umber"
+   ],
+   "load": "dark reddish brown from burnt umber",
+   "motion": "touch sides",
+   "pressure": "light",
+   "where": "sides of tall tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:10",
+   "subject": "leaf tree",
+   "action": "highlight the tall tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "magic white",
+    "permanent red"
+   ],
+   "load": "same brush",
+   "motion": "touch the canvas",
+   "pressure": "whisper",
+   "where": "upper tree",
+   "rule": "don't let it get too bright",
+   "new": ""
+  },
+  {
+   "t": "18:38",
+   "subject": "leaf tree",
+   "action": "brighter sides of the tall tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "magic white",
+    "permanent red"
+   ],
+   "load": "same brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "right side and left edge",
+   "rule": "light comes from the side",
+   "new": ""
+  },
+  {
+   "t": "19:04",
+   "subject": "trunk/limbs",
+   "action": "tree trunks, dark",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "dark brown",
+   "motion": "pull shapes down, sideways fan",
+   "pressure": "light",
+   "where": "trunks on the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:54",
+   "subject": "trunk/limbs",
+   "action": "highlight one side of trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "cad yellow"
+   ],
+   "load": "umber yellow",
+   "motion": "pull down following curve",
+   "pressure": "light",
+   "where": "one side of trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "trunk/limbs",
+   "action": "round the trunk",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "gently barely touch and pull",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:44",
+   "subject": "grass",
+   "action": "grassy areas around the tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "permanent red"
+   ],
+   "load": "mix on brush",
+   "motion": "bounce and play",
+   "pressure": "light",
+   "where": "base of tree",
+   "rule": "let the dark color underneath shift the value",
+   "new": ""
+  },
+  {
+   "t": "22:01",
+   "subject": "bush",
+   "action": "bush in front of the tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "dark green brown",
+   "motion": "touch and push",
+   "pressure": "light",
+   "where": "front of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:26",
+   "subject": "bush",
+   "action": "highlight the bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "permanent red",
+    "cad yellow",
+    "magic white",
+    "burnt umber"
+   ],
+   "load": "add umber to dull red",
+   "motion": "touch, bend bristles",
+   "pressure": "light",
+   "where": "on the bushes",
+   "rule": "dulling keeps it from getting too bright",
+   "new": ""
+  },
+  {
+   "t": "22:50",
+   "subject": "trunk/limbs",
+   "action": "sticks cut into stone",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape in sticks",
+   "pressure": "light",
+   "where": "stones and bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "leaf tree",
+   "action": "highlight a tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "magic white"
+   ],
+   "load": "tiny bit added",
+   "motion": "touch lightly",
+   "pressure": "whisper",
+   "where": "one tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:38",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "liner with a little oil",
+   "motion": "turn the brush and sign",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

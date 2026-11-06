@@ -1,0 +1,619 @@
+{
+ "ep": "S16E09",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "titanium white",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "black"
+ ],
+ "steps": [
+  {
+   "t": "01:32",
+   "subject": "cloud",
+   "action": "tap white cloud shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "titanium white loaded",
+   "motion": "tap basic shapes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "cloud",
+   "action": "blend cloud edges lightly",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "caress canvas lightly",
+   "pressure": "whisper",
+   "where": "cloud areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "far trees",
+   "action": "tap soft distant tree shapes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "lavender with white and dark sienna",
+   "motion": "tap very basic shapes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "mist",
+   "action": "tap base of trees with dry brush",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "clean dry brush",
+   "motion": "tap base lightly",
+   "pressure": "whisper",
+   "where": "base of trees",
+   "rule": "tapping the base creates a misty look",
+   "new": ""
+  },
+  {
+   "t": "04:17",
+   "subject": "structure",
+   "action": "outline barn with a flat line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "push flat line",
+   "pressure": "firm",
+   "where": "barn location",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:51",
+   "subject": "structure",
+   "action": "block in barn with brown and dark sienna",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown with a little dark sienna",
+   "motion": "push color in",
+   "pressure": "firm",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:16",
+   "subject": "structure",
+   "action": "rub barn surface smooth",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "wipe knife and rub in small circles",
+   "motion": "rubbing motion",
+   "pressure": "firm",
+   "where": "barn area",
+   "rule": "rubbing gives a soft smooth finish like brushwork",
+   "new": ""
+  },
+  {
+   "t": "06:17",
+   "subject": "structure",
+   "action": "lightly smooth rubbed area",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "pull lightly over rubbed area",
+   "pressure": "whisper",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:54",
+   "subject": "structure",
+   "action": "indicate boards with brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tiny roll on knife",
+   "motion": "barely touch in lines",
+   "pressure": "whisper",
+   "where": "barn boards",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:23",
+   "subject": "structure",
+   "action": "block in barn walls",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown with dark sienna",
+   "motion": "block in color",
+   "pressure": "firm",
+   "where": "barn walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:58",
+   "subject": "structure",
+   "action": "dab phthalo blue into shadows",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on knife",
+   "motion": "dab in spots",
+   "pressure": "light",
+   "where": "barn walls",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:51",
+   "subject": "structure",
+   "action": "rub yellow ochre into barn",
+   "tool": "small knife",
+   "part": "flat",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "yellow ochre on knife",
+   "motion": "rub in small circles",
+   "pressure": "firm",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:33",
+   "subject": "structure",
+   "action": "add color accents to barn",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "alizarin crimson"
+   ],
+   "load": "dark sienna and crimson on knife",
+   "motion": "dab and break up color",
+   "pressure": "light",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:58",
+   "subject": "structure",
+   "action": "lighten a spot with white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "rub in",
+   "pressure": "firm",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:26",
+   "subject": "structure",
+   "action": "smooth rubbed barn surface",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "pull gently over surface",
+   "pressure": "whisper",
+   "where": "barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:06",
+   "subject": "structure",
+   "action": "indicate boards with knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "tiny roll at blade tip",
+   "motion": "bounce knife across surface",
+   "pressure": "light",
+   "where": "barn surface",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:02",
+   "subject": "structure",
+   "action": "add board line across barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll on knife",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "structure",
+   "action": "cut in large door",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "cut in shape",
+   "pressure": "firm",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:07",
+   "subject": "structure",
+   "action": "cut in small windows and doors",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "cut in openings",
+   "pressure": "firm",
+   "where": "barn front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:31",
+   "subject": "structure",
+   "action": "highlight openings with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "run across openings",
+   "pressure": "light",
+   "where": "openings",
+   "rule": "highlight so the openings stand out",
+   "new": ""
+  },
+  {
+   "t": "15:52",
+   "subject": "structure",
+   "action": "add porch roof over barn",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "lay in roof line",
+   "pressure": "firm",
+   "where": "top of barn",
+   "rule": "porch keeps rain off people entering",
+   "new": ""
+  },
+  {
+   "t": "16:16",
+   "subject": "structure",
+   "action": "add post to hold porch",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "vertical push",
+   "pressure": "firm",
+   "where": "porch area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:40",
+   "subject": "leaf tree",
+   "action": "paint dark tree behind barn",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "alizarin crimson"
+   ],
+   "load": "little black and crimson on brush",
+   "motion": "up and out strokes",
+   "pressure": "light",
+   "where": "behind barn roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:11",
+   "subject": "leaf tree",
+   "action": "add blue-white highlights on tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "white thinned with liquid white and blue",
+   "motion": "tap highlight edges",
+   "pressure": "light",
+   "where": "tree edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "snow",
+   "action": "lay snow along roof line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife",
+   "motion": "drag along roof edge",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:09",
+   "subject": "snow",
+   "action": "add snow down other roof side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife",
+   "motion": "touch down the side",
+   "pressure": "light",
+   "where": "roof side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "snow",
+   "action": "cover roof section with snow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife",
+   "motion": "pull and cover",
+   "pressure": "light",
+   "where": "roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:34",
+   "subject": "snow",
+   "action": "add blue-white shadow along snow edges",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "tiny roll of blue and white",
+   "motion": "press along edges",
+   "pressure": "light",
+   "where": "snow edges",
+   "rule": "shadow under snow makes it sparkle",
+   "new": ""
+  },
+  {
+   "t": "19:37",
+   "subject": "snow",
+   "action": "add snow mound on ground",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "pat and blend",
+   "pressure": "light",
+   "where": "ground behind barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "snow",
+   "action": "add blue-white shadow behind barn",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on brush",
+   "motion": "pat in shadow",
+   "pressure": "light",
+   "where": "behind barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:09",
+   "subject": "trunk/limbs",
+   "action": "paint thin dark trunk behind barn",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned to ink-like with paint thinner",
+   "motion": "pull limbs up and out",
+   "pressure": "light",
+   "where": "behind barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "structure",
+   "action": "highlight opening with thin white",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light tint on liner",
+   "motion": "thin line around opening",
+   "pressure": "light",
+   "where": "hay opening",
+   "rule": "highlight so the opening stands out",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "snow",
+   "action": "add plain white background hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "background ground",
+   "rule": "pure white stands out against blue behind",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "fence",
+   "action": "add fence posts",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small roll on knife",
+   "motion": "push in post shapes",
+   "pressure": "firm",
+   "where": "front of barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:33",
+   "subject": "fence",
+   "action": "cut wire line through brown",
+   "tool": "knife",
+   "part": "heel",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "straight brown on knife",
+   "motion": "press and cut line",
+   "pressure": "firm",
+   "where": "fence line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:05",
+   "subject": "grass",
+   "action": "push grass strokes upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna on fan",
+   "motion": "push upward and bend",
+   "pressure": "firm",
+   "where": "bottom of barn area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:17",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna thinned with paint thinner",
+   "motion": "flick thin lines",
+   "pressure": "light",
+   "where": "grassy area around barn",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

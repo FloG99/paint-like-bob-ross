@@ -1,0 +1,635 @@
+{
+ "ep": "S17E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cad yellow",
+  "yellow ochre",
+  "bright red",
+  "phthalo blue",
+  "black",
+  "alizarin crimson",
+  "titanium white",
+  "dark sienna",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "lay warm yellow sky at top",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "touch of cad yellow on brush",
+   "motion": "sweep strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "warm colors keep a winter scene from feeling too cold",
+   "new": ""
+  },
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "add yellow ochre below yellow sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "a little yellow ochre on same brush",
+   "motion": "lay in golden color",
+   "pressure": "light",
+   "where": "lower sky below yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "water",
+   "action": "pull yellow down as a pond",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "same brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "center under sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:54",
+   "subject": "water",
+   "action": "add bright red edges to warm the water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "tiny touch of red",
+   "motion": "lay red on edges",
+   "pressure": "light",
+   "where": "edges of pond",
+   "rule": "red is warm and makes things feel good",
+   "new": ""
+  },
+  {
+   "t": "02:31",
+   "subject": "water",
+   "action": "lay red down the sides",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "red on same brush",
+   "motion": "lay down sides",
+   "pressure": "light",
+   "where": "sides of pond",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "sky",
+   "action": "fill upper sky with blue and black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "black"
+   ],
+   "load": "tiny bit of blue and black tapped in",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "sky",
+   "action": "blend sky with clean dry brush",
+   "tool": "other: clean dry brush",
+   "part": "unknown",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "clean dry brush",
+   "motion": "blend lightly",
+   "pressure": "whisper",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "water",
+   "action": "mash in straight titanium white streak",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan brush",
+   "motion": "mash in then go across",
+   "pressure": "firm",
+   "where": "water streak",
+   "rule": "the sheen stays bright after everything else is painted",
+   "new": ""
+  },
+  {
+   "t": "05:50",
+   "subject": "sky",
+   "action": "rub lavender cloud in small circles",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender on 1in brush",
+   "motion": "small circles",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "lavender does not turn bright green against yellow",
+   "new": ""
+  },
+  {
+   "t": "06:28",
+   "subject": "cloud",
+   "action": "add hot pink highlight on cloud",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little bright red",
+   "motion": "dab small highlight",
+   "pressure": "light",
+   "where": "top of lavender cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "cloud",
+   "action": "blend highlight base in circles",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "blend in circles then fluff",
+   "pressure": "light",
+   "where": "highlight on cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:23",
+   "subject": "far trees",
+   "action": "tap dark tree shapes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "dark brown mix with a little white",
+   "motion": "tap basic shapes firmly",
+   "pressure": "firm",
+   "where": "back trees area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:41",
+   "subject": "trunk/limbs",
+   "action": "scrape in branch lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "nothing added",
+   "motion": "scrape lines",
+   "pressure": "light",
+   "where": "tree and bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:19",
+   "subject": "leaf tree",
+   "action": "tap individual tree shapes above dark",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap individual shapes",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "highlights above the dark keep shadows inside the tree",
+   "new": ""
+  },
+  {
+   "t": "10:57",
+   "subject": "leaf tree",
+   "action": "add more tree shapes and keep dark areas",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "nothing added",
+   "motion": "tap more little trees",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "dark areas give depth so do not wipe them out",
+   "new": ""
+  },
+  {
+   "t": "11:35",
+   "subject": "snow",
+   "action": "lay large snow area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lot of white on large brush",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "reflection",
+   "action": "blend snow into yellow and peach colors",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "blend snow",
+   "pressure": "light",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "reflection",
+   "action": "pull unwanted paint straight down",
+   "tool": "other: clean brush",
+   "part": "unknown",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "clean brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "below snow line",
+   "rule": "pulled areas become reflections",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "water line",
+   "action": "lay dark water line with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "tiniest roll of dark sienna with white",
+   "motion": "lay thin line with firm pressure",
+   "pressure": "firm",
+   "where": "water line area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "bush",
+   "action": "add small bushes with red and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre"
+   ],
+   "load": "mixed red and yellow on brush",
+   "motion": "push base into snow",
+   "pressure": "light",
+   "where": "along snow edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:10",
+   "subject": "leaf tree",
+   "action": "add tree shape on side",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "brown and lavender mix",
+   "motion": "tap basic shape",
+   "pressure": "light",
+   "where": "side of scene",
+   "rule": "paint the back of the tree first then the highlights",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "reflection",
+   "action": "pull large brush straight down then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "far trees",
+   "action": "add small tree on other side",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same colors on round brush",
+   "motion": "tap shape",
+   "pressure": "light",
+   "where": "other side of scene",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "leaf tree",
+   "action": "add big tree on other side",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "same mix on round brush",
+   "motion": "tap big tree shape",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:41",
+   "subject": "trunk/limbs",
+   "action": "add far trunk indications",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "tap trunk indications",
+   "pressure": "light",
+   "where": "far back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "snow",
+   "action": "drop in small snow area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on big brush",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "snow area near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "reflection",
+   "action": "pull snow down into reflections",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "same brush",
+   "motion": "pull straight down and across",
+   "pressure": "light",
+   "where": "below snow area",
+   "rule": "pulled paint turns into pretty reflections",
+   "new": ""
+  },
+  {
+   "t": "19:21",
+   "subject": "land",
+   "action": "add a little brown land",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on brush",
+   "motion": "drop in land shape",
+   "pressure": "light",
+   "where": "land near water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:00",
+   "subject": "reflection",
+   "action": "pull unwanted snow down on other side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "clean brush",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "other side of water",
+   "rule": "accidents pulled down become pretty reflections",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "far trees",
+   "action": "tap subdued distant tree shapes",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "yellow ochre",
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap shapes",
+   "pressure": "light",
+   "where": "far back of scene",
+   "rule": "keep it subdued so it reads as far back",
+   "new": ""
+  },
+  {
+   "t": "21:17",
+   "subject": "trunk/limbs",
+   "action": "add tree trunk with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "pull trunk with a wiggle",
+   "pressure": "light",
+   "where": "other side of scene",
+   "rule": "a wiggly hand gives the tree character",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "trunk/limbs",
+   "action": "add sticks and twigs with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "nothing added"
+   ],
+   "load": "nothing added",
+   "motion": "scratch in sticks",
+   "pressure": "light",
+   "where": "dark areas",
+   "rule": "sticks belong in dark areas not light ones",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "leaf tree",
+   "action": "add big tree with knife texture",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "white and dark sienna on knife",
+   "motion": "let knife tap the canvas",
+   "pressure": "light",
+   "where": "middle of scene",
+   "rule": "big trees push everything back for perspective",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "leaf tree",
+   "action": "add reflected light shadow on tree",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "dark blue white and brown mix",
+   "motion": "tap in shadow",
+   "pressure": "light",
+   "where": "opposite side of tree",
+   "rule": "shadow side creates roundness in the tree",
+   "new": ""
+  },
+  {
+   "t": "25:10",
+   "subject": "trunk/limbs",
+   "action": "add arm on old tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with paint thinner",
+   "motion": "draw arm",
+   "pressure": "light",
+   "where": "old tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:48",
+   "subject": "trunk/limbs",
+   "action": "add tree limbs",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on round brush",
+   "motion": "tap in limbs",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "dark limbs let lighter colors show up when added",
+   "new": ""
+  },
+  {
+   "t": "26:26",
+   "subject": "leaf tree",
+   "action": "tap yellow highlights on tree",
+   "tool": "round",
+   "part": "tip",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "yellow tapped on round brush",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

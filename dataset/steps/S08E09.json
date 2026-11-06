@@ -1,0 +1,578 @@
+{
+ "ep": "S08E09",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "cadmium yellow",
+  "yellow ochre",
+  "bright red",
+  "midnight black",
+  "dark sienna",
+  "titanium white",
+  "van dyke brown",
+  "sap green",
+  "alizarin crimson",
+  "phthalo blue",
+  "indian yellow",
+  "liquid white",
+  "liquid black"
+ ],
+ "steps": [
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "lay in warm band across the top",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "picked up without cleaning",
+   "motion": "sweep across",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "blending keeps it from looking striped",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "cloud",
+   "action": "bounce in small cloud shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "small touch",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:39",
+   "subject": "sky",
+   "action": "warm the sky with brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "same fan brush",
+   "motion": "tap and let it play",
+   "pressure": "light",
+   "where": "under the black",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:03",
+   "subject": "cloud",
+   "action": "bounce in pink cloud shapes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "tiny circles",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "far trees",
+   "action": "tap in background tree shapes",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "sap green"
+   ],
+   "load": "loaded from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:21",
+   "subject": "land",
+   "action": "lay in dark base for the land",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "loaded from palette",
+   "motion": "block in shapes",
+   "pressure": "medium",
+   "where": "lower canvas",
+   "rule": "dark base lets the light show when laid on top",
+   "new": ""
+  },
+  {
+   "t": "07:54",
+   "subject": "trunk/limbs",
+   "action": "thin trunks far back in the distance",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "thinned with paint thinner",
+   "motion": "pull lines",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "far trees",
+   "action": "tap yellow-green highlights on far trees",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "cadmium yellow",
+    "indian yellow"
+   ],
+   "load": "loaded from same brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "keeping dark areas makes it look far away and soft",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "far trees",
+   "action": "add red to the highlight color and tap shapes",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "bright red"
+   ],
+   "load": "added to same brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:14",
+   "subject": "land",
+   "action": "tap yellow highlights on the land",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "same brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:40",
+   "subject": "land",
+   "action": "add bright red highlights to stand out",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch from brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "land",
+   "rule": "it makes the highlight stand out",
+   "new": ""
+  },
+  {
+   "t": "11:57",
+   "subject": "path",
+   "action": "pull a path through the colors",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "picks up existing color",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "across the land",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:27",
+   "subject": "sun/glow",
+   "action": "add white for sunshine on the path",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of white",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "on the path",
+   "rule": "white makes it look like sun comes through",
+   "new": ""
+  },
+  {
+   "t": "12:27",
+   "subject": "far trees",
+   "action": "scratch in trunks of distant trees",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scratch",
+   "pressure": "unknown",
+   "where": "distant trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:58",
+   "subject": "evergreen",
+   "action": "build an evergreen with dark brown and black",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "a lot on the brush",
+   "motion": "touch and push upward",
+   "pressure": "light",
+   "where": "center left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:49",
+   "subject": "evergreen",
+   "action": "add white highlight along tree edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "on another fan brush",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "along tree edge",
+   "rule": "it makes the tree stand out",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "trunk/limbs",
+   "action": "add thin limbs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "a little liquid black",
+   "motion": "small strokes",
+   "pressure": "light",
+   "where": "on the evergreens",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "grass",
+   "action": "blend tree feet into the grass",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "grass at tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:48",
+   "subject": "leaf tree",
+   "action": "tap in leaves with dark mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "over here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:11",
+   "subject": "leaf tree",
+   "action": "highlight leaves with yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "picked up from yellow",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "on the leaves",
+   "rule": "keeping some dark showing",
+   "new": ""
+  },
+  {
+   "t": "16:14",
+   "subject": "other: border tint",
+   "action": "tap alizarin crimson and phthalo blue border color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "more crimson than blue",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "outer borders",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:02",
+   "subject": "far trees",
+   "action": "tap more small trees with brown",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:51",
+   "subject": "trunk/limbs",
+   "action": "add brown limbs out past the border",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "upper right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "trunk/limbs",
+   "action": "make a white trunk for one tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on liner",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "it changes things up a little",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "leaf tree",
+   "action": "tap yellow-green leaves past the dark",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "loaded from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "edge of dark area",
+   "rule": "leaves over the dark create a vignette",
+   "new": ""
+  },
+  {
+   "t": "20:54",
+   "subject": "bush",
+   "action": "tap leafy bush shapes past the dark",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "sap green",
+    "bright red"
+   ],
+   "load": "loaded from palette",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "past the dark area",
+   "rule": "thin paint sticks to thick paint so thin it when needed",
+   "new": ""
+  },
+  {
+   "t": "22:33",
+   "subject": "trunk/limbs",
+   "action": "scrape in a few sticks and trunks",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scrape",
+   "pressure": "light",
+   "where": "dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:00",
+   "subject": "evergreen",
+   "action": "build big tree with dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "mixed on brush",
+   "motion": "touch and drag",
+   "pressure": "firm",
+   "where": "center left",
+   "rule": "",
+   "new": "big tree runs off the canvas"
+  },
+  {
+   "t": "23:47",
+   "subject": "evergreen",
+   "action": "tap texture on the outside edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "on the fan brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "outer edge of tree",
+   "rule": "tapping makes bark look fuzzy",
+   "new": ""
+  },
+  {
+   "t": "24:18",
+   "subject": "trunk/limbs",
+   "action": "add black limbs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "straight liquid black",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "right side of tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:42",
+   "subject": "trunk/limbs",
+   "action": "add broken limbs and a root",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid black"
+   ],
+   "load": "same liner",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "hang off the bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:11",
+   "subject": "trunk/limbs",
+   "action": "add white highlight on limbs",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "a touch",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "out on the limb",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:08",
+   "subject": "evergreen",
+   "action": "add dark leaves on big tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "from the black brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "up in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "27:05",
+   "subject": "evergreen",
+   "action": "add yellow-green highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green"
+   ],
+   "load": "load a lot",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "along the leaves",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

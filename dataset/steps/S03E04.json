@@ -1,0 +1,542 @@
+{
+ "ep": "S03E04",
+ "base": "magic black",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "magic black",
+  "magic white",
+  "titanium white",
+  "alizarin crimson",
+  "phthalo green",
+  "brown",
+  "burnt umber",
+  "CAD yellow",
+  "yellow",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "01:18",
+   "subject": "sky",
+   "action": "X marks for light area",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white paint, begin small X marks",
+   "motion": "let them work out",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "This area will be the lightest.",
+   "new": ""
+  },
+  {
+   "t": "01:57",
+   "subject": "sky",
+   "action": "blend light source with 2in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the large brush",
+   "motion": "very gently blend this together",
+   "pressure": "whisper",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:17",
+   "subject": "far trees",
+   "action": "tap far indications with gray",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "load plenty of paint in the bristles",
+   "motion": "faint hints in the far distance",
+   "pressure": "light",
+   "where": "back here, far away",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:02",
+   "subject": "leaf tree",
+   "action": "white tips on bigger tree",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "load deep into the brush, gray at the tips",
+   "motion": "press hard so some white shows through",
+   "pressure": "firm",
+   "where": "back here",
+   "rule": "This makes it stand out more clearly.",
+   "new": ""
+  },
+  {
+   "t": "05:19",
+   "subject": "trunk/limbs",
+   "action": "trunks on bare trees with gray",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "a lot of the gray color",
+   "motion": "these trees may have no limbs or leaves",
+   "pressure": "light",
+   "where": "back in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:55",
+   "subject": "mountain",
+   "action": "low hill back with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "magic black"
+   ],
+   "load": "very little paint, titanium white mixed with the magic black",
+   "motion": "follow the terrain contour with the knife",
+   "pressure": "light",
+   "where": "way back here",
+   "rule": "This should not be too bright.",
+   "new": ""
+  },
+  {
+   "t": "06:36",
+   "subject": "mist",
+   "action": "lift clean brush upward for mist",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "a clean 1in brush",
+   "motion": "very gently lift upward",
+   "pressure": "whisper",
+   "where": "back here",
+   "rule": "This should recede into the background here.",
+   "new": ""
+  },
+  {
+   "t": "07:16",
+   "subject": "trunk/limbs",
+   "action": "thin limbs with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "add a few hanging limbs",
+   "pressure": "light",
+   "where": "on these little trees back here",
+   "rule": "This adds visual interest to the painting.",
+   "new": ""
+  },
+  {
+   "t": "07:59",
+   "subject": "snow",
+   "action": "knife snow layer at an angle",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "very little paint on your knife",
+   "motion": "very little pressure",
+   "pressure": "whisper",
+   "where": "maybe a layer of snow at this angle",
+   "rule": "This creates a change of value in this area.",
+   "new": ""
+  },
+  {
+   "t": "08:40",
+   "subject": "leaf tree",
+   "action": "side highlight on big tree",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "a tiny bit of white",
+   "motion": "just a little bit",
+   "pressure": "light",
+   "where": "a big tree back here",
+   "rule": "This makes that side stand out more.",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "trunk/limbs",
+   "action": "limbs on tree with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "paint thinner to thin the paint",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "A limb may be placed at this location.",
+   "new": ""
+  },
+  {
+   "t": "09:58",
+   "subject": "structure",
+   "action": "build cabin back eave",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "we'll take Van Dyke brown and begin building on our cabin",
+   "motion": "drop it in, back eave first",
+   "pressure": "light",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:36",
+   "subject": "structure",
+   "action": "lay white side of cabin roof",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "white + touch of gray",
+   "motion": "pull down just like so",
+   "pressure": "light",
+   "where": "this side of the roof",
+   "rule": "It should not be too bright.",
+   "new": ""
+  },
+  {
+   "t": "11:17",
+   "subject": "structure",
+   "action": "log lines on cabin",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "brown",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "some brown and some white, a tiny bit of umber",
+   "motion": "touch and give it a little pull",
+   "pressure": "light",
+   "where": "on the cabin",
+   "rule": "It should not become too bright yet.",
+   "new": ""
+  },
+  {
+   "t": "12:33",
+   "subject": "structure",
+   "action": "opposite direction logs, downward pull",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "brown",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "go sort in the opposite direction, logs going this way",
+   "motion": "touch sort of give a little downward pull this time",
+   "pressure": "light",
+   "where": "work right across in layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "structure",
+   "action": "shed on cabin with brown",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "brown"
+   ],
+   "load": "more brown",
+   "motion": "build a shed here",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "A small shed is added to the cabin.",
+   "new": ""
+  },
+  {
+   "t": "13:50",
+   "subject": "snow",
+   "action": "snow on shed roof",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "snow for the roof",
+   "motion": "touch and come across",
+   "pressure": "whisper",
+   "where": "on the roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "structure",
+   "action": "shed walls with boards",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "brown"
+   ],
+   "load": "a bit more brown",
+   "motion": "add walls to the shed",
+   "pressure": "light",
+   "where": "out here in the foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "structure",
+   "action": "window light with CAD yellow",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a little bit of the uh CAD yellow",
+   "motion": "add light in the window",
+   "pressure": "whisper",
+   "where": "in his window",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "structure",
+   "action": "outline windows with magic black",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "magic black"
+   ],
+   "load": "Magic Black on liner brush",
+   "motion": "outline the windows a tiny bit",
+   "pressure": "light",
+   "where": "on the windows",
+   "rule": "This is a very thin liquid paint that flows easily.",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "snow",
+   "action": "bring snow down with angles",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more snow here",
+   "motion": "bring the snow right on down",
+   "pressure": "light",
+   "where": "start right up in here",
+   "rule": "Angles are critical when painting snow.",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "snow",
+   "action": "soften snow with 2in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the large brush",
+   "motion": "very carefully rub it",
+   "pressure": "whisper",
+   "where": "follow the angles",
+   "rule": "Always follow the angles.",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "structure",
+   "action": "chimney with gray on knife edge",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "gray on small knife edge",
+   "motion": "just throw it on",
+   "pressure": "light",
+   "where": "on his chimney",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:21",
+   "subject": "evergreen",
+   "action": "touch evergreens with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "load a lot of paint in the bristle, very deep, then gray on the tips",
+   "motion": "touch with the corner, push harder for white",
+   "pressure": "light",
+   "where": "right in here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "leaf tree",
+   "action": "big tree limbs in front of cabin",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "a little white in the bristles, then load gray",
+   "motion": "large limbs extending outward",
+   "pressure": "light",
+   "where": "right over in here, in front of the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:27",
+   "subject": "reflection",
+   "action": "yellow light across snow",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "yellow"
+   ],
+   "load": "a little bit of the yellow",
+   "motion": "barely touching",
+   "pressure": "whisper",
+   "where": "across the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "reflection",
+   "action": "blend yellow into snow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the large brush",
+   "motion": "blend softly",
+   "pressure": "whisper",
+   "where": "across the snow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:06",
+   "subject": "trunk/limbs",
+   "action": "big tree trunk through here",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "let's start with some Van Dyke brown",
+   "motion": "just touch the canvas",
+   "pressure": "light",
+   "where": "right up through here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:40",
+   "subject": "trunk/limbs",
+   "action": "gray and white highlight along tree",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "gray + white",
+   "motion": "follow up along the tree",
+   "pressure": "light",
+   "where": "along the tree",
+   "rule": "Keep the painting very dark to suggest nighttime.",
+   "new": ""
+  },
+  {
+   "t": "24:21",
+   "subject": "snow",
+   "action": "blend snow piled at base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "the large brush",
+   "motion": "very gently blend that",
+   "pressure": "unknown",
+   "where": "whisper",
+   "rule": "At the bottom, at the figure's feet.",
+   "new": ""
+  },
+  {
+   "t": "25:01",
+   "subject": "bush",
+   "action": "a couple little bushes with magic white and gray",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "Magic White + gray",
+   "motion": "a couple little bushes",
+   "pressure": "light",
+   "where": "along in here",
+   "rule": "This breaks up the snowy areas and adds visual interest.",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "other: signature",
+   "action": "sign in permanent red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin oil, then back to permanent red",
+   "motion": "sign a quick little signature",
+   "pressure": "light",
+   "where": "down in here",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

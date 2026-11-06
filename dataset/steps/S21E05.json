@@ -1,0 +1,566 @@
+{
+ "ep": "S21E05",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "bright red",
+  "phthalo blue",
+  "alizarin crimson",
+  "sap green",
+  "van dyke brown",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "midnight black",
+  "titanium white",
+  "black gesso"
+ ],
+ "steps": [
+  {
+   "t": "01:42",
+   "subject": "sun/glow",
+   "action": "add a little indian yellow glow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "very little",
+   "motion": "swoosh into the light area",
+   "pressure": "light",
+   "where": "upper light area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:03",
+   "subject": "sun/glow",
+   "action": "add a small touch of bright red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "small amount",
+   "motion": "dab next to the yellow",
+   "pressure": "light",
+   "where": "beside the yellow",
+   "rule": "Yellow and red mixed on the brush gives an orange.",
+   "new": ""
+  },
+  {
+   "t": "02:26",
+   "subject": "sky",
+   "action": "add a little phthalo blue to the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "a touch",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "Blue touching yellow would turn bright green.",
+   "new": ""
+  },
+  {
+   "t": "03:15",
+   "subject": "sky",
+   "action": "blend the sky with clean dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "blend across",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:37",
+   "subject": "bush",
+   "action": "drop basic shapes with sap green and van dyke brown",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "van dyke brown"
+   ],
+   "load": "very little",
+   "motion": "push in basic shapes",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "Leaving the black gesso marks lets them show.",
+   "new": ""
+  },
+  {
+   "t": "04:29",
+   "subject": "bush",
+   "action": "tap leaves on background trees with the oval brush",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "midnight black",
+    "indian yellow"
+   ],
+   "load": "a little",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "background trees",
+   "rule": "Sky-like color lets the trees blend in.",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "trunk/limbs",
+   "action": "pull a dark trunk straight down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "dark sienna"
+   ],
+   "load": "a lot",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "old tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:27",
+   "subject": "trunk/limbs",
+   "action": "add a light highlight on the right side of the trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "very little",
+   "motion": "work down",
+   "pressure": "light",
+   "where": "right side of the trunk",
+   "rule": "Light comes from the right, so highlight goes right.",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "trunk/limbs",
+   "action": "paint limbs with thin brown on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "evergreen",
+   "action": "push in little pine needles with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:55",
+   "subject": "evergreen",
+   "action": "add green highlights on the trees",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "midnight black"
+   ],
+   "load": "a lot",
+   "motion": "tap highlights",
+   "pressure": "light",
+   "where": "trees area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:25",
+   "subject": "far trees",
+   "action": "highlight the trees to push them back",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "none",
+   "motion": "dab highlights",
+   "pressure": "light",
+   "where": "tree group",
+   "rule": "Highlighting pushes the trees back into the distance.",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "bush",
+   "action": "mix black, sap green and crimson for a big bush",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "push the corner",
+   "pressure": "light",
+   "where": "big bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "bush",
+   "action": "push in color over the black gesso",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "none",
+   "motion": "push in color",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "Black gesso underneath makes dark color easy to reach.",
+   "new": ""
+  },
+  {
+   "t": "10:36",
+   "subject": "bush",
+   "action": "push upward with mixed greens from the fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "cad yellow",
+    "indian yellow",
+    "yellow ochre",
+    "midnight black"
+   ],
+   "load": "mixed on brush",
+   "motion": "push upward",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "Mixing on the brush rather than the canvas gives varied colors.",
+   "new": ""
+  },
+  {
+   "t": "11:20",
+   "subject": "bush",
+   "action": "add bright red touches to the bushes",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:34",
+   "subject": "structure",
+   "action": "lay in a cabin shape with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "scrape basic shape",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:28",
+   "subject": "structure",
+   "action": "add cabin roof with grayish mix",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "midnight black",
+    "dark sienna"
+   ],
+   "load": "small roll",
+   "motion": "boop down",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:14",
+   "subject": "structure",
+   "action": "touch shingles with dark sienna",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "small",
+   "motion": "touch and pull straight down",
+   "pressure": "whisper",
+   "where": "cabin roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "structure",
+   "action": "darken the cabin side and door with van dyke brown",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "scrape and cut",
+   "pressure": "light",
+   "where": "cabin side and door",
+   "rule": "Scraping out excess paint keeps buildup down.",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "structure",
+   "action": "add window light and slats",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "very little",
+   "motion": "scrape and cut",
+   "pressure": "light",
+   "where": "window area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:51",
+   "subject": "bush",
+   "action": "bounce in bushes with yellows and red",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "bounce",
+   "pressure": "light",
+   "where": "bushes behind cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:15",
+   "subject": "grass",
+   "action": "tap in grass behind the cabin",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "behind the cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "bush",
+   "action": "add bright red touch to bush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bush area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:53",
+   "subject": "leaf tree",
+   "action": "touch and pull trees down in the foreground",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "a lot",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "foreground trees",
+   "rule": "Pulling trees down places them in the foreground.",
+   "new": ""
+  },
+  {
+   "t": "20:41",
+   "subject": "trunk/limbs",
+   "action": "add thin branches hanging off the trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "draw branches",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:07",
+   "subject": "trunk/limbs",
+   "action": "add a light highlight along the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "a little",
+   "motion": "highlight along the edge",
+   "pressure": "light",
+   "where": "tree edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:29",
+   "subject": "path",
+   "action": "add a worn path with fan brush",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "mixed on brush",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "path area",
+   "rule": "A center dip makes the path look worn by walking.",
+   "new": ""
+  },
+  {
+   "t": "21:56",
+   "subject": "grass",
+   "action": "pull grass over the path with 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "pull over the path",
+   "pressure": "light",
+   "where": "path edge",
+   "rule": "Grass over the path pushes it down into the painting.",
+   "new": ""
+  },
+  {
+   "t": "22:42",
+   "subject": "trunk/limbs",
+   "action": "add light sticks in the bush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "small",
+   "motion": "dab and draw sticks",
+   "pressure": "light",
+   "where": "inside the bush",
+   "rule": "Sticks give depth and distance to the bushes.",
+   "new": ""
+  },
+  {
+   "t": "24:25",
+   "subject": "trunk/limbs",
+   "action": "add branches with thin brown on liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned",
+   "motion": "draw limbs",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:09",
+   "subject": "bush",
+   "action": "double load dark and yellow on the oval brush",
+   "tool": "other: oval brush",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "cad yellow"
+   ],
+   "load": "double load",
+   "motion": "load dark then bright tip",
+   "pressure": "light",
+   "where": "leaf area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:35",
+   "subject": "bush",
+   "action": "stab straight in to place leaves",
+   "tool": "other: oval brush",
+   "part": "tip",
+   "paint": [],
+   "load": "none",
+   "motion": "stab straight in barely touching",
+   "pressure": "light",
+   "where": "leaf area",
+   "rule": "Barely touching gives highlight and shadow in one stroke.",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,693 @@
+{
+ "ep": "S23E08",
+ "base": "black gesso",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "midnight black",
+  "prussian blue",
+  "phthalo green",
+  "alizarin crimson",
+  "titanium white",
+  "phthalo blue",
+  "liquid white",
+  "liquid clear",
+  "cad yellow",
+  "yellow ochre",
+  "indian yellow",
+  "bright red",
+  "van dyke brown",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:24",
+   "subject": "other: base wash",
+   "action": "cover black area with blue-green wash",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green",
+    "liquid clear"
+   ],
+   "load": "blue and green thinned with liquid clear",
+   "motion": "scrub on thin",
+   "pressure": "unknown",
+   "where": "lower black area",
+   "rule": "liquid clear thins the paint so it covers easily",
+   "new": ""
+  },
+  {
+   "t": "00:46",
+   "subject": "sky",
+   "action": "let blue-green flow up into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green",
+    "liquid clear"
+   ],
+   "load": "thin blue-green mix",
+   "motion": "let it flow up and blend down",
+   "pressure": "unknown",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:41",
+   "subject": "mountain",
+   "action": "lay in top of mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "flat roll of black on knife edge",
+   "motion": "lay in top of mountain",
+   "pressure": "unknown",
+   "where": "top of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "mountain",
+   "action": "highlight mountain top",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "flat white roll on knife",
+   "motion": "graze lightly along highlight",
+   "pressure": "whisper",
+   "where": "highlight on mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:30",
+   "subject": "mountain",
+   "action": "lay in shadows on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white roll on knife",
+   "motion": "lay in shadows",
+   "pressure": "unknown",
+   "where": "lower mountain",
+   "rule": "a few shadows create the illusion without detail",
+   "new": ""
+  },
+  {
+   "t": "03:55",
+   "subject": "snow",
+   "action": "pull snow across upper mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "full load of white",
+   "motion": "pull across and drop in",
+   "pressure": "unknown",
+   "where": "sky above mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:17",
+   "subject": "mountain",
+   "action": "add shadow color along edge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white",
+   "motion": "lay along edge",
+   "pressure": "unknown",
+   "where": "edge of snow",
+   "rule": "gaps let the black base show through",
+   "new": ""
+  },
+  {
+   "t": "04:40",
+   "subject": "rock",
+   "action": "lay in small rocks fading down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black",
+   "motion": "lay in small rock shapes",
+   "pressure": "unknown",
+   "where": "lower mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "rock",
+   "action": "add white touch to separate stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch of white",
+   "motion": "separate stones lightly",
+   "pressure": "whisper",
+   "where": "stones on mountain",
+   "rule": "a white touch separates the stones from each other",
+   "new": ""
+  },
+  {
+   "t": "05:33",
+   "subject": "rock",
+   "action": "add shadow indication on rocks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white shadow mix",
+   "motion": "let it float across",
+   "pressure": "whisper",
+   "where": "rocks on mountain",
+   "rule": "pressure must stay light or the colors mush together",
+   "new": ""
+  },
+  {
+   "t": "05:56",
+   "subject": "mountain",
+   "action": "touch shadow down mountain side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "shadow color",
+   "motion": "touch down the side",
+   "pressure": "light",
+   "where": "side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:21",
+   "subject": "mist",
+   "action": "tap mist at mountain base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean very dry brush",
+   "motion": "tap following angles then lift upward",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "a wet brush would ruin the mist so keep it dry",
+   "new": ""
+  },
+  {
+   "t": "07:12",
+   "subject": "rock",
+   "action": "drop in more black rocks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "black",
+   "motion": "drop in rock",
+   "pressure": "unknown",
+   "where": "mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "mountain",
+   "action": "let shadow fade into mist",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let it fade down",
+   "pressure": "unknown",
+   "where": "upper mountain area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:26",
+   "subject": "far trees",
+   "action": "mix dark tree color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "dark mix on palette",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:49",
+   "subject": "far trees",
+   "action": "drop in distant trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dark color loaded full",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "background",
+   "new": "the mist area keeps distant trees from disappearing"
+  },
+  {
+   "t": "10:35",
+   "subject": "far trees",
+   "action": "pick out a few trees with corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "a few background trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "mist",
+   "action": "add misty shadow at tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "light blue and white shadow color on fan",
+   "motion": "touch bottom then lift upward",
+   "pressure": "unknown",
+   "where": "base of distant trees",
+   "rule": "the mist makes distant trunks read as far away",
+   "new": ""
+  },
+  {
+   "t": "11:31",
+   "subject": "evergreen",
+   "action": "tap yellows into dark background",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "dark background color tapped into yellows",
+   "motion": "tap in place",
+   "pressure": "unknown",
+   "where": "up in the trees",
+   "rule": "yellows stand out against the dark background",
+   "new": ""
+  },
+  {
+   "t": "12:19",
+   "subject": "evergreen",
+   "action": "darken lower area by tapping",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and work toward bottom",
+   "pressure": "unknown",
+   "where": "lower area",
+   "rule": "tapping mixes with the wash underneath so it darkens",
+   "new": ""
+  },
+  {
+   "t": "12:45",
+   "subject": "land",
+   "action": "add white touch on hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "least touch of white",
+   "motion": "zing across the little hill",
+   "pressure": "unknown",
+   "where": "small hill",
+   "rule": "a little white makes that spot stand out",
+   "new": ""
+  },
+  {
+   "t": "13:10",
+   "subject": "water",
+   "action": "pull thin blue-green water mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "phthalo blue",
+    "phthalo green",
+    "liquid clear"
+   ],
+   "load": "thin blue-green mix with liquid white",
+   "motion": "pull across for water effects",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:59",
+   "subject": "waterfall",
+   "action": "let waterfall run and fall",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let it run and fall",
+   "pressure": "unknown",
+   "where": "waterfall path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:49",
+   "subject": "waterfall",
+   "action": "pull waterfall upward and smooth",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull upward from bottom then smooth",
+   "pressure": "firm",
+   "where": "waterfall",
+   "rule": "liquid clear helps the paint slide on",
+   "new": ""
+  },
+  {
+   "t": "15:13",
+   "subject": "mist",
+   "action": "tap mist clouds at waterfall base",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "top corner of brush tapped into white",
+   "motion": "tap clouds of mist",
+   "pressure": "unknown",
+   "where": "base of waterfall",
+   "rule": "falling water splashes and makes mist",
+   "new": ""
+  },
+  {
+   "t": "15:42",
+   "subject": "rock",
+   "action": "mix thin brown for rocks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "liquid white"
+   ],
+   "load": "very thin brown mix with liquid white",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "rock",
+   "action": "add rock highlight and shadow",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "black and brown on filbert with light on one side",
+   "motion": "pull one side along the edge",
+   "pressure": "unknown",
+   "where": "edge of waterfall",
+   "rule": "one stroke gives both highlight and shadow",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "waterfall",
+   "action": "clean rock edges with waterfall color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "clean up the edges of the rocks",
+   "pressure": "unknown",
+   "where": "rock edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:40",
+   "subject": "evergreen",
+   "action": "mix dark evergreen color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "dark mix",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:02",
+   "subject": "evergreen",
+   "action": "shake out tree shapes with corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap out tree shape",
+   "pressure": "unknown",
+   "where": "tree area and other side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:12",
+   "subject": "evergreen",
+   "action": "drop in tree shapes with dark green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "a little cad yellow into dark mix",
+   "motion": "drop in tree shapes",
+   "pressure": "unknown",
+   "where": "other side",
+   "rule": "detail is hidden against the dark background",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "evergreen",
+   "action": "highlight big evergreens",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "cad yellow mixed into dark",
+   "motion": "highlight darker toward bottom",
+   "pressure": "unknown",
+   "where": "big evergreens over mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:12",
+   "subject": "grass",
+   "action": "barely touch grass lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "white and browns on small roll on knife",
+   "motion": "barely touch and pull down",
+   "pressure": "whisper",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:58",
+   "subject": "grass",
+   "action": "tap hanging ferns",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap hanging shapes",
+   "pressure": "unknown",
+   "where": "both sides hanging down",
+   "rule": "mist and water mean ferns are likely",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "rock",
+   "action": "lay in big rock shape",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lay in big rock shape",
+   "pressure": "unknown",
+   "where": "middle right",
+   "rule": "black gesso already gives the darks",
+   "new": ""
+  },
+  {
+   "t": "23:33",
+   "subject": "waterfall",
+   "action": "run thin color down and splash",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "phthalo blue",
+    "phthalo green",
+    "liquid clear"
+   ],
+   "load": "thin color with liquid white",
+   "motion": "let it run down and splash",
+   "pressure": "unknown",
+   "where": "waterfall area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:59",
+   "subject": "rock",
+   "action": "add brown and white highlight on stone",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white",
+   "motion": "put highlight on stone",
+   "pressure": "unknown",
+   "where": "stone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:47",
+   "subject": "rock",
+   "action": "bring rock color across overhang",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "rock color",
+   "motion": "bring across overhang",
+   "pressure": "unknown",
+   "where": "overhang",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:47",
+   "subject": "rock",
+   "action": "add cool blue highlight on overhang",
+   "tool": "unknown",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "blue and white on tip of brush",
+   "motion": "tip highlight on overhang",
+   "pressure": "unknown",
+   "where": "overhang edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:11",
+   "subject": "other: background fill",
+   "action": "tap and work the fill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and work the surface",
+   "pressure": "unknown",
+   "where": "whole upper area",
+   "rule": "tapping picks up the color underneath and darkens it",
+   "new": ""
+  },
+  {
+   "t": "25:58",
+   "subject": "other: signature",
+   "action": "sign painting in bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "bright red with paint thinner",
+   "motion": "sign in bushes",
+   "pressure": "unknown",
+   "where": "upper bushes",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[05:33] keep pressure very light so the colors do not mush together"
+ ]
+}

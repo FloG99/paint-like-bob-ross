@@ -1,0 +1,452 @@
+{
+ "ep": "S16E11",
+ "base": "black gesso with phthalo blue and sap green wash",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "sap green",
+  "midnight black",
+  "titanium white",
+  "crimson",
+  "dark sienna",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "other: base wash",
+   "action": "thin transparent wash over black canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "mixed on the brush",
+   "motion": "thin even coat",
+   "pressure": "light",
+   "where": "entire canvas",
+   "rule": "too thick becomes hard to work with",
+   "new": ""
+  },
+  {
+   "t": "01:16",
+   "subject": "sky",
+   "action": "light sky with titanium white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touched in",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "colors look brighter on black",
+   "new": ""
+  },
+  {
+   "t": "03:11",
+   "subject": "mountain",
+   "action": "far hill indication with 1in tap",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "midnight black",
+    "crimson"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tapping down",
+   "pressure": "light",
+   "where": "back of the canvas",
+   "rule": "too far back for much detail",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "mist",
+   "action": "lift mist at the base",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light lifts upward",
+   "pressure": "light",
+   "where": "base of the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:50",
+   "subject": "far trees",
+   "action": "2in tap of little distant trees and bushes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "mixed on the 2in",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper back area",
+   "rule": "far things need little detail",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "trunk/limbs",
+   "action": "tiny far tree trunks with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "liner loaded with thinned paint",
+   "motion": "turning the brush",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:40",
+   "subject": "waterfall",
+   "action": "titanium white waterfall pulled down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "loaded",
+   "motion": "touch and pull straight down",
+   "pressure": "light",
+   "where": "center of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:19",
+   "subject": "mist",
+   "action": "spin fan brush for mist at base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "picked up on fan",
+   "motion": "spinning and pushing",
+   "pressure": "unknown",
+   "where": "base of the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "mist",
+   "action": "blend mist with clean 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend and tap",
+   "pressure": "light",
+   "where": "mist area",
+   "rule": "tapping diffuses the mist",
+   "new": ""
+  },
+  {
+   "t": "07:32",
+   "subject": "mist",
+   "action": "back mist layer then front layer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "layers in the mist",
+   "new": "do the back layer first so layers read as depth"
+  },
+  {
+   "t": "08:49",
+   "subject": "leaf tree",
+   "action": "sap green and blue tree shapes on the left",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "sap green"
+   ],
+   "load": "mixed on the brush",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "left of the waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:02",
+   "subject": "leaf tree",
+   "action": "yellow highlight in front of waterfall",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "cad yellow"
+   ],
+   "load": "touched on",
+   "motion": "small touches",
+   "pressure": "light",
+   "where": "in front of the waterfall",
+   "rule": "a front highlight pushes the waterfall back",
+   "new": ""
+  },
+  {
+   "t": "10:40",
+   "subject": "leaf tree",
+   "action": "dark distant tree shapes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "loaded",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "upper right",
+   "rule": "dark shapes far away push the scene back",
+   "new": ""
+  },
+  {
+   "t": "12:37",
+   "subject": "trunk/limbs",
+   "action": "dark liner trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "liner loaded",
+   "motion": "dropped in",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "thinner helps the paint stick",
+   "new": ""
+  },
+  {
+   "t": "13:18",
+   "subject": "leaf tree",
+   "action": "highlights with spiggle brush",
+   "tool": "other: spiggle brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cad yellow"
+   ],
+   "load": "picked up",
+   "motion": "spiggle strokes",
+   "pressure": "light",
+   "where": "sunlit tree",
+   "rule": "layers of tree marks with little work",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "rock",
+   "action": "dark rock with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "midnight black"
+   ],
+   "load": "mixed on fan",
+   "motion": "dropped in",
+   "pressure": "unknown",
+   "where": "upper middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:40",
+   "subject": "rock",
+   "action": "small stones with fan brush strokes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "least amount",
+   "motion": "brush strokes",
+   "pressure": "light",
+   "where": "scattered in the dark area",
+   "rule": "brush strokes make rocks with little paint",
+   "new": ""
+  },
+  {
+   "t": "15:20",
+   "subject": "mist",
+   "action": "mist at bottom with fan tap",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bottom of the dark area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:58",
+   "subject": "stream",
+   "action": "stream of white water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "loaded full",
+   "motion": "foamy pushes upward",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "rock",
+   "action": "more stones with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "least amount",
+   "motion": "brush strokes",
+   "pressure": "light",
+   "where": "scattered stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:40",
+   "subject": "waterfall",
+   "action": "white waterfall over the dark running off canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "thinned",
+   "motion": "dragged down",
+   "pressure": "light",
+   "where": "upper right running off canvas",
+   "rule": "the canvas color mixes in for you",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "grass",
+   "action": "dark green grass with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "yellow ochre"
+   ],
+   "load": "mixed",
+   "motion": "tapping",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "bush",
+   "action": "hanging bushes with 2in tapping downward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "yellow ochre"
+   ],
+   "load": "picked up",
+   "motion": "tapping downward",
+   "pressure": "light",
+   "where": "over the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:38",
+   "subject": "trunk/limbs",
+   "action": "thin gray tree branches with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "thinned to ink",
+   "motion": "light sneaking strokes",
+   "pressure": "light",
+   "where": "back in the trees",
+   "rule": "small branches add detail",
+   "new": ""
+  },
+  {
+   "t": "24:35",
+   "subject": "rock",
+   "action": "dark stones with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "mixed",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "under the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "other: signature",
+   "action": "signing with thin red",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "thinned",
+   "motion": "writing",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

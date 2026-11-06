@@ -1,0 +1,695 @@
+{
+ "ep": "S07E12",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "titanium white",
+  "midnight black",
+  "dark sienna",
+  "yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:01",
+   "subject": "sky",
+   "action": "sky strokes in phthalo blue and van dyke brown",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "a little phthalo blue, a little van dyke brown",
+   "motion": "work it up here",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:40",
+   "subject": "sky",
+   "action": "sky from the bottom, lighter toward the horizon",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "begin at bottom, move up",
+   "pressure": "unknown",
+   "where": "bottom, up toward the horizon",
+   "rule": "It mixes with liquid white and lightens toward the horizon.",
+   "new": ""
+  },
+  {
+   "t": "01:19",
+   "subject": "sky",
+   "action": "blend the sky out with a clean dry brush",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "blend the sky out a little",
+   "pressure": "light",
+   "where": "in the sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:58",
+   "subject": "cloud",
+   "action": "a few little clouds in titanium white",
+   "tool": "other: clean dry brush",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load it full of paint",
+   "motion": "pull it in one direction",
+   "pressure": "unknown",
+   "where": "up in the sky here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:36",
+   "subject": "cloud",
+   "action": "great big billowy clouds lifted with a clean brush",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift it up",
+   "pressure": "light",
+   "where": "drifting in the sky here",
+   "rule": "Several brushes are used at once to avoid frequent washing.",
+   "new": ""
+  },
+  {
+   "t": "03:16",
+   "subject": "far trees",
+   "action": "distant trees with the corner of the brush, pulled down for reflection",
+   "tool": "other: clean brush",
+   "part": "corner",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "a little touch of midnight black",
+   "motion": "tap a few indications, pull straight down",
+   "pressure": "light",
+   "where": "back here, a little harbor",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "mist",
+   "action": "misty area tapped in and lifted up",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap this, lift it up",
+   "pressure": "light",
+   "where": "right in between here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "leaf tree",
+   "action": "bigger little tree in brown and black, tapped in",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black"
+   ],
+   "load": "brown and some black",
+   "motion": "tap it in",
+   "pressure": "unknown",
+   "where": "right up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:32",
+   "subject": "bush",
+   "action": "a few highlights in yellow on the bushes",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "yellow"
+   ],
+   "load": "",
+   "motion": "a little yellow",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:12",
+   "subject": "structure",
+   "action": "big brown building, chisel edge from the 2in brush",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "heavy paint in the bristles",
+   "motion": "pull and wiggle to a sharp chisel edge",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:50",
+   "subject": "structure",
+   "action": "roof lines for the building",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay these out, bring them together",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:08",
+   "subject": "structure",
+   "action": "old wood highlights with a shaking brush",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "same dirty brush, picks up some dark sienna",
+   "motion": "barely touch, let the brush shake and tremble",
+   "pressure": "whisper",
+   "where": "up here",
+   "rule": "Otherwise the effect will barely show.",
+   "new": ""
+  },
+  {
+   "t": "08:28",
+   "subject": "structure",
+   "action": "few boards with the knife in van dyke brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a hunk on the edge of the knife",
+   "motion": "just touch it",
+   "pressure": "light",
+   "where": "at whatever spots seem right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:05",
+   "subject": "structure",
+   "action": "dark roof edge with the knife, black, blue and white roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "a little black, blue and white cut off",
+   "motion": "slice off a small paint roll",
+   "pressure": "unknown",
+   "where": "right there, the side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:45",
+   "subject": "structure",
+   "action": "lighter roof color, let it bounce along",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "same color, a little lighter",
+   "motion": "let it sort of bounce along",
+   "pressure": "unknown",
+   "where": "along the roof",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:23",
+   "subject": "structure",
+   "action": "another building in dark sienna and white, tapped",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "a little dark sienna and white",
+   "motion": "tap it, let it wiggle",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:01",
+   "subject": "structure",
+   "action": "few boards and dark shadows at the top",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "let it bounce along",
+   "pressure": "unknown",
+   "where": "up here at the top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:43",
+   "subject": "structure",
+   "action": "weathered boards pulled with a very dry brush",
+   "tool": "other: dry brush",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "graze it, pull it across, then go down",
+   "pressure": "whisper",
+   "where": "",
+   "rule": "To give it a weathered appearance.",
+   "new": ""
+  },
+  {
+   "t": "12:24",
+   "subject": "structure",
+   "action": "door and window with the knife, light color around the door",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "a little white and brown",
+   "motion": "go around the edges, a little window",
+   "pressure": "unknown",
+   "where": "right here, the door",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:03",
+   "subject": "structure",
+   "action": "another big door at the edge, highlight around it",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little brown and white",
+   "motion": "drop it in, highlight around the door",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:42",
+   "subject": "path",
+   "action": "dark walkway base with a gray highlight",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "gray color",
+   "motion": "pull this out",
+   "pressure": "light",
+   "where": "right up between those buildings",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:22",
+   "subject": "fence",
+   "action": "old posts in midnight black with a touch of highlight",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black",
+   "motion": "hang a few old posts, touch of highlight",
+   "pressure": "unknown",
+   "where": "right here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:00",
+   "subject": "reflection",
+   "action": "post bottoms pulled down and across",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "pull them down, go across",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:00",
+   "subject": "water",
+   "action": "liquid white sheen across the water",
+   "tool": "other: clean brush",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "work a little here and there",
+   "pressure": "light",
+   "where": "across the water",
+   "rule": "This creates a light sheen across the water.",
+   "new": ""
+  },
+  {
+   "t": "15:37",
+   "subject": "structure",
+   "action": "big old building filled in with the 2in",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "fill it all in",
+   "pressure": "unknown",
+   "where": "down to the bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:18",
+   "subject": "structure",
+   "action": "dark sienna and white back and forth on the old building",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna and white",
+   "motion": "back and forth, barely hitting",
+   "pressure": "whisper",
+   "where": "on the old building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:32",
+   "subject": "structure",
+   "action": "rough edge cut across with the knife in blue, white and brown",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "a little blue, white and brown, pulled out",
+   "motion": "cut across, tiniest roll of paint",
+   "pressure": "unknown",
+   "where": "out here, rough",
+   "rule": "Because it is closer to the viewer.",
+   "new": ""
+  },
+  {
+   "t": "18:11",
+   "subject": "structure",
+   "action": "black shadows bounced on the old building",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black on the brush",
+   "motion": "let it bounce, tap, play",
+   "pressure": "unknown",
+   "where": "on this old building",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "structure",
+   "action": "doors and windows drawn in black and brown",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "black and brown on the knife",
+   "motion": "indicate boards, a window, a little door",
+   "pressure": "unknown",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "other: boat",
+   "action": "basic boat shape with the number three fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay in some paint for a basic shape",
+   "pressure": "unknown",
+   "where": "right up here, where he lives",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:25",
+   "subject": "other: boat",
+   "action": "white on the brush for the front edges",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little more white",
+   "motion": "begin laying it in, define the edges",
+   "pressure": "light",
+   "where": "in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:04",
+   "subject": "other: boat",
+   "action": "dark color pulled down under the boat",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "grab the bottom and pull down",
+   "pressure": "unknown",
+   "where": "bottom of the boat",
+   "rule": "A reflection would appear underneath here.",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "other: boat",
+   "action": "house on the boat, brown cut across",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little bit of brown cut across",
+   "motion": "let's go up here, a little house",
+   "pressure": "unknown",
+   "where": "up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:22",
+   "subject": "other: boat",
+   "action": "boat door and window with the small knife in black",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little black on the small knife",
+   "motion": "put him a door right there, a window up here",
+   "pressure": "unknown",
+   "where": "right there, up here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:59",
+   "subject": "water line",
+   "action": "water lines in liquid white, blue and brown",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "liquid white, smallest amount of blue and brown",
+   "motion": "go right around like so",
+   "pressure": "unknown",
+   "where": "around the boat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:36",
+   "subject": "other: boat details",
+   "action": "little bright red hat and mask details",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "least little touch of bright red",
+   "motion": "just barely touch",
+   "pressure": "light",
+   "where": "right up here, a little hat",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:55",
+   "subject": "other: rigging",
+   "action": "liquid white rigging lines cut with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white cut across on the knife",
+   "motion": "a few little wires, pieces of rigging",
+   "pressure": "unknown",
+   "where": "right down here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:36",
+   "subject": "fence",
+   "action": "posts in the walkway, dark base color then highlight",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "dark color",
+   "motion": "touch, give it a pull",
+   "pressure": "whisper",
+   "where": "right there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:15",
+   "subject": "path",
+   "action": "old wood walkway in dark sienna, white, then black",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "dark color with a little white, then black",
+   "motion": "touch, let it bounce, barely grazing",
+   "pressure": "whisper",
+   "where": "the old wood here",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:56",
+   "subject": "path",
+   "action": "smoother old wood pulled lightly with the brush",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull it very lightly, just barely touch",
+   "pressure": "light",
+   "where": "here",
+   "rule": "To make it smoother.",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "path",
+   "action": "shadows in black, bounced and pulled",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "",
+   "motion": "let it bounce, tap and play",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "To suggest a few shadows.",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "fence",
+   "action": "bright red on top of the posts",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little red on the knife",
+   "motion": "put red right on top of these posts",
+   "pressure": "unknown",
+   "where": "on top of these posts",
+   "rule": "For color.",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,515 @@
+{
+ "ep": "S31E04",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "alizarin crimson",
+  "phthalo blue",
+  "cadmium yellow",
+  "black",
+  "brown",
+  "van dyke brown",
+  "dark sienna",
+  "liquid white",
+  "titanium white",
+  "indian yellow",
+  "bright red",
+  "sap green"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "sky",
+   "action": "paint sky with yellow ochre",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount of yellow ochre",
+   "motion": "quick strokes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:18",
+   "subject": "bush",
+   "action": "paint distant shrubs with lavender",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "lavender mix tapped onto corner",
+   "motion": "tapping basic shapes",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "far objects show basic shapes, not detail",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "mist",
+   "action": "soften the bottom edge of the distant layers",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush used",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "bottom of distant shapes",
+   "rule": "softening makes layers look like misty haze",
+   "new": ""
+  },
+  {
+   "t": "05:04",
+   "subject": "far trees",
+   "action": "warm distant shapes with crimson",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "crimson tapped into bristles",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "background layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:54",
+   "subject": "bush",
+   "action": "paint green far bushes with blue and cadmium yellow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "phthalo blue"
+   ],
+   "load": "blue with a touch of cadmium yellow",
+   "motion": "dabbing",
+   "pressure": "unknown",
+   "where": "far background",
+   "rule": "a hint of color is enough",
+   "new": ""
+  },
+  {
+   "t": "07:07",
+   "subject": "trunk/limbs",
+   "action": "paint thin twigs in the far background",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thinned paint",
+   "motion": "sticks and twigs strokes",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "far things show only major trunks so few marks",
+   "new": ""
+  },
+  {
+   "t": "07:55",
+   "subject": "land",
+   "action": "paint dark land masses",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "brown",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "dark mix on brush",
+   "motion": "placing dark patches",
+   "pressure": "unknown",
+   "where": "middle back land",
+   "rule": "dark base lets light colors show later",
+   "new": ""
+  },
+  {
+   "t": "09:06",
+   "subject": "leaf tree",
+   "action": "paint big tree with the brush corner",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "small strokes",
+   "pressure": "unknown",
+   "where": "left middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:30",
+   "subject": "leaf tree",
+   "action": "add fall colors to the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "ochre, indian yellow and touch of red mixed",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:20",
+   "subject": "land",
+   "action": "mix green and yellow ochre for the hill",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "sap green mixed with yellows",
+   "motion": "corner strokes",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:42",
+   "subject": "land",
+   "action": "paint a small hill with the green mix",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "green and yellow mix kept on brush",
+   "motion": "sloped strokes down",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:51",
+   "subject": "leaf tree",
+   "action": "paint a huge tree in front of the other tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "dark sienna"
+   ],
+   "load": "dark sienna added to the green mix",
+   "motion": "dropping in a huge tree shape",
+   "pressure": "unknown",
+   "where": "in front of the other tree",
+   "rule": "trees may overlap because they grow freely",
+   "new": ""
+  },
+  {
+   "t": "13:01",
+   "subject": "water",
+   "action": "pull water downward",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix on brush",
+   "motion": "downward pull",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:17",
+   "subject": "leaf tree",
+   "action": "paint a tree on the other side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix on brush",
+   "motion": "dropping in a basic shape",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "a basic shape is all it needs",
+   "new": ""
+  },
+  {
+   "t": "15:03",
+   "subject": "bush",
+   "action": "paint light layers up the hill",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "liquid white"
+   ],
+   "load": "liquid white mixed into the light color",
+   "motion": "layering up the hill",
+   "pressure": "unknown",
+   "where": "upper hill area",
+   "rule": "liquid white thins the color and lightens it",
+   "new": ""
+  },
+  {
+   "t": "15:48",
+   "subject": "leaf tree",
+   "action": "add fall colors to the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "crimson and ochre mixed and thinned",
+   "motion": "placing little shapes",
+   "pressure": "unknown",
+   "where": "the tree",
+   "rule": "thinner paint goes on more easily",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "leaf tree",
+   "action": "deepen shadows at the base of the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix on brush",
+   "motion": "layering down",
+   "pressure": "unknown",
+   "where": "bottom of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:24",
+   "subject": "reflection",
+   "action": "add a dark reflection under the object",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark brush",
+   "motion": "dabbing",
+   "pressure": "unknown",
+   "where": "below the tree",
+   "rule": "a reflection goes under whatever sits on water",
+   "new": ""
+  },
+  {
+   "t": "18:49",
+   "subject": "water line",
+   "action": "paint a marbled shoreline",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "sienna and brown mixed but left marbled",
+   "motion": "pulling a short roll along the shore",
+   "pressure": "unknown",
+   "where": "shore",
+   "rule": "keep the mix marbled, not fully blended",
+   "new": ""
+  },
+  {
+   "t": "19:17",
+   "subject": "water line",
+   "action": "highlight the shoreline",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "sienna and white",
+   "motion": "dabbing",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "the highlight makes the shore sparkle",
+   "new": ""
+  },
+  {
+   "t": "19:44",
+   "subject": "grass",
+   "action": "bring down grassy areas with the mixed colors",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre",
+    "indian yellow",
+    "bright red",
+    "alizarin crimson",
+    "liquid white"
+   ],
+   "load": "liquid white added to the mixed colors",
+   "motion": "pulling down",
+   "pressure": "unknown",
+   "where": "grassy areas by the shore",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:07",
+   "subject": "bush",
+   "action": "paint a thin green bush",
+   "tool": "unknown",
+   "part": "edge",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green thinned with paint thinner",
+   "motion": "small bush shape",
+   "pressure": "unknown",
+   "where": "near shore",
+   "rule": "dark underneath lets light show",
+   "new": ""
+  },
+  {
+   "t": "20:52",
+   "subject": "bush",
+   "action": "add more small bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow ochre"
+   ],
+   "load": "grassy colors on brush",
+   "motion": "dropping in small shapes",
+   "pressure": "unknown",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:16",
+   "subject": "bush",
+   "action": "darken the upper bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "dark mix on brush",
+   "motion": "blending darker",
+   "pressure": "unknown",
+   "where": "upper bushes",
+   "rule": "darker keeps them from looking too bright",
+   "new": ""
+  },
+  {
+   "t": "21:41",
+   "subject": "land",
+   "action": "paint land under the bushes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "short grassy strokes down",
+   "pressure": "unknown",
+   "where": "bottom of the bushes",
+   "rule": "land keeps the bushes from looking cut off",
+   "new": ""
+  },
+  {
+   "t": "22:09",
+   "subject": "water line",
+   "action": "paint a light water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small amount of liquid white",
+   "motion": "lightly placed",
+   "pressure": "light",
+   "where": "shore edge",
+   "rule": "a bright line would be too strong so keep it small",
+   "new": ""
+  },
+  {
+   "t": "22:54",
+   "subject": "leaf tree",
+   "action": "paint birch tree with fan and white touch",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "dark color on fan, touch of white on knife",
+   "motion": "dropping in a big tree",
+   "pressure": "unknown",
+   "where": "beside the other tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:22",
+   "subject": "trunk/limbs",
+   "action": "add limbs to the birch",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "brown"
+   ],
+   "load": "brown thinned with lots of thinner",
+   "motion": "limb strokes",
+   "pressure": "light",
+   "where": "birch tree",
+   "rule": "a few marks are enough to suggest leaves",
+   "new": ""
+  },
+  {
+   "t": "24:09",
+   "subject": "leaf tree",
+   "action": "dab leaves on the tree",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "full oval load with a little red",
+   "motion": "push up and dab leaves",
+   "pressure": "firm",
+   "where": "upper tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "leaf tree",
+   "action": "add leaves on the other side of the tree",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "same oval load",
+   "motion": "dabbing leaves",
+   "pressure": "firm",
+   "where": "other side of the tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

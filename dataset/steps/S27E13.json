@@ -1,0 +1,347 @@
+{
+ "ep": "S27E13",
+ "base": "liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "titanium white",
+  "alizarin crimson",
+  "bright red",
+  "phthalo blue",
+  "sap green",
+  "midnight black",
+  "yellow ochre",
+  "cadmium yellow"
+ ],
+ "steps": [
+  {
+   "t": "01:31",
+   "subject": "other: background wash",
+   "action": "cover canvas with transparent yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "cover entire canvas",
+   "pressure": "unknown",
+   "where": "entire canvas",
+   "rule": "indian yellow is transparent, so underlayers still show",
+   "new": ""
+  },
+  {
+   "t": "03:26",
+   "subject": "mist",
+   "action": "tap thin opaque white mist",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tap and bounce",
+   "pressure": "light",
+   "where": "background areas",
+   "rule": "keep it thin so the yellow still shows",
+   "new": ""
+  },
+  {
+   "t": "05:22",
+   "subject": "other: color splotches",
+   "action": "dab small splotches of color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "upper canvas areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:46",
+   "subject": "other: color splotches",
+   "action": "add bright red accents",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "dab in",
+   "pressure": "light",
+   "where": "upper canvas areas",
+   "rule": "white helps the color stand out",
+   "new": ""
+  },
+  {
+   "t": "06:55",
+   "subject": "other: background spot",
+   "action": "touch of phthalo blue with white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "put in a few spots",
+   "pressure": "light",
+   "where": "background areas",
+   "rule": "a little blue goes a long way, it is too strong",
+   "new": ""
+  },
+  {
+   "t": "07:19",
+   "subject": "water",
+   "action": "pull brown straight down for water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "lower area of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "trunk/limbs",
+   "action": "pull thin trunks with dark lavender",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "",
+   "motion": "pull with sharp edge",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:27",
+   "subject": "bush",
+   "action": "bushes at tree foot with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "slide small bushes sideways",
+   "pressure": "light",
+   "where": "foot of tree",
+   "rule": "thin paint slides easily over the clear",
+   "new": ""
+  },
+  {
+   "t": "12:16",
+   "subject": "leaf tree",
+   "action": "add another scraggly tree with arms",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bounce in limbs and arms",
+   "pressure": "light",
+   "where": "another tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:24",
+   "subject": "other: gesso texture",
+   "action": "rub brush over gesso high points",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "rub lightly on high points",
+   "pressure": "light",
+   "where": "textured background area",
+   "rule": "the brush picks up the gesso high points",
+   "new": ""
+  },
+  {
+   "t": "14:16",
+   "subject": "land",
+   "action": "paint little hill for water to run down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "",
+   "motion": "lay in hill shape",
+   "pressure": "unknown",
+   "where": "hill area",
+   "rule": "water runs to low ground, so a hill lets it run down",
+   "new": ""
+  },
+  {
+   "t": "14:42",
+   "subject": "bush",
+   "action": "drop in few loose little things",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in loosely",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "leaf tree",
+   "action": "drop in small tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "side area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:27",
+   "subject": "trunk/limbs",
+   "action": "add stick and twig",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:13",
+   "subject": "trunk/limbs",
+   "action": "fan brush limbs with thin color",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "go back and forth, touch lightly",
+   "pressure": "light",
+   "where": "limbs on trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:49",
+   "subject": "bush",
+   "action": "highlights on bushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "bright red",
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "pop in few highlights",
+   "pressure": "light",
+   "where": "here and there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:13",
+   "subject": "water",
+   "action": "pull water down with thinned color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down, then across",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "a gentle clean-brush pass makes reflections",
+   "new": ""
+  },
+  {
+   "t": "19:00",
+   "subject": "water",
+   "action": "lift paint for clear openings",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "go across with thinner brush",
+   "pressure": "unknown",
+   "where": "water area",
+   "rule": "removing paint lets clear openings show through",
+   "new": ""
+  },
+  {
+   "t": "20:31",
+   "subject": "rock",
+   "action": "drop filbert rocks in dark mix",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "alizarin crimson",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "thinned dark and gray mix",
+   "motion": "drop rocks in",
+   "pressure": "unknown",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:17",
+   "subject": "reflection",
+   "action": "pull a light reflection under each rock",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down, then go gently across",
+   "pressure": "light",
+   "where": "under each rock",
+   "rule": "makes the rocks look like they sit in water",
+   "new": ""
+  },
+  {
+   "t": "21:40",
+   "subject": "water line",
+   "action": "put in light water lines",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "put in few short lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

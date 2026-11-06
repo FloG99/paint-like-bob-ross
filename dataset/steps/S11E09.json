@@ -1,0 +1,601 @@
+{
+ "ep": "S11E09",
+ "base": "thin coat of liquid clear",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "alizarin crimson",
+  "dark sienna",
+  "titanium white",
+  "van dyke brown",
+  "black",
+  "liquid clear",
+  "red"
+ ],
+ "steps": [
+  {
+   "t": "00:32",
+   "subject": "sky",
+   "action": "place a light touch of blue in the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "least little touch of blue",
+   "motion": "light touches",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "transparent color sparkles over the liquid clear",
+   "new": ""
+  },
+  {
+   "t": "01:27",
+   "subject": "sky",
+   "action": "add crimson into the lower sky with light touches",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "crimson tapped into bristles",
+   "motion": "caressing strokes",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "let colors meet on their own instead of overblending",
+   "new": ""
+  },
+  {
+   "t": "01:52",
+   "subject": "sky",
+   "action": "warm the sky with dark sienna",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "dark sienna"
+   ],
+   "load": "dark sienna tapped onto brush",
+   "motion": "placing touches",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "warm tones warm the sky up",
+   "new": ""
+  },
+  {
+   "t": "02:20",
+   "subject": "sky",
+   "action": "mix blue and crimson for a sky tone",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "blue and crimson mixed, more crimson",
+   "motion": "placing bits",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "blue is much stronger so use more crimson",
+   "new": ""
+  },
+  {
+   "t": "03:09",
+   "subject": "sky",
+   "action": "darken the top of the sky with the mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "same mix, a bit darker",
+   "motion": "placing touches",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "variation keeps the sky from looking too light",
+   "new": ""
+  },
+  {
+   "t": "03:33",
+   "subject": "sky",
+   "action": "add opaque white touches to the sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white on brush",
+   "motion": "light blending",
+   "pressure": "light",
+   "where": "sky near the dark area",
+   "rule": "don't overwork so transparent areas stay",
+   "new": ""
+  },
+  {
+   "t": "05:06",
+   "subject": "far trees",
+   "action": "tap small tree shapes in the background",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "phthalo blue",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark mix tapped into bristles",
+   "motion": "tapping from base upward",
+   "pressure": "firm",
+   "where": "background",
+   "rule": "tapping upward keeps the bottoms darker",
+   "new": ""
+  },
+  {
+   "t": "05:59",
+   "subject": "far trees",
+   "action": "add more dark sienna for warmth",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "dark sienna"
+   ],
+   "load": "dark sienna added to mix",
+   "motion": "tapping",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "warmth keeps a winter scene from feeling too cold",
+   "new": ""
+  },
+  {
+   "t": "06:46",
+   "subject": "mist",
+   "action": "tap mist at the base of the trees",
+   "tool": "2in",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tapping then lifting upward",
+   "pressure": "hard",
+   "where": "base of the trees",
+   "rule": "mist only at the base, not up the trees",
+   "new": ""
+  },
+  {
+   "t": "07:33",
+   "subject": "snow",
+   "action": "pull white snow across the base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on brush",
+   "motion": "pulling",
+   "pressure": "unknown",
+   "where": "middle of the field",
+   "rule": "pulled snow picks up tree color so it reads as shadow",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "far trees",
+   "action": "add a bushy layer of trees with brown and sienna",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna mixed on round",
+   "motion": "bushy shapes pushed outward",
+   "pressure": "unknown",
+   "where": "middle distance",
+   "rule": "each layer adds depth and planes",
+   "new": ""
+  },
+  {
+   "t": "09:08",
+   "subject": "snow",
+   "action": "lay snow under the trees",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on round",
+   "motion": "pulling",
+   "pressure": "unknown",
+   "where": "under the trees",
+   "rule": "snow behind the trees creates separate planes",
+   "new": ""
+  },
+  {
+   "t": "10:18",
+   "subject": "trunk/limbs",
+   "action": "scrape twig marks into the snow with knife tip",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "scraping",
+   "pressure": "unknown",
+   "where": "back in the snow field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:42",
+   "subject": "snow",
+   "action": "pull dark color down into the snow edges",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "white added, then dark pulled in",
+   "motion": "pulling down",
+   "pressure": "unknown",
+   "where": "edges of the snow",
+   "rule": "dark pulled into the snow makes recesses",
+   "new": ""
+  },
+  {
+   "t": "11:39",
+   "subject": "far trees",
+   "action": "paint thin brown trees with a liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned to ink",
+   "motion": "pulling thin strokes",
+   "pressure": "light",
+   "where": "back of the field",
+   "rule": "thinned paint keeps a sharp point",
+   "new": ""
+  },
+  {
+   "t": "12:56",
+   "subject": "trunk/limbs",
+   "action": "add limbs to the thin trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "more thinner added",
+   "motion": "small limb strokes",
+   "pressure": "light",
+   "where": "tree in the field",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:43",
+   "subject": "snow",
+   "action": "blend the tree base into the snow with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid clear"
+   ],
+   "load": "liquid clear added to the brush",
+   "motion": "blending",
+   "pressure": "unknown",
+   "where": "base of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:08",
+   "subject": "rock",
+   "action": "add a stone bump under the snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan",
+   "motion": "dropping in a bump",
+   "pressure": "unknown",
+   "where": "under the snow",
+   "rule": "liquid clear dries with a glazed sheen",
+   "new": ""
+  },
+  {
+   "t": "14:34",
+   "subject": "structure",
+   "action": "scrape out a basic barn shape with the knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "scraping basic shape",
+   "pressure": "unknown",
+   "where": "back of the field",
+   "rule": "scraping sets the perspective and removes extra paint",
+   "new": ""
+  },
+  {
+   "t": "14:58",
+   "subject": "structure",
+   "action": "outline the barn in white",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "outlining then bringing paint in",
+   "pressure": "unknown",
+   "where": "barn outline",
+   "rule": "outlining first gives a smooth edge",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "structure",
+   "action": "add brown boards with the knife edge",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix pulled flat, rolled on knife edge",
+   "motion": "pulling board marks",
+   "pressure": "unknown",
+   "where": "barn walls",
+   "rule": "white touches in the overhang read as boards",
+   "new": ""
+  },
+  {
+   "t": "16:32",
+   "subject": "structure",
+   "action": "add white shed roof",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on knife",
+   "motion": "pulling out",
+   "pressure": "unknown",
+   "where": "beside the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:06",
+   "subject": "snow",
+   "action": "pull a snow bank along the barn base",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "sienna and white mixed, rolled on knife",
+   "motion": "cleaning the bottom edge",
+   "pressure": "unknown",
+   "where": "bottom of the barn",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:29",
+   "subject": "structure",
+   "action": "add weathered board marks and darken one side",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "small sideways pulls",
+   "pressure": "light",
+   "where": "barn walls",
+   "rule": "the barn is old and worn from winter",
+   "new": ""
+  },
+  {
+   "t": "17:58",
+   "subject": "structure",
+   "action": "paint a door in the barn",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on knife",
+   "motion": "pulling straight down",
+   "pressure": "unknown",
+   "where": "barn front",
+   "rule": "a door gives a way in",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "structure",
+   "action": "firm up door edges with white and dark",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white and dark touches",
+   "motion": "touching edges",
+   "pressure": "light",
+   "where": "door edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:48",
+   "subject": "snow",
+   "action": "pull snow down with clear and white on fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "clear and white loaded full on fan",
+   "motion": "bringing snow down",
+   "pressure": "unknown",
+   "where": "snow by the barn",
+   "rule": "picking up dark gives the shadow side",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "fence",
+   "action": "paint a distant fence with thinned brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with thinner",
+   "motion": "rails running across and shrinking",
+   "pressure": "light",
+   "where": "across the field",
+   "rule": "rails get smaller to show distance",
+   "new": ""
+  },
+  {
+   "t": "20:29",
+   "subject": "bush",
+   "action": "paint dead bushes poking through the snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown and sienna on fan",
+   "motion": "pushing upward",
+   "pressure": "unknown",
+   "where": "snow patches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:28",
+   "subject": "grass",
+   "action": "blend grass bottoms with clear and white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "titanium white"
+   ],
+   "load": "clear and white on fan",
+   "motion": "blending out",
+   "pressure": "unknown",
+   "where": "bottoms of the grass patches",
+   "rule": "blending ties the grass into the scene",
+   "new": ""
+  },
+  {
+   "t": "22:30",
+   "subject": "leaf tree",
+   "action": "paint a small tree on the left with brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown loaded full on liner",
+   "motion": "trunk and limb strokes",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:23",
+   "subject": "trunk/limbs",
+   "action": "add arms to the closer tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "more thinner",
+   "motion": "limb strokes",
+   "pressure": "light",
+   "where": "closer tree",
+   "rule": "birds need places to perch",
+   "new": ""
+  },
+  {
+   "t": "23:48",
+   "subject": "leaf tree",
+   "action": "drop in a big tree with brown",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "full fan load",
+   "motion": "dropping in",
+   "pressure": "unknown",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "trunk/limbs",
+   "action": "paint birch limbs with thin brown",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned heavily",
+   "motion": "flowing limb strokes",
+   "pressure": "light",
+   "where": "birch tree",
+   "rule": "limbs crossing the trunk add dimension",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "bush",
+   "action": "add small dabs in the middle",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "a little thinner",
+   "motion": "small dabs",
+   "pressure": "light",
+   "where": "middle of the canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:13",
+   "subject": "other: signature",
+   "action": "sign the painting with red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "red"
+   ],
+   "load": "a little red on brush",
+   "motion": "signing",
+   "pressure": "unknown",
+   "where": "corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,718 @@
+{
+ "ep": "S29E08",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "indian yellow",
+  "phthalo blue",
+  "prussian blue",
+  "alizarin crimson",
+  "titanium white",
+  "midnight black",
+  "sap green",
+  "cad yellow",
+  "liquid white",
+  "bright red",
+  "dark sienna",
+  "van dyke brown"
+ ],
+ "steps": [
+  {
+   "t": "01:10",
+   "subject": "sky",
+   "action": "small yellow glow in sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "small amount on brush",
+   "motion": "quick small touches",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:33",
+   "subject": "sky",
+   "action": "blend blue into the yellow edge",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "blue on brush after washing",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "edge of yellow area",
+   "rule": "wash between colors so the sky stays blue",
+   "new": ""
+  },
+  {
+   "t": "02:43",
+   "subject": "cloud",
+   "action": "pull stringy cloud to break up the blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "blue on brush",
+   "motion": "pull a little",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "breaks the blue up into a cloud",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "sky",
+   "action": "pull dark blue toward the open gap",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "prussian blue"
+   ],
+   "load": "darker blue mixed on brush",
+   "motion": "pull from outside inward",
+   "pressure": "light",
+   "where": "sky above water gap",
+   "rule": "leave open area so light shows across the water",
+   "new": ""
+  },
+  {
+   "t": "03:27",
+   "subject": "sky",
+   "action": "blend whole sky with clean brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "soft broad strokes",
+   "pressure": "light",
+   "where": "whole sky",
+   "rule": "starting and going over leaves a hard line",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "other: lavender shapes",
+   "action": "dab lavender shapes in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on palette",
+   "motion": "drop in shapes",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:00",
+   "subject": "mountain",
+   "action": "pull distant mountain shape",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull and let it blend out",
+   "pressure": "light",
+   "where": "mid canvas",
+   "rule": "color underneath makes highlights and shadows",
+   "new": ""
+  },
+  {
+   "t": "05:51",
+   "subject": "mountain",
+   "action": "add phthalo blue and touch-pull a hill",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "added to same color on brush",
+   "motion": "touch and pull downward",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "mist forms at base when color blends under it",
+   "new": ""
+  },
+  {
+   "t": "06:39",
+   "subject": "mist",
+   "action": "tap clean brush to make base mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap firmly then lift upward",
+   "pressure": "firm",
+   "where": "base of mountains",
+   "rule": "adds mist at the base",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "mountain",
+   "action": "darker closer hills by tapping",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "mixed on brush",
+   "motion": "tap and pull downward",
+   "pressure": "light",
+   "where": "lower mid canvas",
+   "rule": "closer hills are darker",
+   "new": ""
+  },
+  {
+   "t": "07:46",
+   "subject": "mist",
+   "action": "tap clean brush for more base mist",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "tap with light pressure",
+   "pressure": "light",
+   "where": "lower base of hills",
+   "rule": "creates mist at the base of the hills",
+   "new": ""
+  },
+  {
+   "t": "08:13",
+   "subject": "mountain",
+   "action": "block in another dark layer",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "dark mix on brush",
+   "motion": "stroke over existing paint",
+   "pressure": "medium",
+   "where": "mid canvas",
+   "rule": "painting over gives brush feel practice",
+   "new": ""
+  },
+  {
+   "t": "09:23",
+   "subject": "reflection",
+   "action": "drop dark strokes straight down then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue"
+   ],
+   "load": "cleaner brush loaded with dark mix",
+   "motion": "pull straight down then across",
+   "pressure": "light",
+   "where": "water area below",
+   "rule": "straight strokes are most important for reflections",
+   "new": ""
+  },
+  {
+   "t": "09:52",
+   "subject": "grass",
+   "action": "grassy area over dark base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green"
+   ],
+   "load": "same brush with sap green added",
+   "motion": "dab and push",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "dark underneath lets the light show",
+   "new": ""
+  },
+  {
+   "t": "10:38",
+   "subject": "grass",
+   "action": "brighten grass with a touch of liquid white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "least touch on brush",
+   "motion": "light stroke",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "brightens it a little more",
+   "new": ""
+  },
+  {
+   "t": "11:00",
+   "subject": "land",
+   "action": "dirt patches in marbled gray",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "gray mix cut as small roll",
+   "motion": "barely graze the canvas",
+   "pressure": "whisper",
+   "where": "lower middle",
+   "rule": "keep it marbled so it reads as dirt",
+   "new": ""
+  },
+  {
+   "t": "11:49",
+   "subject": "grass",
+   "action": "thin grassy strokes with bright red",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black",
+    "titanium white",
+    "dark sienna",
+    "bright red"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small grassy strokes",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "thinning lets the strokes spread",
+   "new": ""
+  },
+  {
+   "t": "12:38",
+   "subject": "leaf tree",
+   "action": "dark tree mass with corner of big brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "heavy mix shaken to a sharp edge",
+   "motion": "touch corner and dab tree shapes",
+   "pressure": "light",
+   "where": "right of center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:13",
+   "subject": "leaf tree",
+   "action": "second tree on the other side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "same dark mix on brush",
+   "motion": "touch and push",
+   "pressure": "light",
+   "where": "other side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "trunk/limbs",
+   "action": "small gray tree trunk",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "titanium white"
+   ],
+   "load": "gray mix on brush",
+   "motion": "small upright marks",
+   "pressure": "light",
+   "where": "tree area",
+   "rule": "a few indications so the trunk is not left out",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "evergreen",
+   "action": "highlights on evergreen trees with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "fan loaded with mixed greens",
+   "motion": "tap highlights along top",
+   "pressure": "light",
+   "where": "upper evergreen area",
+   "rule": "keep the dark showing so highlights read",
+   "new": ""
+  },
+  {
+   "t": "15:55",
+   "subject": "evergreen",
+   "action": "pick out little trees with corner of 1in",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "mixed greens on brush",
+   "motion": "dab upward",
+   "pressure": "light",
+   "where": "left side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:18",
+   "subject": "leaf tree",
+   "action": "big tree on the other side with limbs",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "same mix on brush",
+   "motion": "pick out limbs one part at a time",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "think about limbs so the tree looks believable",
+   "new": ""
+  },
+  {
+   "t": "16:42",
+   "subject": "bush",
+   "action": "a few little bushes",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "same mix on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "middle area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:04",
+   "subject": "leaf tree",
+   "action": "bright tree with a frosted look",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "liquid white",
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "light dabs",
+   "pressure": "light",
+   "where": "upper middle",
+   "rule": "frost gives the tree a bright snowy look",
+   "new": ""
+  },
+  {
+   "t": "17:27",
+   "subject": "leaf tree",
+   "action": "bright tree on the other side",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "mixed on brush",
+   "motion": "push up in dabs",
+   "pressure": "light",
+   "where": "other side",
+   "rule": "balances the bright look on both sides",
+   "new": ""
+  },
+  {
+   "t": "18:16",
+   "subject": "structure",
+   "action": "small cabin body and back eave",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix on brush",
+   "motion": "quick strokes for eave and roof",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "a simple cabin is easy to do",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "structure",
+   "action": "fill cabin body with browns",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "same brown mix",
+   "motion": "chugging strokes",
+   "pressure": "light",
+   "where": "cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "bush",
+   "action": "bushes over the cabin",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "sienna and white mixed on brush",
+   "motion": "dab indications",
+   "pressure": "light",
+   "where": "over cabin",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "structure",
+   "action": "red roof on cabin",
+   "tool": "1in",
+   "part": "edge",
+   "paint": [
+    "bright red"
+   ],
+   "load": "small amount on brush",
+   "motion": "tap roof",
+   "pressure": "light",
+   "where": "cabin roof",
+   "rule": "red is already in the painting so add some here",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "structure",
+   "action": "dark boards and door lines",
+   "tool": "1in",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "dark mix on brush",
+   "motion": "cut lines through",
+   "pressure": "medium",
+   "where": "cabin wall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:27",
+   "subject": "structure",
+   "action": "light touches around cabin edges",
+   "tool": "1in",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount on brush",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "cabin edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:49",
+   "subject": "bush",
+   "action": "small bush in greens",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "greens on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "right low area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:10",
+   "subject": "land",
+   "action": "little land mass",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull and push land shape",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:33",
+   "subject": "bush",
+   "action": "another little bush",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "greens on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "right low area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:56",
+   "subject": "reflection",
+   "action": "darker reflections pulled down then across",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "liquid white"
+   ],
+   "load": "dark mix thinned with liquid white",
+   "motion": "pull straight down then gently across",
+   "pressure": "light",
+   "where": "water below bush",
+   "rule": "gives the water a watery feel",
+   "new": ""
+  },
+  {
+   "t": "21:22",
+   "subject": "bush",
+   "action": "small bushes at water edge",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "greens on brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:48",
+   "subject": "land",
+   "action": "land area curving around",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull around in a curve",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:12",
+   "subject": "trunk/limbs",
+   "action": "scratch little sticks and twigs",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "same knife",
+   "motion": "scratch lines",
+   "pressure": "light",
+   "where": "various spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:37",
+   "subject": "water line",
+   "action": "liquid white water line cut across",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white pulled flat on knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "lower middle",
+   "rule": "keeps the water line light so only the edges are cleaned up",
+   "new": ""
+  },
+  {
+   "t": "23:05",
+   "subject": "water",
+   "action": "ripples kept straight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "small straight strokes",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "straight lines keep the water from looking like it runs off",
+   "new": ""
+  },
+  {
+   "t": "23:52",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "bright red"
+   ],
+   "load": "paint thinner added to liner",
+   "motion": "short strokes",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "painting is finished so sign it",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

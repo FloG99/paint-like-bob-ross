@@ -1,0 +1,534 @@
+{
+ "ep": "S14E04",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "dark sienna",
+  "yellow ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "sky",
+   "action": "bounce sky patches, leave gaps",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "tiny phthalo blue, touch of black",
+   "motion": "bounce and tap",
+   "pressure": "light",
+   "where": "upper sky, gaps left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "land",
+   "action": "snow shadows from leftover blue and black",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "wipe brush, use leftover colors",
+   "motion": "wipe and drag",
+   "pressure": "light",
+   "where": "lower canvas, snow area",
+   "rule": "liquid white underneath lets color blend easily",
+   "new": ""
+  },
+  {
+   "t": "03:14",
+   "subject": "sky",
+   "action": "clean dry brush blends sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gently pick up and smooth",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:54",
+   "subject": "cloud",
+   "action": "tap individual clouds from sky color",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "pick up sky color",
+   "motion": "tap on, then blend",
+   "pressure": "light",
+   "where": "sky, scattered clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:31",
+   "subject": "far trees",
+   "action": "faint far-off tree line",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "work color into bristles",
+   "motion": "tap and drag",
+   "pressure": "whisper",
+   "where": "far back horizon",
+   "rule": "far things should fade into nothing",
+   "new": ""
+  },
+  {
+   "t": "05:08",
+   "subject": "land",
+   "action": "pull white snow across ground",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "plain white on brush",
+   "motion": "pull across, blend",
+   "pressure": "medium",
+   "where": "lower canvas, snow zone",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:22",
+   "subject": "bush",
+   "action": "tap dark bush masses with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "phthalo blue",
+    "alizarin crimson"
+   ],
+   "load": "tap color into bristles",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "bottom edges, left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:01",
+   "subject": "leaf tree",
+   "action": "tap taller tree with brush corner",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "same brush",
+   "motion": "tap upward from base",
+   "pressure": "firm",
+   "where": "tree on left, bigger",
+   "rule": "darkest color stays at the bottom",
+   "new": ""
+  },
+  {
+   "t": "07:42",
+   "subject": "land",
+   "action": "darker ground layer sloping down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna",
+    "phthalo blue"
+   ],
+   "load": "add more color to brush",
+   "motion": "pull down the slope",
+   "pressure": "medium",
+   "where": "lower land across canvas",
+   "rule": "land slopes downward for the scene",
+   "new": ""
+  },
+  {
+   "t": "08:21",
+   "subject": "leaf tree",
+   "action": "second big tree, right side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "same brush",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "other side, big tree",
+   "rule": "birds need limbs to sit on",
+   "new": ""
+  },
+  {
+   "t": "08:59",
+   "subject": "leaf tree",
+   "action": "touch of yellow ochre on limbs",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "least touch on brush",
+   "motion": "tap on limbs",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "adds lightness to the limbs",
+   "new": ""
+  },
+  {
+   "t": "09:35",
+   "subject": "leaf tree",
+   "action": "closing big tree on right side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "mix dark tones",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "right side",
+   "rule": "closing the edge ties the scene together",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "leaf tree",
+   "action": "more yellow ochre on limbs",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "add to brush",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree limbs",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:49",
+   "subject": "leaf tree",
+   "action": "dark base color on tree masses",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "add more black and brown",
+   "motion": "tap",
+   "pressure": "firm",
+   "where": "tree masses",
+   "rule": "a dark base makes the light colors show",
+   "new": ""
+  },
+  {
+   "t": "11:28",
+   "subject": "trunk/limbs",
+   "action": "thin trunks with liner",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thin with thinner until ink-like",
+   "motion": "pull and place sticks",
+   "pressure": "light",
+   "where": "scattered, tree bases",
+   "rule": "trunks keep the trees from falling over",
+   "new": ""
+  },
+  {
+   "t": "12:05",
+   "subject": "trunk/limbs",
+   "action": "tree trunks and arms with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load both sides of fan",
+   "motion": "push up, arm out",
+   "pressure": "firm",
+   "where": "big tree trunks, left and right",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:01",
+   "subject": "land",
+   "action": "pull snow edge across, pick up shadow",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least touch on brush",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "snow edge, across canvas",
+   "rule": "picks up dark color for snow shadows",
+   "new": ""
+  },
+  {
+   "t": "14:41",
+   "subject": "snow",
+   "action": "snow-covered highlights on trees",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white, then titanium, touch of crimson",
+   "motion": "tap on",
+   "pressure": "light",
+   "where": "up in trees",
+   "rule": "thin paint sticks to thick paint, so liquid white thins it",
+   "new": ""
+  },
+  {
+   "t": "16:37",
+   "subject": "bush",
+   "action": "crimson highlights on bushes",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "touch more crimson on brush",
+   "motion": "tap and push",
+   "pressure": "light",
+   "where": "bushes on tree",
+   "rule": "crimson keeps each bush distinct",
+   "new": ""
+  },
+  {
+   "t": "17:15",
+   "subject": "leaf tree",
+   "action": "sparkle highlights on small tree",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "liquid white on brush, then crimson",
+   "motion": "tap onto tree",
+   "pressure": "light",
+   "where": "small tree",
+   "rule": "highlight lets the tree sparkle",
+   "new": ""
+  },
+  {
+   "t": "17:54",
+   "subject": "bush",
+   "action": "highlight on another bush, right side",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "drop highlight in",
+   "pressure": "light",
+   "where": "right side, lower bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:35",
+   "subject": "bush",
+   "action": "drop highlights on bush edges",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "bush edges",
+   "rule": "keep dark areas so the tree is not flat",
+   "new": ""
+  },
+  {
+   "t": "19:51",
+   "subject": "path",
+   "action": "faint path dip in snow",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "a little white with the tiniest blue",
+   "motion": "pull across lightly",
+   "pressure": "whisper",
+   "where": "path through snow",
+   "rule": "a touch of blue makes a shadow dip",
+   "new": ""
+  },
+  {
+   "t": "20:28",
+   "subject": "water",
+   "action": "lake base in dark color, pull straight down",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "add blue and brown to dark",
+   "motion": "pull straight down, then across",
+   "pressure": "light",
+   "where": "pond, center",
+   "rule": "straight pulls make the water look right",
+   "new": ""
+  },
+  {
+   "t": "21:08",
+   "subject": "snow",
+   "action": "small snow-covered spots at water edge",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "light white on fan",
+   "motion": "tap and drip",
+   "pressure": "light",
+   "where": "water edge, near shore",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "rock",
+   "action": "stone sticking out of water",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "touch of brown on fan",
+   "motion": "touch and shape",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "water",
+   "action": "clean bottom edge with fan, colder look",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "none",
+   "motion": "pull barely grazing across",
+   "pressure": "whisper",
+   "where": "bottom of water area",
+   "rule": "makes the water look colder",
+   "new": ""
+  },
+  {
+   "t": "22:27",
+   "subject": "trunk/limbs",
+   "action": "touch of brown on tree trunks",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on liner",
+   "motion": "draw trunks",
+   "pressure": "light",
+   "where": "tree trunks, left",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:07",
+   "subject": "trunk/limbs",
+   "action": "light edge on one trunk side",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "light brown on liner",
+   "motion": "tap on one side",
+   "pressure": "light",
+   "where": "tree trunk, lit side",
+   "rule": "sunlight strikes one edge of the trunk",
+   "new": ""
+  },
+  {
+   "t": "23:47",
+   "subject": "trunk/limbs",
+   "action": "twigs and sticks showing depth",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on liner",
+   "motion": "draw short strokes",
+   "pressure": "light",
+   "where": "back and forth sides",
+   "rule": "twigs show planes and depth",
+   "new": ""
+  },
+  {
+   "t": "25:44",
+   "subject": "other: signature",
+   "action": "sign with thin red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "thin red on brush",
+   "motion": "write",
+   "pressure": "light",
+   "where": "lower corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

@@ -1,0 +1,643 @@
+{
+ "ep": "S04E13",
+ "base": "dry canvas",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "burnt umber",
+  "phthalo blue",
+  "titanium white",
+  "van dyke brown",
+  "prussian blue",
+  "alizarin crimson",
+  "sap green",
+  "yellow ochre",
+  "cad yellow",
+  "indian yellow"
+ ],
+ "steps": [
+  {
+   "t": "00:00",
+   "subject": "other: background wash",
+   "action": "burnt umber wash",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "burnt umber"
+   ],
+   "load": "thinned with thinner",
+   "motion": "wash across canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:47",
+   "subject": "other: background wash",
+   "action": "phthalo blue wash",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "thinned on brush",
+   "motion": "wash across canvas",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:37",
+   "subject": "cloud",
+   "action": "knife cloud shapes in titanium white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a lot of paint",
+   "motion": "float shapes with the knife",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "the knife picks up the color underneath",
+   "new": ""
+  },
+  {
+   "t": "02:50",
+   "subject": "cloud",
+   "action": "rub cloud bottoms to blend",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "rub",
+   "pressure": "light",
+   "where": "bottom of clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:38",
+   "subject": "mountain",
+   "action": "block in dark mountain shape",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "mixed on palette",
+   "motion": "drop in",
+   "pressure": "unknown",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:23",
+   "subject": "mountain",
+   "action": "rub mountain lighter toward horizon",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "rub and pick up color beneath",
+   "pressure": "light",
+   "where": "mountain lower half",
+   "rule": "rubbing lightens the mountain toward the horizon",
+   "new": ""
+  },
+  {
+   "t": "04:49",
+   "subject": "mountain",
+   "action": "highlights with a warm tint",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "a very small amount",
+   "motion": "lay in along peak",
+   "pressure": "light",
+   "where": "upper mountain",
+   "rule": "a little warmth makes it easier to see at home",
+   "new": ""
+  },
+  {
+   "t": "05:58",
+   "subject": "mountain",
+   "action": "shadow dabs on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "small amount",
+   "motion": "dab a few shadows",
+   "pressure": "light",
+   "where": "scattered on mountain",
+   "rule": "keeps the dark showing",
+   "new": ""
+  },
+  {
+   "t": "06:51",
+   "subject": "mountain",
+   "action": "blend mountain for misty look",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend",
+   "pressure": "firm",
+   "where": "mountain",
+   "rule": "blending makes it look misty",
+   "new": ""
+  },
+  {
+   "t": "07:20",
+   "subject": "mountain",
+   "action": "foothill mix and drop-in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mixed on palette",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "back of canvas, foothill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:07",
+   "subject": "mountain",
+   "action": "soft bottom of foothill",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "soft blend at bottom",
+   "pressure": "light",
+   "where": "bottom of foothill",
+   "rule": "the misty bottom separates everything",
+   "new": ""
+  },
+  {
+   "t": "08:30",
+   "subject": "mountain",
+   "action": "darker closer hills",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "sap green",
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "push up and down",
+   "pressure": "light",
+   "where": "right side of hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mist",
+   "action": "white mist at bottom",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "carried over",
+   "motion": "lay across bottom",
+   "pressure": "light",
+   "where": "bottom of hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:57",
+   "subject": "mountain",
+   "action": "tiny cad yellow on far hills",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "tiniest amount on knife",
+   "motion": "tiny touches here and there",
+   "pressure": "light",
+   "where": "far hills",
+   "rule": "closer things show more color",
+   "new": ""
+  },
+  {
+   "t": "09:24",
+   "subject": "mountain",
+   "action": "darker brown for closer hill",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay in",
+   "pressure": "light",
+   "where": "closer hill",
+   "rule": "closer things get darker",
+   "new": ""
+  },
+  {
+   "t": "10:41",
+   "subject": "mountain",
+   "action": "rub hills smooth",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "rub back and forth",
+   "pressure": "firm",
+   "where": "hills",
+   "rule": "rubbing makes it smooth",
+   "new": ""
+  },
+  {
+   "t": "11:03",
+   "subject": "mountain",
+   "action": "lighten hill with white",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:36",
+   "subject": "mountain",
+   "action": "blue and brown layer",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "carried over",
+   "motion": "lay another layer",
+   "pressure": "light",
+   "where": "hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:58",
+   "subject": "grass",
+   "action": "dull green from yellow ochre and phthalo blue",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "yellow ochre",
+    "phthalo blue"
+   ],
+   "load": "mixed on knife",
+   "motion": "mix and lay in",
+   "pressure": "light",
+   "where": "middle grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:13",
+   "subject": "reflection",
+   "action": "rub dark into water area",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white",
+    "sap green"
+   ],
+   "load": "mixed on palette",
+   "motion": "rub in",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "dark is needed to show the reflection",
+   "new": ""
+  },
+  {
+   "t": "14:00",
+   "subject": "reflection",
+   "action": "pinkish glow spots",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "mixed on knife",
+   "motion": "lay here and there",
+   "pressure": "light",
+   "where": "dark water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:53",
+   "subject": "water",
+   "action": "straight water lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "mixed on knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "straight lines make it look like water",
+   "new": ""
+  },
+  {
+   "t": "16:34",
+   "subject": "land",
+   "action": "land edge into water",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "on knife",
+   "motion": "touch small areas",
+   "pressure": "light",
+   "where": "where land meets water",
+   "rule": "it separates everything",
+   "new": ""
+  },
+  {
+   "t": "16:57",
+   "subject": "bush",
+   "action": "small yellow bushes",
+   "tool": "knife",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cad yellow",
+    "indian yellow"
+   ],
+   "load": "mixed on knife",
+   "motion": "touch",
+   "pressure": "light",
+   "where": "along the shore line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:24",
+   "subject": "land",
+   "action": "peninsula basic shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "on knife",
+   "motion": "lay in basic shape",
+   "pressure": "unknown",
+   "where": "right side peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:59",
+   "subject": "reflection",
+   "action": "reflection under land",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "on knife",
+   "motion": "go across",
+   "pressure": "light",
+   "where": "under the land",
+   "rule": "a reflection sets the land down into the water",
+   "new": ""
+  },
+  {
+   "t": "18:23",
+   "subject": "evergreen",
+   "action": "dark evergreen tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "dark colors from palette",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "right corner",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:47",
+   "subject": "evergreen",
+   "action": "another tree closing the corner",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "corner",
+   "rule": "a tree closes this corner well",
+   "new": ""
+  },
+  {
+   "t": "19:38",
+   "subject": "other: dark fill",
+   "action": "fill rest of canvas with dark color",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "van dyke brown",
+    "prussian blue",
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "carried over",
+   "motion": "rub in dark",
+   "pressure": "light",
+   "where": "rest of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:43",
+   "subject": "other: rubbed haze",
+   "action": "rub white in lightly",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a small amount",
+   "motion": "rub in",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:04",
+   "subject": "leaf tree",
+   "action": "dark front foliage with small highlight",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "a little on knife",
+   "motion": "rub and dab",
+   "pressure": "light",
+   "where": "right side of tree",
+   "rule": "a dark base lets a small highlight stand out",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "grass",
+   "action": "grassy yellow dabs",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "yellow ochre",
+    "indian yellow",
+    "cad yellow"
+   ],
+   "load": "mixed on knife",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "down the hills",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:08",
+   "subject": "bush",
+   "action": "small bushes on far side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "far side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:38",
+   "subject": "other: blend",
+   "action": "rub to blend and darken",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [],
+   "load": "carried over",
+   "motion": "rub together",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:03",
+   "subject": "water line",
+   "action": "clean edge into water line",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "cut small line",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:41",
+   "subject": "trunk/limbs",
+   "action": "twig in dark back area",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "leftover light color on knife",
+   "motion": "drop in and give arm",
+   "pressure": "light",
+   "where": "dark back area",
+   "rule": "a quiet subdued twig hides in the dark",
+   "new": ""
+  },
+  {
+   "t": "25:08",
+   "subject": "trunk/limbs",
+   "action": "highlight twig and blend it in",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "phthalo blue"
+   ],
+   "load": "carried over",
+   "motion": "touch highlight then blend",
+   "pressure": "light",
+   "where": "twig",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:30",
+   "subject": "trunk/limbs",
+   "action": "blend twig into the dark",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "carried over",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "twig",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

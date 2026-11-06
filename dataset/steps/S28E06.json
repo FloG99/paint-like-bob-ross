@@ -1,0 +1,657 @@
+{
+ "ep": "S28E06",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid white",
+  "phthalo blue",
+  "prussian blue",
+  "midnight black",
+  "titanium white",
+  "alizarin crimson",
+  "brown",
+  "indian yellow",
+  "bright red",
+  "cad yellow",
+  "yellow ochre",
+  "sap green",
+  "dark sienna"
+ ],
+ "steps": [
+  {
+   "t": "00:27",
+   "subject": "sky",
+   "action": "criss-cross blue sky strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount on the brush",
+   "motion": "criss-cross X strokes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:21",
+   "subject": "sky",
+   "action": "darken the sky corners",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "a little on the brush",
+   "motion": "dab into the corners",
+   "pressure": "unknown",
+   "where": "corners of the sky",
+   "rule": "darker corners pull the eye toward the center",
+   "new": ""
+  },
+  {
+   "t": "02:10",
+   "subject": "cloud",
+   "action": "tap in a basic cloud shape",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tap brush into the paint",
+   "motion": "tap a basic shape",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "tapping is the easiest way to get a big cloud",
+   "new": ""
+  },
+  {
+   "t": "02:57",
+   "subject": "cloud",
+   "action": "blend cloud edges lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "same brush",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "edges of the cloud",
+   "rule": "blending removes the tap marks",
+   "new": ""
+  },
+  {
+   "t": "03:49",
+   "subject": "rock",
+   "action": "block in a big rock shape",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "roll of paint on the knife edge",
+   "motion": "basic rock shape",
+   "pressure": "light",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:13",
+   "subject": "rock",
+   "action": "block in a second rock",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "roll of paint on the knife edge",
+   "motion": "basic rock shape",
+   "pressure": "light",
+   "where": "right of the first rock",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:37",
+   "subject": "rock",
+   "action": "shadow marks in the rocks",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "roll of paint on the knife edge",
+   "motion": "barely touch the canvas",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:25",
+   "subject": "snow",
+   "action": "pull white glacier down the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load lots of paint into the bristles",
+   "motion": "wiggle and pull to a sharp edge",
+   "pressure": "unknown",
+   "where": "upper mountain",
+   "rule": "wiggling brings the paint to a sharp edge",
+   "new": ""
+  },
+  {
+   "t": "06:42",
+   "subject": "mountain",
+   "action": "grey shadow side of the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "mix a grey from white and a little black",
+   "motion": "straight stroke down the side",
+   "pressure": "light",
+   "where": "left side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:58",
+   "subject": "mountain",
+   "action": "white ridge edge with a sheer drop",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "back to white on the brush",
+   "motion": "long drop along the ridge",
+   "pressure": "unknown",
+   "where": "ridge edge",
+   "rule": "the angle makes the ridge look like it bends toward the viewer",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "rock",
+   "action": "black rock shape inside the mountain",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "back to black",
+   "motion": "basic rock shapes",
+   "pressure": "unknown",
+   "where": "middle of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:14",
+   "subject": "rock",
+   "action": "blend rock edges with the small knife",
+   "tool": "small knife",
+   "part": "tip",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "knife picks up paint",
+   "motion": "blend and wipe the knife off",
+   "pressure": "light",
+   "where": "tight spots around the rocks",
+   "rule": "small knife reaches the tight spots",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "mountain",
+   "action": "bring the area together with white",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white on the knife",
+   "motion": "smooth strokes",
+   "pressure": "light",
+   "where": "middle of mountain",
+   "rule": "brings the area together better",
+   "new": ""
+  },
+  {
+   "t": "10:27",
+   "subject": "mountain",
+   "action": "smooth edges with the blender brush",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "soft blender strokes",
+   "motion": "very gentle",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "rock",
+   "action": "shadow marks on the rocks",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "prussian blue"
+   ],
+   "load": "back to prussian blue",
+   "motion": "dab a few shadow marks",
+   "pressure": "light",
+   "where": "rock area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:20",
+   "subject": "snow",
+   "action": "snow in the recessed area and down the side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "prussian blue"
+   ],
+   "load": "picks up some dark paint on the brush",
+   "motion": "pull snow down and over the side",
+   "pressure": "unknown",
+   "where": "upper mountain",
+   "rule": "picking up dark paint makes shadows in the snow",
+   "new": ""
+  },
+  {
+   "t": "12:31",
+   "subject": "snow",
+   "action": "blend the snow with the blender brush",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soft blender strokes",
+   "pressure": "unknown",
+   "where": "snow area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:53",
+   "subject": "snow",
+   "action": "pure white edge along the snow",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pure white on the brush",
+   "motion": "short edge stroke",
+   "pressure": "unknown",
+   "where": "edge of the snow",
+   "rule": "white edge separates the two areas",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "rock",
+   "action": "stones under the snow",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "place stones at angles",
+   "motion": "unknown",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:42",
+   "subject": "sun/glow",
+   "action": "little sun and blend it down",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "blend downward",
+   "motion": "light",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "mist",
+   "action": "soft mist at the base",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap in soft mist",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:31",
+   "subject": "far trees",
+   "action": "background tree color and tapping",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "brown"
+   ],
+   "load": "mix a blue grey in two values and load",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "background",
+   "rule": "small background trees make the mountain look bigger",
+   "new": ""
+  },
+  {
+   "t": "16:14",
+   "subject": "mist",
+   "action": "tap mist at the base of the trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap firmly then lift gently",
+   "pressure": "firm",
+   "where": "base of background trees",
+   "rule": "lifting removes the tap marks and sends trees back",
+   "new": ""
+  },
+  {
+   "t": "17:00",
+   "subject": "far trees",
+   "action": "darker tree group and steep hill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "brown"
+   ],
+   "load": "same color a little darker",
+   "motion": "tap and let it wander",
+   "pressure": "light",
+   "where": "middle background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "mist",
+   "action": "tap and lift mist at the base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap base then lift very lightly",
+   "pressure": "light",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:51",
+   "subject": "waterfall",
+   "action": "thin white waterfall down the back",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "dip into liquid white and titanium white",
+   "motion": "stroke across then down",
+   "pressure": "light",
+   "where": "background right",
+   "rule": "liquid white thins the paint so it slides over the thick paint",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "far trees",
+   "action": "trees beside the waterfall",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "alizarin crimson",
+    "brown"
+   ],
+   "load": "same dark blue grey",
+   "motion": "tap in small trees",
+   "pressure": "light",
+   "where": "beside waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:14",
+   "subject": "mist",
+   "action": "mist beside the waterfall",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap softly",
+   "pressure": "whisper",
+   "where": "beside waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:40",
+   "subject": "water line",
+   "action": "reflection and thin water line",
+   "tool": "other: blender brush",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "touch of liquid white",
+   "motion": "pull straight down then go across",
+   "pressure": "light",
+   "where": "under waterfall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:04",
+   "subject": "evergreen",
+   "action": "dark mix for evergreen trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "alizarin crimson",
+    "brown"
+   ],
+   "load": "load a lot of the dark mix",
+   "motion": "tap up into the dark area",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:27",
+   "subject": "evergreen",
+   "action": "evergreen trees and forest",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "prussian blue",
+    "sap green",
+    "alizarin crimson",
+    "brown"
+   ],
+   "load": "add paint thinner to the brush",
+   "motion": "tap small tree shapes",
+   "pressure": "unknown",
+   "where": "back of mountain",
+   "rule": "thin paint sticks to thick paint",
+   "new": ""
+  },
+  {
+   "t": "21:23",
+   "subject": "evergreen",
+   "action": "highlight trees with green",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "pick up yellows through the dark paint",
+   "motion": "tap light highlights",
+   "pressure": "light",
+   "where": "tree tops",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:15",
+   "subject": "land",
+   "action": "tap a peninsula and reflect it",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap a little color then pull down",
+   "pressure": "light",
+   "where": "middle of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:15",
+   "subject": "grass",
+   "action": "grassy area with the yellows",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "same brush through the yellows",
+   "motion": "tap a grassy edge",
+   "pressure": "light",
+   "where": "behind the peninsula",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:41",
+   "subject": "grass",
+   "action": "small indian yellow touches and bright red",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "indian yellow",
+    "bright red"
+   ],
+   "load": "same brush",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "grass area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:41",
+   "subject": "rock",
+   "action": "dark and light stone shapes",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "brown",
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark side thinned with paint thinner and light side on the other",
+   "motion": "one stroke stone shapes",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "dark on one side and light on the other gives form",
+   "new": ""
+  },
+  {
+   "t": "23:34",
+   "subject": "water line",
+   "action": "liquid white water line around the stones",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small amount on the brush",
+   "motion": "short line around the stones",
+   "pressure": "light",
+   "where": "around stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:00",
+   "subject": "bush",
+   "action": "small bush at the bottom",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow",
+    "yellow ochre"
+   ],
+   "load": "a little green on the brush",
+   "motion": "bush shapes",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:26",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "sign with a small stroke",
+   "pressure": "unknown",
+   "where": "bottom corner",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

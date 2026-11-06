@@ -1,0 +1,669 @@
+{
+ "ep": "S03E08",
+ "base": "black canvas with a wet grey wash of phthalo green and alizarin crimson",
+ "format": "unknown",
+ "light": "moon",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "cad yellow",
+  "titanium white",
+  "black",
+  "magic white",
+  "van dyke brown",
+  "yellow ochre",
+  "sap green",
+  "permanent red"
+ ],
+ "steps": [
+  {
+   "t": "00:40",
+   "subject": "sun/glow",
+   "action": "paint glow around the lighthouse spot",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "plenty of paint",
+   "motion": "small X strokes in a circle",
+   "pressure": "light",
+   "where": "sky, lighthouse spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:56",
+   "subject": "sun/glow",
+   "action": "blend glow outward and keep a yellow center",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "crisscross blend",
+   "pressure": "light",
+   "where": "sky around glow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "moon/stars",
+   "action": "paint dark background around a white moon spot",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "black"
+   ],
+   "load": "small amount",
+   "motion": "small X strokes",
+   "pressure": "light",
+   "where": "sky, moon area",
+   "rule": "keeps the moon bright enough to stand out",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "moon/stars",
+   "action": "blend moon area lightly",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "cross strokes",
+   "pressure": "light",
+   "where": "moon area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "moon/stars",
+   "action": "finger-paint a moon circle",
+   "tool": "hand",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on finger",
+   "motion": "small circle",
+   "pressure": "unknown",
+   "where": "sky, upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:20",
+   "subject": "moon/stars",
+   "action": "blend moon gently with large brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light cross strokes",
+   "pressure": "light",
+   "where": "moon area",
+   "rule": "several paint layers are there so stay gentle",
+   "new": ""
+  },
+  {
+   "t": "04:02",
+   "subject": "cloud",
+   "action": "paint small cloud shapes with the fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small amount",
+   "motion": "drop cloud shapes",
+   "pressure": "unknown",
+   "where": "upper sky",
+   "rule": "white stands out strongly so use only a little",
+   "new": ""
+  },
+  {
+   "t": "04:38",
+   "subject": "cloud",
+   "action": "blend cloud base and fluff",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gently wind base out and fluff",
+   "pressure": "light",
+   "where": "cloud base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:17",
+   "subject": "cloud",
+   "action": "drop a second cloud with crimson in the sky",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "drop cloud shape and let it float",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "upper sky",
+   "new": "crimson in the sky makes this cloud a different shade"
+  },
+  {
+   "t": "05:55",
+   "subject": "cloud",
+   "action": "blend cloud base with brush corner and fluff",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blend and fluff",
+   "pressure": "light",
+   "where": "second cloud base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:35",
+   "subject": "cloud",
+   "action": "paint thin stringy clouds",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "thin drops and brush out",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "upper sky",
+   "new": ""
+  },
+  {
+   "t": "07:18",
+   "subject": "water",
+   "action": "mix white and yellow for water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "small amount of yellow",
+   "motion": "mix on palette",
+   "pressure": "unknown",
+   "where": "palette",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:58",
+   "subject": "water line",
+   "action": "draw straight water line across canvas",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow"
+   ],
+   "load": "small amount on blade",
+   "motion": "touch and pull straight across",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "a crooked line would bother the viewer",
+   "new": ""
+  },
+  {
+   "t": "08:40",
+   "subject": "water",
+   "action": "blend water with large brush and darken gradually",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blending",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "stop blending so the last color is not lost",
+   "new": ""
+  },
+  {
+   "t": "09:18",
+   "subject": "ocean/wave",
+   "action": "start basic wave shapes with thinned paint",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "cad yellow",
+    "magic white"
+   ],
+   "load": "tiny bit of magic white",
+   "motion": "barely touch the canvas",
+   "pressure": "whisper",
+   "where": "water, wave spots",
+   "rule": "thinned so wave shapes are easier to start",
+   "new": ""
+  },
+  {
+   "t": "09:55",
+   "subject": "ocean/wave",
+   "action": "add highlight on top of wave and let it fade",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "top of wave",
+   "new": "moonlight hits the wave so highlight it there"
+  },
+  {
+   "t": "10:32",
+   "subject": "water",
+   "action": "drift fan brush for light on water",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "drift and touch across canvas",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "water surface",
+   "new": "place light where it would strike the water"
+  },
+  {
+   "t": "11:56",
+   "subject": "structure",
+   "action": "pull van dyke brown from center to start lighthouse",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull across from both sides",
+   "pressure": "unknown",
+   "where": "firm",
+   "rule": "lighthouse, center",
+   "new": "pulling from both sides gives firm edges"
+  },
+  {
+   "t": "12:33",
+   "subject": "structure",
+   "action": "add lighthouse cap with small knife edge",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap and smooth a small cap",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "top of lighthouse",
+   "new": "a center mark gives a guide for the cap"
+  },
+  {
+   "t": "13:12",
+   "subject": "structure",
+   "action": "lay cad yellow light in the lantern",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "cad yellow"
+   ],
+   "load": "",
+   "motion": "creep out and lay yellow",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lighthouse lantern",
+   "new": "lighthouse needs some light in it"
+  },
+  {
+   "t": "13:53",
+   "subject": "structure",
+   "action": "pull van dyke brown straight down the sides",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "lighthouse sides",
+   "new": ""
+  },
+  {
+   "t": "13:53",
+   "subject": "structure",
+   "action": "indicate glass with thinned paint",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "small detail marks",
+   "pressure": "light",
+   "where": "top of lighthouse",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:30",
+   "subject": "fence",
+   "action": "paint railing and posts",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop in rail and posts",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "around lighthouse top",
+   "new": ""
+  },
+  {
+   "t": "15:09",
+   "subject": "structure",
+   "action": "paint lighthouse bottom straight down",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "straight down strokes",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "lighthouse bottom",
+   "new": ""
+  },
+  {
+   "t": "15:46",
+   "subject": "structure",
+   "action": "pull dark highlight across lighthouse side",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch and pull",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "lighthouse side",
+   "new": "keep it dark so it does not get too bright"
+  },
+  {
+   "t": "15:46",
+   "subject": "rock",
+   "action": "lighten van dyke with yellow ochre for stones",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "tiny bit of yellow ochre mixed in",
+   "motion": "barely touch and grab",
+   "pressure": "light",
+   "where": "lighthouse base",
+   "rule": "gives aged stone and rock appearance",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "land",
+   "action": "lay van dyke land out into the water",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull land out into water",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "under lighthouse, peninsula",
+   "new": "land drops into water for a splash"
+  },
+  {
+   "t": "17:06",
+   "subject": "rock",
+   "action": "dark highlights on rocks",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "rocks",
+   "new": "keep them dark because it is a night scene"
+  },
+  {
+   "t": "17:43",
+   "subject": "structure",
+   "action": "paint small and larger houses",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "one stroke for small house, fill larger one",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "beside lighthouse",
+   "new": "a home for the keeper"
+  },
+  {
+   "t": "18:25",
+   "subject": "structure",
+   "action": "darken houses and add roof highlight",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo green",
+    "alizarin crimson"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "house roofs",
+   "new": "grey shows much brighter on canvas than on palette"
+  },
+  {
+   "t": "19:03",
+   "subject": "structure",
+   "action": "darken house side and add windows and shed",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap strokes",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "houses",
+   "new": ""
+  },
+  {
+   "t": "19:47",
+   "subject": "grass",
+   "action": "paint grass tufts bent upward",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "sap green"
+   ],
+   "load": "yellow ochre with sap green, thinned",
+   "motion": "touch and bend upward",
+   "pressure": "unknown",
+   "where": "hillside, dark toward back",
+   "rule": "sap green dulls the yellow",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "ocean/wave",
+   "action": "splash water up to the shore",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "splash and drop in",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "water up to shore",
+   "new": ""
+  },
+  {
+   "t": "21:03",
+   "subject": "ocean/wave",
+   "action": "add curl and color into wave",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "push into wave",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "wave",
+   "new": ""
+  },
+  {
+   "t": "21:45",
+   "subject": "ocean/wave",
+   "action": "pull up wave curl and darken back side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull upward",
+   "pressure": "unknown",
+   "where": "wave curl",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:25",
+   "subject": "ocean/wave",
+   "action": "blend waves with large brush and break wave onto shore",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "gentle blending and pull onto shore",
+   "pressure": "light",
+   "where": "waves and shore",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:04",
+   "subject": "reflection",
+   "action": "reflect color down into wet sand",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down and back",
+   "pressure": "light",
+   "where": "sand below wave",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:46",
+   "subject": "land",
+   "action": "lay van dyke land down to the shore",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "bring land down",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "right side to shore",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "grass",
+   "action": "tap grass bits at land edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "land edge",
+   "new": ""
+  },
+  {
+   "t": "24:22",
+   "subject": "structure",
+   "action": "add small chimney to house",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "small stroke",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "top of house",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "other: signature",
+   "action": "sign painting with thinned permanent red",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thinned with thin oil",
+   "motion": "write name",
+   "pressure": "unknown",
+   "where": "bottom corner",
+   "rule": "a short name makes signing easier",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

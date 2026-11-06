@@ -1,0 +1,582 @@
+{
+ "ep": "S07E11",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "light strikes raised snow and stones",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "black",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "00:39",
+   "subject": "other: warm spot",
+   "action": "tap a little alizarin crimson into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "tap into bristles",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "one small spot in the sky",
+   "rule": "",
+   "new": "warms up an otherwise gray painting"
+  },
+  {
+   "t": "01:20",
+   "subject": "sky",
+   "action": "pull black and tap into the sky",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "black"
+   ],
+   "load": "tap into bristles both sides",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": "strong black covers the crimson"
+  },
+  {
+   "t": "01:56",
+   "subject": "cloud",
+   "action": "little circles with corner blends black into pink",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tiny circles and x strokes",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:26",
+   "subject": "cloud",
+   "action": "load round brush with titanium white",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load a lot",
+   "motion": "circular strokes",
+   "pressure": "medium",
+   "where": "sky top",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:47",
+   "subject": "cloud",
+   "action": "blend bottoms of clouds gently",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "picked up white",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "bottom of clouds",
+   "rule": "",
+   "new": "blend only the bottoms so the tops stay defined"
+  },
+  {
+   "t": "08:18",
+   "subject": "mountain",
+   "action": "mix gray on round brush and tap distant hills",
+   "tool": "round",
+   "part": "corner",
+   "paint": [
+    "titanium white",
+    "black"
+   ],
+   "load": "mix a grayish color",
+   "motion": "pull downward",
+   "pressure": "light",
+   "where": "distance",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:56",
+   "subject": "mist",
+   "action": "lift base of far hill with brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward lightly",
+   "pressure": "light",
+   "where": "base of hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:32",
+   "subject": "mountain",
+   "action": "closer plane a little darker",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "black"
+   ],
+   "load": "add more black",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "next plane closer",
+   "rule": "",
+   "new": "more planes make the painting look deeper"
+  },
+  {
+   "t": "10:08",
+   "subject": "far trees",
+   "action": "tiny trees with round brush tip",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "touch and pull down",
+   "pressure": "light",
+   "where": "back here",
+   "rule": "",
+   "new": "saves detail for the foreground"
+  },
+  {
+   "t": "10:47",
+   "subject": "mist",
+   "action": "tap and lift mist between planes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "between planes",
+   "rule": "",
+   "new": "the light gap keeps the planes from blending"
+  },
+  {
+   "t": "10:47",
+   "subject": "snow",
+   "action": "load fan brush with titanium white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "lots of paint both sides",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:25",
+   "subject": "land",
+   "action": "soft hill strokes with fan following the lay of the land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "soft strokes",
+   "pressure": "light",
+   "where": "foreground hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "leaf tree",
+   "action": "tap a tree on the hill with round brush",
+   "tool": "round",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "hill edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "rock",
+   "action": "pull dark color up into shadow under snow",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "grab some of the bottom color",
+   "motion": "pull out and up",
+   "pressure": "light",
+   "where": "snow patches",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:19",
+   "subject": "snow",
+   "action": "lift dark color up into snow",
+   "tool": "round",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift upward",
+   "pressure": "light",
+   "where": "snow areas",
+   "rule": "",
+   "new": "lifting dark color pushes the area back"
+  },
+  {
+   "t": "13:55",
+   "subject": "evergreen",
+   "action": "load big brush with black and white and sharpen",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "wiggle through paint and sharpen",
+   "motion": "pull through",
+   "pressure": "medium",
+   "where": "tree spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:33",
+   "subject": "leaf tree",
+   "action": "dab leaves with corner of big brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap and pull leaves",
+   "pressure": "medium",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:33",
+   "subject": "bush",
+   "action": "tap bushes at tree base",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:12",
+   "subject": "bush",
+   "action": "layers of white with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "load fan with lots of white",
+   "motion": "layered strokes",
+   "pressure": "light",
+   "where": "bush layers",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:05",
+   "subject": "water",
+   "action": "pull base color straight down for water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "medium",
+   "where": "center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:41",
+   "subject": "reflection",
+   "action": "pull reflections straight down with clean brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "below the snow",
+   "rule": "",
+   "new": "straight reflections make the water read right"
+  },
+  {
+   "t": "18:17",
+   "subject": "water line",
+   "action": "lay in water edges with titanium white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "thin paint with full brush",
+   "motion": "short straight strokes",
+   "pressure": "light",
+   "where": "edges of water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:34",
+   "subject": "snow",
+   "action": "load knife flat with white and cut across",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pull paint out flat on knife",
+   "motion": "cut across",
+   "pressure": "light",
+   "where": "knife edge area",
+   "rule": "",
+   "new": "clean knife edge demonstration"
+  },
+  {
+   "t": "20:49",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks through paint with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "scattered",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:28",
+   "subject": "trunk/limbs",
+   "action": "trunk with gray on knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "gray on knife",
+   "motion": "touch and pull",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:28",
+   "subject": "leaf tree",
+   "action": "highlight tree with fan brush tiny white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiniest bit",
+   "motion": "caress lightly",
+   "pressure": "whisper",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:06",
+   "subject": "evergreen",
+   "action": "black with big brush to chisel edge",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "black"
+   ],
+   "load": "wiggle and pull to chisel",
+   "motion": "pull",
+   "pressure": "unknown",
+   "where": "tree area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:43",
+   "subject": "evergreen",
+   "action": "tree with corner back and forth",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "black"
+   ],
+   "load": "corner",
+   "motion": "back and forth",
+   "pressure": "medium",
+   "where": "tree",
+   "rule": "",
+   "new": "too many limbs look wrong and sparse limbs read as evergreen"
+  },
+  {
+   "t": "23:21",
+   "subject": "bush",
+   "action": "round the brush corner by pulling one way",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "black"
+   ],
+   "load": "",
+   "motion": "pull in one direction",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "big brush area",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "bush",
+   "action": "tap bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "bushes area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:02",
+   "subject": "trunk/limbs",
+   "action": "drop trunks in gray with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "black",
+    "titanium white"
+   ],
+   "load": "gray with cut across roll",
+   "motion": "drop in",
+   "pressure": "light",
+   "where": "several spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:39",
+   "subject": "snow",
+   "action": "sparkle snow on the tree with chisel big brush",
+   "tool": "2in",
+   "part": "chisel",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "bring white to chisel",
+   "motion": "touch lightly",
+   "pressure": "light",
+   "where": "tree sparkle spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:19",
+   "subject": "bush",
+   "action": "round the big brush corner with white",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "pull to round the corner",
+   "motion": "",
+   "pressure": "unknown",
+   "where": "",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:58",
+   "subject": "bush",
+   "action": "snow tufts on bushes with round corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch push bend upward",
+   "pressure": "light",
+   "where": "each bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "land",
+   "action": "sideways strokes for land area",
+   "tool": "1in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "drag sideways",
+   "pressure": "light",
+   "where": "land area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "bush",
+   "action": "few bushes around the path",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "around the path",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:36",
+   "subject": "trunk/limbs",
+   "action": "scrape sticks and twigs with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [],
+   "load": "",
+   "motion": "scrape through paint",
+   "pressure": "light",
+   "where": "scattered across painting",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

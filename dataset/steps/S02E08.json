@@ -1,0 +1,746 @@
+{
+ "ep": "S02E08",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "phthalo green",
+  "titanium white",
+  "permanent red",
+  "cadmium yellow",
+  "Prussian blue",
+  "Van Dyke brown",
+  "sap green",
+  "burnt umber"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "criss-cross and back-and-forth strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "small amount on the brush",
+   "motion": "criss-cross at center, back and forth below",
+   "pressure": "unknown",
+   "where": "center of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:54",
+   "subject": "sky",
+   "action": "blend blue across the top into the pink",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "dip into blue",
+   "motion": "sweep across the top, working down",
+   "pressure": "unknown",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:18",
+   "subject": "sky",
+   "action": "blend blue with a little green from the outside in",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "tiny bit of green added to blue",
+   "motion": "from the outside edges inward",
+   "pressure": "unknown",
+   "where": "sides of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:50",
+   "subject": "sky",
+   "action": "blend pink and blue together and blend out strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean brush",
+   "motion": "blend out the strokes",
+   "pressure": "unknown",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:15",
+   "subject": "cloud",
+   "action": "mix crimson and blue into lavender and push streaky clouds",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue"
+   ],
+   "load": "more crimson than blue on the knife",
+   "motion": "pushed hard into the canvas",
+   "pressure": "hard",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:44",
+   "subject": "cloud",
+   "action": "basic cloud shapes",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "same knife load",
+   "motion": "small shapes placed",
+   "pressure": "unknown",
+   "where": "one side of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:05",
+   "subject": "cloud",
+   "action": "brush lightly across for small clouds",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "brush lightly across",
+   "pressure": "light",
+   "where": "cloud area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:29",
+   "subject": "cloud",
+   "action": "highlight clouds with an orange mix dabbed above the dark",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "permanent red"
+   ],
+   "load": "small amount of yellow with a touch of red",
+   "motion": "dab here and there",
+   "pressure": "light",
+   "where": "tops of clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "cloud",
+   "action": "dry brush gently blends the highlights",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle blend",
+   "pressure": "light",
+   "where": "cloud highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:20",
+   "subject": "mountain",
+   "action": "base mountain shape",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "crimson with a little more Prussian blue",
+   "motion": "general outline",
+   "pressure": "unknown",
+   "where": "center upper area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:50",
+   "subject": "mountain",
+   "action": "pull base down so it fades into nothing",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "excess wiped off",
+   "motion": "pull downward",
+   "pressure": "unknown",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:28",
+   "subject": "reflection",
+   "action": "paint mountain reflection backward and pull the other way",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "prussian blue"
+   ],
+   "load": "same palette colors",
+   "motion": "pull in the opposite direction",
+   "pressure": "unknown",
+   "where": "water below mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "mountain",
+   "action": "highlight with a pinkish glow along the contour",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "white with the smallest amount of red",
+   "motion": "follow the mountain contour",
+   "pressure": "unknown",
+   "where": "top edge of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:24",
+   "subject": "mountain",
+   "action": "shadow in blue and white, broken up with purple",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "titanium white",
+    "alizarin crimson"
+   ],
+   "load": "blue and white with a tiny bit of purple",
+   "motion": "broken strokes along the mountain",
+   "pressure": "unknown",
+   "where": "lower mountain",
+   "rule": "tiny purple calms the bright blue",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "mist",
+   "action": "tap at the bottom with a clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "gentle taps",
+   "pressure": "light",
+   "where": "bottom of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "mountain",
+   "action": "highlight the bottom with indications",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "carry over",
+   "motion": "pressed hard",
+   "pressure": "hard",
+   "where": "bottom of mountain",
+   "rule": "hard pressure keeps the paint from moving",
+   "new": ""
+  },
+  {
+   "t": "08:22",
+   "subject": "reflection",
+   "action": "pull reflection up, wiping brush between strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "wipe between strokes",
+   "motion": "pull upward",
+   "pressure": "unknown",
+   "where": "mountain reflection",
+   "rule": "wiping keeps the edges from being destroyed",
+   "new": ""
+  },
+  {
+   "t": "09:19",
+   "subject": "leaf tree",
+   "action": "drop in trees and bushes along the back",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "alizarin crimson"
+   ],
+   "load": "brown and crimson mixed",
+   "motion": "dropped in along the back",
+   "pressure": "unknown",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:43",
+   "subject": "reflection",
+   "action": "pull bottom of trees down for reflection",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull down",
+   "pressure": "unknown",
+   "where": "bottom of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:11",
+   "subject": "bush",
+   "action": "highlight bushes with thinned yellow and red, dropped into the water",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "permanent red"
+   ],
+   "load": "thinned with a white medium",
+   "motion": "dropped down for reflections",
+   "pressure": "unknown",
+   "where": "bushes and water below",
+   "rule": "drop color down to make reflections",
+   "new": ""
+  },
+  {
+   "t": "10:40",
+   "subject": "bush",
+   "action": "tone the bright yellow down with sap green",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "tiny touch on the brush",
+   "motion": "tap in",
+   "pressure": "unknown",
+   "where": "on bright bushes",
+   "rule": "tones down the bright color",
+   "new": ""
+  },
+  {
+   "t": "11:06",
+   "subject": "bush",
+   "action": "dry brush barely touches and blends the bushes",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean dry brush",
+   "motion": "barely touch, then gently across",
+   "pressure": "whisper",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:34",
+   "subject": "evergreen",
+   "action": "small evergreens in the background",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "sap green",
+    "phthalo blue"
+   ],
+   "load": "brown, sap green and blue in equal parts",
+   "motion": "small pointed shapes",
+   "pressure": "unknown",
+   "where": "background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:27",
+   "subject": "water line",
+   "action": "horizontal water line across the back with a ripple or two",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "white with a little brown on the knife",
+   "motion": "straight line, ripples here and there",
+   "pressure": "unknown",
+   "where": "back of water",
+   "rule": "brown dulls the white",
+   "new": ""
+  },
+  {
+   "t": "12:57",
+   "subject": "leaf tree",
+   "action": "double-load brush with brown on one side and white on the other for tree shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on opposite sides",
+   "motion": "touch and pull for both sides of tree",
+   "pressure": "unknown",
+   "where": "tree spots across the back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:16",
+   "subject": "leaf tree",
+   "action": "double-load sap green and yellow for leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "sap green and yellow on opposite sides",
+   "motion": "tap canvas for highlight and shadow in one stroke",
+   "pressure": "unknown",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:10",
+   "subject": "bush",
+   "action": "small bushes at tree bases",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "crimson and brown mixed",
+   "motion": "dropped in at the base",
+   "pressure": "unknown",
+   "where": "base of trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:43",
+   "subject": "reflection",
+   "action": "pull bush reflections straight down into the water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "same brush",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "water below bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:06",
+   "subject": "leaf tree",
+   "action": "reflections of trees in the water, double-loaded brown and white",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on opposite sides",
+   "motion": "basic shapes and indications",
+   "pressure": "unknown",
+   "where": "water below trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:31",
+   "subject": "leaf tree",
+   "action": "tap in a few things with sap green and yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "sap green and yellow from the earlier brush",
+   "motion": "tap in indications",
+   "pressure": "whisper",
+   "where": "water below trees",
+   "rule": "shifting the trunks makes it read as water",
+   "new": ""
+  },
+  {
+   "t": "16:54",
+   "subject": "bush",
+   "action": "highlight bushes with yellow and red, then reflect into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "a little white added to yellow and a touch of red",
+   "motion": "highlight, then reflect",
+   "pressure": "unknown",
+   "where": "bushes and water below",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:23",
+   "subject": "reflection",
+   "action": "reflect yellow ochre highlights into the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre",
+    "titanium white"
+   ],
+   "load": "a little white added to ochre",
+   "motion": "touch and gently pull down, then across",
+   "pressure": "unknown",
+   "where": "water below bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:48",
+   "subject": "land",
+   "action": "straight Van Dyke brown shoreline",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "straight line along the water edge",
+   "pressure": "unknown",
+   "where": "shoreline",
+   "rule": "ground is needed for the things on the lake to sit on",
+   "new": ""
+  },
+  {
+   "t": "18:14",
+   "subject": "land",
+   "action": "highlight shoreline and add a white waterline underneath",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "white and brown with a touch of blue",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "shoreline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:39",
+   "subject": "bush",
+   "action": "fire in big bushes along the right side",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "brown and burnt umber mixed on the brush",
+   "motion": "fire in bushes",
+   "pressure": "unknown",
+   "where": "right side along shoreline",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:03",
+   "subject": "leaf tree",
+   "action": "double-loaded brown and white trees along the right",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white on opposite sides",
+   "motion": "tap in tree shapes",
+   "pressure": "unknown",
+   "where": "right side behind bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:14",
+   "subject": "other: small bright sparkle",
+   "action": "add a small bright sparkle out front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "permanent red",
+    "titanium white"
+   ],
+   "load": "white, yellow and red mixed",
+   "motion": "small dabs",
+   "pressure": "unknown",
+   "where": "out in front",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:39",
+   "subject": "land",
+   "action": "build a bank and pull downward for reflections",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown on the brush",
+   "motion": "pull downward",
+   "pressure": "unknown",
+   "where": "out in front",
+   "rule": "makes more reflections",
+   "new": ""
+  },
+  {
+   "t": "21:05",
+   "subject": "leaf tree",
+   "action": "highlight trees with sap green and yellow",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "double-loaded sap green and yellow",
+   "motion": "just touch",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:35",
+   "subject": "trunk/limbs",
+   "action": "show a few limbs with thinned brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown thinned with a medium",
+   "motion": "indications here and there",
+   "pressure": "unknown",
+   "where": "on the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:08",
+   "subject": "rock",
+   "action": "highlight stones",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny bit on the brush",
+   "motion": "lay a little highlight",
+   "pressure": "unknown",
+   "where": "on the stones",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:34",
+   "subject": "other: foreground blend",
+   "action": "fan brush blends all the colors together",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow",
+    "permanent red"
+   ],
+   "load": "mixed colors on the fan brush",
+   "motion": "bring together and soften",
+   "pressure": "unknown",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:58",
+   "subject": "other: foreground highlight",
+   "action": "swirl a white highlight in the foreground",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white thinned slightly",
+   "motion": "swirl around",
+   "pressure": "unknown",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:49",
+   "subject": "trunk/limbs",
+   "action": "lay a few sticks with a clean knife",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [],
+   "load": "clean knife",
+   "motion": "lay sticks here and there",
+   "pressure": "unknown",
+   "where": "in the foreground and back",
+   "rule": "sticks show distance in the painting",
+   "new": ""
+  },
+  {
+   "t": "24:37",
+   "subject": "bush",
+   "action": "add a bush in the front",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "carry over",
+   "motion": "dab in",
+   "pressure": "unknown",
+   "where": "front of canvas",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

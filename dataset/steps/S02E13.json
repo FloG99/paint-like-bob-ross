@@ -1,0 +1,602 @@
+{
+ "ep": "S02E13",
+ "base": "unknown",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "van dyke brown",
+  "phthalo green",
+  "prussian blue",
+  "crimson",
+  "titanium white",
+  "magic white",
+  "permanent red",
+  "sap green",
+  "burnt umber",
+  "yellow",
+  "white",
+  "ochre"
+ ],
+ "steps": [
+  {
+   "t": "00:25",
+   "subject": "sky",
+   "action": "criss-cross sky color",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "van dyke brown"
+   ],
+   "load": "blue with a tiny bit of brown",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "00:55",
+   "subject": "sky",
+   "action": "blend green and water into sky",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "phthalo green"
+   ],
+   "load": "little green with water",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "01:22",
+   "subject": "cloud",
+   "action": "lay in dark cloud shapes",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "crimson"
+   ],
+   "load": "blue brown and crimson",
+   "motion": "lay cloud shapes",
+   "pressure": "light",
+   "where": "center of sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:11",
+   "subject": "cloud",
+   "action": "highlight the cloud tops",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "permanent red"
+   ],
+   "load": "lot of paint",
+   "motion": "lay highlights",
+   "pressure": "light",
+   "where": "above dark cloud",
+   "rule": "red gives a warm glow",
+   "new": ""
+  },
+  {
+   "t": "03:21",
+   "subject": "cloud",
+   "action": "blend cloud bottoms",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend bottom edges only",
+   "pressure": "light",
+   "where": "bottom of clouds",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:42",
+   "subject": "cloud",
+   "action": "lift and fluff cloud edges",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "lift up gently",
+   "pressure": "whisper",
+   "where": "cloud edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:07",
+   "subject": "mountain",
+   "action": "block in mountain ridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "crimson"
+   ],
+   "load": "very little paint",
+   "motion": "push into canvas",
+   "pressure": "firm",
+   "where": "mountain ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:33",
+   "subject": "mountain",
+   "action": "pull down to remove loose paint",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "removes loose paint and spreads color",
+   "new": ""
+  },
+  {
+   "t": "05:21",
+   "subject": "mountain",
+   "action": "knife highlight where light hits",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "tiny bit of white",
+   "motion": "pull very flat",
+   "pressure": "light",
+   "where": "peaks and ridge",
+   "rule": "placed where light would hit",
+   "new": ""
+  },
+  {
+   "t": "05:53",
+   "subject": "mountain",
+   "action": "lay bluish gray shadows",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little blue brown and white",
+   "motion": "lay shadows",
+   "pressure": "light",
+   "where": "mountain",
+   "rule": "makes a bluish gray shadow",
+   "new": ""
+  },
+  {
+   "t": "06:54",
+   "subject": "mountain",
+   "action": "add far soft peaks",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tap in peaks",
+   "pressure": "light",
+   "where": "far background",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:27",
+   "subject": "mist",
+   "action": "diffuse mountain bottom with dry brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap then lift",
+   "pressure": "whisper",
+   "where": "bottom of mountain",
+   "rule": "softens without destroying the shape",
+   "new": ""
+  },
+  {
+   "t": "07:51",
+   "subject": "mountain",
+   "action": "darker front mountain",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "crimson"
+   ],
+   "load": "more paint",
+   "motion": "push into canvas",
+   "pressure": "firm",
+   "where": "front ridge",
+   "rule": "closer ridge gets darker",
+   "new": ""
+  },
+  {
+   "t": "09:06",
+   "subject": "mountain",
+   "action": "white highlights along ridge",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "lay along angles",
+   "pressure": "light",
+   "where": "front ridge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "mountain",
+   "action": "knife shadows on mountain",
+   "tool": "knife",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown"
+   ],
+   "load": "lighter shadow mix",
+   "motion": "lay shadows",
+   "pressure": "light",
+   "where": "mountain base",
+   "rule": "shadow lighter than base so it stands out",
+   "new": ""
+  },
+  {
+   "t": "10:25",
+   "subject": "mist",
+   "action": "clean dry brush diffuse bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap then lift up",
+   "pressure": "whisper",
+   "where": "bottom of mountain",
+   "rule": "gives a misty look",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "far trees",
+   "action": "tap in far tree indications",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "van dyke brown",
+    "sap green"
+   ],
+   "load": "fan brush loaded",
+   "motion": "keep brush moving",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "smaller shapes read as farther away",
+   "new": ""
+  },
+  {
+   "t": "12:14",
+   "subject": "leaf tree",
+   "action": "add branches to closer tree",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "bend downward back and forth",
+   "pressure": "light",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:39",
+   "subject": "reflection",
+   "action": "pull reflections down from bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "shows where reflections and shoreline go",
+   "new": ""
+  },
+  {
+   "t": "13:03",
+   "subject": "water line",
+   "action": "lay straight water line",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "van dyke brown"
+   ],
+   "load": "little magic white with brown",
+   "motion": "keep lines straight",
+   "pressure": "light",
+   "where": "shoreline",
+   "rule": "keeps water from running out of the painting",
+   "new": ""
+  },
+  {
+   "t": "13:52",
+   "subject": "water line",
+   "action": "add water line and ripples",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "",
+   "motion": "lay line and ripples",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:19",
+   "subject": "land",
+   "action": "highlight hill top with yellow and green",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow",
+    "sap green"
+   ],
+   "load": "mixed on brush",
+   "motion": "follow angle down",
+   "pressure": "light",
+   "where": "top of hill",
+   "rule": "top brightest so it looks round",
+   "new": ""
+  },
+  {
+   "t": "15:04",
+   "subject": "leaf tree",
+   "action": "tap in a nice tree shape",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "back and forth",
+   "pressure": "light",
+   "where": "right side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:30",
+   "subject": "leaf tree",
+   "action": "add pressure to tree lower down",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "push downward",
+   "pressure": "medium",
+   "where": "lower tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:24",
+   "subject": "bush",
+   "action": "drop bushes and reflections",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "reverse brush and drop",
+   "pressure": "light",
+   "where": "water and bushes",
+   "rule": "drops in water become reflections",
+   "new": ""
+  },
+  {
+   "t": "17:18",
+   "subject": "trunk/limbs",
+   "action": "paint trunks with burnt umber",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "little white",
+   "motion": "touch and scratch",
+   "pressure": "light",
+   "where": "trees and bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:52",
+   "subject": "leaf tree",
+   "action": "highlight trees with sap green and yellow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "yellow"
+   ],
+   "load": "mixed on fan",
+   "motion": "light touches",
+   "pressure": "light",
+   "where": "right side of trees",
+   "rule": "keep dark areas or the tree looks flat",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "reflection",
+   "action": "pull reflections into water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down with clean brush",
+   "pressure": "light",
+   "where": "water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "bush",
+   "action": "dab leaves with one inch brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow",
+    "sap green"
+   ],
+   "load": "load bristles heavily",
+   "motion": "push leaves off brush",
+   "pressure": "light",
+   "where": "bush by water",
+   "rule": "dropping leaves in water shows reflection",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "grass",
+   "action": "add grassy areas with fan brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "magic white",
+    "yellow",
+    "sap green",
+    "ochre"
+   ],
+   "load": "mixed on fan",
+   "motion": "soft dabs",
+   "pressure": "light",
+   "where": "lower field",
+   "rule": "ochre breaks the color up",
+   "new": ""
+  },
+  {
+   "t": "20:23",
+   "subject": "rock",
+   "action": "add stone with brown white and blue",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "magic white",
+    "prussian blue"
+   ],
+   "load": "little blue",
+   "motion": "break and highlight",
+   "pressure": "light",
+   "where": "lower canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:23",
+   "subject": "reflection",
+   "action": "pull reflections straight down",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "makes mirror like reflections",
+   "new": ""
+  },
+  {
+   "t": "21:49",
+   "subject": "land",
+   "action": "add bank with van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lay bank",
+   "pressure": "light",
+   "where": "one side bank",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:19",
+   "subject": "water line",
+   "action": "magic white water line underneath",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "magic white"
+   ],
+   "load": "little magic white",
+   "motion": "straight line",
+   "pressure": "light",
+   "where": "bottom of painting",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:48",
+   "subject": "trunk/limbs",
+   "action": "scratch a few trunks with lighter brush",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "little brown",
+   "motion": "scratch",
+   "pressure": "light",
+   "where": "trees and bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "other: signature",
+   "action": "sign with thin red",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "thin paint with oil",
+   "motion": "sharp point strokes",
+   "pressure": "light",
+   "where": "open canvas area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

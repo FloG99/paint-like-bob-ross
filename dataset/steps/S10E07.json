@@ -1,0 +1,539 @@
+{
+ "ep": "S10E07",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "alizarin crimson",
+  "phthalo blue",
+  "midnight black",
+  "titanium white",
+  "liquid white",
+  "dark sienna",
+  "van dyke brown",
+  "bright red"
+ ],
+ "steps": [
+  {
+   "t": "00:32",
+   "subject": "sky",
+   "action": "lay faint crimson sky shapes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "least touch of crimson on brush",
+   "motion": "tap and crisscross",
+   "pressure": "light",
+   "where": "upper canvas",
+   "rule": "crimson is easy to cover if it gets too big",
+   "new": ""
+  },
+  {
+   "t": "01:09",
+   "subject": "snow",
+   "action": "dab crimson into snow shadows",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson"
+   ],
+   "load": "same brush",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bottom of canvas",
+   "rule": "crimson becomes shadows and bright spots in snow",
+   "new": ""
+  },
+  {
+   "t": "01:42",
+   "subject": "sky",
+   "action": "blend soft sky with black and blue",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black",
+    "phthalo blue",
+    "liquid white"
+   ],
+   "load": "tiniest amount of each",
+   "motion": "soft crisscross",
+   "pressure": "light",
+   "where": "upper sky",
+   "rule": "liquid white gives soft blended edges",
+   "new": ""
+  },
+  {
+   "t": "02:40",
+   "subject": "sky",
+   "action": "blend sky along the angles",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend along the angles",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "mountain",
+   "action": "lay far footy hill",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little blue added",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "far back",
+   "rule": "far hill is light so it recedes",
+   "new": ""
+  },
+  {
+   "t": "04:45",
+   "subject": "mountain",
+   "action": "lay darker second footy hill",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "midnight black"
+   ],
+   "load": "a little more of the color",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "middle back",
+   "rule": "closer hills get darker so they stand out",
+   "new": ""
+  },
+  {
+   "t": "05:39",
+   "subject": "mist",
+   "action": "tap and lift mist upward",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "clean brush, tap",
+   "pressure": "light",
+   "where": "hill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:20",
+   "subject": "mountain",
+   "action": "lay another far foothill",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "phthalo blue"
+   ],
+   "load": "black with a touch of blue",
+   "motion": "tap and pull",
+   "pressure": "light",
+   "where": "along the back",
+   "rule": "far hills need very little detail",
+   "new": ""
+  },
+  {
+   "t": "06:47",
+   "subject": "water",
+   "action": "lay lake shape with titanium white",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "straight titanium white",
+   "motion": "pull across",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:25",
+   "subject": "water",
+   "action": "pull and blend lake edge with gray shadow",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "touch of blue for gray",
+   "motion": "pull and blend",
+   "pressure": "light",
+   "where": "lake edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:54",
+   "subject": "mountain",
+   "action": "lay lavender hill base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "white with phthalo blue and crimson",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "back middle",
+   "rule": "hill must be dark enough to show",
+   "new": ""
+  },
+  {
+   "t": "08:33",
+   "subject": "bush",
+   "action": "push bent weeds along hill",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "mixed on fan brush",
+   "motion": "touch, push, bend upward",
+   "pressure": "light",
+   "where": "along the hill line",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:42",
+   "subject": "bush",
+   "action": "pop in white bushes with red",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "touch of bright red in white",
+   "motion": "pop in",
+   "pressure": "light",
+   "where": "along the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:38",
+   "subject": "far trees",
+   "action": "pull thin limbs for leafless trees",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "paint thinner added, very thin",
+   "motion": "pull thin lines",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "winter trees have lost their leaves",
+   "new": ""
+  },
+  {
+   "t": "12:40",
+   "subject": "fence",
+   "action": "pull fence posts over the hill",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "thin sticks",
+   "motion": "pull over hill",
+   "pressure": "light",
+   "where": "over the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:12",
+   "subject": "other: light layer",
+   "action": "lay a light layer, let shadows show",
+   "tool": "unknown",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "heavy white with a bluish color",
+   "motion": "lay on",
+   "pressure": "light",
+   "where": "right along the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:50",
+   "subject": "mountain",
+   "action": "lay lavender hill with bump",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "alizarin crimson",
+    "phthalo blue",
+    "titanium white"
+   ],
+   "load": "lavender mix",
+   "motion": "lay down",
+   "pressure": "light",
+   "where": "right side",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:28",
+   "subject": "bush",
+   "action": "push bent bushes along the land",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark sienna and brown on fan",
+   "motion": "push bend upward",
+   "pressure": "light",
+   "where": "along the hill",
+   "rule": "pushes show the lay of the land",
+   "new": ""
+  },
+  {
+   "t": "15:02",
+   "subject": "bush",
+   "action": "add white and red bush highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a little bright red",
+   "motion": "dab",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:29",
+   "subject": "trunk/limbs",
+   "action": "paint thin winter tree",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "very thin, paint thinner",
+   "motion": "pull limbs",
+   "pressure": "light",
+   "where": "center",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:50",
+   "subject": "land",
+   "action": "lay rolling land plane with browns",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "fan brush with browns",
+   "motion": "push and flow",
+   "pressure": "light",
+   "where": "lower area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:44",
+   "subject": "fence",
+   "action": "pull fence posts and board",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "very thin, paint thinner",
+   "motion": "pull posts",
+   "pressure": "light",
+   "where": "middle back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:21",
+   "subject": "bush",
+   "action": "lay white highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "white with a touch of bright red",
+   "motion": "lay on",
+   "pressure": "light",
+   "where": "white areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "other: blend",
+   "action": "blend the thick paint lightly",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light blend",
+   "pressure": "light",
+   "where": "over painted area",
+   "rule": "let some shadows show through so it stays layered",
+   "new": ""
+  },
+  {
+   "t": "19:39",
+   "subject": "trunk/limbs",
+   "action": "lay big tree trunk",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "load a little brown",
+   "motion": "pull and cut",
+   "pressure": "unknown",
+   "where": "center front",
+   "rule": "a big tree needs a strong base",
+   "new": ""
+  },
+  {
+   "t": "20:17",
+   "subject": "trunk/limbs",
+   "action": "curve a limb out with straight knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "curve",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "tree",
+   "new": "trees with character look better than poles"
+  },
+  {
+   "t": "21:27",
+   "subject": "trunk/limbs",
+   "action": "pull rough bark texture",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "paint thinner with white and sienna",
+   "motion": "jerk down fast",
+   "pressure": "light",
+   "where": "trunk",
+   "rule": "skipping makes old rough bark",
+   "new": ""
+  },
+  {
+   "t": "21:53",
+   "subject": "trunk/limbs",
+   "action": "pull many thin limbs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "lot of thinner",
+   "motion": "pull limbs out",
+   "pressure": "light",
+   "where": "tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:45",
+   "subject": "trunk/limbs",
+   "action": "add brown foot at tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "push",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "tree base",
+   "new": "tree needs a strong foot"
+  },
+  {
+   "t": "24:22",
+   "subject": "snow",
+   "action": "lay snow over tree base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "bright red"
+   ],
+   "load": "picks up some brown",
+   "motion": "pull",
+   "pressure": "light",
+   "where": "tree base",
+   "rule": "brown in snow makes shadows",
+   "new": ""
+  },
+  {
+   "t": "24:58",
+   "subject": "trunk/limbs",
+   "action": "pop sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "a little brown",
+   "motion": "pop in",
+   "pressure": "light",
+   "where": "around tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:34",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "bright red"
+   ],
+   "load": "",
+   "motion": "sign",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "corner",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

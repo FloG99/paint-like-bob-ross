@@ -1,0 +1,545 @@
+{
+ "ep": "S13E03",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "prussian blue",
+  "alizarin crimson",
+  "titanium white",
+  "midnight black",
+  "van dyke brown",
+  "dark sienna",
+  "cadmium yellow",
+  "yellow ochre",
+  "sap green",
+  "indian yellow",
+  "bright red",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:33",
+   "subject": "sky",
+   "action": "sky with phthalo blue and a little phthalo green",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "a little of each, very little green",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "upper area, sky",
+   "rule": "phthalo green is very strong so only a little is used",
+   "new": ""
+  },
+  {
+   "t": "01:52",
+   "subject": "sky",
+   "action": "dark patch under the sky base with prussian blue and crimson",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson"
+   ],
+   "load": "prussian blue with a little crimson",
+   "motion": "tap in darker color under the base",
+   "pressure": "light",
+   "where": "under the base of the sky",
+   "rule": "do not over blend, the strong color would eat the light blue",
+   "new": ""
+  },
+  {
+   "t": "02:35",
+   "subject": "sky",
+   "action": "blend the sky colors together",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "blend",
+   "pressure": "light",
+   "where": "sky area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:59",
+   "subject": "cloud",
+   "action": "tap in a small cloud with the corner",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "loaded full",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "sky, wherever clouds live",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:46",
+   "subject": "cloud",
+   "action": "blend clouds with light crisscross strokes",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "light crisscross strokes",
+   "pressure": "light",
+   "where": "cloud areas",
+   "rule": "overworked clouds fade away and lose shape",
+   "new": ""
+  },
+  {
+   "t": "04:44",
+   "subject": "mountain",
+   "action": "far hill colors mixed light to dark",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "mixed in a pile, lightest value",
+   "motion": "back and forth, very light",
+   "pressure": "light",
+   "where": "far back, the far hill",
+   "rule": "far hills fade into the sky because they are far away",
+   "new": ""
+  },
+  {
+   "t": "06:10",
+   "subject": "mist",
+   "action": "tap the base of the far hill with the big brush and lift upward",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap base, lift slightly upward",
+   "pressure": "light",
+   "where": "base of the far hill",
+   "rule": "tapping the base creates mist that fades the hill",
+   "new": ""
+  },
+  {
+   "t": "06:41",
+   "subject": "mountain",
+   "action": "darker next hill with the oval brush sideways",
+   "tool": "other: oval brush",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "phthalo green",
+    "titanium white"
+   ],
+   "load": "same mix with less white",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "next hill layer, closer",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "mist",
+   "action": "tap the base again and lift slightly for mist",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap base, lift slightly upward",
+   "pressure": "light",
+   "where": "base of the hill",
+   "rule": "the mist is what separates the hill planes",
+   "new": ""
+  },
+  {
+   "t": "08:00",
+   "subject": "mountain",
+   "action": "darkest foothill with the big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "phthalo green"
+   ],
+   "load": "darkest mix from before",
+   "motion": "tap in foothill shape",
+   "pressure": "light",
+   "where": "middle hill",
+   "rule": "several planes create depth and distance",
+   "new": ""
+  },
+  {
+   "t": "08:51",
+   "subject": "mountain",
+   "action": "closer plane with blue and midnight black",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "phthalo blue",
+    "midnight black"
+   ],
+   "load": "the blue with midnight black added",
+   "motion": "tap downward",
+   "pressure": "light",
+   "where": "a plane coming down the side",
+   "rule": "closer means darker in value",
+   "new": ""
+  },
+  {
+   "t": "09:37",
+   "subject": "far trees",
+   "action": "basic tree shapes on the hill, arms up",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap basic shapes, arms up",
+   "pressure": "light",
+   "where": "hill and background area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:50",
+   "subject": "far trees",
+   "action": "far trees and bushes with fan corner, yellow and green mix",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "mixed on the brush",
+   "motion": "wiggle corner upward",
+   "pressure": "light",
+   "where": "distant trees and bushes, fall area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:22",
+   "subject": "far trees",
+   "action": "add bright red touches to the far trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "bright red"
+   ],
+   "load": "a little touch",
+   "motion": "dab with corner and push upward",
+   "pressure": "light",
+   "where": "scattered in the far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:40",
+   "subject": "grass",
+   "action": "grass and hill flow with big brush and yellow sap green mix",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "the same mix",
+   "motion": "flow down with the lay of the land",
+   "pressure": "light",
+   "where": "hill side, grassy area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:32",
+   "subject": "evergreen",
+   "action": "dark evergreen mix with black, brown, sap green and crimson",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "sap green",
+    "alizarin crimson"
+   ],
+   "load": "loaded on both sides of the fan",
+   "motion": "pull through the color, tap evergreen shapes",
+   "pressure": "light",
+   "where": "one tree out on the hill, then a few more",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:49",
+   "subject": "grass",
+   "action": "grass at the base of the trees, pull dark down for shadow",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "brush grass down to the trees' feet",
+   "pressure": "light",
+   "where": "base of the trees",
+   "rule": "the grass makes the trees part of the painting",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "far trees",
+   "action": "dark color for a line of trees with van dyke brown and dark sienna",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "the dark evergreen mix plus brown",
+   "motion": "tap a line of tree tops",
+   "pressure": "light",
+   "where": "a line of trees on the hill",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:02",
+   "subject": "far trees",
+   "action": "red and indian yellow dabs on far frosted trees",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "bright red",
+    "indian yellow"
+   ],
+   "load": "mixed on the brush",
+   "motion": "push upward with the corner",
+   "pressure": "light",
+   "where": "far trees",
+   "rule": "frost makes the trees bright",
+   "new": ""
+  },
+  {
+   "t": "16:26",
+   "subject": "far trees",
+   "action": "bright sparkly far trees with yellow ochre and cadmium yellow",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cadmium yellow"
+   ],
+   "load": "mixed on the brush",
+   "motion": "push upward with the corner",
+   "pressure": "light",
+   "where": "line of far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:43",
+   "subject": "grass",
+   "action": "layer grass with the same dirty brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre"
+   ],
+   "load": "mixed, turns greenish from the leftover blue",
+   "motion": "tap in layers from far to near",
+   "pressure": "light",
+   "where": "grass area, far to near",
+   "rule": "leftover blue on the brush makes the mix greenish",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "trunk/limbs",
+   "action": "tree trunk lines with knife, van dyke brown and dark sienna",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "brown mix",
+   "motion": "cut in small trunk lines",
+   "pressure": "light",
+   "where": "a few spots among the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:02",
+   "subject": "leaf tree",
+   "action": "big tree on the foothills with the 1in, dark color with brown",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "dark color with brown",
+   "motion": "dab big tree shape",
+   "pressure": "light",
+   "where": "on the foothills, one big tree",
+   "rule": "stop the tree so it does not cover all the foothills",
+   "new": ""
+  },
+  {
+   "t": "19:50",
+   "subject": "trunk/limbs",
+   "action": "tree trunk with small knife, brown then white highlight",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown then a little white",
+   "motion": "dab trunk line, then highlight",
+   "pressure": "light",
+   "where": "on the big tree",
+   "rule": "the white highlight makes it show up",
+   "new": ""
+  },
+  {
+   "t": "20:13",
+   "subject": "leaf tree",
+   "action": "tap and slide yellow and red highlights on the tree",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "cadmium yellow",
+    "yellow ochre",
+    "bright red"
+   ],
+   "load": "mixed from the yellows and a touch of red",
+   "motion": "tap and slide at the same time",
+   "pressure": "light",
+   "where": "on the tree and bushes",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "21:02",
+   "subject": "water",
+   "action": "tiny waterfall with liquid white thinned titanium white",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "liquid white",
+    "titanium white"
+   ],
+   "load": "liquid white to thin the titanium white",
+   "motion": "tap and splash a little",
+   "pressure": "light",
+   "where": "tiny waterfall at the lower area",
+   "rule": "thinned paint sticks to thick paint underneath",
+   "new": ""
+  },
+  {
+   "t": "22:40",
+   "subject": "leaf tree",
+   "action": "big tree outside the oval with dark color",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "van dyke brown"
+   ],
+   "load": "the dark color plus brown",
+   "motion": "let the dark mass come around",
+   "pressure": "medium",
+   "where": "outside the oval border",
+   "rule": "dark makes the light show",
+   "new": ""
+  },
+  {
+   "t": "23:51",
+   "subject": "trunk/limbs",
+   "action": "trunk painted with fan brush, brown one side, white opposite",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "brown on one side, white on the other",
+   "motion": "draw the trunk up through the tree",
+   "pressure": "light",
+   "where": "up through the middle of the tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:43",
+   "subject": "leaf tree",
+   "action": "highlights on the big tree with the corner of a 1in",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "barely tap with the corner",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "shape and form make the tree read as a tree",
+   "new": ""
+  },
+  {
+   "t": "25:38",
+   "subject": "bush",
+   "action": "bush lower down with sap green added to the dark",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green"
+   ],
+   "load": "sap green into the dark mix",
+   "motion": "give it arms and branches",
+   "pressure": "light",
+   "where": "lower down, a different bush",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "26:05",
+   "subject": "land",
+   "action": "brown and white land that runs off the painting",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "little brown mixed with little white",
+   "motion": "let it run off the edge",
+   "pressure": "light",
+   "where": "lower part, land edge",
+   "rule": "running the land off the edge makes it more interesting",
+   "new": ""
+  }
+ ],
+ "rules": [
+  "[07:15] the mist between the planes is what separates them",
+  "[08:00] several planes create depth and distance"
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "ep": "S20E05",
+ "base": "liquid white",
+ "format": "unknown",
+ "light": "right",
+ "guest": false,
+ "palette": [
+  "phthalo blue",
+  "phthalo green",
+  "titanium white",
+  "prussian blue",
+  "alizarin crimson",
+  "van dyke brown",
+  "sap green",
+  "dark sienna",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:54",
+   "subject": "sky",
+   "action": "block in sky with criss-cross strokes",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small amount on brush",
+   "motion": "criss-cross strokes",
+   "pressure": "light",
+   "where": "top of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:27",
+   "subject": "water",
+   "action": "blend phthalo blue and green across the water area",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "phthalo green"
+   ],
+   "load": "blue with a touch of green",
+   "motion": "lightly across",
+   "pressure": "light",
+   "where": "water area at the bottom",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:17",
+   "subject": "cloud",
+   "action": "make tight little circles with fan corner",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "both sides of fan full of white",
+   "motion": "tight circles",
+   "pressure": "light",
+   "where": "upper area, floating",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "03:40",
+   "subject": "cloud",
+   "action": "blend cloud base and fluff it",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "blend and fluff",
+   "pressure": "light",
+   "where": "base of cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:05",
+   "subject": "cloud",
+   "action": "add another cloud",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white on fan",
+   "motion": "tight circles",
+   "pressure": "light",
+   "where": "right of first cloud",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:15",
+   "subject": "mountain",
+   "action": "mix dark mountain color and cut a roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "lay mountain shape",
+   "pressure": "medium",
+   "where": "upper middle, mountain shape",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:00",
+   "subject": "mountain",
+   "action": "pull a clean dry brush down to lighten the base",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "removes excess so the next layer sticks",
+   "new": ""
+  },
+  {
+   "t": "06:50",
+   "subject": "mountain",
+   "action": "lay white highlight with knife roll",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "flat roll on knife edge",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "start of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:15",
+   "subject": "mountain",
+   "action": "mix shadow color and lay shadow lines",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "lay shadow line",
+   "pressure": "whisper",
+   "where": "where shadows fall",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "07:37",
+   "subject": "mist",
+   "action": "tap mist at mountain base with clean brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap gently",
+   "pressure": "whisper",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:25",
+   "subject": "cloud",
+   "action": "float a thin cloud between two mountains",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [],
+   "load": "liquid white touch on fan",
+   "motion": "float",
+   "pressure": "light",
+   "where": "between two mountains",
+   "rule": "thin paint sticks without messing up",
+   "new": ""
+  },
+  {
+   "t": "08:49",
+   "subject": "mountain",
+   "action": "lay titanium white highlights on mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "small roll on knife edge",
+   "motion": "float",
+   "pressure": "whisper",
+   "where": "right mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:13",
+   "subject": "mountain",
+   "action": "float white breaks across big mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife edge",
+   "motion": "float through",
+   "pressure": "whisper",
+   "where": "big mountain",
+   "rule": "firm paint is needed to get the broken texture",
+   "new": ""
+  },
+  {
+   "t": "09:37",
+   "subject": "mountain",
+   "action": "lay shadow color down the other side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "shadow color on knife",
+   "motion": "zoom down",
+   "pressure": "whisper",
+   "where": "other side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:06",
+   "subject": "mountain",
+   "action": "add bumps and ridges with white",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll of white on knife",
+   "motion": "lay ridge",
+   "pressure": "light",
+   "where": "right side of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:30",
+   "subject": "mountain",
+   "action": "touch shadow color on bumps",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "shadow color on knife",
+   "motion": "touch down",
+   "pressure": "light",
+   "where": "here and there on ridges",
+   "rule": "each projection needs its own shadow",
+   "new": ""
+  },
+  {
+   "t": "10:53",
+   "subject": "mist",
+   "action": "tap mist at base of mountain and lift",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap and lift upward",
+   "pressure": "light",
+   "where": "base of big mountain",
+   "rule": "removes tap marks and blends",
+   "new": ""
+  },
+  {
+   "t": "11:39",
+   "subject": "mountain",
+   "action": "add dark distant mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "knife roll",
+   "motion": "lay and scrape off",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "creates the illusion of distance",
+   "new": ""
+  },
+  {
+   "t": "12:02",
+   "subject": "mountain",
+   "action": "add titanium white highlight to distant mountain",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "roll on knife",
+   "motion": "zoom",
+   "pressure": "whisper",
+   "where": "distant mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:28",
+   "subject": "mountain",
+   "action": "lay shadow shape under a projection",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "shadow color on knife",
+   "motion": "lay shadow",
+   "pressure": "whisper",
+   "where": "right in there",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:52",
+   "subject": "mist",
+   "action": "tap mist and blend at base",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of mountain",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "13:16",
+   "subject": "mountain",
+   "action": "blend a foothill in front of the mountain",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "phthalo blue"
+   ],
+   "load": "shadow color on brush",
+   "motion": "tap and blend",
+   "pressure": "light",
+   "where": "lower, in front of mountain",
+   "rule": "makes the foothill recede and the mountain come forward",
+   "new": ""
+  },
+  {
+   "t": "13:39",
+   "subject": "far trees",
+   "action": "tap lavender far trees with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "phthalo blue",
+    "alizarin crimson",
+    "titanium white"
+   ],
+   "load": "lavender mix on fan",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:14",
+   "subject": "mist",
+   "action": "tap mist at base of far trees",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "base of far trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:28",
+   "subject": "evergreen",
+   "action": "paint dark evergreen with fan",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown",
+    "phthalo green",
+    "sap green"
+   ],
+   "load": "heavy dark mix",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "middle of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:52",
+   "subject": "evergreen",
+   "action": "paint more evergreens with thinned dark mix",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown",
+    "phthalo green",
+    "sap green"
+   ],
+   "load": "dark mix with thinner",
+   "motion": "push gently upward",
+   "pressure": "light",
+   "where": "center and left",
+   "rule": "thinner helps the paint stick over several layers",
+   "new": ""
+  },
+  {
+   "t": "17:40",
+   "subject": "reflection",
+   "action": "pull reflection straight down then across",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull down then across",
+   "pressure": "light",
+   "where": "under evergreens",
+   "rule": "wet canvas makes reflections easy to pull",
+   "new": ""
+  },
+  {
+   "t": "18:06",
+   "subject": "land",
+   "action": "add a dark peninsula base",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown",
+    "phthalo green",
+    "sap green"
+   ],
+   "load": "dark mix on fan",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "right of forest",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:29",
+   "subject": "reflection",
+   "action": "add reflection under the peninsula",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "under peninsula",
+   "rule": "otherwise the peninsula looks like it is floating",
+   "new": ""
+  },
+  {
+   "t": "18:52",
+   "subject": "evergreen",
+   "action": "paint tree on the right with limbs",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "prussian blue",
+    "alizarin crimson",
+    "van dyke brown",
+    "phthalo green",
+    "sap green"
+   ],
+   "load": "dark mix on fan",
+   "motion": "push upward",
+   "pressure": "medium",
+   "where": "right side, runs off canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:41",
+   "subject": "trunk/limbs",
+   "action": "touch in tree trunk indications",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "mixed light brown on brush",
+   "motion": "touch",
+   "pressure": "whisper",
+   "where": "far trees and big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:11",
+   "subject": "leaf tree",
+   "action": "mix yellow into tree color for green highlights",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap on",
+   "pressure": "light",
+   "where": "on the trees",
+   "rule": "the blue in the mix turns it green",
+   "new": ""
+  },
+  {
+   "t": "20:38",
+   "subject": "leaf tree",
+   "action": "add highlights to the trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "push and tap",
+   "pressure": "light",
+   "where": "tree highlights",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "water line",
+   "action": "add water lines with liquid white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "small touch on brush",
+   "motion": "draw lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:26",
+   "subject": "water line",
+   "action": "cut water lines with knife",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "liquid white on knife",
+   "motion": "cut lines",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:57",
+   "subject": "rock",
+   "action": "paint stones with side of filbert in dark and light",
+   "tool": "filbert",
+   "part": "edge",
+   "paint": [
+    "van dyke brown",
+    "dark sienna",
+    "liquid white"
+   ],
+   "load": "thin brown and white mix",
+   "motion": "dab side",
+   "pressure": "light",
+   "where": "scattered in middle",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "water",
+   "action": "paint water around stones with fan",
+   "tool": "fan",
+   "part": "flat",
+   "paint": [
+    "liquid white",
+    "phthalo blue"
+   ],
+   "load": "liquid white with a touch of blue on fan",
+   "motion": "pull through",
+   "pressure": "light",
+   "where": "around stones",
+   "rule": "the stones set down into the water",
+   "new": ""
+  },
+  {
+   "t": "26:38",
+   "subject": "other: signature",
+   "action": "sign the painting",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "sign",
+   "pressure": "light",
+   "where": "bottom right",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

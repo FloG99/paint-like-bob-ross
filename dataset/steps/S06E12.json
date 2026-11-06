@@ -1,0 +1,626 @@
+{
+ "ep": "S06E12",
+ "base": "sap green; thalo blue",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "magic white",
+  "titanium white",
+  "sap green",
+  "thalo blue",
+  "cadmium yellow",
+  "yellow ochre",
+  "indian yellow",
+  "permanent red",
+  "van dyke brown",
+  "burnt umber",
+  "crimson"
+ ],
+ "steps": [
+  {
+   "t": "00:26",
+   "subject": "sky",
+   "action": "start the light area with a little titanium white",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "a little white",
+   "motion": "drop in color and let it go",
+   "pressure": "light",
+   "where": "light source spot",
+   "rule": "we need a light source in the painting",
+   "new": ""
+  },
+  {
+   "t": "00:49",
+   "subject": "sky",
+   "action": "criss-cross x strokes outward from the light area",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "more white for a brighter area",
+   "motion": "small criss-cross strokes blending out",
+   "pressure": "light",
+   "where": "lightest area outward",
+   "rule": "clean the brush each time so dirty color stays out of the light",
+   "new": ""
+  },
+  {
+   "t": "01:44",
+   "subject": "sky",
+   "action": "very light cross strokes for light in the back",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "light strokes across",
+   "pressure": "whisper",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:08",
+   "subject": "far trees",
+   "action": "indications of little trees with the one inch brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "mixed on the brush",
+   "motion": "bounce the brush around",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "just indications since the front covers it",
+   "new": ""
+  },
+  {
+   "t": "02:53",
+   "subject": "far trees",
+   "action": "touch in yellow ochre with a little thalo blue",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "thalo blue"
+   ],
+   "load": "",
+   "motion": "touch and dab",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "a different shade of green",
+   "new": ""
+  },
+  {
+   "t": "03:17",
+   "subject": "far trees",
+   "action": "highlight with indian yellow and cadmium yellow dabs",
+   "tool": "1in",
+   "part": "corner",
+   "paint": [
+    "indian yellow",
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "just touching",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "04:07",
+   "subject": "far trees",
+   "action": "darker indications on the far sides",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "little indications",
+   "pressure": "light",
+   "where": "far sides",
+   "rule": "less color as it moves away from the light source",
+   "new": ""
+  },
+  {
+   "t": "04:29",
+   "subject": "trunk/limbs",
+   "action": "knife indications of tree trunks in brown and white",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "van dyke brown",
+    "burnt umber",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "cut in trunks",
+   "pressure": "light",
+   "where": "back, here and there",
+   "rule": "this is background so it can stay loose",
+   "new": ""
+  },
+  {
+   "t": "05:41",
+   "subject": "bush",
+   "action": "soft bushes with the big brush in layered greens and browns",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "van dyke brown",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "corner touches",
+   "pressure": "light",
+   "where": "back area",
+   "rule": "the brown dulls the mix",
+   "new": ""
+  },
+  {
+   "t": "06:03",
+   "subject": "bush",
+   "action": "small bush with the corner of the big brush",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "indian yellow"
+   ],
+   "load": "",
+   "motion": "let them play back and forth",
+   "pressure": "light",
+   "where": "back of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:28",
+   "subject": "bush",
+   "action": "darker green and yellow bushes on the far side",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "layer them darker over here",
+   "pressure": "light",
+   "where": "far side",
+   "rule": "kept darker because it is far from the light",
+   "new": ""
+  },
+  {
+   "t": "07:02",
+   "subject": "bush",
+   "action": "permanent red, small quantity",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "permanent red"
+   ],
+   "load": "",
+   "motion": "dab in small amounts",
+   "pressure": "light",
+   "where": "bushes in back",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:17",
+   "subject": "reflection",
+   "action": "pull titanium white straight down for water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "white over the greens and yellows",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "08:46",
+   "subject": "reflection",
+   "action": "keep the reflection strokes straight down",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "an angled stroke will not look like a reflection",
+   "new": ""
+  },
+  {
+   "t": "09:07",
+   "subject": "reflection",
+   "action": "lightly go straight across the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "straight across",
+   "pressure": "whisper",
+   "where": "water area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "09:33",
+   "subject": "land",
+   "action": "cadmium yellow peninsula down to the water",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "pull down",
+   "pressure": "light",
+   "where": "water edge",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:03",
+   "subject": "land",
+   "action": "dirt areas following the lay of the land",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "strokes follow the slope",
+   "pressure": "firm",
+   "where": "land area",
+   "rule": "water lies in the low ground not on top of the hill",
+   "new": ""
+  },
+  {
+   "t": "10:58",
+   "subject": "land",
+   "action": "highlight the dirt with yellow ochre and white",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "titanium white",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "on the dirt",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "12:46",
+   "subject": "grass",
+   "action": "add grass with the big brush after thinning",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "dab grass upward",
+   "pressure": "light",
+   "where": "around the dirt",
+   "rule": "makes the area look more real",
+   "new": ""
+  },
+  {
+   "t": "13:35",
+   "subject": "water line",
+   "action": "cut thin water lines with the knife",
+   "tool": "knife",
+   "part": "roll",
+   "paint": [
+    "magic white",
+    "thalo blue"
+   ],
+   "load": "",
+   "motion": "cut water lines in",
+   "pressure": "light",
+   "where": "water area",
+   "rule": "thin paint slides off the knife for clean lines",
+   "new": ""
+  },
+  {
+   "t": "14:54",
+   "subject": "trunk/limbs",
+   "action": "dead tree in van dyke brown",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "brown",
+   "motion": "pull the dead tree shape",
+   "pressure": "firm",
+   "where": "tree spot",
+   "rule": "dead trees are easy to see against the black",
+   "new": ""
+  },
+  {
+   "t": "16:33",
+   "subject": "trunk/limbs",
+   "action": "knife highlight on one edge of the dead tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "permanent red",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop along the edge",
+   "pressure": "light",
+   "where": "one edge of dead tree",
+   "rule": "helps it stand out and gives it form",
+   "new": ""
+  },
+  {
+   "t": "16:58",
+   "subject": "trunk/limbs",
+   "action": "bluish hint on the other side of the dead tree",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "thalo blue",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch on the other side",
+   "pressure": "light",
+   "where": "other side of dead tree",
+   "rule": "reflected light gives it character",
+   "new": ""
+  },
+  {
+   "t": "17:24",
+   "subject": "other: moss",
+   "action": "hang thin moss with the fan brush and paint thinner",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "touch and pull",
+   "pressure": "whisper",
+   "where": "tree areas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:56",
+   "subject": "bush",
+   "action": "big bush in the foreground with the big brush",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "crimson"
+   ],
+   "load": "",
+   "motion": "drop in",
+   "pressure": "firm",
+   "where": "foreground",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:20",
+   "subject": "trunk/limbs",
+   "action": "big tree with branches sticking out on one side",
+   "tool": "2in",
+   "part": "flat",
+   "paint": [
+    "sap green",
+    "van dyke brown",
+    "crimson"
+   ],
+   "load": "",
+   "motion": "drop in branches",
+   "pressure": "firm",
+   "where": "foreground side",
+   "rule": "closes up that side and helps the composition",
+   "new": ""
+  },
+  {
+   "t": "20:06",
+   "subject": "grass",
+   "action": "little weeds with the liner in thin brown",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "lift and pop the weeds",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:59",
+   "subject": "other: moss",
+   "action": "hanging moss lines on the back trees",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "short hanging lines",
+   "pressure": "light",
+   "where": "back trees",
+   "rule": "keeps the back trees from looking bare",
+   "new": ""
+  },
+  {
+   "t": "21:23",
+   "subject": "bush",
+   "action": "highlight the bushes with cadmium yellow, sap green, indian yellow and yellow ochre",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow",
+    "sap green",
+    "indian yellow",
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "drop highlights in",
+   "pressure": "light",
+   "where": "bushes",
+   "rule": "layering one bush at a time creates depth",
+   "new": ""
+  },
+  {
+   "t": "21:46",
+   "subject": "trunk/limbs",
+   "action": "highlights on the top limb with the corner of the brush",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [],
+   "load": "",
+   "motion": "barely touch",
+   "pressure": "whisper",
+   "where": "top limb",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:32",
+   "subject": "land",
+   "action": "brown dirt across the bottom",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "go across and let it break",
+   "pressure": "light",
+   "where": "bottom area",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "22:54",
+   "subject": "bush",
+   "action": "bring bushes down into the dirt",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "pull bushes down into the dirt",
+   "pressure": "light",
+   "where": "bottom edge",
+   "rule": "otherwise the dirt just floats there",
+   "new": ""
+  },
+  {
+   "t": "23:16",
+   "subject": "bush",
+   "action": "bushes with thinned ocher using the one inch brush",
+   "tool": "1in",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "push upward and tap down",
+   "pressure": "light",
+   "where": "various spots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:44",
+   "subject": "trunk/limbs",
+   "action": "knife point sticks and twigs through the paint",
+   "tool": "knife",
+   "part": "tip",
+   "paint": [],
+   "load": "",
+   "motion": "cut through to show the black",
+   "pressure": "firm",
+   "where": "bushes",
+   "rule": "makes it look like sticks",
+   "new": ""
+  },
+  {
+   "t": "24:08",
+   "subject": "trunk/limbs",
+   "action": "big tree with a limb in brown and burnt umber",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "burnt umber"
+   ],
+   "load": "",
+   "motion": "draw trunk and limb",
+   "pressure": "firm",
+   "where": "tree spot",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "24:31",
+   "subject": "trunk/limbs",
+   "action": "tap a white highlight on the tree side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "tap",
+   "pressure": "light",
+   "where": "side of tree",
+   "rule": "just enough to make it stand out",
+   "new": ""
+  },
+  {
+   "t": "24:59",
+   "subject": "bush",
+   "action": "quick cadmium yellow indications of leaves",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "cadmium yellow"
+   ],
+   "load": "",
+   "motion": "bounce the brush around",
+   "pressure": "light",
+   "where": "bushy area",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}

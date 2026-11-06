@@ -1,0 +1,642 @@
+{
+ "ep": "S11E11",
+ "base": "liquid clear tinted with a little indian yellow over the canvas",
+ "format": "unknown",
+ "light": "unknown",
+ "guest": false,
+ "palette": [
+  "liquid clear",
+  "indian yellow",
+  "dark sienna",
+  "titanium white",
+  "yellow ochre",
+  "cad yellow",
+  "liquid white"
+ ],
+ "steps": [
+  {
+   "t": "00:02",
+   "subject": "other: base coat",
+   "action": "scrub liquid clear with indian yellow over canvas",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "liquid clear",
+    "indian yellow"
+   ],
+   "load": "tiny amount of indian yellow",
+   "motion": "scrub then long horizontal and vertical strokes",
+   "pressure": "unknown",
+   "where": "whole canvas",
+   "rule": "liquid clear goes a long way so use very little",
+   "new": ""
+  },
+  {
+   "t": "01:55",
+   "subject": "sky",
+   "action": "mix dark sienna and van dyke for sky patterns",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "mixed on brush",
+   "motion": "little pattern strokes",
+   "pressure": "unknown",
+   "where": "sky, wherever you like",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "02:33",
+   "subject": "sun/glow",
+   "action": "add titanium white bright spot in sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "small bright spot",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "sky, center",
+   "new": ""
+  },
+  {
+   "t": "03:51",
+   "subject": "sky",
+   "action": "add van dyke streaks in far sky",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "little streaks",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "sky far area",
+   "new": "you need dark to show light"
+  },
+  {
+   "t": "04:31",
+   "subject": "sky",
+   "action": "blend sky out with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "follow angles and blend out",
+   "pressure": "light",
+   "where": "sky",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "05:14",
+   "subject": "mountain",
+   "action": "touch and pull down a far foothill",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "touch and pull down, snap bristles",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "back, far",
+   "new": "far away so it should be almost the sky color"
+  },
+  {
+   "t": "05:51",
+   "subject": "mountain",
+   "action": "soften foothill with clean dry brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "tap base then pull upward",
+   "pressure": "light",
+   "where": "foothill base",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:28",
+   "subject": "grass",
+   "action": "fan grass tops with upward push",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "load quite full",
+   "motion": "touch and push upward",
+   "pressure": "unknown",
+   "where": "foreground grass",
+   "rule": "straight strokes bend wrong so use side or corner",
+   "new": ""
+  },
+  {
+   "t": "07:45",
+   "subject": "evergreen",
+   "action": "paint evergreen with center line and upward pushes",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "upward pushes",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "back of canvas",
+   "new": "upward pushes make the branches bounce up"
+  },
+  {
+   "t": "08:23",
+   "subject": "bush",
+   "action": "dab small bushes and far trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "dab",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "middle distance",
+   "new": ""
+  },
+  {
+   "t": "08:59",
+   "subject": "trunk/limbs",
+   "action": "paint dead trees and sticks with thinned brush point",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "brush point drops in sticks",
+   "pressure": "unknown",
+   "where": "middle and back",
+   "rule": "nature has dead trees so include some",
+   "new": ""
+  },
+  {
+   "t": "09:36",
+   "subject": "reflection",
+   "action": "pull color straight down with dry brush",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "little paint",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "under trees",
+   "rule": "brush must be dry because liquid clear and thinner react",
+   "new": ""
+  },
+  {
+   "t": "10:13",
+   "subject": "reflection",
+   "action": "lightly go across reflections",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "very light sweep across",
+   "pressure": "light",
+   "where": "reflections",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "10:51",
+   "subject": "snow",
+   "action": "paint snow banks with brown pulled in",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "loaded full",
+   "motion": "pull and drop snow banks",
+   "pressure": "unknown",
+   "where": "back, snow banks",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "11:30",
+   "subject": "snow",
+   "action": "cut snow edge across with knife",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "pull out flat and cut across",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "snow edge",
+   "new": ""
+  },
+  {
+   "t": "12:09",
+   "subject": "snow",
+   "action": "push knife edge into snow",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "firm",
+   "where": "firm",
+   "rule": "snow edge",
+   "new": "cleans up the edges and brings it together"
+  },
+  {
+   "t": "12:48",
+   "subject": "structure",
+   "action": "pull roof of small cabin with knife roll",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "pull roll of paint for cabin roof",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "far back, cabin",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "structure",
+   "action": "add cabin sides and front",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "brush in sides and front",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "cabin",
+   "new": ""
+  },
+  {
+   "t": "14:05",
+   "subject": "structure",
+   "action": "dab boards and sticks on cabin",
+   "tool": "small knife",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "dark sienna"
+   ],
+   "load": "little dark sienna mixed in",
+   "motion": "dab boards and sticks",
+   "pressure": "unknown",
+   "where": "cabin",
+   "rule": "cabin is far so little detail shows",
+   "new": ""
+  },
+  {
+   "t": "14:44",
+   "subject": "structure",
+   "action": "crop cabin and add snow and doorway",
+   "tool": "small knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "zip off edge, drop snow, cut doorway",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "cabin",
+   "new": ""
+  },
+  {
+   "t": "15:23",
+   "subject": "far trees",
+   "action": "push dark sienna and van dyke for trees",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "mixed on brush",
+   "motion": "push color on",
+   "pressure": "firm",
+   "where": "left side of canvas",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "16:05",
+   "subject": "reflection",
+   "action": "pull color down for reflections with big brush",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull straight down",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "under trees",
+   "new": ""
+  },
+  {
+   "t": "16:43",
+   "subject": "evergreen",
+   "action": "fan evergreen trunk with corner pushes",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "load quite full",
+   "motion": "corner upward push, more pressure lower down",
+   "pressure": "firm",
+   "where": "evergreen trunk",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:20",
+   "subject": "trunk/limbs",
+   "action": "add trunk and little arms",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "unknown",
+   "rule": "tree trunk",
+   "new": ""
+  },
+  {
+   "t": "18:01",
+   "subject": "evergreen",
+   "action": "block in second tree top",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "tree top shape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "right tree",
+   "new": ""
+  },
+  {
+   "t": "18:37",
+   "subject": "evergreen",
+   "action": "dab yellow ochre highlight on trees",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "touch into yellow ochre",
+   "motion": "back and forth dab",
+   "pressure": "light",
+   "where": "tree edges",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:56",
+   "subject": "bush",
+   "action": "bushes with fan corner in yellow ochre and cad yellow",
+   "tool": "fan",
+   "part": "corner",
+   "paint": [
+    "yellow ochre",
+    "cad yellow"
+   ],
+   "load": "mixed on brush",
+   "motion": "corner upward push",
+   "pressure": "unknown",
+   "where": "snow bank, grass",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "20:34",
+   "subject": "snow",
+   "action": "layer snow bank in front with dark shadow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "dark from palette",
+   "motion": "drop in snow bank",
+   "pressure": "unknown",
+   "where": "front of trees",
+   "rule": "dark ends up as shadows under snow",
+   "new": ""
+  },
+  {
+   "t": "21:14",
+   "subject": "snow",
+   "action": "add snow projection with shadow edge",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "drop projection",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "snow bank",
+   "new": ""
+  },
+  {
+   "t": "21:54",
+   "subject": "snow",
+   "action": "soften snow edges with yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "bring down into snow",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "snow edges",
+   "new": "breaks up the harsh edges"
+  },
+  {
+   "t": "22:31",
+   "subject": "snow",
+   "action": "pull darker color to make snow other side",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "pull out like so",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "other side snow",
+   "new": ""
+  },
+  {
+   "t": "23:10",
+   "subject": "land",
+   "action": "scrub brown ledge under snow",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown"
+   ],
+   "load": "",
+   "motion": "scrub and blend up",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "under snow",
+   "new": ""
+  },
+  {
+   "t": "23:10",
+   "subject": "water line",
+   "action": "add liquid white water line",
+   "tool": "knife",
+   "part": "flat",
+   "paint": [
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "cut across",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "middle, water",
+   "new": ""
+  },
+  {
+   "t": "23:50",
+   "subject": "bush",
+   "action": "bushes at water edge with yellow ochre",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "",
+   "motion": "bring down",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "water edge",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "evergreen",
+   "action": "tree beside others",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "van dyke brown",
+    "dark sienna"
+   ],
+   "load": "",
+   "motion": "push tree shape",
+   "pressure": "unknown",
+   "where": "unknown",
+   "rule": "right side",
+   "new": ""
+  },
+  {
+   "t": "24:29",
+   "subject": "evergreen",
+   "action": "knife highlight along tree side",
+   "tool": "knife",
+   "part": "edge",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "",
+   "motion": "",
+   "pressure": "light",
+   "where": "light",
+   "rule": "tree side",
+   "new": ""
+  },
+  {
+   "t": "25:10",
+   "subject": "trunk/limbs",
+   "action": "thinned limbs with liner",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "van dyke brown"
+   ],
+   "load": "thinned with paint thinner",
+   "motion": "touch in limbs",
+   "pressure": "light",
+   "where": "trees",
+   "rule": "thick paint will not flow so thin it",
+   "new": ""
+  },
+  {
+   "t": "25:47",
+   "subject": "snow",
+   "action": "dab white snow highlights on trees",
+   "tool": "liner",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "liquid white"
+   ],
+   "load": "",
+   "motion": "dab white dots",
+   "pressure": "unknown",
+   "where": "light",
+   "rule": "trees",
+   "new": "looks like snow resting on the branches"
+  }
+ ],
+ "rules": []
+}

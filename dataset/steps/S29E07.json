@@ -1,0 +1,364 @@
+{
+ "ep": "S29E07",
+ "base": "gray gesso with black gesso sponged in",
+ "format": "unknown",
+ "light": "from above",
+ "guest": false,
+ "palette": [
+  "yellow ochre",
+  "alizarin crimson",
+  "sap green",
+  "cad yellow",
+  "indian yellow",
+  "midnight black",
+  "bright red",
+  "vandyke brown",
+  "dark sienna",
+  "titanium white"
+ ],
+ "steps": [
+  {
+   "t": "01:13",
+   "subject": "other: background wash",
+   "action": "crisscross yellow ochre across the canvas",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "yellow ochre"
+   ],
+   "load": "small amount of yellow ochre",
+   "motion": "crisscross strokes",
+   "pressure": "light",
+   "where": "whole canvas",
+   "rule": "clear makes the canvas slick so color moves",
+   "new": ""
+  },
+  {
+   "t": "03:12",
+   "subject": "land",
+   "action": "warm brown blended up from the bottom",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "alizarin crimson",
+    "sap green"
+   ],
+   "load": "crimson and green mixed to a warm brown",
+   "motion": "work upward from the bottom and blend",
+   "pressure": "light",
+   "where": "bottom half, blends into the yellow",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "06:46",
+   "subject": "evergreen",
+   "action": "leaves on big cypress tree",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "midnight black"
+   ],
+   "load": "greens and yellows mixed, black tapped in",
+   "motion": "dab leaves from the corner of the brush",
+   "pressure": "light",
+   "where": "up top, big cypress",
+   "rule": "black makes the green darker",
+   "new": ""
+  },
+  {
+   "t": "08:20",
+   "subject": "evergreen",
+   "action": "darker leaves down low",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "midnight black"
+   ],
+   "load": "more black added to the green",
+   "motion": "dab darker leaves downward",
+   "pressure": "light",
+   "where": "bottom of the tree",
+   "rule": "deep shadows sit down low",
+   "new": ""
+  },
+  {
+   "t": "09:12",
+   "subject": "bush",
+   "action": "little bushes one at a time",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "sap green",
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow",
+    "midnight black"
+   ],
+   "load": "green mix from before",
+   "motion": "dab one bush at a time",
+   "pressure": "light",
+   "where": "out in the water",
+   "rule": "one bush at a time keeps shape and form",
+   "new": ""
+  },
+  {
+   "t": "09:38",
+   "subject": "bush",
+   "action": "touch of bright red in bushes",
+   "tool": "2in",
+   "part": "corner",
+   "paint": [
+    "bright red"
+   ],
+   "load": "touch of red on brush",
+   "motion": "dab a few spots",
+   "pressure": "light",
+   "where": "a few bushes",
+   "rule": "red changes the flavor of the green",
+   "new": ""
+  },
+  {
+   "t": "11:42",
+   "subject": "evergreen",
+   "action": "thick brown cypress trunk",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "lots of brown mixed on the brush",
+   "motion": "swoosh the trunk shape through",
+   "pressure": "medium",
+   "where": "right side, big cypress",
+   "rule": "thick paint picks up highlights later",
+   "new": ""
+  },
+  {
+   "t": "13:27",
+   "subject": "evergreen",
+   "action": "cypress bases and young ones",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "same thick brown mix",
+   "motion": "stroke up from the roots",
+   "pressure": "medium",
+   "where": "bottom, from the roots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "14:17",
+   "subject": "water",
+   "action": "pull white straight down for water",
+   "tool": "2in",
+   "part": "unknown",
+   "paint": [
+    "titanium white"
+   ],
+   "load": "very small amount of white on brush",
+   "motion": "pull straight down then lightly across",
+   "pressure": "light",
+   "where": "a little water around here",
+   "rule": "white is opaque so use little to keep it clear",
+   "new": ""
+  },
+  {
+   "t": "15:08",
+   "subject": "other: cypress knees",
+   "action": "dab knee shapes by the roots",
+   "tool": "filbert",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "dark sienna"
+   ],
+   "load": "brown on the filbert",
+   "motion": "dab knee shapes",
+   "pressure": "medium",
+   "where": "by the tree roots",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "15:56",
+   "subject": "evergreen",
+   "action": "highlight high spots on the tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "vandyke brown",
+    "titanium white"
+   ],
+   "load": "brown and white mixed on brush",
+   "motion": "barely touch high spots and let paint pull off",
+   "pressure": "whisper",
+   "where": "high spots on the tree and nearby cypress",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "17:07",
+   "subject": "trunk/limbs",
+   "action": "thin hanging limbs on big cypress",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "vandyke brown"
+   ],
+   "load": "thin brown mix to the consistency of ink",
+   "motion": "loose flowing strokes for limbs",
+   "pressure": "light",
+   "where": "big cypress, hanging",
+   "rule": "a liner has long bristles so it holds lots of thin paint",
+   "new": ""
+  },
+  {
+   "t": "18:20",
+   "subject": "trunk/limbs",
+   "action": "old sticks and twigs",
+   "tool": "liner",
+   "part": "tip",
+   "paint": [
+    "vandyke brown"
+   ],
+   "load": "same thin brown on liner",
+   "motion": "thin sticks and twigs",
+   "pressure": "light",
+   "where": "scattered in the trees",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "18:46",
+   "subject": "other: cypress knees",
+   "action": "highlight knees on one side",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [],
+   "load": "",
+   "motion": "highlight the knees",
+   "pressure": "light",
+   "where": "one side of the knees",
+   "rule": "light comes from above so highlight this side",
+   "new": ""
+  },
+  {
+   "t": "19:08",
+   "subject": "evergreen",
+   "action": "green patches on old cypress",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "black and sap green pushed together on brush",
+   "motion": "push green areas on the arm",
+   "pressure": "light",
+   "where": "upper cypress arm",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "19:57",
+   "subject": "evergreen",
+   "action": "yellow leaves on top of cypress",
+   "tool": "unknown",
+   "part": "corner",
+   "paint": [
+    "cad yellow",
+    "yellow ochre",
+    "indian yellow"
+   ],
+   "load": "roll of yellow on the end of the brush",
+   "motion": "dab a few leaves with the corner",
+   "pressure": "light",
+   "where": "up top of the big cypress",
+   "rule": "leave dark spots so there are shadows",
+   "new": ""
+  },
+  {
+   "t": "21:09",
+   "subject": "other: spanish moss",
+   "action": "hang gray moss strands",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "titanium white",
+    "midnight black"
+   ],
+   "load": "thinned gray mix with white and black",
+   "motion": "tap moss strands hanging down",
+   "pressure": "light",
+   "where": "up in the cypress, hanging",
+   "rule": "thin paint slides over the tree easily",
+   "new": ""
+  },
+  {
+   "t": "22:47",
+   "subject": "grass",
+   "action": "grassy things growing in the water",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "sap green",
+    "cad yellow"
+   ],
+   "load": "green and yellow on brush",
+   "motion": "touch in little grass",
+   "pressure": "light",
+   "where": "down through the middle, in the water",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:11",
+   "subject": "grass",
+   "action": "grass at base of the cypress",
+   "tool": "fan",
+   "part": "unknown",
+   "paint": [
+    "midnight black",
+    "sap green"
+   ],
+   "load": "black and sap green on fan brush",
+   "motion": "quick dabs",
+   "pressure": "light",
+   "where": "base of the big tree",
+   "rule": "",
+   "new": ""
+  },
+  {
+   "t": "23:36",
+   "subject": "land",
+   "action": "soil at base of tree",
+   "tool": "unknown",
+   "part": "unknown",
+   "paint": [
+    "dark sienna",
+    "titanium white"
+   ],
+   "load": "dark sienna and white mixed",
+   "motion": "dab small soil",
+   "pressure": "light",
+   "where": "base of the big tree",
+   "rule": "",
+   "new": ""
+  }
+ ],
+ "rules": []
+}
