@@ -73,17 +73,16 @@ Then ask, for example:
 | `METHOD.md` | sources, how it was made, how accurate it is, and its limits |
 
 ## How it was made
-1. **Extraction:** every step of every episode is extracted from the captions and checked
-   automatically: each timestamp must exist in that episode, the steps must run in order, and the
-   episode must be complete.
-2. **Deep study:** 16 episodes are studied against the video, frame by frame, for what the
-   narration leaves out: angles, positions, pressure.
-3. **Synthesis:** the cards are written from both and every rule is tested against the full dataset.
+The whole series was analyzed, not a sample: every regular episode with captions, 379 in total.
+- **Every episode, step by step:** each painting was broken down into its steps (what is painted,
+  with which tool, paint and motion), about 13,000 steps, each checked against its own episode.
+- **The details the words leave out:** a selection of episodes was also studied frame by frame,
+  for angles, positions and pressure.
+- **Rules tested across the series:** every rule in the reference is checked and counted against
+  all episodes, so you can see how often it is actually used.
 
-Language models did the extraction and drafting; their output was checked by code and by hand.
-In a hand-checked audit against the frame-checked studies, the extraction invented no steps,
-found 94% of the real ones, and 13.6% of steps had a wrong label. Details and limitations are in
-`METHOD.md`.
+Language models assisted with the extraction and drafting; everything was checked by code and by
+hand. Methods, measured accuracy and limitations are in `METHOD.md`.
 
 ## Coverage
 - **Dataset:** 379 of the 381 regular episodes (the other 2 have no captions), plus 3 guest episodes
